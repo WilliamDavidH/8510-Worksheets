@@ -9,7 +9,7 @@ if (bengals > bills) {
   print("There was a tie")
 }
 
-presidents <- c("Wahington", "Jefferson, "Adams")
+presidents <- c("Wahington", "Jefferson", "Adams")
 
 for (m in presidents) {
   print(m)

@@ -1,9 +1,9 @@
 ---
-title: 'Worksheet 1: R Basics'
+  title: 'Worksheet 1: R Basics'
 author: "Will Hiott-DRAFT."
 date: "1.31.2024"
 ---
-_This is the first in a series of worksheets for History 8510 at Clemson University. The goal of these worksheets is simple: practice, practice, practice. The worksheet introduces concepts and techniques and includes prompts for you to practice in this interactive document. When you are finished, you should change the author name (above), knit your document to a pdf, and upload it to canvas._
+  _This is the first in a series of worksheets for History 8510 at Clemson University. The goal of these worksheets is simple: practice, practice, practice. The worksheet introduces concepts and techniques and includes prompts for you to practice in this interactive document. When you are finished, you should change the author name (above), knit your document to a pdf, and upload it to canvas._
 
 ## What is R? 
 To start let's define what exactly R is. R is a language and environment for statistical computing and graphics. R provides a variety of statistical and graphical techniques and its very extensible which makes it an ideal language for historians.  
@@ -53,8 +53,8 @@ The next type of value is a **string**. Strings are lines of text. Sometimes the
 ```
 
 You can't add strings using `+` like you can numbers. But there is a function called `paste()` which concatenates character vectors into one. This function is _very_ useful and one you'll use a lot in a variety of circumstances. Here's what that looks like: 
-
-```{r}
+  
+  ```{r}
 paste("Hello", "Clemson Graduate Students")
 ```
 
@@ -64,8 +64,8 @@ paste("Hello", "Y'all")
 ```
 
 (@) Can you explain what happened in 2-3 sentences? 
-
-> Combined two statements and strung them together. Also removed quotation marks.
+  
+  > Combined two statements and strung them together. Also removed quotation marks.
 
 The last type are **logical** values like `TRUE` and `FALSE`. (Note that these are all caps.)
 
@@ -78,12 +78,12 @@ FALSE
 ```
 
 These logical values are really useful for testing a statement and comparing values to each other. For example: 
-```{r}
+  ```{r}
 3 < 4
 ```
 3 is indeed less than 4 so the return value is `TRUE`. Here are a few more examples:
-
-R also has relational operators and logical operators. Relational operators test how one object relates to another. We've been using some of these above. 
+  
+  R also has relational operators and logical operators. Relational operators test how one object relates to another. We've been using some of these above. 
 
 * Equality `==`
 * Inequality `!=`
@@ -171,7 +171,7 @@ R can also handle more complex equations.
 ```
 
 And we could store the output of a calculation in a new variable:
-```{r}
+  ```{r}
 My.Calculation <- (x + x)*10
 ```
 
@@ -183,19 +183,19 @@ x + y
 ```
 
 (@) Can you take `x` and `y` and multiply the result by 5? 
-```{r}
+  ```{r}
 (x + y) * 5
 ```
 
 (@) Try creating two variables with names other than `x ` and `y`. Descriptive names tend to be more useful. Can you multiply the contents of your variables? 
-```{r}
+  ```{r}
 Hardin <- 50
 Hall <-50
 Hardin * Hall
 ```
 
 (@) Try creating two variables that store strings. Can you concatenate those two variables together? 
-```{r}
+  ```{r}
 Tillman <- 2 + 2
 Chapel <- 9 - 1
 Tillman * Chapel
@@ -284,14 +284,14 @@ We can ask R to pull up the documentation like this:
 In real life, you typically you wouldn't want to store this code in your script file. You probably don't need to pull up the documentation for the function every time you run that piece of code. But for the purposes of this worksheet we're adding it to our `.Rmd` document. 
 
 (@) Use the console to find the documentation for `floor()`? Try it and then tell me, what does that function do? 
-
->floor takes a single numeric argument x and returns a numeric vector containing the largest integers not greater than the corresponding elements of x. 
+  
+  >floor takes a single numeric argument x and returns a numeric vector containing the largest integers not greater than the corresponding elements of x. 
 
 ### Data Frames & Packages
 
 R is the language of choice for most data scientists and that is because of its powerful suite of data analysis tools. Some are built into R, like `floor()` which we looked at above. But others come from packages that you have to install. Most programming languages have some sort of package system although every language calls it a slightly different thing. Ruby has gems, python has eggs, and php has libraries. In R these are called packages or libraries and they are hosted by the Comprehensive R Archive Network or more commonly, CRAN. CRAN is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R. You didn't know it but you already used CRAN when you looked up the documentation for `floor()` above. If you go to the CRAN webpage and look at the [list of available R packages](https://cran.r-project.org/web/packages/available_packages_by_name.html) you'll see just how many there are!
-
-So there are many packages but there are also some that are indispensable. You'll use some packages over and over for this class. We'll get into some of those in the next two worksheets but for now lets look at one basic package for data. 
+  
+  So there are many packages but there are also some that are indispensable. You'll use some packages over and over for this class. We'll get into some of those in the next two worksheets but for now lets look at one basic package for data. 
 
 Lets start with the `tibble()` package which allows you to create and work with **data frames**. What is a data frame? Think of it as a spreadsheet. Each column can contain data - including numbers, strings, and logical values. 
 
@@ -347,8 +347,8 @@ What kind of datasets are available in this package? We can use the help documen
 Run `help(package="DigitalMethodsData")` in your console to pull up a list of datasets included in this package. 
 
 For demonstration purposes we'll use the `gayguides` data here. Pull up the help documentation for this dataset. What does the documentation tell you abou the scope of this dataset? 
-
->The scope from the documentation listes it as one data frame with 14 variable and some 60698 observations.
+  
+  >The scope from the documentation listes it as one data frame with 14 variable and some 60698 observations.
 gayguides {DigitalMethodsData}	R Documentation
 Bob Damron's Address Books
 Description
@@ -412,15 +412,15 @@ gayguides$title[500]
 gayguides$Year[1]
 ```
 Seens like this should be earlier???
-
-(@) How about the latest year? 
-```{r}
+  
+  (@) How about the latest year? 
+  ```{r}
 gayguides$Year[500]
 ```
 Was the last year 1983?
-Maybe I am just getting line?
-
-(@) Add another dataset from `DigitalMethodsData`. How many observations are included in this dataset? Run through some of the examples from above to learn about the dataset.
+  Maybe I am just getting line?
+  
+  (@) Add another dataset from `DigitalMethodsData`. How many observations are included in this dataset? Run through some of the examples from above to learn about the dataset.
 ```{r}
 data(judges)
 head(judges)
@@ -430,8 +430,8 @@ head(judges$title)
 ```
 
 (@) What did you learn about the dataset? What can you tell me about it? 
-
->List names, birth date, state, gender, race
+  
+  >List names, birth date, state, gender, race
 Court type, name, title, president, party, 
 All official type information
 However, unless I missed it, does not list religion or marital status, more personal matters, but influential in casting votes, perhaps from a legal historian perspective.
@@ -440,4 +440,5 @@ However, unless I missed it, does not list religion or marital status, more pers
 
 
 CONGRATS! You've completed your first worksheet for Digital Methods II. That wasn't so bad, right? 
-
+  
+  
