@@ -1,5 +1,6 @@
 ---
 title: "Worksheet 2: Data Structures"
+name: Will Hiott February 7th 
 format: html
 ---
 
@@ -24,15 +25,23 @@ x <- c(15.4, 25, 2, 8.35, 5, 383, 10.2)
 ```
 
 If you type `x` into your console, you will see that all of the values are printed out and preceded by a `[1]`. What the `[1]` refers to is that first number, 15.4. Its position in the list is 1. Each number in our list has an index number and that is how you retrieve specific positions in this vector. 
+> x <- c(15.4, 25, 2, 8.35, 5, 383, 10.2)
+> x
+[1]  15.40  25.00   2.00   8.35   5.00 383.00  10.20
 
 For example, we can use a positive integer to return elements at specific positions. Lets grab the value in the 3rd and 5th position.
 ```{r}
 x[c(3,5)]
 ```
+> x[c(3,5)]
+[1] 2 5
+
 We can also use functions to manipulate our vector. Here we use `order()` to print the values contained in the vector in order. 
 ```{r}
 x[order(x)]
 ```
+> x[order(x)]
+[1]   2.00   5.00   8.35  10.20  15.40  25.00 383.00
 
 Duplicate indices will return duplicate values. 
 ```{r}
@@ -40,22 +49,29 @@ x[c(3,3)]
 ```
 (@) Create your own vector and return three values using the subsetting method above. 
 ```{r}
-
+y <- c(5.4, 2, 5, 35, 5.2, 83, 10)
+y[c(1,7)]
+y[c(6,6)]
 ```
-
+> y <- c(5.4, 2, 5, 35, 5.2, 83, 10)
 
 Negative integers allow us to exclude values at certain positions. 
 ```{r}
 x[-c(3, 1)]
 ```
+x <- c(15.4, 25, 2, 8.35, 5, 383, 10.2)
+[1]   2.00   5.00   8.35  10.20  15.40  25.00 383.00
 
 (@) What happened here? Describe this in your own words. 
 
+The operation omitted the numbers 2.00 & 15.40 at the 1st and 3rd positions in the original order string.
 >
 
 You can use either positive or negative integers to subset a vector but you **cannot mix the two**.
+CANNOT MIX THE TWO!
 
 We can assign logical values to each value in a vector and use those to subset the data. Logical vectors select elements where the corresponding logical value is `TRUE`. Remember, we created a vector earlier and assigned it to x. Now, below, we assign logical values to each of the values in that vector. We're doing this by hand here, but you can imagine a scenario down the road where you use this technique to apply `TRUE` or `FALSE` values to a huge dataset dependent on some principal. When we run this, only the `TRUE` values are printed out. 
+
 ```{r}
 #create a vector 
 x[c(TRUE, FALSE, TRUE, TRUE, FALSE)]
@@ -68,7 +84,8 @@ x[x > 7]
 
 (@) What is going on in each of the lines above? Describe it in your own words. 
 
->
+>In the 1st string, it would appear that it is printing statements based on the earlier opperation of 
+#In the 2nd string, only amounts greater than 7 were printed. So 2 and 5 are omitted.
 
 Nothing returns the original vector. This isn't that useful here but can come in handy when you have more complex structures like matrices and arrays. 
 ```{r}
@@ -77,10 +94,17 @@ x[]
 
 If your vector is named, you can also use character vectors to return elements with matching names. 
 ```{r}
+```
+
+
+```{r}
 (y <- setNames(x, letters[1:4]))
 y[c("d")]
 ```
-(@) What happened here? Explain this in your own words. 
+(@) What happened here? Explain this in your own words.
+
+#In my words, opperation controled for a list of 1 thru 4.
+And then printed the 4th column of d at 8.35
 
 #### Matrices
 
@@ -97,13 +121,17 @@ In the `matrix()` function:
 
 (@) You try now, create a matrix that had five rows with numbers that range from 25 to 49. 
 ```{r}
-
+matrix(1:25, byrow = TRUE, nrow = 5)
 ```
 
 (@) Can you create a matrix that has 3 rows with only even numbers from 2 to 18? 
 ```{r}
-
+matrix(2:18, byrow = FALSE, nrow = 5)
 ```
+#####
+
+***I know this is WRONG! 
+#Come back to it WDH later!!!.
 
 ##### Subsetting Matricies 
 
@@ -141,7 +169,7 @@ data("gayguides")
 
 To subset this data we could pull two particular columns like this: 
 ```{r}
-#gayguides[2:3]
+gayguides[2:3]
 ```
 That returns columns 2 and 3 (including every single row!). 
 
@@ -152,32 +180,44 @@ gayguides[1:3,]
 
 (@) Why is this different? What do we get compared to the previous example? 
 
->
+>Removed # in first chunk to run
 
 (@) Can you find just the city and state for the first 5 entries? 
 ```{r}
+gayguides[1:5,8:9]
 
 ```
 
 (@) How about the street address and type for rows 2,555 to 2,560?
 
 ```{r}
-
+gayguides[5:6] 
+st <- matrix(5:6, nrow=2,555:2.560)
 ```
 
-(@) Load another dataset from `DigitalMethodsData`. Subset it to find some element of the data. Write the code below and then explain what element of the data you wanted to subset and why:
+(@) Load another dataset from `DigitalMethodsData`. Subset it to find some element of the data. 
+
+Write the code below and then explain what element of the data you wanted to subset and why:
 ```{r}
-
+library(DigitalMethodsData)
+data("statepopulations")
+statepopulations[1:9]
 ```
-
+```
+```
+#State Populations 1 thru 9 of categories?
 > 
 
-Another useful operator to know is `$` which we used a little bit in the previous worksheet. `$` is shorthand for accessing a variable in a dataframe. 
+Another useful operator to know is `$` which we used a little bit in the previous worksheet. 
+`$` is shorthand for accessing a variable in a dataframe. 
  
-So for example both of these produce the same result. One is just easier to type. Because the output here is so large, I've commented these two lines out. Uncomment them and the run the block.
+So for example both of these produce the same result. 
+One is just easier to type. 
+Because the output here is so large, I've commented these two lines out. 
+Uncomment them and the run the block.
 ```{r R.options=list(max.print=10)}
-#gayguides["title"]
-#gayguides$title
+gayguides["title"]
+gayguides$title
 ```
 
 Notice the above output is _huge_. We can combine `$` and `[` to drill down more specifically like we did earlier.
@@ -187,7 +227,8 @@ gayguides$city[100:110]
 
 (@) What does this code do? 
 
->
+> #Limits the output to 11 locations cities.
+  Tabs a line and picks up count at 7.
 
 
 We can also use `$` to create a new column in `gayguides`. 
@@ -195,13 +236,22 @@ We can also use `$` to create a new column in `gayguides`.
 gayguides$mynewcolumn <- TRUE
 gayguides$mynewcolumn[1:10]
 ```
-What does this code do? It creates a new column in the gayguides data called `mynewcolumn` and it assigns `TRUE` to every row (all 60k). This is a bit of a unrealistic example. You probably won't want to add the same value to 60k+ rows but the concept here is useful and we'll use it later in this worksheet. 
+What does this code do?
+  #Lots of TRUEs
+
+It creates a new column in the gayguides data called `mynewcolumn` and it assigns `TRUE` to every row (all 60k). 
+This is a bit of a unrealistic example. 
+You probably won't want to add the same value to 60k+ rows but the concept here is useful and we'll use it later in this worksheet. 
 
 ### Control Structures: Loops & Choices
 
-Loops and control structures can be indispensable tools when writing a script that does something for you. For example, maybe you want to write a script that goes out to a website, grabs a primary source, downloads it, and saves it to a file then repeats that hundreds of times until you have a set of primary sources. To write that kind of script you'd need loops and control structures to tell your program when to start, stop, and move to the next source. 
+Loops and control structures can be indispensable tools when writing a script that does something for you. 
+For example, maybe you want to write a script that goes out to a website, grabs a primary source, downloads it, and saves it to a file then repeats that hundreds of times until you have a set of primary sources. 
+To write that kind of script you'd need loops and control structures to tell your program when to start, stop, and move to the next source. 
 
-Loops and control structures are one of those programming patterns that appear in almost every language. The syntax and style change, but the core idea doesn't. This is a concept I'd recommend you master and it'll come in handy for years to come. 
+Loops and control structures are one of those programming patterns that appear in almost every language. 
+The syntax and style change, but the core idea doesn't. 
+This is a concept I'd recommend you master and it'll come in handy for years to come. 
 
 **Choices** and **loops** are both known as types of **control structures.**
 
@@ -231,7 +281,12 @@ if (2 < 3) print(TRUE)
 if (3 < 2) print(TRUE)
 ```
 
-The first example above works. Why? Because 2 is indeed less than 3. The second line has no output. Why? Becuase the conditions weren't met. 3 is not less than 2 and so it didn't print anything out.
+The first example above works. Why? 
+  #Because 2 is indeed less than 3. 
+The second line has no output. Why? 
+  #Because the conditions weren't met. 
+  #3 is not less than 2 and so it didn't print anything out.
+
 But we could ask it to do something else instead:
 ```{r}
 if (3 < 2) print(TRUE) else print("This is clearly false.")
@@ -250,22 +305,52 @@ if (x > 90) {
 
 (@) You are teaching History 100 for Clemson. Write an `if` statement that calculates whether the enrollment cap of 30 on your class has been met. 
 ```{r}
+x <- 30
+if (x > 30) {
+  "Close"
+} else if (x > 20) {
+  "Open"
+} else {
+  "Cap"
+  }
+```
+
+(@) Create a list of presidents and store it in a variable. 
+Use an `if` statement to check if the number of presidents in the list is more than 5. 
+If its not indicate that too. 
+```{r}
+presidents <- c("Washington", "Jefferson", "Adams")
+for(i in length(presidents)) {
+  print (presidents[i])
+  }
 
 ```
 
-(@) Create a list of presidents and store it in a variable. Use an `if` statement to check if the number of presidents in the list is more than 5. If its not indicate that too. 
+(@) You can also use an if statement to check a variable in a dataframe. 
+How might you use an if statement to check if the GayGuides dataset 
+contains any year after 1990?
+#?
+(Hint: first try to figure out how to determine the latest year in the dataframe and then build an if statement that checks that and prints something out if its true or false. 
+You should think about what kind of value in contained in the Year column, how to access it, and how to check for the latest value.) 
+
 ```{r}
+library(DigitalMethodsData)
+data("gayguides")
+
+```{r}
+year <- (1990)
+for year <- c(gayguides)
+for(i in length(<1990)) {
+  print (year[i])
+  }
 
 ```
-
-(@) You can also use an if statement to check a variable in a dataframe. How might you use an if statement to check if the GayGuides dataset contains any year after 1990? (Hint: first try to figure out how to determine the latest year in the dataframe and then build an if statement that checks that and prints something out if its true or false. You should think about what kind of value in contained in the Year column, how to access it, and how to check for the latest value.) 
-
-```{r}
 ```
 
 (@) Reflect on the question above. How did you figure this out? What was the process you went through to build this chunk of code?
 
-> 
+> #I need to spend more time looking back at other examples.
+I am not getting the syntax and orders correct.
 
 #### Loops
 
@@ -297,15 +382,24 @@ for (p in 1:length(presidents)) {
 
 (@) Why does this work? What does `length()` do and why do we use it on `presidents`?
 
-> 
+> # This works because it printed length of names of three presidents with entire name listed.
 
-Create a character vector that contains the title of each of your classes this semester. Can you write a `for` loop that prints out "I am enrolled in" and the name of each of your classes? ("I am enrolled in History 8150", "I am enrolled in History 8000".....etc). Hint: you'll need a function to combine the output and some text of your choosing inside the function. 
+Create a character vector that contains the title of each of your classes this semester. 
+Can you write a `for` loop that prints out "I am enrolled in" and the name of each of your classes? 
+("I am enrolled in History 8150", "I am enrolled in History 8000".....etc). 
+Hint: you'll need a function to combine the output and some text of your choosing inside the function. 
 
 ```{r}
-
+classes <- c("History 8510", "History 8000", "History 8860")
+for (p in 1:length(classes)) {
+  #print("I am enrolled in", classes[p])
+  print(classes[p])
+  }
 ```
-
-Sometimes we want our loop to terminate itself early. There are two statements that help us do that: 
+for "I am enrolled in"
+"I am enrolled in History 8150", "I am enrolled in History 8000"
+Sometimes we want our loop to terminate itself early. 
+There are two statements that help us do that: 
 
 * `next` exits the current iteration
 * `break` exits the entire for loop
@@ -319,7 +413,11 @@ for (i in 1:10) {
 }
 ```
 
-`Next` skips values until the criteria is met. So in the above example it skips numbers 1 and 2 because they don't match the criteria. But in some cases we may not want to skip the entries but rather exit the loop entirely. Something like this: 
+`Next` skips values until the criteria is met. 
+So in the above example it skips numbers 1 and 2 because they don't match the criteria. 
+But in some cases we may not want to skip the entries but rather exit the loop entirely. 
+Something like this: 
+
 ```{r}
 for (i in 1:10) {
   if (i < 3)
@@ -331,21 +429,41 @@ for (i in 1:10) {
   print (i)
 }
 ```
-
 (@) What happened here? Why did the loop only print 3 and 4? 
 
+  #It printed the numbers greater than 3 as 3 & 4, but broke the string at larger numbers, hence did not    print 5.
 
 (@) In the state population data, can you write a loop that pulls only states with populations between 200,000 and 250,000 in 1800? You could accomplish this a few different ways. Try to use next and break statements. 
 ```{r}
+library(DigitalMethodsData)
+data("statepopulations")
+```
 
+```{r}
+for (state in 200000:250000) {
+  if (i < 200000)
+    next
+  
+  if (state >= 250000)
+    break
+  
+  print (name)
+}
+```
 ```
 
 (@) What if we wanted to loop through the gay guides data? Can you write a loop that iterates through the cities in the Gay Guides data and returns the title of any location in Greenville? 
 ```{r}
-
+library(DigitalMethodsData)
+data("BostonWomenVoters")
 ```
 
-`while` is another useful tool for writing loops. While will run a loop _while_ a condition is true. Once that condition is not true, it exits. For example: 
+
+`while` is another useful tool for writing loops. 
+While will run a loop _while_ a condition is true. 
+Once that condition is not true, it exits. 
+For example: 
+
 ```{r}
 i <- 1
 while (i < 6) {
@@ -353,15 +471,29 @@ while (i < 6) {
   i <- i+1
 }
 ```
-Its important to note here that `i` is defined outside the loop. Its initial value is 1 but each time the loop runs it gets 1 added to it. So the first time it runs, i = 1 and the loop prints the value then adds 1 to i. Now i = 2 but since that is still less than 6 the loop continues and prints the value then adds 1 to i. Eventually, i=6 and since 6 is not less than 6 the loop exits without printing. 
+Its important to note here that `i` is defined outside the loop. 
+Its initial value is 1 but each time the loop runs it gets 1 added to it. 
+So the first time it runs, i = 1 and the loop prints the value then adds 1 to i. 
+Now i = 2 but since that is still less than 6 the loop continues and prints the value then adds 1 to i. Eventually, i=6 and since 6 is not less than 6 the loop exits without printing. 
+#EXITS WITHOUT PRINTING!
 
-`While` doesn't get used as often in R because there is often a more efficient way to do the same thing. But in other languages `while` gets used much more often. Its a good pattern to be familiar with even if you don't use in frequently in R. 
+```{r}
+
+```
+
+`While` doesn't get used as often in R because there is often a more efficient way to do the same thing. 
+But in other languages `while` gets used much more often. 
+Its a good pattern to be familiar with even if you don't use in frequently in R. 
 
 ## Functions 
 
-A **function** is a set of statements that are organized together to perform a specific task. You've already been using functions because R has a number of built in functions that are available to users. For example. `print()` is a function. 
+A **function** is a set of statements that are organized together to perform a specific task. 
+You've already been using functions because R has a number of built in functions that are available to users. 
+For example. `print()` is a function. 
 
-To be more specific, a **function** is a set of code that performs a task and returns a result. As you advance your programming skills you'll probably have certain tasks that you perform frequently. Once you've run a chunk of code several times its good practice to turn it into a function so it can be repeatedly used. 
+To be more specific, a **function** is a set of code that performs a task and returns a result. 
+As you advance your programming skills you'll probably have certain tasks that you perform frequently. 
+Once you've run a chunk of code several times its good practice to turn it into a function so it can be repeatedly used. 
 
 A function in R takes any arguments that may be necessary to perform the actions contained within the function, performs those functions, and then returns any result in the console. 
 
@@ -372,12 +504,19 @@ myfunction <- function(y){
   print(myvalue)
 }
 ```
-When you run this nothing is returned. Why? You've loaded the function but you haven't called it yet. We can do that like this: 
+When you run this nothing is returned. 
+NOTHING IS RETURNED!
+Why? 
+You've loaded the function but you haven't called it yet.
+We can do that like this: 
+
 ```{r}
 myfunction(5)
 ```
 
-You'll notice that the variable we created inside the function, `myvalue`, doesn't show up. Unless we write code asking R to return the value of that variable, it'll run invisibly in the background and only give us back the result we ask for. This comes in handy when you are writing more complex functions and need to store bits of data temporarily for a calculation that is being run by the function. 
+You'll notice that the variable we created inside the function, `myvalue`, doesn't show up. 
+Unless we write code asking R to return the value of that variable, it'll run invisibly in the background and only give us back the result we ask for. 
+This comes in handy when you are writing more complex functions and need to store bits of data temporarily for a calculation that is being run by the function. 
 
 Here's another example: 
 ```{r}
@@ -394,21 +533,38 @@ historyStudents <- function(studentname, class) {
 
 There are several components to a function. 
 
-* **Function Name**:This is the actual name of the function. It is stored in R environment as an object with this name. In the above example, the function name is `historyStudents`
-* **Arguments**: An argument is a placeholder. When a function is invoked, you pass a value to the argument. Arguments are optional; that is, a function may contain no arguments. Also arguments can have default values. In the example above, the function takes two arguments: a student's name and the name of a class. 
+* **Function Name**:This is the actual name of the function. 
+It is stored in R environment as an object with this name. 
+In the above example, the function name is `historyStudents`
+
+* **Arguments**: An argument is a placeholder. 
+When a function is invoked, you pass a value to the argument. 
+Arguments are optional; that is, a function may contain no arguments. 
+Also arguments can have default values. 
+In the example above, the function takes two arguments: a student's name and the name of a class. 
+
 * **Function Body**: The function body contains a collection of statements that defines what the function does. In the above example the function body is the code inside the `{` and `}` brackets. 
-* **Return Value**: The return value of a function is the last expression in the function body to be evaluated. In the above example, our return value is `statement` which prints our welcome statement using the names we provided in the arguments. 
+
+* **Return Value**: The return value of a function is the last expression in the function body to be evaluated. 
+In the above example, our return value is `statement` which prints our welcome statement using the names we provided in the arguments. 
 
 (@) Write a function that takes a string of text and counts the number of characters. The function should return "There are xx characters in that string." 
-```{r}
 
+```{r}
+historyStudents <- function(studentname, class) {
+  statement <- paste("Hello ", studentname, ". Welcome to ", class, "!", sept="")
+  statement
+}
 ```
+
 
 (@) Reflect on the process of building the above function. How did you go about figuring this out? 
 
 >
 
-The body of a functions can use any of the techniques we've learned in this worksheet like loops and if statements. For example: 
+The body of a functions can use any of the techniques we've learned in this worksheet like loops and if statements. 
+For example: 
+
 ```{r}
 grade <- function(x) {
   if (x > 90) {
@@ -434,7 +590,7 @@ grade(75)
 GeorgeWashington <- grade(60)
 ```
 
->
+>#Is it because the . . .
 
 
 Here's a more complex example: 
@@ -452,14 +608,82 @@ gg.locations <- function (city, year) {
 }
 ```
 
-(@) Write a function that uses the things you've learned in this worksheet. The function should accept two arguments, city and year. It should pull all the locations in that city and year and return a statement that says "Found a location called xxx". (Where x is the title of a location in that year and city.) 
+
 ```{r}
+library("DigitalMethodsData")
 
 ```
 
+
+(@) Write a function that uses the things you've learned in this worksheet. The function should accept two arguments, city and year. It should pull all the locations in that city and year and return a statement that says "Found a location called xxx". (Where x is the title of a location in that year and city.) 
+
+```{r}
+gg.locations <- function (city, year) {
+  data(gayguides)
+
+  for (i in 1:length(gayguides$city)) {
+    if (gayguides$city[i] == city && gayguides$Year[i] == year) {
+     print(paste("Found a location called ", gayguides$title[i]))
+    } else {
+      next 
+    } 
+  }
+}
+```
+
+
+```{r}
+gg.locations <- function (city, year) {
+  data(gayguides)
+
+  for (i in 1:length(gayguides$city)) {
+    if (gayguides$city[i] == city && gayguides$Year[i] == year) {
+     print(paste("Found a location called ", gayguides$title[i]))
+    } else {
+      next 
+    } 
+  }
+}
+
+gg.locations(Greenville, 1880)
+```
+
+
 (@) Use the Boston Women Voter dataset. Write a function that accepts the name of an occupation. Your function should return new dataframe that includes the records for every voter listed with that occupation.  
 ```{r}
+library(DigitalMethodsData)
+data("BostonWomenVoters")
+BostonWomenVotersOccupation <-function(Occupation)
+m <- mat[BostonWomenVoters{,"Occupation"=="Housewife",}]
+
+for (x in 1:length(BostonWomenVoters$Occupation)) {
+  if (BostonWomenVoters$Occupation{x} == Occupation) {
+    print(m)
+  } else {
+    next
+  }
+}
+BostonWomenVotersOccupation("Housewife")
+```
+
+```{r}
+for (i in 1:length(BostonWomenVoters$Occupation )) {
+if (BostonWomenVoters$Occupation [i] = "Housewife"|"Stenographer")
+print (BostonWomenVoters$Name)
+}
 
 
+```
+ERROR
+```{r}
+library(DigitalMethodsData)
+data("BostonWomenVoters")
+bwv.stateand occupation <-function(State.or.Province.of.Birth)
+  data("BostonWomenVoters")
+  for (n in 1:length(BostonWomenVoters$State.or.Province.of.Birth))
+    if (BostonWomenVoters$State.or.Province.of.Birth)
+      ){
+        print(paste(BostonWomenVoters$Name[n] ))
+      }
 ```
 
