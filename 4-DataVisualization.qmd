@@ -1,7 +1,7 @@
 ---
 title: 'Worksheet 4: Data Visualization'
-author: ''
-date: ''
+author: 'Will Hiott'
+date: 'February 24, 2024'
 ---
 
 _This is the fourth in a series of worksheets for History 8510 at Clemson University. The goal of these worksheets is simple: practice, practice, practice. The worksheet introduces concepts and techniques and includes prompts for you to practice in this interactive document. When you are finished, you should change the author name (above), knit your document, and upload it to canvas. Don't forget to commit your changes as you go and push to github when you finish the worksheet._
@@ -36,7 +36,8 @@ data(gapminder)
 
 (@) Take a look at the data. What can you say about it? 
 
-> 
+> Exhibits columns for country, continent, year, lifeExp,pop, &  gdpPercap
+# First line assuming is alphabetical and shows: 1 Afghanistan Asia       1952    28.8  8425333      779.
 
 This data includes variables for life exptenency and per capita GDP. Lets say we want to plot these two variables against each other for all country-years within the dataset. First we have to tell `ggplot()` what our data is. 
 ```{r}
@@ -59,31 +60,48 @@ We can view the plot that we've created by calling the variable that we stored o
 ```{r}
 p + geom_point()
 ```
-
+#Cool! But why did this plot print here and not in the bottom right corner box?
 To summarize what we did above, there were 3 steps we went through. First, tell `ggplot()` what our data is. Second, add `mapping = aes()` to map our variables to the plot. And, third, choose a geom. In this case our geom was `geom_point()` which created the points/data layer on our plot. A fourth step could have included adding a scale, legend, title or some other element to the graph. These are typically referred to as labs. 
 
 (@) Modify the above plot so that the variables it draws on are life expectancy and population. Then, use a comment to annotate the code and mark each of the 3 parts described above.
 ```{r}
-
+p <- ggplot(data = gapminder, mapping = aes(x = lifeExp, y=pop))
 ```
+
+```{r}
+p + geom_point()
+```
+#OK
+#Cool!
+#It looks like this plotted population and life expectency!
+
 
 We can make this plot even more complex. Adding another value, color, to `aes()` we can change the color of each dot to correspond to a year. We also might want to rename the x and y-axis so that the labels have a more useful description of the variable. We can do so using the labs function. 
 
 ```{r}
 ggplot(data = gapminder, mapping = aes(x = gdpPercap, y=lifeExp, color=year)) + geom_point() + labs(x="GDP Per Capita", y="Life Expectency in Years", title="Life Expectency and Per Capita GDP by Year") 
 ```
-
+#Wow, that is neat!
 (@) Using the same plot above, can you edit the code to add a trend line? (Hint: You'll need to add another geom)
 ```{r}
+ggplot(data = gapminder, mapping = aes(x = gdpPercap, y=lifeExp, color=year)) + geom_point() + geom_line() + labs(x="GDP Per Capita", y="Life Expectency in Years", title="Life Expectency and Per Capita GDP by Year") 
 
 ```
+#Not sure if this answers the question?
+#But again, looks cool!
 
 
 (@) The file below contains data about the population of cities in 1930 and their recreation expenditures. Can you create a scatter plot from this data? 
 ```{r}
 rec <- read.csv(file = "https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/raw/Recreation-Expenditures.csv")
 ```
-
+City,     State, Year, Population, Total Expenditures, & X
+#Charleston SC    1930    84000       19593.65        NA2
+#Columbia   SC    1930    65000       18000.00        NA
+```{r}
+ggplot(data = rec, mapping = aes(x = city, y= population, color= total_expenditures)) + geom_point() + geom_line() + labs(x="City  Population", y="Total Expenditures for 1930", title="Expenditures and Per Capita for 1930")
+```
+#This asks me if I want to adjust?
 The `geom_point()` function allows us to create scatterplots but its not the only geom within `ggplot2()`.
 
 ### Histogram 
@@ -96,10 +114,14 @@ recreational.data <- read.csv("https://raw.githubusercontent.com/regan008/Digita
 ggplot(recreational.data, aes(x = population)) +
   geom_histogram()
 ```
-
+#Awesome!
 (@) Use the Boston Women's voters dataset to create a histogram of the age of voters. 
-```{r}
 
+
+```{r}
+data("BostonWomenVoters")
+ggplot("BostonWomenVoters".data, aes(x = age)) +
+  geom_histogram()
 ```
 
 (@) By default, `geom_histogram()` is choosing the number of bins. Can you change the number of bins or the bin width? (Hint: How might you look up the options for this function?)
@@ -123,12 +145,27 @@ ggplot(sc.rec, aes(x = state, y = state.expenditures )) +
 
 (@) Using the `gayguides` data, create a bar chart that shows the number of locations in 1980 in South Carolina, Georgia, and North Carolina. 
 ```{r}
+data("gayguides") 
+slocations <- gayguides.data %>% group_by(state == "SC", "Georgia", "NC") %>% summarize(state.expenditures = sum(total_number))
+ggplot(s, aes(x = state, y = 1980, color =  )) +
+  geom_col()
+```
 
+```{r}
+sc.rec <- recreational.data %>% group_by(state) %>% summarize(state.expenditures = sum(total_expenditures))
+ggplot(sc.rec, aes(x = state, y = state.expenditures )) +
+  geom_col()
+```
 ```
 
 (@) Using the `gayguides` data, plot the number of religious institutions in each state.
-```{r}
 
+```{r}
+data("gayguides") 
+gayguides <- recreational.data %>% group_by(state) %>% summarize(state.expenditures = sum(total_expenditures))
+ggplot(sc.rec, aes(x = state, y = state.expenditures )) +
+  geom_col()
+```
 ```
 
 (@) Formulate a question based on a dataset of your choice. That question should be something that would be appropriately answered by a bar chart. What is the question you want to explore?
@@ -137,7 +174,12 @@ ggplot(sc.rec, aes(x = state, y = state.expenditures )) +
 
 (@) Now write the code to answer that question and use comments (`#`) to explain your thinking as you go.
 ```{r}
+data("judges")
 
+judges <- recreational.data %>% group_by(state) %>% summarize(state.expenditures = sum(total_expenditures))
+ggplot(sc.rec, aes(x = state, y = state.expenditures )) +
+  geom_col()
+```
 ```
 
 ### Line Charts
@@ -153,14 +195,21 @@ ggplot(gg.byyear, aes(x = Year, y = count)) +
 
 (@) Create a line chart that shows the number of religious institutions in the gay guides data over time.
 ```{r}
-
+data(gayguides)
+gg.byyear <- gayguides %>% group_by(Year) %>% summarize(count = n())
+ggplot(gg.byyear, aes(x = Year, y = church)) +
+  geom_line()
 ```
 
 (@) In the gayguides data, danger or risk is indicated in several different ways. Sometimes it through the use of an amenity categorization of (HOT) or (AYOR) which meant that these locations were frequented by police and should be used at your own risk. Other times, locations were listed as "inquire locally" in either the description or address field. There are many reasons a location would have requested to have been listed this way. Many times, it was due to harassment and the location deemed it too dangerous to publicly list its location. Can you create a subset of the gay guides data about risk and then use it to create a chart about the usage of these indicators over time? 
 ```{r}
-
+data(gayguides)
+gg.byyear <- gayguides %>% group_by(Year) %>% summarize(count = n())
+ggplot(gg.byyear, aes(x = "Hot","AYOR", y = count)) +
+  geom_line()
 ```
-
+#Not exactly showing anything.
+#Come Back to figure out.
 
 ### Faceting
 Unlike the previous exmaples, `facet_wrap` is not a geom.  It splits the chart window in several small parts (a grid), and displays a similar chart in each section. Each section usually shows the same graph for a specific group of the dataset. For example, remember the line chart above that graphed the number of locations in the `gayguides` data across each year? We can facet that by state to see the number of locations in each state in each year. 
@@ -174,18 +223,33 @@ ggplot(gg.byyear, aes(x = Year, y = count)) +
 
 (@) Using the state recreation data, can you create a chart that outlines the total expenditures in South Carolina by city?
 ```{r}
+```{r}
+gg.byyear <- gayguides %>% count(state == "SC" | state == "NC" | state == "GA") %>% group_by(state, Year) %>% summarize(count = n())
 
+ggplot(gg.byyear, aes(x = Year, y = count)) +
+  geom_line() + facet_wrap(~state)
+```
 ```
 
 (@) Using the gayguides data can you select 5 types of locations and chart the number of each type between 1965 and 1980? 
 ```{r}
+```{r}
+gg.byyear <- gayguides %>% filter(state == "SC" | state == "NC" | state == "GA") %>% group_by(state, Year) %>% summarize(count = n())
 
+ggplot(gg.byyear, aes(x = Year, y = count)) +
+  geom_line() + facet_wrap(~state)
+```
 ```
 
 (@) Using this recreation dataset from last week, can you find the average number of volunteer and paid workers over time? 
 ```{r}
 rec.workers <- read.csv("https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/raw/RecreationData-Wide.csv")
+```{r}
+gg.byyear <- gayguides %>% filter(state == "SC" | state == "NC" | state == "GA") %>% group_by(state, Year) %>% summarize(count = n())
 
+ggplot(gg.byyear, aes(x = Year, y = count)) +
+  geom_line() + facet_wrap(~state)
+```
 
 ```
 
@@ -194,7 +258,12 @@ In the slots below use the datasets for class (or a dataset of your choice) to c
 
 (@) Plot 1
 ```{r}
+```{r}
+NPS.data <- read.csv("https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/raw/NationalParks.csv")
 
+ggplot(NPS.data, aes(x = year)) +
+  geom_histogram()
+```
 ```
 
 (@) Plot 1 explanation: 
@@ -202,7 +271,20 @@ In the slots below use the datasets for class (or a dataset of your choice) to c
 
 (@) Plot 2
 ```{r}
+RR.data <- read.csv("https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/UndergroundRR.csv")
+ggplot(RR.data, aes(x = year)) +
+  geom_histogram()
+```
 
+```{r}
+RR.data <- read.csv("https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/UndergroundRR.csv")
+ggplot(RR.data, aes(x = year)) +
+  geom_histogram()
+```
+
+```{r}
+library(DigitalMethodsData)
+ggplot(data = judges, mapping = aes(x = Appointing.President.1., y= Party.of.Appointing.Aresident.1., color=year)) + geom_point() + labs(x="Name of Appointing President", y="Party", title=" and Per Capita GDP by Year") 
 ```
 
 (@) Plot 2 explanation: 
@@ -211,7 +293,10 @@ In the slots below use the datasets for class (or a dataset of your choice) to c
 (@) Plot 3. For this one, try a different kind of plot. [Check out a useful gallery here.](https://github.com/regan008/DigitalMethodsData/blob/main/raw/RecreationData-Wide.csv)
 (For this week, avoid choosing a map. We'll talk more about maps and geographic data over the next two weeks.)
 ```{r}
+gg.byyear <- gayguides %>% filter(state == "SC" | state == "NC" | state == "GA") %>% group_by(state, Year) %>% summarize(count = n())
 
+ggplot(gg.byyear, aes(x = Year, y = count)) +
+  geom_line() + facet_wrap(~state)
 ```
 
 (@) Plot 3 explanation: 
