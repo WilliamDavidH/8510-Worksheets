@@ -1,5 +1,5 @@
 ---
-title: "Worksheet 5: Mapping"
+title: "Worksheet 5: Mapping - Will Hiott (3.15.2024) DRAFT"
 format: html
 ---
 
@@ -32,23 +32,62 @@ Notice in this dataset we have the city state and year but no geographical coord
 rec.data.coordinates <- rec.data %>% geocode(city = city, state = state, method='osm', lat = latitude, long = longitude)
 head(rec.data.coordinates)
 ```
+#	
+geocode_address
+<chr>
+lon
+<dbl>
+lat
+<dbl>
+Acadia National Park, United States	-68.27333	44.33856	
+Arches National Park, United States	-109.59251	38.73308	
+Badlands National Park, United States	-102.33969	43.85538	
+Big Bend National Park, United States	-103.25016	29.24990	
+Biscayne National Park, United States	-80.20831	25.48242	
+Black Canyon of the Gunnison National Park, United States	-107.74160	38.57539	
 Now we have latitude and longitude coordinates for our data. 
 
 (@) Use this approach to geocode the `UndergroundRR` data. 
 ```{r}
+library("DigitalMethodsData")
 
 ```
+data("UndergroundRR")
 
+```{r}
+undergroundRR.coordinates <- undergroundRR %>% geocode(city = City, state = State, method='osm', lat = latitude, long = longitude)
+head(undergroundRR.coordinates)
+```
+#Cool, that worked, printed first 6 entries.
+#Passing 177 addresses to the Nominatim single address geocoder
+#had to capitalize City & State and lowercase undergroundRR, for some reason.
 
 (@) Geocode the Boston Women Voters dataset. Note that the data does include street addresses but because they are broken into parts - street address number, street, etc - you'll need to combine them into a full address to pass to the geocoding function. 
 ```{r}
 data("BostonWomenVoters")
 ```
 
-(@) As mentioned above - there are many ways to make a map in R. The `ggmap()` package has a function called `qmplot()` which allows for the quick plotting of maps with data. Look up the documentation for this package and use it to create a plot of the recreational data that we gecode above.
 ```{r}
-
+rec.data.coordinates <- rec.data %>% geocode(city = city, state = state, method='osm', lat = latitude, long = longitude)
+head(rec.data.coordinates)
 ```
+
+```{r}
+data("BostonWomenVoters")
+```
+
+```{r}
+BostonWomenVoters.coordinates <- BostonWomenVoters %>% geocode(street =  Street.of.Residence.on.April.1., number = Street.Number.on.April.1., 
+method='osm', lat = Street.of.Residence.on.April.1, long = Street.Number.on.April.1)
+head(BostonWomenVoters.coordinates)
+```
+
+(@) As mentioned above - there are many ways to make a map in R. The `ggmap()` package has a function called `qmplot()` which allows for the quick plotting of maps with data. Look up the documentation for this package and use it to create a plot of the recreational data that we gecode above.
+
+```{r}
+qmplot (lon, lat, rec.data.coordinates = map)
+```
+?qmplot()
 
 ### Maps with `ggplot()`
 
@@ -58,16 +97,21 @@ First we need to get a basemap. For this example we'll use the `map_data()` func
 
 (@) Look at the documentation for `map_data()`. Which geographies does this package provide access to?
 
->
+>?map_data()  map_data(map, region = ".", exact = FALSE, ...)
 
 Lets load the base map data for the US. 
+```{r}
+usa <- map_data("state")
+
+```
+
 ```{r}
 usa <- map_data("state")
 ```
 
 (@) `map_data()` generates a data frame. Take a look at this data frame, what types of data are included? 
 
-> 
+> long,lat, group order, region, subregion in six columns, total of 15537 obs
 
 
 We can now pass this data to ggplot to create a simple basemap. When we wanted to create a bar plot using `ggplot()` we called `geom_bar`. When we wanted to create a line chart we used `geom_point()` and `geom_line()`. The sample principle applies here and `ggplot()` provides a geom for maps.
@@ -76,7 +120,28 @@ ggplot() +
   geom_map( data = usa, map = usa, aes(long, lat, map_id=region))
 ```
 
+```{r}
+ggplot() + 
+  geom_map( data = usa, map = usa, aes(long, lat, map_id=region))
+```
+
+#basemap completed, tried different chunks to have the autorun features.
+
+```{r}
+ggplot() + 
+  geom_map( data = usa, map = usa, aes(long, lat, map_id=region))
+```
+
+```{r}
+
+```
+
 Now we have a basemap! But what if we want to layer data onto it. Lets add all of the locations in `gayguides` from 1965. First we need to set up our data: 
+```{r}
+data(gayguides)
+gayguides <- gayguides %>% filter(Year == 1965)
+```
+
 ```{r}
 data(gayguides)
 gayguides <- gayguides %>% filter(Year == 1965)
@@ -89,19 +154,81 @@ ggplot() +
   geom_point(data = gayguides, mapping = aes(x=lon, y=lat))
 ```
 
-(@) This map looks slightly funny, but that is because the data includes entries outside of the contiguous United States. Try filtering out those entries and mapping this again. Can you change the color or size of the points? Can you add a title?
 ```{r}
+ggplot() + 
+  geom_map( data = usa, map = usa, aes(long, lat, map_id=region)) +
+  geom_point(data = gayguides, mapping = aes(x=lon, y=lat))
+```
+#Ok, I get it. The outlyer dot must be in Hawaii.
 
+(@) This map looks slightly funny, but that is because the data includes entries outside of the contiguous United States. Try filtering out those entries and mapping this again. Can you change the color or size of the points? Can you add a title?
+
+```{r}
+ggplot() + 
+  geom_map( data = usa, map = usa, aes(long, lat, map_id=region)) +
+  geom_point(data = gayguides, mapping = aes(x=lon, y=lat,)) +                      ggtitle("Gayguides - Map of the United States")
+  
+```
+
+#Cool, that took longer that anticipated, but finally remembered the plus +.
+```{r}
+library(ggplot2)
+df <- read.csv("bestsellers.csv")
+ggplot(df, aes(x = Reviews, y = Price, col = Genre)) +
+  geom_point(size = 2, shape = 23) +
+  scale_color_manual(values = c('Yellow', 'Green'))
+a
 ```
 
 (@) Can you map just locations in South Carolina (on a basemap of SC)? 
+
 ```{r}
+ggplot() + 
+  geom_map(region = south carolina, map = south carolina, aes(long, lat, map_id=region)) +
+  geom_point(data = gayguides, mapping = aes(x=lon, y=lat,)) +                      ggtitle("Gayguides - Map of South Carolina")
+```
+```{r}
+```
+
+
+```{r}
+install.packages("basemaps")
+```
+
+```{r}
+devtools::install_github("16EAGLE/basemaps")
 
 ```
 
+```{r}
+data(basemaps)
+set_defaults(map_service = "osm", map_type = "topographic")
+
+```
+
+
+```{r}
+basemap_magick(ext, map_service = "osm", map_type = "streets")
+
+```
+
+```{r}
+NewStates <-filter(usa, region = "south carolina")
+ggplot() + 
+  geom_map(region = south carolina, map == south carolina, aes(long, lat, map_id=region)) +
+  geom_point(data = gayguides, mapping = aes(x=lon, y=lat,)) +                      ggtitle("Gayguides - Map of South Carolina")
+```
+
+```{r}
+dplyr::filter(usa, region == "south carolina")
+```
+
+
 (@) Create a map that uses your geocoded data from the Boston Women Voters dataset. 
 ```{r}
-
+ggplot() + 
+  geom_map(data = usa, map = usa, aes(long, lat, map_id=region)) +
+  geom_point(data = BostonWomenVoters, mapping = aes(x=lon, y=lat))
 ```
 
 Lets return to the recreational data for a minute.
@@ -132,51 +259,80 @@ library(sf)
 library(maptools)
 library(ipumsr)
 
-#NHGIS data is stored in zip files. R has functions for dealing with these but we still need to download the file to our server. Here we're going to write a function that will create a new directory, download the data, and rename it. 
+#NHGIS data is stored in zip files. R has functions for dealing with these but we still need to download the file to our server. Here we're going to write a function that will create a new directory, download the data, and rename it.
+```
+
+
+```{r}
 dir.create("data/", showWarnings = FALSE)
 get_data <- function(x) {
   download.file("https://github.com/regan008/DigitalMethodsData/blob/main/raw/nhgis0005_shape_simplified.zip?raw=true", "data/nhgis_simplified_shape.zip")
   download.file("https://github.com/regan008/DigitalMethodsData/blob/main/raw/nhgis0005_csv.zip?raw=true", "data/nhgis_data.zip")
 }
+```
 
+
+```{r}
 get_data()
+```
 
 # Change these filepaths to the filepaths of your downloaded extract
+```{r}
 nhgis_csv_file <- "data/nhgis_data.zip"
 nhgis_shp_file <- "data/nhgis_simplified_shape.zip"
+```
 
 #load the data and shape file into read_nhgis_sf
-nhgis <- read_nhgis_sf(
-  data_file = nhgis_csv_file,
-  shape_file = nhgis_shp_file
-)
+```{r}
+nhgis <- read_nhgis_sf +
+  (data_file = nhgis_csv_file,
+  shape_file = nhgis_shp_file)
+```
 
 #filter nhgis so that the map focuses on the 48 contiguous states. 
+```{r}
 nhgis <- nhgis %>% filter(STATENAM != "Alaska Territory" & STATENAM != "Hawaii Territory")
+```
+#plot
 
-#plot 
+```{r}
+
 ggplot(data = nhgis, aes(fill = AZF001)) +
   geom_sf() 
 
 ```
-(@) In the code above, why filter out Hawaii and Alaska? Try uncommenting that line and rerunning the code. What happens? Why might we want to do this? Why might we not want to do this? How does it shape the interpretation?
->
+(@) In the code above, why filter out Hawaii and Alaska? 
+Try uncommenting that line and rerunning the code. What happens? Why might we want to do this? Why might we not want to do this? How does it shape the interpretation?
+>Assume it simplifies to the continental 48 states.
 
 This is a great start. But using AZF001 (Native born males) as the fill does not create a useful visualization. It doesn't give us a sense of the proportion of that data. What would be much better, is if we knew what percentage of the total population foreign born males represented. To get that we have to calculate it. The next few questions will walk build on the code above and walk you through doing this.
 
 (@) First, create a variable called total_male_pop, with the total foreign and native born male population by summing the variables AZF001 and AZF003. 
 ```{r}
-
+total_male_pop
+AZF001 and AZF003
 ```
 
 (@) Now, use the total_male_pop variable and create a variable for the the percentage of foreign born males.
 ```{r}
-
+total_male_pop
+foreign born males
 ```
 
 (@) Now map your result. You'll want to replicate the code from the example above, but this time add another layer to the plot - a scale. Here we'll use this scale `scale_fill_continuous("", labels = scales::percent)`
 
+```{r}
+library(tidyverse)
+mtcars %>% 
+  count(cyl) %>% 
+  mutate(prop = n / sum(n)) %>% 
+  ggplot(aes(x = cyl, y = prop)) + 
+  geom_point() + 
+  scale_y_continuous(labels = scales::percent_format(accuracy = 5L)
+```
+
 Before you write that code, look up the documentation for the above code (and look at the examples). What does it do? 
+
 
 >
 
@@ -205,18 +361,20 @@ my.map %>% addTiles() %>% addMarkers(lng=-82.836856, lat=34.678286, popup = "Har
 ```
 
 We could also do this with a data frame. Notice that in this example, we use the leaflet function and call the data inside rather than passing the function coordinates manually. We then use the paste function to build out text for a pop up.
+
 ```{r}
 leaflet(data=rec.data.coordinates) %>% addTiles() %>% addMarkers(~longitude, ~latitude, popup = paste("The total expenditures in ", rec.data.coordinates$city, ", ", rec.data.coordinates$state, " were ",  rec.data.coordinates$total_expenditures, sep=""))
 ```
 
 
 (@) Use leaflet to map a dataset of your choice: 
+#My Choice
 ```{r}
-
+leaflet(data=undergroundRR.coordinates) %>% addTiles() %>% addMarkers(~longitude, ~latitude, popup = paste("The total expenditures in ", undergroundRR.coordinates$city, ", ", undergroundRR.coordinates$state, " were ",  undergroundRR.coordinates$total_expenditures, sep=""))
 ```
 
 (@) Explain what choices you made in building this map? Why might you use leaflet over ggplot? When would ggplot be more desirable? 
-
+#seems to work easier?
 >
 
 
@@ -225,5 +383,27 @@ For the next portion of this worksheet I'd like you to look back at the email ab
 
 ```{r}
 parks <- read.csv("https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/raw/parks-geocoded.csv")
+```
+
+```{r}
+parks.coordinates <- parks %>% geocode(closest_city = city, state_region_provence = state, method='osm', lat = latitude, lon = longitude)
+head(parks.coordinates)
+```
+
+```{r}
+leaflet(data=parks) %>% addTiles() %>% addMarkers(~lon, ~lat, popup = paste("The total expenditures in ", parks$city, ", ", parks$state, " were ",  parks$total_expenditures, sep=""))
+```
+#Ran something in EU Parks
+```{r}
+
+```
+```
+
+```{r}
+leaflet(data=rec.data.coordinates) %>% addTiles() %>% addMarkers(~longitude, ~latitude, popup = paste("The total expenditures in ", rec.data.coordinates$city, ", ", rec.data.coordinates$state, " were ",  rec.data.coordinates$total_expenditures, sep=""))
+```
+
+```{r}
+
 ```
 
