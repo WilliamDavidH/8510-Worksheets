@@ -28,6 +28,9 @@ If you type `x` into your console, you will see that all of the values are print
 > x <- c(15.4, 25, 2, 8.35, 5, 383, 10.2)
 > x
 [1]  15.40  25.00   2.00   8.35   5.00 383.00  10.20
+```{r}
+
+```
 
 For example, we can use a positive integer to return elements at specific positions. Lets grab the value in the 3rd and 5th position.
 ```{r}
@@ -685,5 +688,63 @@ bwv.stateand occupation <-function(State.or.Province.of.Birth)
       ){
         print(paste(BostonWomenVoters$Name[n] ))
       }
+```
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+bwv.occupation <- function(occupation) {
+  require(DigitalMethodsData)
+  data("BostonwomenVoters")
+  for(i in 1:length(BostonWomenVoters))
+    if (BostonWomenVoters$Occupation[i] == occupation) {
+      print(BostonWomenVoters$Occupation[i])
+    }
+    
+  }
+
+}
+bwv.occupation("Student")
+bwv.occupation("Housewife")
+```
+
+pdfscrape <- function (id,pdfid,start,end){
+  for (i in start:end) {
+    url <- paste("http://libcdm1.uncg.edu/utils/getfile/collection/PEPamp/id/",id,"/filename/",pdfid,".pdfpage/page/", i, sep="")
+    filename <- paste("page",i,".pdf", sep="")
+    download(url, filename, mode = "wb")
+    print(paste("downloaded page number", i))
+  } 
+}
+-------------------------------------------------------
+pdfscrape(2998, 2952,1,47)
+```{r}pdfscrape <- function (id,pdfid,start,end){
+  for (i in start:end) {
+    url <- paste("http://libcdm1.uncg.edu/utils/getfile/collection/PEPamp/id/",id,"/filename/",pdfid,".pdfpage/page/", i, sep="")
+    filename <- paste("page",i,".pdf", sep="")
+    download(url, filename, mode = "wb")
+    print(paste("downloaded page number", i))
+  } 
+}
+-------------------------------------------------------
+pdfscrape(2998, 2952,1,47)
+------------------------
+  print (BostonWomenVoters$Name[i])
+    #
+    
+  print (BostonWomenVoters$Occupation)) {
+    
+  }
+}
+  
+  bwv.occupation(something)
+}
+
+}
 ```
 
