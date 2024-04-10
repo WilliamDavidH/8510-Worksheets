@@ -1,0 +1,1414 @@
+﻿MIND AND BODY
+
+Vol. 36	March, 1930] No.	385
+
+PUBLISHED BY MIND AND BODY PUBLISHING CO., NEW ULM, MINN. EDITORIAL COMMITTEE WM. E. DAY, Dir. PhyBic&l Education, Public Schools, Salt Lake City EMIL RATH, Normal College, Indianapolis, Ind.
+
+GROVER W. MUELLER, Philadelphia, Pa.
+
+CARL L. SCHRADER, Boston, Massachusetts.
+
+WM. A. STECHER, Managing Editor, Philadelphia, Pa.
+
+Editorial communications are to be sent to WM. A. STECHER, 17th and Pine, Grant Building, Philadelphia, Pa. Subscription payments should be made to Mind and Body, New Ulm, Minnesota.
+
+Entered as second-class mailer October 14, 1916, at the postoffice at New Ulm, Minnesota, under the Act of March 3, 1879.
+
+Original articles and reprint§
+
+♦—	— ♦
+
+NEW FACTS IN SCHOOL VENTILATION CONTROVERSY
+
+By Thomas J. Duffield Director, Ventilation Research Service, New York, Formerly Executive Secretary and Director of Field Studies of the New York Commission on Ventilation
+
+One of the canards that has strutted about the scene of school ventilation discussions since the publication of the report of the New York State Commission on Ventilation, in 1923, is the statement that systems of mechanical ventilation of classrooms are productive of higher rates of respiratory illness among the pupils than are simpler methods of natural ventilation, with window supply and gravity exhaust.
+
+Writers who have exploited this idea have based their conclusions, almost without exception, on the study made under the auspices of the Division of Child Hygiene of the Department of Health of the City of New York, although they probably will not recognize it from this description, with the assistance of the New
+
+Reprint from Heating and Ventilating
+
+Digitized by LjOOQLe
+394
+
+York State Commission on Ventilation, in specially-selected classrooms in eight and twelve schools, respectively, in New York City, during the spring of 1916 and the autumn and winter months of the first term of 1916-17.
+
+Perhaps one reason for this is the fact that school hygiene is receiving a lot of attention these days and, until recently, there has been little other information on the subject of school ventilation available. Another reason, undoubtedly, is that the explanations offered in support of the conclusions reached by the commission as a result of this study, were contrary to popular belief, and thus have a constantly-recurring news value.
+
+Thus, Dr. Donald A. Laird, director of the Colgate Psychological Laboratory, writing in Scientific American for January, 1930, on the subject of “Air” tells us:
+
+“In observations on 5,500 school children under different air conditions, for example, it was found that those spending the school day in rooms with temperatures from 59 degrees to 67 degrees had 70 percent fewer colds than pupils of the same age and status who were in mechanically-ventilated rooms with a tempera-time from 68 degrees to 69 degrees. The children with fewer colds were in the colder rooms, and in the rooms with only natural window ventilation.”
+
+The study in question, it will be recalled, was reported by Dr. S. Josephine Baker, then director of the division. As Doctor Baker stated in her report,”.....the Commission......had full con-
+
+trol of the selection of the classrooms with reference to the type of ventilation to be included, the preparation of the forms for recording observations relating to ventilation, the supervision of methods used in obtaining all data on ventilation. The Bureau of Child Hygiene had supervision of all other details of the plan.” These studies covered periods of eight weeks in the spring of 1916, and of twelve weeks during the autumn and winter of 1916-17, and included window and (or) fan-ventilated classrooms in eight and twelve schools, respectively. The incidence of respiratory illness among the pupils was taken as the criterion for judging the effects of the air conditions upon the health of the pupils. The results were calculated by summarizing the units of exposure (pupil-sessions), the number of absences reported due to respiratory illness, and the number of sessions attended by pupils showing evidence (in the opinions of the nurses who made daily examinations) of such illness, and determining the rates of absenteeism, etc., per 1,000 pupil-sessions included in the experience.
+
+These results were started by the Commission (Page 450 of its report) in the following terms:
+
+“The two periods of this study are in substantial agreement in showing the greatest amount of respiratory illness in the fan-ventilated rooms. No significant distinction appeared as between the two types of window ventilated rooms with gravity exhaust, in spite of a difference in temperature of 6 to 7 degrees F.
+
+“The analysis of the complete investigation after equalizing the influences exeruted by each school, suggests that fan-ventilat-
+
+Digitized by CjOOQle
+395
+
+ed rooms of the type represented in this study, kept at temperatures averaging between 68 degrees and 69 degrees F., are productive of an excessive amount of respiratory illness as compared with rooms ventilated by windows and gravity exhaust kept at 66 degrees to 67 degrees F. The absence rate from respiratory illness in the fan rooms is 11.1 as against 9.4 for the window rooms. The illness rates among pupils present in school is 73 for the fan rooms as against 43 for the window rooms.
+
+“Expressed in the form of a ratio, for every 100 absences from this cause in the window rooms, there are 118 absences in the fan rooms, or an excess of 18%. For every 100 illnesses among those present in the window rooms, there are 170 in the fan rooms, an excess of 70%.”
+
+From the foregoing, it is seen that the discussion has been narrowed down to window-gravity vs. fan-ventilation, in rooms with moderate temperature.
+
+When two years of school ventilation studies (1926-1928), of the revived Commission in Syracuse and Cattaraugus County, New York, did not entirely confirm the conclusion of the earlier studies, the writer reviewed the reports of those early studies and presented his findings to the Commission at their meetings in November and December, 1928. His suggestions were rejected, but in the interest of scientific truth and for the peace of mind of those school boards, architects and engineers who might fear that in specifying mechanical ventilation of schools they are endangering the health of the pupils, and to reassure parents who are forced to send their children to mechanically-ventilated schools, those findings are presented here in summarized form at this time.
+
+Stated briefly, there is no evidence that the higher rates of respiratory illness, reported from the fan-ventilated rooms in the school ventilation studies in New York City schools during 1916 ahd 1917, were due either to the type of ventilation or to the slightly higher mean temperatures that were observed in the rooms with that type of ventilation.
+
+The following observations are offered in support of that statement:
+
+1.	The rooms included in the studies were not selected in pairs in order to eliminate as far as possible the variable effects of differences in the age, sex, and racial characteristics of the pupils exposed to the different conditions studied:
+
+2.	There were marked differences in the social and economic status of the families represented by the pupils in the several schools;
+
+3.	The determinations of respiratory illness among the pupils present were made by nine nurses during the first study and fourteen during the second;
+
+4.	Variations in the incidence of respiratory illness among pupils is not exclusively related to variations or differences in the air conditions created by different types of school ventilation.
+
+Digitized by Google
+396
+
+For that reason, among others, respiratory illness is not a satis-tory criterion.
+
+Certain essential data relating to the sex distribution of the pupils in the various classrooms of the second study were lost between the time of their collection and the date of publication of the report, and this discussion must, therefore, be limited to the first study, but, by reason of the fact that the fan-ventilated rooms as a whole had a far higher percentage of girls than did the window-ventilated rooms during Doth studies, and the ratios in the two years are fairly constant, as shown in Table 1, it appears not inappropriate to discount the implications based on Doth studies, on the findings from the first alone.
+
+Comparisons must be restricted to classrooms in the same school in order to eliminate to the greatest possible degree, the effects of the differences in the social and economic status of the pupils attending the different schools, described by Doctor Baker as follows:
+
+“The general type of children under observation included those of Russian, Italian, Irish and American descent, and of a social status that ranged from the well-to-do who live in comfortable homes, in sanitary surroundings, to the extremely poor, shiftless and ignorant type, where the children receive no home supervision or hygienic care.”
+
+This precaution also has the effect of compensating in a measure the otherwise dominant variable in the rates of respiratory illness among the pupils present—a criterion for which no standards exist—the personal equation of the observers.
+
+However, a test with six pairs of nurses conducted by the writer in Syracuse schools in the spring of 1928, showed the closest agreement between any two nurses, examining the same group of pupils to determine the prevalence of respiratory illness among them, was 1 in 3, the average for the entire group was 1 in 5; the lowest was 1 in 9. It is on this finding that the writer bases the opinion that at the present time, respiratory illness is not a satisfactory criterion for judging the effects of classroom air conditions on the health of school children, and that determinations of respiratory illness made by different persons are worthless for comparative purposes. Comparisons between the rates reported by different observers must, therefore, be avoided.
+
+Only four of the eight schools included in the first ventilation study in New York City, 1916, had classrooms representing both of the two types of ventilation being studied. The sex and the grades of the pupils occupying these classrooms are shown in Table 2, which was compiled from the data presented on pages 602 and 603 of the Commission’s report.
+
+This table reveals the fact that in the first study, there were but three instances in which pupils of the same grade and sex distribution were exposed to the different conditions in the same school: Fourth grade boys in P. S. 2, Bronx; fifth grade girls in P. S. 59, Manhattan; and fifth grade boys in P. S. 165, Manhat-
+
+Digitized by (^.ooQLe
+Table 1. Sex Distribution of the Pupils Exposed to the Two Types of Ventilation
+
+School Ventilation Study—New York, N. Y., 1916-1917
+
+Percent Girls
+
+Type of Ventilation	First Study Second Study
+
+1. Window-Gravity	37	31
+
+2.	Mechanical	60	.	54
+
+Ratio girls in classrooms with mechanical
+
+ventilation to those in window gravity rooms;—
+
+Percent .................................  162	174
+
+tan. It also shows that there were but six other instances in which pupils of the same grade, but not of the same sex distribution were exposed to the different types of ventilation in the same school: Third and fifth grades in P. S. 2, Bronx; fourth grade in P. S. 22, Manhattan; fourth' grade in P. S. 59, Manhattan, and two instances in the fourth grade of P. S. 165, Manhattan.
+
+In two of these six instances (fourth grade, P. S. 165, Manhattan), window-ventilated rooms occupied by boys exclusively served as controls for fan-ventilated rooms occupied by mixed groups; in one (fifth grade, P. S. 2, Bronx), a window ventilated room occupied by girls exclusively was used as a control for a fan-ventilated room occupied by boys exclusively; in the three other instances, window-ventilated rooms occupied by mixed groups were used as controls for mechanically-ventilated rooms occupied by boys or girls exclusively.
+
+The summary shows that out of a total of twelve window-ventilated rooms, two, or 16.7%, were occupied by girls exclusively, while for the fan-ventilated rooms the figures are 16.9 and 56.2%, respectively.
+
+Of course, a study of eight weeks’ experience in three pairs of rooms, to which this method of treating the data restricts comparisons, is by no means of sufficient length or breadth to serve as a basis for any general conclusions as to the relative healthfulness of different methods of school ventilation, but it was interesting to learn that in the two of the three instances where, by virtue of the fact that they were similarly occupied, comparison is possible between results in one room with each type of ventilation, the window-gravity room reported the lower rate of absenteeism due to respiratory illness in one school (P. S. 165, Manhattan), while the fan-ventilated room reported the lower rate in the other school (P. S. 2, Bronx). In the third instance (P. S. 59, Manhattan), where five fan-ventilated rooms served as controls for a single room with window-gravity ventilation, two of the rooms with mechanical ventilation reported lower rates of absen-
+
+Digitized by
+398
+
+teeism due to respiratory illness than did the single window-ventilated room, and three higher. F the standpoint of absenteeism reported due to respiratory illness, this is just as even a result as was possible with the set-up.
+
+In five of the six instances in which pupils of the same grade, but not of the same sex distribution, were exposed to the different conditions in the same school, the room with the higher percentage of girls reported the higher rates of respiratory illness absenteeism, regardless of the type of ventilation. In the sixth instance (P. S. 22, Manhattan), in which three mechanically-ventilated rooms occupied by girls exclusively, served as controls for a single window-ventilated room occupied by a mixed group, one of the three mechanically-ventilated rooms occupied by girls exclusively, reported a lower rate of respiratory illness absenteeism than did the window-ventilated control occupied by pupils only 23% of whom were girls.
+
+Table 2. Grade (Age) and Sex Distribution of Pupils
+
+In Rooms of Schools Having Some Rooms with Mechanical-and Some With Window-Gravity Ventilation. First School Ventilation Study—New York City, 1916
+
+By Type of Ventilation
+
+Grade and Type of Ventilation*
+
+Sex
+
+Public Distribution
+
+School of Pupils		2	3			4		5	Total
+		B C	B	C	B	C	B	C	B C
+2 Bronx	Boys		 		—	1	1	1	—	1	1 3
+	Girls		 		—	—	—	—	1	—	1 —
+	Mixed		 —	1	—	—	—	—	—	1 —
+22 Man.	Boys				 							—	—	—	1	—	1 —
+	Girls		 		—	—	—	3	—	—	— 3
+	Mixed		 		—	—	1	—	1	—	2 —
+59Man.	Boys								
+	Girls		 		—		.	—	1	1	5	1 6
+	Mixed	1 —	—	—	1	—	■—	—	2 —
+165 Man.	Boys		 		—	—	2	—	1	1	3 1
+	Girls  Mixed		 				1			2					— 3
+Summary: Boys			 		—	1	3	1	2	2	5 4
+A114	Girls					4	2	5	2 9
+Schools	Mixed	1 —	1	1	2	2	1	—	5 3
+Total		1 —	1	2	5	7	5	7	12 16
+
+*B—Moderate Temperature, open window C—Moderate Temperature, fan-ventilated, closed window.
+
+Digitized by v^ooQle
+399
+
+The conclusions to be drawn are:
+
+1.	Girls of elementary school age suffer more frequently from absence-causing respiratory illness than do boys of the same age groups (this fact has since been reported by others.)
+
+2.	The higher rates of respiratory illness attributed to central fan-ventilation as a result of these studies, were in all probability due to differences in the sex distribution of the pupils, in view of the fact that when the results were summarized without regard for the factors of age, sex, race and social status of the pupils, 56% of the mechanically-ventilated rooms were occupied by girls, whereas less than 17% of the window ventilated rooms were so occupied.
+
+3.	The type of ventilation is probably not, of itself, a factor in the incidence of respiratory illness among school pupils.
+
+4.	The thesis that the slightly higher temperatures noted in the fan-ventilated rooms and advanced as the most probable cause of the higher respiratory illness in such rooms appears unwarranted in the light of this interpretation of the results (this finding has also been confirmed by later studies.).
+
+Need we go further?
+
+Perhaps just far enough to say that all of the other studies, whose findings have been cited as confirming the conclusions of the former New York State Commission, involve other uncompensated variables which very materially affect the results. Only in the Commission’s air-change studies in Syracuse and New York City, and in the study of window gravity versus unit ventilation in New York City during the school year 1928-29, have certain of these variables been brought sufficiently under control. The findings of these studies have not yet been released for publication by the Commission.
+
+Future workers with a more appropriate and accurate measuring device may show the air conditions created by one type of ventilation to be more conducive to the health of the pupils than another but, for the moment, there is no reliable evidence upon which to base such a conclusion.
+
+This declaration must not be interpreted as a license to install any hodge-podge system of mechanical ventilation, nor must it be construed as sanctioning the removal of all regulation of classroom air conditions. It does mean, however, that comfort is as good a criterion as any at present for judging the effect of ordinary air conditions on health, and that engineers and architects are justified in recommending, and school boards justified in installing in schools under their control, the most highly perfected system of ventilation that will be intelligently operated, if they believe the advantages of such a system to be truly economical of time and money.
+
+Digitized by
+400
+
+GIRLS’ AND WOMEN’S WORK DURING MENSTRUAL
+
+PERIOD,*
+
+In a recent issue of “The Lancet” Dr. Alice Sanderson Clow contributes an article on modem technique in treating early menstrual disturbances. She points out the great importance to a girl that her guardians and medical adviser should realise that the function should be free from any pathological disturbance from its onset. Much propaganda is still needed to make school authorities rescind rules restricting the natural activities of children during menstruation, and to allow cycling, games and gymnastics. Similarly, employers must continue to be urged to provide enough opportunity for vigorous exercise for those women in industry whose work is sedentary or involves much standing. We know of one factory where not only is the provision for recreational activity ample, but a group of dysmenorrhoea cases, comes under the Works gymnasts for regular treatment with selected exercises, which are yielding satisfactory results. It is thanks largely to the enthusiasm and researches of Dr. Alice Clow, Prof. Winifred Cullis, and other women investigators that the Victorian attitude to menstruation has gone for good. A leading article in April 7th issue of “The Lancet” points out how the invasion of every kind of industry by women workers has been a massive experiment proving that the period does not mean a noticeable degree of invalidism for the great majority. “The Lancet” continues:—
+
+“With the introduction of applied psychology, and the tests of accuracy and speed perfected by workers in that field, came the opportunity for unimpeachable scientific proof of the degree of disability, if any, imposed by the process of menstruation. Prof. Cullis and Dr. Clow made inquiry into the subjective condition of their material and into certain physiological phenomena, such as the temperature and pulse-rate. Dr. Hollingworth, in the United States, went further and set certain definite tests, concluding that the menstrual cycle has no effect on the mental and muscular efficiency of normal women. Miss S. C. M. Sowton, under the supervision of Dr. C. S. Myers, has just published the results of a careful investigation into the influence of normal menstruation in a representative sample, including thirteen university students and sixteen factory operatives.
+
+“The inquiry included a simple number-checking test, a spearing test, and McDougall’s dotting test. The difficulty of keeping the subject unaware of the purpose of the inquiry was ingeniously overcome by asking her to note a number of factors, such as the state of the bowels and the degree of fatigue or excitement. Among the list of seventeen factors the presence or absence of the monthly period attracted no especial attention. This record also served to bring out the tremendous importance of psychological factors in improving or impairing efficiency. In
+
+•Reprint from School Hygiene and^Physical Education, England.
+
+Digitized by LjOOQle
+401
+
+fact, it was found best in the end to study each subject’s performance separately and in detail. The results of the tests were carefully plotted and some of them were submitted to a thorough statistical analysis. Efficiency at the spearing test proved to be largely a matter of manual skill, and to show itself in girls who were good at games and had a lively sense of rhythm. The number-checking was more useful, calling for quickness of eye and hand combined with concentration and memory. Included in the same report is the result of an investigation by Miss E. M. Be-dale on a number of physiological conditions during the menstrual cycle, in an attempt to throw light on the vexed question of the alleged periodic rhythm of a woman’s physiology.
+
+The results of the efficiency test laid stress on social status as ap important factor. No correlation was found between the subjective record of feeling fit or unfit, and the degree of efficiency revealed by the tests. It was found that the lowering of efficiency was never greater than that which might occur from other reasons between the periods. There was some indication of influence at the middle of the inter-menstrual period and still more in the pre-menstrual week. This corresponds with Miss Bedale’s conclusion that there is a reduction of functional activity shortly before menstruation, while a general heightening occurs late in the intermenstrual phase. Temperature, basal metabolism, vital capacity, respiration, and pulse-rates, blood pressure and capacity for work, all showed this increased activity; the records of the basal pulse-rate and basal blood pressure were, however, inconclusive. This variation is not more than 5 per cent below and above normal. Miss Bedale therefore agrees with her colleagues that there is no reason to think that the fundamental physiological rhythm of a woman affects considerably or constantly the quantity or quality of her work. The combined results of the two investigations should go far to convince the public mind that menstruation has, as a rule, no noticeable effect on working capacity among normal healthy women. That there are women who find their monthly periods a more or less heavy burden no one will deny, and the individual variations are clearly shown by the report. The point for employers and doctors to remember is, that an appreciable lowering of efficiency is to be regarded not as normal and inevitable, but as pathological and calling for special consideration.”
+
+INFLUENCE OF GYMNASTICS ON FEMALE CONSTITUTION, ON MENSTRUATION AND ON CHILDBIRTH
+
+Diintzer and Hellendall gathered information from 1,500 female participants in a gymnastic contest. The ages of the women ranged between 15 and 38. Classification into four constitutional types showed that the largest number belonged to the muscular type; then followed the respiratory, the cerebral and the gastric types. Pelvimetry revealed that the majority of these highly
+
+Digitized by v^ooQle
+402
+
+trained women had comparatively small pelves. However, the authors point out that this is not the result of the bodily exercises but is rather due to the fact that women who are interested in athletics are usually not of the type that have a large pelvis. The majority of the women who had given birth stated that during pregnancy they had continued at least the lighter forms of exercise. Some of them had discontinued their gymnastics during the later months of gravidity, whereas others continued them to the end. The confinement had been easy in all cases except one. In the latter instance a complication had developed, which, however, had not been caused by the exercises. The authors further discuss the influence of gymnastics on menstruation. They give tabular reports showing that the majority of women continued their exercises during the menstrual period. The others discontinued the training either partly or entirely. Concerning the quality of the gymnastic work during the menstrual period, it is stated that in more than 61 per cent it was either the same as or better than usual whereas in others the efficiency was somewhat reduced. Another table shows how much the menstruation was influenced, either favorably or unfavorably. The majority of the women who reported unfavorable effects stated that the harmful effects could be traced to strenuous exertion. The authors also direct attention to the effect of unusual thermic influence. Some women stated that their menstruation became more painful when outdoor exercises were performed on cold days. It was also observed that, of fifty women who suffered a heat stroke during a gymnastic festival, twenty-five were in the menstrual period. The authors came to the conclusion that a healthy woman who is accustomed to exercises may continue gymnastics and sports during menstruation. They state, however, that on the day before menstruation the exercises should be somewhat limited. On especially hot or cold days, strenuous outdoor activities should be avoided. The establishment of records should not be attempted during menstruation.—Reprint, American Medical Journal.
+
+DEMOCRACY AND LAW*
+
+Extracts from the yearly report by Dr. Nicholas Murray Butler as president of
+
+Columbia University.
+
+“There is an odd but widespread opinion, found not only in the United States but in other lands as well, that distinction of person or manner or dress is somehow out of place in a democratic society. “The fact of the matter is that democracy, for its fullest flower, requires distinction of manner, of speech and of dress more than does any other form of society. In that popular
+
+*Note. Many points raised by Dr. Butler in his annual report should be of intense interest to all teachers who are endeavoring to use physical education materials for citizenship training. Editor.
+
+Digitized by LjOOQle
+403
+
+form of impossibility which is described as the leveling process, there is an alternative mode of procedure—men may attempt to level themselves up or they may attempt to level themselves down. If they choose to attempt to level themselves down, democracy will sooner or later disappear into ochlocracy, and this is always the forerunner of a new despotism. The more serious and seductive of the two powerful attacks which are just now being made upon the foundations of democracy finds its strength in the conviction that democracy as it has presented itself in the western world cannot escape ochlocracy, which is merely mob rule.
+
+“The cruel subterfuge of false democracy has misled millions upon millions and has closed their eyes to the fact that the democratic system which cannot produce an aristocracy of its own for its ornament and its service is certainly doomed. After all the changes and happenings of a century, during which time the democratic system has exhibited its power in many different forms and in every part of the world, there has been no wiser or sounder description of its meaning than was given by Mazzini when he said of democracy that it is “the progress of all through the leadership of the best and wisest.” Democracy’s aristocracy is not one of birth, of inherited privilege or of wealth, but it is one of character, of high intelligence, of large knowledge, of zeal for service, recruited from the bosom of democracy itself. Under the operation of the law of liberty, true democracy will open the way to the upbuilding of an aristocracy that is all its own as well as its chiefest ornament.
+
+“The cure for false democracy is true democracy. It is not, and cannot be, the return to despotism under any form, however attractive that may appear to be. Privileged individuals and privileged classes sooner or later become preying individuals and preying classes.
+
+“Still another hallucination of false democracy is that a majority has rights and that by the voice of a majority matters of principle are finally determined. This is utter nonsense. No majority has any rights whatever. The individual has rights and a majority has privileges. It has the privilege of determining who shall be chosen to serve it in public place, and it has the privilege of determining what policy or course of conduct shall next be entered upon, but it has and can have absolutely nothing to do with the determination of true or false, right or wrong, moral or immoral, beautiful or ugly.
+
+* * *
+
+“As was pointed oht a year ago, not everything which comes clothed in the garb of law is really law. To get at law one must go behind constitutions and statutes and judicial decisions and find out what public opinion has to say about any or all of these. Law is only one mode and method of social control, and there are at least two other modes which are superior to it. The first is the conduct and manners of a gentleman, and this includes the
+
+Digitized by ^ ooQle
+404
+
+second, which is conduct according to the highest standard of morals. Those persons whose lives are guided and fashioned by either of these modes of social control are on a much higher plane than if they were merely law-abiding.
+
+“This is one reason why the widely heard cry for law enforcement is so meaningless. It usually reflects merely the demand of the fanatic for the punishment of violators of some particular law in which he is interested. If law enforcement meant the enforcement of all law, then the social order, at least in the United States, would quickly be afflicted with paralysis,
+
+Krtly because of the absurdity of many of these laws and partly cause of their open conflicts with each other.
+
+* * *
+
+“There is no ground whatever for the conventional statement that violation of one law, or disrespect for it, leads to the disregard of all law. The contrary is the case. Lawlessness is selective, and unbroken human experience gees to prove that a man may hold one law in utter contempt and yet have high respect for the great body of law of the land in which he lives.
+
+“It is well that this discussion should go on and that more and more men should come to see how tapgled the situation really is and how difficult it will be to find escape from it save by a pretty complete reconstruction of prevailing popular conceptions of law and lawlessness. The purely legalistic mode of approach and the purely legalistic point of view will get us nowhere. To make real progress there must be such searching examination of the foundations and content of our whole legal system as that upon which the Faculty of Law has entered so energetically.
+
+* * *
+
+“When one observes the defiance of the Constitution for a decade by the Congress of the United States in order that it may protect a part of its present membership, or the constant breaking over of its constitutional limitations by the United States Senate in order to gratify its whims or to flatter its vanity, and when one observes the courts themselves whittling away at the foundations of the law and government from fear of noisy and pestilent groups, and yet all of these all the while proclaiming the supremacy of law and demanding law enforcement, one recites to himself these words of John Bunyan:
+
+“Some things are of that nature as to make
+
+One’s fancy chuckle, while his heart doth ache.”
+
+Digitized by CjOOQle
+405
+
+ON DENTAL DISEASES*
+
+(Continued)
+
+By C. Bowdler Henry
+
+(We are indebted to the New Health Society England for permission to publish
+
+this article)
+
+Part II
+
+Unsuitable Diet
+
+The harmful effects of unsuitable feeding are both indirect and direct. In the first place the growth of the upper jaw, which is so important to the ultimate arrangement of the teeth, in its initial stages can only be attained fully by breast feeding. In recent years the advent of the boat-shaped bottle and improvement in design of the teat have done much to disperse the mechanical evils of artificial feeding. An infant at the breast does not suck. It munches the nipple and swallows the milk which has been thus expressed. In this early stage of its life a baby’s bones are soft and easily moulded by muscular action. Any form of feeding, which necessitates sucking, causes the palate to be pinched by pressure of the cheeks and leads to the formation of a contracted arch of teeth, with the attendant difficulties of cleansing.
+
+The breast is the proper medium on which an infant’s jaws should be exercised, and should invariably be preferred to any substitute. Furthermore, so far as diet is concerned, the assimilation of lime salts for the proper formation of the teeth must surely be easier from an infant’s natural diet than from any substitute, many of which have been proved definitely to be harmful in this respect.
+
+In parenthesis, attention is called to the “dummy” or “comforter” which, fortunately, is disappearing from the nursery. In France its manufacture and sale has now been forbidden by law. Dummy-sucking, thumb, finger, tongue, or toe-sucking, if persisted in, will invariably pull a baby’s jaw out of shape, and should be firmly prevented.
+
+Mastication
+
+At the time when the teeth are beginning to be cut, and onwards, the child should be allowed to exercise its jaws upon such resistant substances as a crust of wholemeal bread or a chicken bone. Later on, a hard tough diet is to be preferred to a soft one. Children should be encouraged to masticate their food thoroughly. The tough diet and the exercise of their jaws both tend to develop a good arch of strong teeth. So far as the articles of diet are concerned, from what has already been said, the careful reader will have deduced that a diet which leads to
+
+'Reprint from “Physical Education Bulletin,’' England
+
+Digitized by CjOOQle
+406
+
+stagnation of food around the teeth is a potential source of greater harm than one which is quickly and easily removed during mastication and does not linger in the crevices of the teeth. As a famous dental surgeon once put it, the most harmful portions of our diet are the soft, sticky, starchy and sugary foods. White flour, especially in the form of sweetened cakes or biscuits, is preeminently harmful to the teeth. It is glutinous, when moistened by the saliva, and tends to stick to the teeth, where the sugar and starch contents of it are fermented into destructive acids. The pernicious practice of giving a child food in bed, especially bread and milk or biscuits and sweets, is culpable. During the night the salivary currents are stilled, the jaws are not active, and the fermenting food is enabled to remain undisturbed in the teeth.
+
+Biscuits And Sugar
+
+Add to this the habit of mouth-breathing, which interferes still further with the salivary lavage of the mouth, and it is small wonder that very few teeth escape destruction by decay. Biscuits produce a typical form of decay, which, as might be es-pected, involves mostly the crowns of the molar teeth. We all know, for example, how, after eating a gingerbread biscuit, a large residue is left in the crowns of these teeth and how our tongue wanders around from one to another endeavouring to dislodge it.
+
+Sugar alone, on the other hand, be it in the form of boiled sweets, chocolate, or sweetened dishes such as stewed fruit, forms a solution in the saliva and tends to hang as a droplet between the individual teeth. Sweet-eating, accentuated by mouthbreathing, always presents a typical picture, namely, of decay occurring between the teeth, especially the front ones.
+
+The next point of consideration in diet is the mechanical cleaning of the teeth by the friction of the food during mastication. Foods, therefore, which encourage prolonged mastication and which contain a tough and fibrous element, are beneficial. Wholemeal flour is better than white flour, because it is not so glutinous and is more easily washed away by the saliva, and also because of its bran element, which, being tough, requires more thorough use t)f the jaws to masticate it and acts upon the teeth as a scouring agent. Other fibrous foods such as salads, fruit and celery, are similarly useful.
+
+Fruit
+
+Fruits are useful in another way. We all know how the thought of lemons makes our mouths water. The action of the acid fruit juices in the mouth is to cause a reflex abundant flow of watery saliva, which is alkaline, in order to neutralize them. To finish off a meal by eating a hard, sharp-tasting apple is thrice beneficial. Firstly, the coarseness of the skin and pith have a definite cleansing action; secondly, the sharpness, or acidity, promotes a profuse flow of saliva, which mechanically washes food debris and sugar solutions away from the teeth; and thirdly,
+
+Digitized by boogie
+407
+
+the alkalinity of saliva counteracts not merely the acidity of the fruit juice, which may be regarded as harmless to the teeth, but it also neutralizes the harmful acids produced by fermentation.
+
+A bland diet, as typified by a terror of the tea tray, which is, I believe, called seed-cake, is everything that is harmful. It is composed of soft sugary white flour. It adheres to the teeth, and its blandness fails to excite a flow of saliva, so that stagnation is still further favoured.
+
+So much for the local and mechanical effects of diet. The general effects operating by assimilation of the food upon the structure of the teeth themselves are even more subtle and no less potent.
+
+There is every reason to believe that the teeth, like the bones, are continuously nourished, and that by very slight changes in the diet they can be made harder or softer, more resistant to decay or less so.
+
+Growth And Lime Salts
+
+So far as the growth and development of the teeth are concerned, the research work of Mrs. Mellanby, extending over a great number of years, has demonstrated clearly and emphatically that in certain articles of diet there are substances, vitamins, which influence very materially the growth and calcification of the developing teeth in a child. Their function is to assist the body in making the fullest use of the lime salts in the foods. If these vitamins are absent, a greater amount of lime-salts must be ingested in the food; but even then the structure of the teeth is not so good as when the helping vitamins are present. Foremost among foods containing vitamins is cod liver oil. When it is added to the diet, poor in every tooth-forming respect, of pup-
+
+Eies, for example, the teeth which are formed are fine, strong and ard, with white glistening enamel. Puppies of the same litter fed upon the same diet without the cod liver oil, have poorly formed teeth, soft, structurally badly made, with rougher discolored enamel. Other puppies of the same litter fed upon the same diet but with the addition of a large amount of lime-salts, have teeth intermediate between these. The results of these experiments point therefore to the value of cod liver oil as a regular addition to the food from infancy upwards.
+
+A second of Mrs. Mellanby’s observations is that when the child suffers from rapid decay of the teeth, the institution of a course of regular small doses of cod liver oil appears to harden the teeth, and the incidence of decay rapidly diminishes. Lastly, so far as prenatal influences are concerned, it is well known that the developing child in the womb absorbs for its growth a great deal of lime from the mother. In some cases her bones, by the loss of lime-salts, become soft, and even bend under the weight of her body. Her teeth also appear to share in this resorption of lime, for it is well known how prone to decay are the teeth of a pregnant woman. Every expectant mother, therefore, should
+
+Digitized by v^ooQle
+408
+
+take, if she can do so, cod-liver oil, so that she may assimilate from her food as much lime as possible. To bring up children with a full set of healthy teeth, set in perfect alignment itt wide, fully functioning jaws, is not an unattainable ideal. Dental surgeons themselves have done it with their own offspring. I knew one with a family of three children—all of them with perfect teeth—all, alas, until the eldest child went away to boarding school at the age of 15. After two terms she acquired decay in two of her teeth. Evidently, faulty diet and insufficient opportunity and encouragement to perform the requisite cleansing of the mouth after taking food, coupled no doubt with indulgence in formerly forbidden sweets, provided the conditions necessary for the formation- of decay. Another dental surgeon, a pioneer in diet reform for the prevention of dental decay, brought his son up from infancy to manhood with a perfect set of teeth and an absolutely clean mouth. Yet this boy never used a tooth brush: The secret appears to be breast-feeding in infancy, the avoidance of adenoids leading to mouth-breathing, a diet consisting of hard, coarse elements, with a plentiful supply of uncooked fruit and vegetables, and a total elimination, so far as is possible, of the soft sticky, starchy, sweetened foods.
+
+The Expectant Mother
+
+When a motheris expecting a child she should visit her dental surgeon at least three times during the pregnancy to take his advice upon the extra care of her own teeth and to receive helpful instruction on the care of the future baby’s. When a child is three years old the first visit to the dentist should be made. Even though the teeth appear white and sound, a great deal of helpful advice may be obtained upon diet and mouth hygiene. Even at this early age, signs may be detected of approaching undergrowth or deformity of jaws, which will assuredly lead to trouble later, and measures may be taken to avoid or circumvent them.
+
+Hygiene Of The Mouth
+
+Provided that the teeth are perfectly normal in structure and alignment and that efficient nasal respiration is present, by simple attention to the diet it is possible for the teeth to keep clean of their own accord. Any factor, such as mouth-breathing, faulty diet or misplacement of the teeth, which interferes with the selfcleaning action of the mouth, renders artificial measures of hygiene necessary.
+
+In this connection it should be mentioned that the teeth of each jaw are like bricks in an arch, and, if one be lost, movement takes place in those which are left. The disadvantages which accrue are that the teeth adhacent to the gap left by the missing tooth, incline towards one another, and stagnation of food occurs under the tilt of their crowns. In the normal circumstances of a full set of teeth, each tooth closely abuts upon its neighbour and the wedging of food between them is prevented. When a tooth is lost, the teeth on each side of the gap become slightly
+409
+
+spaced and food is apt to wedge between them and their further neighbours. If this food-stagnation continues, sooner or later decay, or pyorrhea, or both, occur in these places. It may be a matter of years, but ultimately the trouble becomes evident. Thirdly, a tooth lost in one jaw leaves a part, or whole, of a tooth in the opposing jaw functionless. It has nothing upon which to chew, whereby it loses the valuable cleansing of mastication and food stagnates upon it. In due course it, too, becomes unhealthy.
+
+So evident has this become, that in children it is the recognized practice of a great many dental surgeons to remove the opposing tooth, even if sound, at the time that the decayed tooth is extracted.
+
+In this country in adults this treatment is considered too drastic. In childhood, under suitable conditions, where judicious extraction has been performed, the gaps will close up, or new teeth will come to fill them. In adult life the gaps remain, only par-tia ly closing by tilting of the teeth. In America, where the general public is much more alive to the advantages to be gained by expert dental advice, this undesirable tilting and drifting of the units of the dental arch is fully recognized, and the patients themselves demand that, if a tooth be lest, it should be replaced by some artificial restoration, not because it is needed for mastication, but to keep all the other teeth in their proper position for functioning.
+
+The care of the teeth and the necessary hygienic measures will vary, therefore in each individual. But in all of us the end to be achieved is the same, this is, the avoidance of stagnating food. If the scouring action of mastication, coupled with the movements of the lips and cheeks and tongue, fails to keep the mouth free of food residue around the teeth, then artificial methods of cleansing must be adapted. With the modem sticky, carbohydrate-laden diet, no mouth will keep naturally clean.
+
+First, then, correct the diet. Leave out the soft, starchy, sticky and sugary foods. Replace them by coarser and more fibrous foods. Let a meal be finished with some cleaning article of diet, such as a hard apple or celery. Avoid eating sweets or biscuits between meals. Finish a meal, say, an hour or longer before retiring. On no account should healthy children be given supper, such as bread and milk, in bed. So far as active measures of cleaning are concerned, it is wiser for an individual to take his dentist’s advice hereon. As a rough guide, however, it may be stated that the teeth and gums should be gently, though thoroughly, brushed immediately after each meal. Facilities in offices and schools should be given for this purpose. The teeth, then, should be cleaned after breakfast, not before it. If the teeth were cleaned after the last meal the night before, no brushing is necessarry upon rising. Simple rinsing will suffice to freshen the mouth. Where facilities for cleaning are not to be had, a thorough rinsing with water at least can be done.
+
+Digitized by AjOOQle
+410
+
+When brushing the teeth, a small brush, allowing freedom of movement, should be used, and the motion should be that employed in cleaning a window—that is, a rotary one, round and over the gums as well as the teeth. Vigorous cross-brushing with a lot of noise and palaver, is both unnecessary and actually injurious to the gums. If the gums bleed upon gentle brushing even with a stiff brush, it indicates a condition of engorgement due to inflammation and shows that the seeds of pyorrhea have probably been sown. The teeth should be brushed inside, outside, and upon their grinding surfaces. By doing this thoroughly and by wriggling the bristles into all the nooks and crannies, all the food left in the mouth is removed, except that which is actually wedged in between the teeth, or under the crown of a tilted tooth. To remove this residue—and the spaces in which it is stagnating are the most vulnerable ones in the mouth—it is necessary to follow the brushing, first by thorough rinsing, and then by the use of dental floss silk or some similar thread. The process of cleaning the spaces between the teeth with silk is a tedious one at first, but with practice it becomes very much less so, and can and should be penormed at least once a day. Indeed, it might almost be true to say, that of the two processes, it is more important to clean between the teeth with the silk, than to brush the outer surfaces with a brush.
+
+A word about rinsing-—the average person does not rinse the mouth properly. When the mouth is rinsed the water should be vigorously forced outwards into the cheeks and back again, time after time. Endeavour should be made to force it through the spaces between the teeth, to remove any sugar solutions which may be hanging there. To take a mouthful of fluid and roll it gently round the mouth, once, before it is ejected, is useless.
+
+PHYSICAL AND HEALTH EDUCATION
+
+A Course given at the University of Hawaii, January to June 1929, involving the presentation and discussion of the fundamentals underlying physical education, health education and recreation.
+
+(Continued from last month)
+
+By William A. Stecher, Instructor in charge.
+
+(PROJECTS Continued)
+
+B.	HEALTH EDUCATION PROJECTS
+
+8.	THE CONSTRUCTION OF A MINATURE HEALTH
+
+HOUSE
+
+A project for the upper grades
+
+Children usually crave for productive expression. They like to do things with their hands. Nothing, therefore, appeals to them more than the construction of a model house.
+
+Aim: To instill into children the value and need for a well planned house and the effect of such a house upon their health.
+
+Digitized by L^ooQle
+411
+
+Procedure: Excursions visit the “House on Wheels” or any well planned house in community. Study styles of houses and their effect upon health. Bring pictures of houses. Study plans of houses, and their effect upon health. Note the arrangement of different rooms. Study the location of house and its effect upon health, elevation of land, drainage, sunshine, etc.
+
+Construction of Model: Materials—use of packing boxes; use of sample wall paper; use of waste pieces of linoleum.
+
+Construction of Furniture: Material—cigar boxes; chalk boxes.
+
+References: Toy Craft—Leon H. Baxter, Boy Activity Projects—Blackburn.
+
+9.	BEAUTY PARLOR SHOP
+
+A project for care of the hands
+
+This is a good project to try when pupils in a class bite their finger nails.
+
+Choose five or six girls interested in the work, for manicurists. Help them choose an inexpensive manicuring set—a cutex set, a nail file and a bottle of “Tljanx” to paint the nails of the biters. Perhaps one can donate a finger nail scissors. If the workers charge five cents a manicure, the trade will be sufficiently large to pay for materials bought and to make a small profit. If the pupils are willing, make a contest of the project, giving a cutex box as a prize to the one whose hands show the greatest improvement during a stated period. This will necessitate an examination of hands at the beginning and at the end of the contest, the members of the entire class acting as judges and choosing the winner by popular vote.
+
+10.	THE HISTORY OF MARY ANN’S TEETH
+
+A play for twenty to thirty-two children
+
+Let each child represent a tooth, tell when it erupted, how it was treated, its uses, composition, formation, visits to the dentist, etc. The play may end with a concert, poem or song about uses and care of the teeth. There are always two or three poetically inclined pupils in the class who may be asked to contribute verses. When speaking, each child should carry a large cut-out picture of the tooth he represents.
+
+11.	A STRIKE OF THE VITAL ORGANS
+
+A Play for the upper grades
+
+The play is to be worked out by pupils of the Seventh or Eighth grade. Heart, Lungs and Stomach meet and make serious complaints about the way their owner uses them. After a long discussion they agree to refuse to work until they receive better treatment from their owner. This, of course, means serious illness, followed by a complete reform in the health habits of the
+
+Digitized by t^ooQle
+412
+
+offending individual. Allow the pupils much liberty in writing the play and in its production.
+
+A Strike of the Sense Organs can be worked out similar to the above.
+
+12.	A HEALTH BOOK
+
+A project for the lower grades emphasizing health habits relating to food
+
+1.	Make a scrap book of clippings of pictures of vegetables
+
+2.	Learn the following verses; find appropriate pictures and paste them in the book.
+
+(a)	Here’s to your good health and mine,
+
+When made with milk, hot soup is fine,
+
+Put peas or spinach in and see
+
+How good 'twill be for you and me.
+
+Variation:
+
+Same first and second lines, except use “cocoa" instead of “soup” *
+
+For coffee fails and also tea To bring good health to you and me.
+
+(b)	We eat some things to make us grow Some things to make our engines go Some to make us well and fit
+
+So	we can climb up bit by bit.
+
+Variation:
+
+Same as first verse (a)
+
+To end a meal, some pudding’s fine The best are made with milk, you know,
+
+The food that helps us all to grow.
+
+Variation:
+
+Same first two lines, except "hard toast” instead of “soup”
+
+See how we chew and chew and chew So children always ought to do.
+
+Other verses maybe composed by teacher.
+
+13.	PLAYING HOUSE
+
+Projects for the lower grades
+
+A.	Let Mother and Father get the children up, give them water to drink, have them clean their teeth, bathe, clean fingernails, dress, brush hair and eat a suitable breakfast.
+
+B.	Play at cleaning house, sweeping, dusting, airing bedclothes, making beds, bringing in flowers to make house attractive, etc.
+
+Digitized by v^.ooQle
+413
+
+C.	Play going shopping, selecting suitable foods and giving reasons for selections.
+
+Other members of class can have the foods for sale, which may be purchased or rejected.
+
+D.	Play giving a birthday party, choosing
+
+suitable games to play, and suitable refreshments to serve.
+
+E.	Play getting ready for bed, making suitable preparations for it, noting time, and ventilation, hanging up clothes, etc.
+
+Father and Mother can give the children health admonitions.
+
+F.	Preparing and serving a dinner, healthful foods and table manners to be observed.
+
+G.	Sickness in the Home—the Doctor’s visit, his questions concerning the child’s health habits, his criticisms, and prescriptions, to include plenty of water, proper diet, and proper health habits after child is well.
+
+14. MAKING A HEALTH HABIT BOOK
+
+A Project for the lower grades
+
+1.	Fasten together with a red ribbon a number of sheets of drawing paper (9” x 12”).
+
+2.	Use drawing period to make an attractive cover—a conventional border, and "Health Habit Book” in good lettering.
+
+3.	On the first page write the Health practices to be formed into habits during the first month. Make this in chart form, followed by the days of the week,
+
+1.	I washed my hands before each meal
+
+2.	I brushed my teeth before and after breakfast and before going to bed
+
+3.	I had a good bowel movement before coming to school
+
+4.	I took a complete bath
+
+4.	Let children mark charts each day with dots or stars for each time the practice took place. On Monday the chart will be made for Saturday, Sunday and Monday. On Friday the stars for the week should be totalled. It will be possible to make eight stars each day or fifty-six for the week on this schedule. Of course before making the chart the desirability of practicing these habits should be explained by the teacher.
+
+5.	Other things for the book
+
+(a)	A magazine picture showing clean children
+
+(b)	A story about a dirty little boy
+
+(c)	Color a swimming picture
+
+(d)	A picture of a child who became sick because he was constipated
+
+6.	Health habits for second month
+
+(a)	I cleaned my fingernails today
+
+Digitized by i^ooQle
+414
+
+(b)	I kept my mouth closed when I breathed
+
+(c)	I carried a clean handkerchief and used it at the proper time
+
+(d)	I brushed my hair morning and evening
+
+(5 stars per day)
+
+7.	Other things for Health Habit Book, second month
+
+(a)	A picture showing something about clean or well-kept hair
+
+(b)	The story of the Big Brother
+
+(c)	Gather pictures or make them of the things used in caring for the fingernails
+
+(d)	Make a slogan about health and cleanliness—and color a picture illustrating the slogan
+
+8.	Health Habits for third month
+
+1.	I played in the open air a half-hour
+
+2.	I tried to stand straight and sit straight
+
+3.	I slept eleven hours
+
+4.	My sleeping room had plenty of fresh air
+
+9.	Other things for Health Habit Book, for third month
+
+1.	A picture of boys and girls playing
+
+2.	A list of games that you like to play
+
+3.	Two clock faces—one showing when you go to bed and the other when you get up.
+
+4.	Draw two chairs and two people, one sitting correctly,
+
+one incorrectly. Tell which way you sit.
+
+10.	Health Habits for fourth month
+
+1.	I had fruit, cereal, a whole slice of toast including the crust, and a glass of milk for breakfast.
+
+2.	I drank a quart of milk
+
+3.	I drank six glasses of water, one on arising, two between breakfast and lunch, two between lunch and dinner, one on going to bed (11 stars per day)
+
+11.	Other things for Health Habit book for fourth month.
+
+1.	Make a page of fruits (colored pictures cut from magazines)
+
+2.	From advertisements get pictures of all the different cereals
+
+3.	Draw a large square for a table, circles for plates, and dishes and name the foods in each plate. Make it a breakfast table.
+
+4.	Draw six glasses for water and four for milk and write when you drink each.
+
+12.	Health Habits for fifth month.
+
+1.	I stopped playing, cleaned up and rested five minutes before my evening meal
+
+2.	I had three quiet, happy contented meal times
+
+3.	I chewed my food well, and swallowed it without water
+
+4.	I ate no candy except after meals.
+
+13.	Other things for Health Habit Book fifth month
+
+1.	Find pictures of foods that are good for children
+
+Digitized by Google
+2.
+
+415
+
+Make clocks showing when you eat each meal, under the clocks name the meal and tell how long it takes to eat it.
+
+3.	Make up a story about a boy who ate candy between meals
+
+4.	Find pictures of happy children sitting at a table
+
+14.	Health Habits for sixth month
+
+1.	I had meat or egg today
+
+2.	I had two green vegetables
+
+3.	I ate bran or whole wheat bread
+
+4.	I drank no tea or coffee
+
+15.	Other things for Health Habit Book, sixth month
+
+1.	Find pictures of growing wheat, growing rice. Cut out and paste in your book or make your own pictures of them
+
+2.	Tell how wheat is made into flour
+
+3.	Paste into your book pictures of animals that provide meat for us. Name the animals and the meat they give
+
+* us. If you can, name other things that each gives us.
+
+4.	Paste into your book pictures of chickens and eggs. Name other fowls or birds that furnish eggs for people. If you can, get the picture of an ostrich and find out how large its eggs are.
+
+ADDITIONAL IDEAS FOR PROJECTS
+
+15. PLAYING SCHOOL NURSE
+
+Select a capable and talkative pupil to act as nurse. One pupil after another comes to the nurse and describes his ailment. The teacher should see that the ailments and bad hygienic habits spoken of during the term are selected and effectively presented. The nurse examines the patient and explains how the ailment may be cured.
+
+16.	THE EFFECT OF SUNLIGHT
+
+(An experimental project.) Place the school room plants so that some wifi receive sunlight and the others not. Call attention to the change of color; how the leaves strive to reach the sunlight; how the broadest parts of the leaves are turned toward the sunlight. Plant seeds under similar conditions and call attention to similar effects. Ask the pupils to write their observations in a book called “Experiments in Health.”
+
+Digitized by CjOOQle
+416
+
+HEALTH APPEAL*
+
+The advertising writers of our progressive land have found that the word “IT” in their profession means “Health Appeal.” A cursory inspection of current periodicals indicates no lessening of the attention to the health angle. The folly of the all-or-nothing policy in foods, the ridiculousness of some of the arguments as to vitamin content, the preposterous claims for glorified antiseptics, the cautious venturings of time-tried tonics into the public field, and the dazzling claims of the promoters of light arouse the risibilities of the physician by their startling inconsistencies if not by their exaggerations. Who would have thought ten years ago that cigarets would be sold to the American public not only by billboard displays of handsome damsels revealing unusual quantities of hosiery and epidermis, as they nonchalantly exhale streams of smoke from adenoidal nostrils, but actually by insistance on the healthful qualities of certain brands? Ah! brothers, we have come a long way in the passing decade!
+
+In the periodicals for December the remarkable testimonial to the effect that Mrs. Whoozis, who could not even push the baby buggy, was able, after taking some yeast, to swim four times across the swimming pool at the country club, has given way to the assertion by Sir Arbuthnot Lane that yeast is what he thought the intestinal kink was ten years ago. The picture of Miss Rivergrove, Nevada, clad in a one-piece bathing suit, who attained her present high state of pulchritude on a yeast diet, has given way, alas, to that of a heavily moustached Belgian professor who asserts, in a personal interview, that yeast is a marvelous laxative, or to that of a heavily bearded Teuton who has concealed himself behind his sage-brush so efficiently as to fail to realize that in America respectable physicians do not condone such public unveiling.
+
+The growers of Japan tea, moved, no doubt, by the promotional efforts of the growers of coffee, assert in several popular publications that Japanese tea is the stuff to drink because it has vitamin C. Clever people, these Japanese! Nevertheless, Mat-till and Pratt have concluded on the basis of scientific evidence that in everyday nutrition, despite its fairly high content of vitamin C, green tea has limited value as an antiscorbutic. “It cannot be used by children,” they say, “and should not be used by adults to replace natural foodstuffs which meet additional nutritive requirements.” The American advertising agency that promotes the Japan tea campaign was fully informed as to the lack of scientific evidence for the claims made, but presumably, like some other advertising agencies, it is more interested in linage than in evidence.
+
+Fellow’s Syrup, long the inhabitant of the pages of medical advertising mediums that do not follow the Council on Pharmacy
+
+•Editorial. Journal Am. Medical Assn.
+
+Digitized by CjOOQle
+417
+
+and Chemistry, now begins to venture in popular periodicals, quite tentatively and modestly feeling its way, perhaps, before embarking largely in the “patent medicine" field.
+
+Most startling of all appeals are those having to do with body-weight. The promoter of an after-dinner tablet urges his wares and more food with the striking slogan, “I have said goodbye to indigestion: bigger and better lunches." But bigger lunches, hastily eaten, have worked havoc with the digestion of the American business man. That American womanhood passed, during the last five years, through one of those periodic crazes that have afflicted womankind since the world began is not a secret. Indeed, women everywhere began to cultivate sylphlike figures, dieted themselves to the point of destruction; and tuberculosis rates, particularly for young girls, rose in many communities. The inevitable result of the serious dieting was to lower the consumption of flour, sugar and other carbohydrates so greatly that persons engaged in those industries became alarmed. Today the millers, the sugar institute, the confectioners, and the manufacturers of cereals are purchasing advertising space to counteract what was for them commercially a serious situation, and what promised to be from the health angle a dangerous situation. Such institutional advertising as is being used by these industries is submitted, before release, to medical authority, and some effort is being made to keep the advertising matter within reasonable bounds. At the same time the manufacturers of Lucky Strike cigarets, having secured, they claim, statements from 20,679 physicians that Lucky Strikes were less irritating than other cigarets, are promulgating a campaign in which they assert that these cigarets do not cut the wind or impair the physical condition, and that “Lucky Strike satisfies the longing for things that make you fat without interfering with a normal appetite for healthful foods.” To which the simple reply is made: “Hooey!"
+
+Some women do eat too much; overweight can be controlled by proper dieting, no doubt in the majority of cases. Many people eat too much and gorge on pastry! But the human appetite is a delicate mechanism and the attempt to urge that it be aborted or destroyed by the regular use of tobacco is essentially vicious. A statement by the advertising director of the American Tobacco Company asserts that the production of cigarets this year will be more than double what it was ten years ago and that the use of cigarets has steadily increased in every year in the last fifteen. He cites among five reasons for the growth of his industry “increasing interest on the part of the medical profession in the social phenomenon of more widespread smolang, and the adoption of a more liberal attitude toward the cigarette and its effect upon the human body in the light of these improvements.” That the medical attitude has become more liberal toward the smoking of cigarets cannot be gainsaid. There is,
+
+Digitized by LjOOQ Le
+418
+
+however, one aphorism in medicine that is as old as the science itself: “Moderation in all things.” Unwarranted, exaggerated, unscientific and dangerous advertising campaigns are not the way to encourage a liberal attitude.
+
+♦ ■ ■>
+
+Gymnasium and playground
+
+MASS EXERCISES
+
+Ohio District Turnfest—Newport, Ky. May 25-26
+
+Music—La Czarine, Russian Mazurka, by Louis Ganne. Play as written.
+
+Formation—alternate files of men and women in open order. Introduction— 2 measures. Stand in fundamental position.
+
+Part 1.
+
+Stride left sideward, bend trunk forw. and swing arms backward outside of legs—at 1. Straighten trunk to upright position and swing arms foreupw. on cts.
+
+2	and 3......;......................................  1	M
+
+Remain in stride position with knee straight and circle both arms downward and backw. to left side of trunk with trunk turning left and continue swinging to arms upw.
+
+position facing front, cts. 2,3...,....................1	M
+
+In the stride position, repeat the first measure............1	M
+
+Repeat the second measure to the right side............... .1	M
+
+Remain in stride position and repeat all 4 measures.........4	M
+
+Circle both arms left as before with knee	dipping...........1	M
+
+Circle both arms right with knee dipping	(figure of 8).....1	M
+
+Continue circling to left, right, left, right.............. 4	M
+
+Circle arms left again on cts 1 & 2; on the third ct, straighten arms upward and jump upward bringing feet together
+
+in air....................................................1	M
+
+Swing arms foredownw. and land on both feet together........1 M
+
+Part 2.
+
+Step left forw., swing right arm forw., shoulder high and left
+
+arm backw. (faster tempo in this & next meas.)............1	M
+
+Step right forw. and reverse position of arms...............1	M
+
+Lunge left forw. and throw imaginary javelin with right arm, using overarm throw and keep right arm straight, terminating in a fallout position, right arm forw. upw. and left arm
+
+opposite, trunk well forward and head up .................1	M
+
+Hold this position.............................................1	M
+
+Circle both arms on left side of body (Downw., backw. and upw.) with knee dipping and trunk turning left, feet stationary .......................................................1	M
+
+Digitized by CaOOQle
+419
+
+Continue fig. of 8 arm circle to right passing thru upw. position .................................................  1	M
+
+Circle both arms to left side again on cts 1 and 2; on third ct, with arms upw, 1-4 turn left on left foot, raising right leg
+
+backward— ...............................................1	M
+
+Swing arms foredown and close right foot forw. to left..1	M
+
+Repeat same three times more on the lines of a square, always turning left, coming back to original place.......24	M
+
+32 M
+
+Part 3.
+
+Same as Part 1..........................................  16	M
+
+Part 4
+
+Lunge left sidew with arm raising left obliquely sideupward
+
+and right obi. sidedownw.................................1	M
+
+1-4 turn left, turning on right toe, swinging right arm to a bent guard position overhead, left arm backdownw, both
+
+hands to a fist .........................................1	M
+
+Return to position described in first meas. of	this figure.1	M
+
+Return left foot to right and carry arms upward...,........1	M
+
+Repeat all to right side...................................4	M
+
+Bend knee deep with lowering arms sidew.	(horizontal)......1	M
+
+Straighten knees and carry arms upward.....................1	M
+
+Bend trunk foredownward, knees straight, with lowering arms
+
+foredownward, finger tips touching toes..................1	M
+
+Straighten trunk and arms upward...........................1	M
+
+Repeat these last four measures............................4	M
+
+Repeat all .............................................. 16	M
+
+32 M
+
+Part 5.
+
+Lower arms to sidew. (horizontal) position and execute a 3 step turn left sideward—(stepping 1, r, 1, making complete turn 1) .............................................1	M
+
+Lay-outright backinward, right arm to guard pos. overhead,
+
+left arm backdownw., hands to fist, ..................  1	M
+
+1-2 turn right on heels, bend right knee, arms foredownw.
+
+finger tips touching	floor—............................ 1	M
+
+Return to layout position described in second meas. on cts 1 & 2, on ct. 3, raise right leg sidew & place hands on hips....l M Double cut hop left sidew (hop twice on r ft.) repeat right
+
+sidew..........'........................................2	M
+
+3	single cuts & cross, stride, close jump (left in front on
+
+cross) ................................................ 2	M
+
+Repeat all right, left and right sideward................24	M
+
+32 M
+
+Omit 4 meas. interlude and repeat part 4; than parts 1,2, 3.
+
+Digitized by C^ooQle
+♦
+
+420
+
+Health education notes
+
+- ■■■ ■
+
+The Difficulty in Modern Life.—Most of the difficulty in modern life is not caused by our struggle with matter, but with our own beliefs and our own thoughts, and with the thoughts of others. The field of man’s battle is within his own mind—with his own instincts, his own thoughts, his own feelings. His life is made constantly more difficult, not only by the multitudinous devices with which he has to work but even more so by the network of laws and customs with which he has entangled himself. Most of the tragedies of life are due to conflicts between primitive ways and the demands of civilization. Let us know ourselves as we are. Does the causative factor of the failure lie in the individual or in the complexities of a social order that are too much for his faculties of adjustment? How much civilization can we endure? May we not be fabricating a social structure about us that may be unendurable?—Hall, J. K.: The Apotheosis of the Individual, South, Med. & Surg., March, 1929.
+
+Summary and conclusions of a study undertaken not to prove the existence of a relationship of arthritic pain to weather change but to determine whether or not such a relationship actually exists. We realize that subjective sensations of patients are hard to interpret and to evaluate quantitatively, and that it is difficult to rule out the influence of suggestion. In spite of this we now feel certain that many of our patients with arthritis can, through an increase in the severity of their pain, sense the approach or presence of storms.
+
+In a group of 367 patients studied for a year there was a positive relationship for 72 per cent of the time between the curve of pain and that of barometric pressure. For 21 per cent of the time the relation was equally definite, but as one line went up the other went down. In only 7 per cent of the time was a relationship undemonstrable.
+
+For more than 90 per cent of the time there was a relation between the presence of storms and an increase of pain. Observations on humidity, temperature and atmospheric electricity were inconclusive, although it is still possible that these agents working together have some effect.
+
+Rheumatic Manifestations and Cardiac Disease.—The
+
+group of rheumatic manifestations consists of (1) recurring tonsi-litis and pharyngitis; (2) acute rheumatic fever; (3) myositis, muscle, bone and joint pains (growing pains); and (4) chorea. It might be thought advisable to include under a fifth heading scarlet fever, pneumonia, diphtheria and other infectious diseases. But it is not generally believed that these play a prominent role
+
+Digitized by v^ooQie
+421
+
+in the etiology of cardiac conditions. Individuals having one or more of the affections mentioned in the above group should be considered and treated as potential cases of endocarditis. If neglected, a certain per cent of them are destined to become cases sooner or later.—Pounders, C. M.: J. Oklahoma M. A. May, 1929.
+
+The Birmingham Elementary Schools Playing Fields
+
+It is the proper thing to begin any eulogy of Birmingham by pointing out that the city motto is "Forward," and the energy and aspiration implied in the word certainly find expression in the Education Committee’s policy with regard to their Playing Fields. Greater Birmingham covers an area of over 70 square miles and has an estimated population of over 970,000, amongst whom there is the usual proportion of children, and some 144,000 of these are to be found in the Elementary Schools. The schools have their playgrounds and access to the public parks, some of them suitably marked for children’s games, and have in addition gradually acquired a really fine range of playing fields.
+
+There were already thirteen fields in being, when last year, the City Council authorised the expenditure up to $50,000 for the acquisition of additional fields for Elementary Schools alone. There are now seventeen fields, comprising roughly 130 acres, and a great many of these fall within a three-mile radius of the centre of the city. This fact is of superlative importance, for it means that a ring of playing fields has been established within reach of the schools in the most densely populated parts of the city, where the children are the poorest, and the schools least well endowed with exercise-space and sky-shine. Eventually it is hoped there will be a second, outer ring of playing fields for the use of the schools situated outside the zone between the three and the five mile radius.
+
+The Necessary Evil of Clothes
+
+The modern woman, with her short skirts and sleeveless dresses, has a stanch upholder in Dr. William G. Savage, health officer for Somerset. In the course of an article on clothing, one of a weekly series issued by the Central Council for Health of the Society of Medical Officers of Health, Dr. Savage expressed surprise that “short skirts, which do not pick up the sweepiugs of the streets,” and “the open neck and the sleeveless arms, which do give an opportunity for the ultraviolet rays of the sun to be absorbed,” should be described as “immoral.” He thinks that they are essentially healthful. “There is no doubt,” he declares, “that woman has recognized that clothing is a necessary evil, and is doing her best to have as little of that evil as possible.” Conservative man, "muffled man, muffled up in his tight collars and his heavy clothes, is far less hygienically clad.” But Dr. Savage concedes him one point of superiority, in that he does not wear
+
+Digitized by v^.ooQLe
+422
+
+the pointed, high-heeled boots and shoes favored by many women. In general Dr. Savage’s prescription is that "clothing must be sufficient to prevent cold, but not so abundant that it discourages the taking of exercise.”
+
+Infants and children may be given sun baths of two or three hours daily throughout the winter, not as a substitute for ultraviolet lamp irradiation in the cure of disease but as a prophylactic measure.
+
+There are ample ultraviolet rays in the antirachitic range in this latitude during the winter to be of definite value to those receiving them through ultra-violet type of window glass when exposures are made in the direct path of the sun’s rays, since enough of these rays penetrate the glass to prevent rickets and spasmophilia in a normal, properly fed infant.
+
+It is unfortunate that so much has been said about solariza-tion that the general impression has been gained that after the glass is aged there is no therapeutic effect. This is untrue.
+
+Treatment of Crossed Eyes in Children.—The first step in treatment is to treat the parents. Tell them what can be done and what cannot. Insist that orthopedic treatment and lenses first be tried before any recourse is had to operation, and even in these it is to be continued until stereoscopic vision is established. Explain that the usual case should have the refraction measured, lenses prescribed and that glasses should be worn at the time and ocular exercises, etc,, should be continued for at least six months; that all eyes can be straightened and that they must be not only for cosmetic reasons but in order to preserve the sight. Do not allow yourself to operate until sufficient orthopedic treatment has been given,—Wurdemann, H. V.: Crossed Eyes: Their Cure Without Operation, Northwest Med., April, 1929.
+
+Government Warns Gum Manufacturers.—Food as defined by the federal food and drugs act includes all articles used as food, drink, confectionery or condiment. As chewing gum contains as much as 75 per cent of soluble sugars, it has been held to come within the purview of the law if shipped within its jurisdiction. The food, drug and insecticide administration has learned that some brands of chewing gum are labeled to indicate that they contain fruit juice or true fruit flavor when, in fact, they are characterized by their content of artificial flavor. The government considers that they are therefore misbranded and warns manufacturers immediately to bring their labels into compliance with the law.
+
+Moving One Million Mollusks.—The bureau of chemistry of the state department of health with the assistance of local police recently supervised the removal of more than a million clams from the polluted and condemned water ways west of Wildwood
+
+Digitized by boogie
+423
+
+to other clean waters where the clams will in time purify themselves. The fifty-six men working twenty-eight days who gathered 1,286,000 clams in this transfer received a total of $10,000 in wages, but the food value of the mollusks is estimated at $25,000. New Jersey like other seaboard states keeps watch over its shellfish beds in order to protect the public from diseases which the consumption of polluted shellfish may bring about.
+
+W. H. Bohart has taken X-ray pictures of the full length of the spine of nearly 1,000 athletic young men employed as railroad switchmen in Chicago. About 50 per cent of these “normal” spines showed variations or anomalies. Forty per cent of these men were injured but in no case did these anatomic variations participate in the injury. Bohart concludes that “each spine is characteristic of the individual and he may be identified by a roentgenogram of the spine just as definitely as by a photograph of the face.” Physical Education and Hygiene Circular No. 16.
+
+At a recent meeting of pediatricians of the American Medical Association there was general condemnation of the use of a quart of milk a day, as a basis for the child’s diet. Speaking of the over-emphasis laid on attaining average weight, Dr. Sweet, of Oakland, remarked that we are as absurd as if we weighed some Great Danes, St. Barnards, hounds and so on down the dog list to the little terriers, then struck an average, plotted a curve, and said “Any dog is not doing well who is not up to that standard. The little terrier must consume the daily ration of the Great Dane—4 pounds of meat, 6 shredded wheat biscuits and a gallon of buttermilk and thereby come up to that average size.” Physical Education and Hygiene Circular No. 16.
+
+Fowler D. Brooks of Johns Hopkins University finds from examination of students from 13 to 20 years of age that Pearson coefficients of correlation between mental and physical traits are on the average positive but low. The physical traits compared were height, weight, girth of chest and strength of muscles. He says prejudice and fancy still cling to a belief in an inverse relation between the mental and physical—that great intellects are found in puny or weak bodies, that the law of compensation holds, that a lack in some intellectual trait is compensated for by a powerful physique, etc. A brilliant student broke down, or a pale anemic bookworm—the isolated unusual case, strikes the uncritical observer as convincing proof of a general law, whereas critical, extended observation shows that such cases, even though numerous, are the exception rather than the rule. The mass of reliable evidence that has accumulated during the past twenty years gives no warrant for believing either (1) that mental and physical traits are negatively correlated, or (2) that they are closely and positively correlated.” Physical Education and Hygiene Circular No. 16.
+424
+
+News, notes and comments
+
+The Physical Directors’ Society of the Y. M. C. A. will
+
+convene in Detroit, May 27 through 30, 1930. Changing conditions in American Life and their Significance to the Association will be the major theme of the Association.
+
+The 34th national festival of the American Tumerbund will be held at Buffalo, N. Y. June 24 to 29, 1930.
+
+This will be the greatest physical training demonstration of the year. Every teacher who can do so should attend this festival to see the inspiring work of great masses of men, women, boys and girls.
+
+“Although in the past it has been generally insisted that athletics inculcate certain desirable traits, like courage, perseverance and initiative, the study points out that, under proper conditions, athletics may possibly develop such of these traits as are present in a normal young man, but probably do not inculcate them at all. On the other hand, college athletics, as they are conducted today, definitely fail in many cases to utilize and strengthen such desirable social traits as honesty and the sense of fair play, because of the deceit and chicanery with which sports are surrounded. If, therefore, the development of desirable social traits is one of the probable advantages of college athletics, the development of traits that impair the relation of the individual to society is one of the equally probable disadvantages.”—(Report of the Carnegie Foundation on College Athletics.)
+
+The public schools of Springfield, Mass., have adopted a new uniform for girls which is quite a departure from the traditional middy and bloomer. It is a one-piece, sleeveless, wash suit, made of blue percale. With it is worn short athletic hose, blue or white, and sneakers. Springfield believes that this is a great improvement in the light of the modem work being done by girls now.
+
+Two of the credit hours required for graduation of senior high-school boys, and one of the credit hours required of senior high-school girls in Lincoln, Nebraska, must be in after-school
+
+Digitized by CjOOQle
+425
+
+sports. Health Education is considered fundamental and in its work the city board of education acts in close co-operation with the home and the welfare organizations of the city.
+
+The following quotation is taken from the bulletin of the State Department of Education for 19^9 entitled “Minimum Content of Course of Study for Alabama Public High Schools”: “Principals should take note of the fact that Physical and Health Education, beginning in 1930-31, will be a requirement for all senior high school pupils, the minimum time allotment being four periods a week. Principals should anticipate this requirement with plans for qualified teachers and facilities. Schools that find it possible should introduce the course this year; especially is it desirable to have the play and recreational activities.”
+
+A Club in Which the Interests of Children Will Dominate Exclusively.—According to the New York Times a club will be organized for young children between 7 and 16 years of age of the wealthy residents in the North Shore district of Long Island. The club is to have a 60-acre property with all sport and recreational facilities. There will be professional instructors and expert play leaders to see that the children get the most social and recreational benefits from the association.- “Children for the first time will find themselves in a group where the interests of children dominate exclusively. All jazz and other influences, said to be factors in juvenile delinquency, will be eliminated from the new association and the parental and home influence will be retained as far as possible.
+
+Symphony Orchestra In Los Angeles.—A symphony orchestra open to young men and women between the ages of sixteen and thirty has been organized by the Los Angeles Playground and Recreation Department.
+
+Play.—Dr. Harry Emerson Fosdick recently said: “The thing that impresses me most about modem schools and colleges is the opportunity they afford in developing the play side of life, the right use of one’s time after the necessities of life have been met. Much of modem religion is futile because it fails in the philosophy of play. Either it is too utilitarian or too somber.”
+
+Sport In 1792 A Disgrace.—We are indebted to “Playground and Recreation” for the following excerpt from the rules of Cokesbury M. E. College, founded in 1788:
+
+“We shall therefore insist on their rising early in the morning
+
+----this is of the vastest importance to both body and mind.
+
+On the same principle we prohibit play on the strictest terms.
+
+Digitized by t^ooQle
+426
+
+“The students shall rise at five o’clock winter and summer. Their recreation shall be gardening, walking, riding, and bathing without doors, and the carpenters’, turners’, joiners’, or cabinetmakers’ business within doors.
+
+"The students shall be indulged with nothing that the world calls play; let this be observed with the strictest nicety; for those who play when they are young will play when they are old.”
+
+Columbia Reorganizes Student Health Service.—The
+
+health officer of Columbia University, Dr. William H. McCast-line, and Herbert E. Hawkes, L. L. D., the dean, have changed the plan of conducting physical examinations of students entering the university by having the examination done by sixteen physicians, instead of having them under the direction of the department of physical education. It is proposed that the health of students will be followed up through their four years of college work; it is also proposed to build and endow a separate building for the university health service.
+
+Bar Association Desires More Psychiatric Service.— At
+
+the recent meeting of the American Bar Association in Memphis, a resolution was adopted, it is reported, which read in part as follows:
+
+That there be available to every juvenile and criminal court a psychiatric service.
+
+That no criminal be sentenced for any felony in any case where the judge has any discretion as to the sentence until a psychiatric report is filed.
+
+That a psychiatric report be made on every prisoner before release.
+
+That each state establish a system of administrative •transfer and parole and that no decision of a parole or transfer be made without a psychiatric report.
+
+Mergers Among Health Departments.—Since the trend toward the merging of health departments began about five years ago, sixty-five California cities nave merged their public health administrative activities with the county health department or with their city health departments. These combinations, the California State Department of Public Health says, make for efficiency and economy, so that cities which have been unable to maintain efficient departments because of their small population are enabled now to secure better service at lower cost. The greatest activity in merging has been in Los Angeles County, where thirty-six cities have contracted with the county health department to administer their public health affairs. As a result, the Los Angeles County Health Department is said to be the largest one in the United States. San Diego, Santa Barbara, Monterey and other cities have transferred the work of their health departments to that of the county health departments.
+
+Digitized by Google
+427
+
+Psychopathic Laboratory Now Under Health Department.—The psychopathic laboratory, which for many years has been under the municipal court, has been placed under the direction of the Chicago Department of Health. The health commissioner expects to extend the services of the laboratory to the school child, whereas heretofore they have been confined to court cases. Dr. Meyer Solomon, who has been appointed director of the bureau of mental hygiene, will have general charge of the laboratory, and Dr. David B. Rotman, immediate charge.
+
+, ■ ■ ■	———	>
+
+Foreign items of interest
+
+<■	■	-«i	■
+
+The demand for the daily period for Physical Education has grown from the conviction that the school must consider the body of the child in the same measure that it considers the needs of his mind and soul. The school receives the child as a complete unit, a dissection of which is impossible.
+
+In a study made by Rosenbaum and Aschorf, Germany, of the result of the daily period, there were no negative findings. While the advantages were not definitely measurable, it was found that there was decided advance in the academic achievement of those pupils who had the daily physical education period, as compared with those who had only two or three weekly periods. It was also found that the pursuit in activities after school hours was greatly increased in this first mentioned group.—Leipzig.
+
+As part of the equipment of the physical education teacher training school in Rome, two gymnasiums, supplementing the one existing now, are being built. The size of each is 90 x 71. A swimming pool stadium with a seating capacity of 14,000 is also under construction. The national stadium seats 130,000 people.
+
+Physical Education in England—“We are satisfied,” so reads a report of the Elementary Education Committee, “that it would be an advantage in most schools if at least 100 minutes a week were devoted to physical education (physical exercises, organized games and, or swimming). In view of the difficulties which might arise in individual cases from a strict enforcement of such an arrangement we do not consider it advisable to amend the existing rule providing for a minimum of 60 minutes a week. Head teachers are, however, to be informed that it is the desire of the Committee that, whenever the exigencies of the school time-tables permit, a minimum of 100 minutes a week shall be devoted to physical education by pupils in senior mixed, boys’, girls’ and junior mixed departments of ordinary elementary schools, and that such instruction shall be distributed over not fewer than four days a week.”
+
+Digitized by CjOOQle
+428
+
+The German Tumerschaft (national society) has over 22,500 teams organized for the playing of games. 9000 of these engage in football and handball. The champion teams of districts play in circuit matches, and the winners in these play for the national championship.
+
+At the close of the 1929 track meet between France and Germany the leader of the German team, Dr. von Halt, was presented with a watch chain by the Frenchmen. During the ceremony he was proclaimed the “Champion of Fair Play."
+
+Osterode in East Prussia has obtained a campsite with a block house for the use of persons interested in outdoor sports like skating, sailing, rowing, ice boating, etc. The building contains sleeping quarters, a latchen, eating room, living room and a large covered veranda.
+
+Tschecho-Slovakia in 1928 had over 7000 societies for physical education with a membership of 384,587 persons. There also were sport clubs with an additional membership of 397,600.
+
+Russia has appointed a national commission for the scientific study of physical education. At its first meeting it discussed the following points:
+
+1.	Examination of heart and lungs. Methods of evaluating body growths and development
+
+2.	The hygiene of physical education
+
+3.	Physical education as a preventive measure
+
+4.	Simplification of courses of study
+
+5.	The training of school physicians
+
+Forum Mussolini. The fascist school for physical education in Rome is to become a forum embracing the following: one large and two small gymnasiums, a swimming pool with place for 14,000 spectators, separate buildings for the men and the women students, a large stadium seating 130,000 spectators, a theater, fields for football, soccer, tennis and for pigeon shooting.
+
+Hindenburg, a German city of 128,000 inhabitants, recently opened its indoor natatorium that cost over a quarter of a million dollars. The pool, 12 by 25 meters, is lighted by means of a skylight as large as the pool. Tub and shower baths are installed in great numbers. The roof is arranged for sun baths.
+
+Public Playgrounds for Turkey—Asa K. Jennings writes that the National Child Welfare Association, with which he is
+
+Digitized by t^.ooQle
+429
+
+associated, is establishing a playground at Angora, the capital of Turkey, which it is hoped will eventually become a training center. In connection with the playground, the first swimming pool Turkey has ever known is being constructed.
+
+Dr. Oscar Berger after ten years of service as president of the German Tumerschaft has resigned. In his place the former German Secretary of State, Alexander Dominicus has been elected.
+
+Stuttgart in Bavaria has been selected as the city in which the next German Tumfest will be held in 1935.
+
+At the recent convention of bowlers in the city of Stockholm it was decided to form an international organization of bowlers so that this popular form of recreation will receive more attention. Several members of the convention suggested that bowling became a recognized part of the schools physical education program.
+
+During the fall of 1930 an international track meet for university students will be held at the university stadium of Darmstadt. This stadium is one of the best in Germany, including a large playfield, standard track, swimming pool, football fields, 25 tennis courts, training fields, etc.
+
+The university of Mukden, China has engaged a graduate of the German University for Physical Education, named Boecher as a teacher of sports.
+
+The new Italian minister of sports already has established 441 play and sportfields in the cities of Italy.
+
+In the French War-academy of St. Cyr, the students, for physical training purposes, are formed into two groups based upon physical proficiency. In order to become a member of the upper group (the sports-class) a student must pass the following requirements:
+
+100 meter dash in 14 seconds
+
+1500 meter run in 6 minutes 30 seconds
+
+Highjump 1.25 meters
+
+Broadjump 4.25 meters
+
+Carry 50 kilo bag 100 meters in 30 seconds
+
+Climbing 4.50 meters
+
+Throw hand grenade 30 meters
+
+Digitized by v^ooQle
+430
+
+The German Sport Competitions will be held this year (1930) June 26 to 29 in Breslau. These events are open to every German, even to those who are not members of a sports club or association.
+
+Miss Hitomi, the Japanese athlete jumped 6.15 meters at a recent track meet in Soul, Japan.
+
+In order to advance the cause of physical education in Tchecho-slovalda the organization of university students recently adopted the following resolutions as a memorial to the parliament of the county.
+
+1)	Mental development is founded on a sound body. In order to attain both one hour daily should be set aside for physical training in all schools.
+
+2)	In order to unify all types of physical training, play and sport the establishment of a national teachers training school is demanded.
+
+3)	In order to secure adequate space for worthwhile recreation in the open air, five square meters (approximately 185 square feet) of land per inhabitant shall be set aside.
+
+4)	The national budget shall each year contain a sum large enough to carry out the points named above.
+
+5)	Official recognition of the fact that all societies organized for physical education, play or sport are groups organized for public welfare, and that all their festivals, entertainments, etc. be freed of all taxes.
+
+"The Theory and Practice of Physical Education,” No. 4 1928 published in Moskow, Russia has an interesting article entitled “A study of the influence of football upon the physical development and the health of youth.” 220 sportsmen of Moskau, Leningrad and Charkoff were examined. The result of this laborious and painstaking research is summarized as follows:
+
+1)	The peculiar physical development of footballers, especially the prominent development of the lower extremities, is no hindrance to or disturbance of bodily symmetry.
+
+2)	Disturbances in development are often ascribed to football. This is not true; as a rule these bodily deformities are the result of one’s vocation. Playing football helps to correct these deformities.
+
+3)	Injuries are very frequent; they are the greatest disadvantage of the game. To reduce the number of injuries it is necessary to improve the technique of instruction, of training, and the surface of the fields.
+
+4)	To increase the value of football a firm organization of its players and schedules is necessary; also a wise sympathetic supervision.
+
+The victories, at the last Olympics, of the users of the crawl stroke, led the German Swimmers Association to concentrate upon this stroke in the development of speed swimmers. Intens-
+
+Digitized by kjOOQle
+431
+
+ive study, however, has convinced the leaders in this association that not every person can be made a star competitor by the use of the crawl stroke; that one’s build determines if this stroke is best for the individual. Their endeavor now is, by means of the teachers of physical training, to find young men and women whose natural aptitude in crawl swimming is such that they can be trained as competitors in the Olympics.
+
+At a recent meeting of the Skaters Club of Berlin, it was discovered that two of its members who were on the ice hockey team, each received from the club treasury the sum of 9000 marks yearly. These members (with an amateur standing) were a Swede named Johannson and a Canadian named Roche. The German Skaters Association is investigating the matter.
+
+China and India Used Finger Print System Long Ago.—
+
+—In reporting the October 2 meeting of the Massachusetts Medico-Legal Society at the Harvard Medical School, the New England Journal of Medicine abstracts an address by James R. Claf-lin of the Boston bureau of identification on “Identification in Its Medico-Legal Relations.” Mr. Claflin reviewed the methods of identification that have been used in Boston as far back as seventy years ago, when front view photographs were used; following that method, the Bertillon system of measurements of various parts of the body, was introduced and still later the finger method was adopted. The one defect in the Bertillon system was that of measuring some criminals in the adolescent age. These measurements changed when the criminal grew older. He said that the finger print system was first put in use as a means of identification of criminals in 1901 by Sir Edward Henry, but it was not his invention. Finger prints had been used in China on papers showing the ownership of lands, and in India to identify coolies hundreds of years before. Mr. Claflin illustrated by lantern slides how finger prints vary in the outlets of the sweat glands, and in the degree of wear they receive such as those of plasterers, for example; but as yet there has been no difficulty in identification by the finger print method. The system is so perfect that even in the largest collection, the classification at the top of the card will find a man in five minutes. These classifications together with finger prints and photographs may be sent by telephoto anywhere. Finger prints have been proved accurate for purposes of identification of a human body that has been dead naif a year.
+
+“Competition as a Method in Physical Education” was the theme at a recent convention of the teachers of physical education of Northwestern Germany, meeting in Bremen. The forms of work selected to illustrate the value of competition consisted of exercises on the parallel bars, exercises with balls, tumbling, play, and of exercises to create confidence in the water. Competition
+
+Digitized by v^ooQie
+432
+
+was looked upon as a desire for the expression of individuality, a striving for self-assertion, for self-direction.
+
+Competitive games generally are thought of when contests and struggles are the aims in selecting physical training material. The speakers and demonstrators at this meeting, however, showed that forms of work that, as a rule, are used as straight physical training material, can be enlivened if competition (as defined above) is injected.
+
+The eleventh annual meeting of the “Association of Youths Homes” was held at the end of September in Dresden, Saxony. At the same time the 20th anniversary of the Youths Home Movement was celebrated. Delegates from the “Students Homes Association” as well as from Austria attended. Reports showed that every year there is a steady increase of facilities available for those who need shelter when on a larger pilgrimage. The value of the buildings belonging to the members of the associations was over $2,000,000. Much time was devoted to a discussion showing the value of trained leaders. Two such training courses were held last year each one lasting two weeks.
+
+K.	A. Knudsen, inspector of physical education in Denmark, recently celebrated his 25th anniversary. Knudsen, a follower of Ling, has greatly enlarged the Swedish type of work. Many of his articles showing the development of Danish physical training have been translated into other languages.
+
+The English Playing Fields Association was organized July 8th, 1925. Up to March 1928 the organization spent about $1,-
+
+500,000	for the acquisition of play fields, 871 of such fields being developed in one year.
+
+The Parents Association of the High Schools of France embracing 72 societies with 17,000 families recently adopted the following resolutions.
+
+1.	Representation shall be accorded this association in the Supreme Council of Education.
+
+2.	Physical education shall be compulsory and shall be given daily in the open air.
+
+3.	Scholastic education shall be decreased so as to gain the time necessary for physical education.
+
+4.	Modem methods shall be used so that large groups may be employed on adequate playfields. Recommended is
+
+the “Natural Method” of Georges Hebert.
+
+The International Association of Wrestlers recently met in Berlin, Germany. It was decided by a vote of 68 to 9 to organize a commission to draft rules for conducting professional wrestling (similar to the boxing rules.)
+
+Digitized by CaOOQle
+433
+
+The endeavor to help and stimulate physical education in France has led to the creation of prizes ana endowments that often are strange and curious. Here are some of them as published in Gymnaste.
+
+Prix David, to be presented to the teacher of physical education who is at least 40 years old, has been teaching not less than 15 years, is married, ana who is recommended by his society.
+
+Fondation Louis GaUe, for the four teachers, who during 5 years have done most to send good, well trained societies to the French National Gymnastic Festivals.
+
+Prix de Carthage, for the society taking part in this year’s national festival in Orleans and that has taken part in the greatest number of national festivals.
+
+Fondation Cutayar, for the society taking part in this year’s national festival that seems most worthy considering performance, discipline and good fellowship.
+
+Challenge de Coubertin, for the teacher or leader who has served his society for the greatest length of time, who is married and who has a large family.
+
+Challenge des Petit Parisien, for the society whose ratio of active gymnasts to population is greatest, and that at the same time has won most prizes at the last three national festivals.
+
+Challenge Cyrille Wachmar, for the society that has taken part in most national festivals since the war, has had the greatest number of participants, has always received honorable mention, has received most prizes, and, finally, has had the greatest distances to travel (was under greatest expense).
+
+The judges for most of these awards would qualify as expert diplomats.
+
+In the Journal of Tuberculosis, Germany, an article appears by Dr. Karl Siegfried entitled “A special kind of breathing exercises for the tubercular.” After speaking of the well known type of breathing exercises with arm movements that now are discarded by most specialists, he reports upon the results obtained by graduated running, a type of work that makes no demands upon the will power (like the prescribed breathing exercises with tneir demands for increased inhalation). Breathing exercises for the tubercular should demand increased exhalation, a lengthening of the time of exhalation, an increased resistance to exhalation through counting, or humming, or singing.
+
+Some years ago the A. A. U. agreed that they would not attempt to exercise jurisdiction over the Army and Navy, and this latest decision means that it will no longer attempt to govern and control college athletes.
+
+At this meeting the A. A. U. made it clear that they did not assume jurisdiction over non-members of the A. A. U. but they still insist that if a member of the YMCA, the Tumverein, the Jewish Welfare Board or high school student wishes to compete in an A. A. U. meet, he will be required to join the A. A. U. In the case of a college man, he may compete without becoming a member of the A. A. U.
+
+Digitized by <^ooQle
+434
+
+35TH ANNUAL CONVENTION OF THE AMERICAN PHYSICAL EDUCATION ASSOCIATION
+
+Hotel Statler, Boston, April 1—5 Tuesday, April 1, 1930 (Pre-Convention Program)
+
+Visits to public schools and teacher training institutions Sixth Annual Meeting of the Women’s Division of the N. A.
+
+A. F. Morning and afternoon meetings are open to members only. The evening meeting is open to the public.
+
+Wednesday, April 2, 1930. First General Session, 8:00 P.
+
+M. Presiding: Carl L. Schrader Addresses of Welcome:
+
+His Excellency, Governor Frank G. Allen of Massachusetts His Honor, Mayor James M. Curley of Boston President’s Address: Dr. F. W. Maroney Reception In The Foyer Dancing Until 12:00 O’clock
+
+Thursday, April 3, 1930
+
+Sppfinn MpptiiKTQ
+
+9:00—11:00 A. M.—Section 1. Public Schools. Presiding:
+
+William G. Moorhead, State Director of Health and Physical Education, Pennsylvania “Standards in School Health and Physical Education,” Dr.
+
+C.	L. Brownell, Columbia University “The Health and Physical Education Program in the Elementary Schools,” Ruth Evans, Assistant Director of Physical Education, Springfield, Massachusetts “The Next Step in Physical Education” James E. Rogers,
+
+Director, National Physical Education Service, N. Y.
+
+* * *
+
+9:00—11:00 a. m.—Section II. Women’s Section on Athletics. Presiding: Miss Helen W. Hazleton, Purdue University, Lafayette, Indiana
+
+9:00—10:00— “Physical Education through the Moving Picture”
+
+10KK)—10:30— Five minute report by Miss Florence Somers: “The Purpose and Progress of the Women's Athletic Section”
+
+Two Minute Reports by Chairman of Sub-Committees: “Our Plans for this Year”
+
+10:30—11:00— Round Table Discussion by Activity—Led by the Chairman of each activity.
+
+Opportunity for questions regarding interpretation of rules, suggestions for new rules, and helpful articles for the Handbooks.
+
+Digitized by Lj ooQle
+435
+
+9:00—11:00 A. M.—Section III. Athletic Research. Presiding: C. H. McCloy, University of Iowa, Iowa City, Iowa.
+
+Program not completed.
+
+9:00—11:00—Section IV. Recreation. Presiding: Dr. William Burdick, State Director of Physical Education, Maryland
+
+"Could play furnish the necessary physical education up to nine years of age?” "Is play apparatus necessary?” "Might life in the country be equivalent to play apparatus?” Ernst Hermann, Sargent School of Boston University “What is the relation of play and health?” “Is there a distinction between athletics and play?” "Is Ogden right when he says athletics are the realities and play fantasies?” L. Raymond Burnett, M. D„ Baltimore Public Schools “Should the recreation of the child and adult differ in its ends? In its activities?” “Should a program be set up of a different kind for senescent people?” Mrs. Eva Whiting White, Boston, Massachusetts
+
+"Do boys and girls during youth require different recreation?” Miss Cora Crossman, Playground Athletic League “Which is more important—play space or a play teacher?” “Is Leadership different for the child, youth and adult?” Professor George E. Johnson, Harvard University
+
+Second General Session. Presiding: Dr. F. W. Maroney, Atlantic City, New Jersey
+
+11:15—12:00 A. M.—“How Education Looks at Physical Education,” Professor W. H. Kilpatrick, Columbia University
+
+12:00—12:30-“ A Dean of Women Looks at the Value of Physical Education,” Thyrsa W. Amos, Dean of Women, University of Pittsburgh
+
+12:30— 1:45 P. M.—Reunion Luncheons.
+
+2:15— 4:30—Public School Demonstration. Municipal Gymnasium, Brookline. Presiding: Alma Porter, Assistant State Supervisor of Physical Education, Massachusetts
+
+5:00—	Tea at Faneuil Hall.
+
+7:30—	Banquet. Chairman: Marjorie Bouve.	Toast-
+
+master: Carl L. Schrader Short Speeches:
+
+Digitized by UjOOQle
+436
+
+“Contributions from the Old Guard,” Agnes Wayman
+
+“The Glorious Past and the Hopeful Future,” Blanche Trilling
+
+“Lights and Shadows during the Transition Period,” Frederick W. Maroney, M. D.
+
+“The Joy of Living,” J. Duncan Spaeth, Princeton University
+
+During the banquet, stages in the evolution of physical education, —1865, 1900, 1930—will be depicted and an orchestra will play for dancing. * Dancing will continue until 10:30 P. M.
+
+* * *
+
+Friday, April 4, 1930
+
+Section Meetings
+
+9:00—11:00 A. M.—Section V School Girl Athletics, Presiding: Christine Dobbins, Inspector of Athletics, Public Schools, New York City.
+
+“The Elementary School Girl and her Athletics,” Maizie V. Scanlan, Supervisor, Public Schools, Atlantic City, N. J.
+
+“Organization and Administration of a Health Education Department for Girls in a City High School,” Koretta Ryan, James Monroe High School, New York City Junior High School topics to be announced.
+
+9:00—11:00 A. M. Section VII. Administrative Directors of Health and Physical Education. Breakfast meeting. Presiding: Dr. A. P. Way, New York City
+
+Business Meeting: Election of Officers; Reports, etc.
+
+“Curricula Making,” Floyd A. Rowe, Cleveland, Ohio.
+
+“The Practical Administration of a Physical Education Program,” Herman J. Norton, Roches-ter New York.
+
+“The Health Program in Relation to Physical Education,” Dr. A. K. Aldinger, New York City Each address will be followed by a discussion.
+
+9:00—11:00 A. M.—Section VIII. Directors of Physical Education for Women in Colleges. Presiding:
+
+Dorothy Ainsworth.
+
+“Some Educational Aspects of Physical Education,” Jay B. Nash, New York University “The Dance and Its Relation to Physical Education” Margaret H. ‘Doubler, University of Wisconsin
+
+“The Dance and Related Educational Projects,”
+
+Digitized by Google
+437
+
+Mary J. Shelly, Teachers College, Columbia University
+
+“The Use of Music” Helen N. Smith, University of Cincinnati
+
+“Greek Games,” Mary O’Donnel, Barnard College
+
+Third General Session. Presiding: Dr. Jesse Feiring Williams, Columbia University
+
+11:15—11:45— "The Health Program in the Schools,” Dr. George M. Bigelow, Commissioner of Public Health, Massachusetts.
+
+11:45—12:30—Summarizes of the Thursday meetings
+
+12:30— 1:45—Luncheon meetings. (To be announced)
+
+2:00- 4:00 P. M. Section IX. Y. W. C. A. Program not completed
+
+2:00— 4:00—Section X School Boy Athletics. Presiding:
+
+Henry J. Schnelle, Supervisor of Physical Education, New Haven, Conn.
+
+Trends in Elementary School Health and Physical Education,” Dr. A. K. Aldinger, Director of Health and Physical Education, New York City Schools
+
+“The Significance of Minor Injuries in Athletics,” Dr. Thomas K. Richards, Harvard University “The Trends in Junior High School Health and Physical Education,” Floyd A. Rowe, Directing Supervisor, Bureau of Physical Welfare, Public Schools, Cleveland, Ohio
+
+2:00— 4:00—Section XI. Teacher Training. Presiding:
+
+Professor Tucker Jones, William and Mary College
+
+“A Study of the Professional Curriculum in College and University,” Roland Cobb “The Importance of Teacher Training,” Dr. Jesse Williams, Columbia University Report on General State Requirements for Certification to Teach Physical Education, Dr. Allen
+
+G.	Ireland, Supervisor of Health and Physical Education, New Jersey
+
+Demonstration and Discussion of Gymnastic, Dance and Sport Costumes.
+
+2:00— 4:00—Section XII. Therapeutic Section Presiding:
+
+G. T. Stafford, University of Illinois.
+
+"Objectives in a Program of Individual Physical
+
+Digitized by Google
+438
+
+Education for College Men” Harlan C. Metcalf, Ohio State College.
+
+“Objective Measurements in Corrective Work,” Dr. J. H. McCurdy, Springfield College “The Program of the Department of Health and Corrective Physical Education of the Los Angeles Public Schools”
+
+(Illustrated with lantern slides) Francis L. Daugherty, Los Angeles.
+
+4:15— 4:45—The Three C’s in Education Frank W. Wright Deputy Commissioner of Education, Massachusetts
+
+4:45— 5:30—Summarizers of the morning meetings.
+
+Evening Session:
+
+8:15	Teachers	Training	School Demonstration, Newton
+
+High School Gymnasium. Program not complete.
+
+* * *
+
+Saturday Morning, April 5, 1930
+
+9:00— 9:30 A. M.—	“Character Building Through Physical
+
+Education,” C. H. McCloy, University of Iowa
+
+9:30—10:00— “Recreation for the Child under Nine Years of Age,” Joseph Lee, President of the American Playground and Recreation Association
+
+10:00—10:45— Summarizers of the Friday afternoon meetings
+
+10:45—12:30— Business Meeting, Dr. F. W. Maroney, Presiding
+
+10:15—12:30— Session for Students in Physical Education, Program not completed.
+
+Consultation Service—Thursday and Friday afternoons, 3 P. M. to 4 P. M.
+
+The Annual Convention of the Middle West Society of the American Physical Education Association will take place in Milwaukee, March 26-29 inclusive. The headquarters of the Convention will be the Hotel Schroeder. Among the prominent authorities who will address the meetings are Dr. F. W. Maroney, Mr. Emil Rath, Dr. C. W. Savage, Mr. C. H. McCloy, Mr. Elmer D. Mitchell, Mr. J. E. Rogers, Dr. J. Anna Norris, and Mr.
+
+V.	S. Blanchard.
+
+Consultation service has been arranged which will give teachers and administrators opportunity of talking over their problems with experts in the several fiel4s.
+
+Digitized by v^.ooQle
+439
+
+BOOK REVIEWS
+
+“Outline of Preventive Medicine,” Prepared Under the Auspices of The Committee on Public Health Relations New York Academy of Medicine, published by Paul B. Hoeber, Inc., New York, 1929; clothbound, 5” x 7 1-2”; price, $5.00, 398 pages.
+
+Repeated requests for an outline of the practical features in the prevention of disease induced the Public Health Relations Committee of the New York Academy of Medicine to appoint a sub-committee for the purpose of assembling and supervising the publication of a manual on the subject.
+
+More than twenty prominent members of the medical profession have contributed to the content of this book. Each has written of the ways in which his specialty is related to preventive medicine, limiting his contribution to salient suggestions based on individual experience.
+
+Although written primarily for medical practitioners and students, this book contains much material of interest and value to teachers of physical and health education. It will serve as an excellent source for basic information concerning prevention of disease.
+
+“Athletic Activities For Women And Girls—Outdoor Baseball,” Official Baseball Guide of the National Section on Women’s Athletics of the American Physical Education Association; published by American Sports Publishing Company, New York; paper cover, 5” x 6 3-4”; price 25 cents, 39 pages.
+
+The Sub-Committee on Baseball of the National Section on Women’s Athletics of the American Physical Education Association has written this baseball guide because of its particular concern with getting baseball into the curriculum for girls in the elementary and secondary schools. The committee feels that many girls have not had the opportunity to play the game in the past because instructors have been afraid to teach it due to a sense of their own ignorance and inadequacies regarding baseball. This guide aims to remedy this situation by making the teaching of baseball easier and more purposeful.
+
+The playing rules are printed in a separate detachable section, while a large chart, which may be extracted and fastened on a bulletin board, contains definitions and a digest of the rule. The subjects in the main portion of the Guide include: Why Are There Different Baseball Rules?; Squad Organisations For Teaching Baseball; Hints on Umpiring; and Scoring.
+
+“Basket Ball For Coaches And Players,” by George F. Veenker, published by A. S. Barnes and Company, New York, 1929; clothbound, 6 1-4” by 9 1-4”; price $3.00; 232 pages.
+440
+
+The author has had experience in coaching high school and college teams, scouting, and “laboratory work” with summer school coaches and is well equipped, therefore, to write a book on basket ball for coaches and players.
+
+The book is written in clear, concise, and definite language and is illustrated by numerous diagrams and photographs. The comprehensive scope of the contents will appeal especially to those who are seeking under one cover a treatise covering every phase of the program. The contents are as follows: Preparation for a Season, Equipping a Basket Ball Team, Training, Diet Conditioning and Injuries, Early Season Practice, Regular Practice Season, The Selection of Players for the Positions, Individual Offensive Fundamentals—A. Catching a Ball, B. Passing the Ball, C. Stopping, D. Pivots and Turns, E. Dribbling, F. Feints and Fakes, G. Cutting, H. Shooting, I. Free Throwing—, Team Offense, The Center Tip-Off, Out of Bounds Plays, Individual Defense, Team Defense, Scouting, The Relation of Manager to Coach, Basket Ball Trips, The Conduct of the Coach Toward Officials, General Suggestions.
+
+“Greek Physical Education,” by Clarence A. Forbes; published by The Century Co., New York and London, 1929; cloth-bound, 5 1-2” x 8”; price $2.25; 300 pages.
+
+This is another of those books concerning which we must say “Do not fail to read it.” Though concerned with a specialized topic of Greek antiquities, the book is also a chapter in the history of education. It is the fruit of an extensive investigation which included an examination of inscriptions and papyri as well as an inclusive study of literary sources. It is the first book to deal exclusively with Greek physical education.
+
+It offers in a clear and readable style a complete account of the purpose, procedures, and methods of ancient Greek physical training, not only as it was practiced at home, but also as it was carried on in the Greek colonies and settlements in the various countries encircling the Mediterranean. The chapters on Athenian and Spartan physical education constitute the fullest chronological and historical study of the subject now available. The significance of the ancient Greek system of physical training is fully discussed and the causes of its decline are explained.
+
+“Handbook of Athletics for Coaches and Players” by
+
+Graham Brickley. Published by A. S. Barnes and Co., 1929. Clothbound, size 6” x 9”. Price $1.80.
+
+The book covers baseball, basketball, track and field athletics, and football. In each type of activity the author discusses the necessary equipment, the qualifications needed for each particular position on a team, and how to train to keep in the best condition. The various activities are analyzed, and methods of offense and defense are described and illustrated by diagrams. High school coaches will find some useful material in this volume.
+
+—Fred E.
+"Getting Well And Staying Well,” by John Potts, M. D. published by The C. V. Mosby Co., price $2.00. Clothbound 5 1-2” x 8,” 215 pages.
+
+In this book the problem of tuberculosis is treated with charming simplicity, and the learning of the doctor is translated into the language of the layman. Its purpose is to make the problem of tuberculosis a problem common to doctor, nurse, and patient. The author hopes to make clear the warning signs of this insidious disease before it progresses beyond adequate repair. Anyone who has the slightest suspicion that all is not well, will do well to seek his information from more modem sources than his grandparents.
+
+—John	Boyd
+
+"Educational Supervision,” A Report of Current Views, Investigations and Practices; First Yearbook of the National Conference on Educational Method. Edited by James Fleming Hosic. Published by Bureau of Publications of Teachers College, Columbia University, New York, 1928. Paperbound 6” x 9”, 270 pages.
+
+This publication contains a thorough and comprehensive treatment of the problems of supervision. The book is divided into four sections. Section I contains a short discussion of the development of supervision and the organization of supervision as conducted in several states and the city of Detroit. Section II deals with supervisory activities and the training of supervisors. Section III discusses important aspects of supervisory techniques as related to research, evaluation of classroom instruction, experimental work, and curriculum construction. Section IV contains a rich treatment of the underlying philosophy of supervision.
+
+Supervisors of physical and health education will find much material applicable to their field. The many outlines of the various techniques, the tables, and the fundamental principles which are evident on almost every page, are of particular value.
+
+—Fred E. Foertsch
+
+"Handbook of Lessons in Physical Training and Games for First and Second Grades” by William A. Stecher, M. P. E. Sixth Revised Edition. Published by John Joseph McVey, Philadelphia. Paper bound, 71 pages; price $0.60, net.
+
+Teachers of physical training who have derived valuable help from Mr. Stecher’s several handbooks in the past will be interested to know that he has revised the material for school grades 1 and 2 to conform with recent educational thought and practice. “Modem education has greatly decreased the use of formal types of instruction; they have been replaced by what is termed Project Methods”. The author suggests, therefore, that according to these methods one or more projects should be formulated every year, or every term, by the pupils of a class under guidance of the teacher. Several projects, with practical suggestions for their use, are included in the revised Handbook.
+
+Digitized by t^ooQle
+Gymnasium
+
+MATS
+
+BUILT FOR SERVICE
+
+NARRAGANSETT STANDARD
+
+Mats are made in ONE QUALITY ONLY—of highest grade materials, expert workmanship. The burlap backing—a special feature—keeps the hair felt from bunching.
+
+Gymnasium Apparatus	Steel Lockers
+
+Playground Apparatus	Steel	Cabinets
+
+Steel Shelving
+
+Narragansett Machine Co.
+
+NEW YORK	Providence, R. I. U. S. A.	CHICAGO
+
+138 East 44th St.	1504	Manadnock	Blk.
+
+Summer School In Camp
+
+At Elkhart Lake, Wii.
+
+JUNE 30th to AUGUST 2nd, 1930
+
+Courses in Physical Education
+
+Under the Direction of EMIL RATH
+
+fFrite for illustrated program
+
+Normal College of the American Gymnastic Union
+
+405 East Michigan Street	-	-	Indianapolis, Indiana
+
+QUALITY POSITIONS
+
+Leading Colleges, State Normals, and Secondary Schools ask us to recommend specialists in Physical Education. More than half of the State Universities have selected our candidates. May we assist you? Details gladly given.
+
+SPECIALISTS' EDUCATIONAL BUREAU
+
+ROBERT A. GRANT, Pia Shubcrt-Rialto Bldg., ST. LOUIS, MO.
+
+Digitized by t^ooQle

@@ -1,0 +1,1241 @@
+﻿MIND AND BODY
+
+Vol. 36	October, 1929	No.	380
+
+PUBLISHED BY MIND AND BODY PUBLISHING CO., NEW ULM, MINN. EDITORIAL COMMITTEE TO. E. DAY, Dir. Physical Education, Public Schools, Salt Lake City EMIL RATH, Normal College, Indianapolis, Ind.
+
+GROVER W. MUELLER, Philadelphia, Pa.
+
+CARL L. SCHRADER, Boston, Massachusetts.
+
+WM. A. STECHER, Managing Editor, Philadelphia, Pa.
+
+Editorial communications are to be sent to WM. A. STECHER, 17th and Pine, Grant Building, Philadelphia, Pa. Subscription payments should be made to Mind and Body, New Ulm, Minnesota.
+
+Entered as second-class matter October 14, 1916, at the postoffice at New Ulm, Minnesota, under the Act of March 3, 1879.
+
+-------------------------------------------H»
+
+Original articles and reprint^
+
+------- - ♦
+
+VIOLENT EXERCISE IN RELATION TO THE POSSIBILITY OF HEART STRAIN.*
+
+By Adolphe Abrahams, M. D.
+
+I shall in general be dealing with exercise which approaches the limit of human possibility, and it is a necessary if arbitrary assumption that the human material in question is perfectly healthy.
+
+The Consumption of Oxygen.
+
+Although oxygen is essential for the vitality of mammalian muscle, muscular contraction is anaerobic. The muscle may be regarded as a storage battery working on energy previously stored and when exercise is over, that energy has to be restored by the consumption of oxygen. The anaerobic contraction breaks down sugar into lactic acid, which has during the recovery process to be oxidised into carbon dioxide or converted into sugar and
+
+‘Abstract of Arris-Gale Lecture. Delivered at the Royal College of Surgeons, Eng., February, 1928. Reprint from School Hygiene and Physical Education, England.
+
+Digitized by L^OOQle
+154
+
+glycogen. The amount of oxygen consumed in the recovery process is a criterion of the degree of activity of the muscle; it is directly proportionate to the accumulated lactic acid. During rest the intake of oxygen is about 250 c. cm. per minute; during the most violent exercise a maximum of about 4 litres per minute may be consumed. In one isolated experiment an extreme consumption of 44 litres was observed. If the exercise taken is of such severity that the lactic acid produced by the muscles is no more than can be removed simultaneously by the influence of oxidation at the rate of 4 litres of oxygen per minute, fatigue will not occur until other factors of exhaustion enter into the problem. But when really violent exercise is taken the generation of lactic acid is enormously increased. For example, in the case of a sprinter running 100 yards in ten seconds 40 g. of lactic acid accumulate in ten seconds, 1 g. for every stride taken, and this will require 6.7 litres for oxidation. The maximum oxygen intake during ten seconds is less than a litre, and most sprinters do not breathe at all throughout a 100 yards race, since immobilisation of the thorax is an aid to locomotion.
+
+The 6.7 litres subsequently used for oxidation is what Prof. A. V. Hill aptly calls the “oxygen debt.” When more prolonged exercise is taken, the oxygen used during respiration may, in this phraseology, be regarded as income; the oxygen debt run up is borrowed on the security of the lactic acid. So long as the security remains adequate, by so much may the expenditure of oxygen exceed income. The absolute limit, the largest oxygen debt possible in the case of the finest trained athlete, is 20 litres, corresponding to about 120 g. of lactic acid, which is an enormous saturation for a muscle to endure.
+
+The natural capacity for athleticism depends on a number of factors. The essential feature is the "minute volume” of the heart, that is the amount of blood circulating per minute. The oxygen intake of 4 litres per minute corresponds to a blood flow of 37.6 litres, or about 8 gallons of blood passing through the heart every minute. At the beginning of athletic contests there is a psychical nervous tuning up leading to increased frequency and depth of breathing, increased heart rate, and an increased blood supply to the body as a whole. The cardiac rate is the same, whatever the capacity for exertion. The maximum accepted is about 168 beats per minute, although Abrahams has observed 192, on a few occasions.
+
+Dilatation of the Heart.
+
+Much misconception exists on the nature of dilatation of the heart, and the ill-effects of violent exercise which it is supposed to reflect. Dilatation is a physiological process; it is an essential part of the mechanism by which the heart can increase or maintain its output. Starling’s law of the heart postulates that the energy of contraction by which all muscle substance is always measured is a function of the length of the muscle-fibre. The greater the volume of the heart, within physiological limits, the
+
+Digitized by
+155
+
+greater the energy with which it contracts. The heart, then, dilates in order to increase its output in direct response to a larger venous inflow. Dilatation increases contractile power and so output per beat, and a comparatively slight dilatation enables the heart to empty itself completely at each beat. Yet, although the law of the heart is a constant, the actual contractile power of the heart must vary with the character of the fibre itself. A heart with musculature of superior contractility need not dilate under stress in an attempt to increase its contractile power to the same extent as one with inferior muscle. A thick-walled, compact heart with an increased number of fibres (to say nothing of a hypothetical superiority of material) must constitute a more efficient pump than a less well-developed heart.
+
+It is certain that some dilatation occurs on exercise, but permanent enlargement is another matter. Physiological dilatation disappears immediately on rest. Indeed the surprising fact is the impression (confirmed in the recent Swiss marathon), that the athletic heart is less than the average in size. The only noteworthy difference in athletic and non-athletic hearts is their deceleration on cessation of exercise.
+
+A man accustomed to running can acquire a perfect automa-ticity of action, and so a fixed speed. Thus, I myself discovered that I could run for ten miles at a fixed rate of 6 minutes, 32 seconds per mile. Adopting this as a constant velocity, variations of the distance run gave a convenient estimate of the work performed. Such a proceeding has naturally an advantage over any mechanical exercise, such as running up and down stairs, stepping on and off a chair, lifting dumb-bells and so on, the circumstances and monotony of which prohibit prolonged research. Now, as one would expect, the maximum cardiac frequency, whatever the distance run, is not very variable. After 100 yards the heart is beating at 168; the resting rate is reached in a minute and a half after cessation. After 220 yards, the normal is reached in 2 1-4 minutes; after a quarter of a mile in 20 minutes; after 5 miles not for 4 1-2 hours, and after 10 miles as long as 6—9 hours may elapse. Although persistence of tachycardia* is to some extent proportionate to the duration of the exertion, one conspicuous feature is that the initial deceleration is in all cases exceedingly rapid, and that the bulk of the time taken is occuple i by the slow final stage after a relatively slow rate of frequency has been reached. Thus, even after ten miles, the rate had fallen from 192 to 120 in two minutes. Duration of exercise plays a larger part in prolonging the frequency than intensity of effort, for to run a furlong at full speed is, subjectively considered, as exhausting as five or even ten miles at the slow fixed rate. Yet the resting stage after the fast furlong is reached in 17 minutes.
+
+‘Abnormal rapidity of the heart-beat.
+
+Digitized by kjOOQle
+156
+
+The cardiac muscle is, upon the authority of eminent cardiologists, very susceptible to bacteria and other toxins. Nevertheless, I doubt whether the temporary depression of activities in toxaemia is an indication that the heart is affected. I have always regarded the subjective sensations, athenia, excessive perspiration, and so on as of vaso-motor origin. Were the heart directly affected, would not the influence of exercise upon the cardiac rate and recovery be manifest? On two occasions, when suffering from a toxaemia with pyrexia of 102 degrees, I ran four miles; once with the hope that the infection might be aborted, once deliberately to see what would happen. The sense of exhaustion was considerable, but neither the cardiac rate at the termination of the exercise nor the prolongation of tachycardia varied in the slightest from observations made when the same exercise was taken under ordinary conditions of well-being. Graduated exercises produce improvement in some cases of effort syndrome, yet this does not appear to me a proof of training of the heart as such. The improvement which takes place may be a result of better co-ordination of the centres involved. I cannot regard the exercise tolerance test as any indication of the efficiency of the heart. It certainly has a distinct bearing upon capacity for exercise, but that is bound up with many other factors.
+
+Respiration in Exercise and Second Wind
+
+At the beginning of exercise, and frequently in anticipation, the respiratory centre, in common with the other medullary centres, is psychically stimulated, so that the frequency and depth of breathing are increased. During exertion, the oxygen deficiency increases the sensitivity of the centre to its specific stimulus, the hydrogen-ion concentration. Probably carbonic acid is a stimulant independently of its acid property when in solution. Rise in temperature, which may occur and which, in fact, must occur if the exercise is sufficiently intense and prolonged, also increases the responsiveness of the centre. The respiratory centre is called upon to ensure maximum ventilation of the lungs and to regulate the reaction of the blood.
+
+A comparatively trivial change in the reaction of the blood may bring about a large increase in pulmonary ventilation, and it is suggested that this circumstance provides an explanation of the phenomenon “second wind.” At a more or less fixed period in the course of exercise the sensation of acute breathlessness passes off, yet more rapid breathing is evident. Nor is the change restricted to the respiratory side; in a well-marked case it seems as if a new supply of energy had been tapped. Pembrey and Cook concluded that the cause was cardiac, as a less frequent and more regular contraction of the heart occurs after the advent of second wind. Considered chemically, however, the characteristics of second wind are a fall in the alveolar tension of carbon dioxide and a decrease in pulmonary ventilation due to diminished hydrogen-ion concentration of the blood. This diminution can only mean a lowered production of acid in the active muscles or a more
+
+Digitized by ^ ooQle
+157
+
+rapid oxidation, and this must imply a more perfect adjustment of all the co-ordinating factors which are essential for efficient violent exertion. By the time the athlete has got fairly into his stride, and all systems are working at their highest efficiency, second wind may be said to be established.
+
+Posture and Cardiac Rate
+
+Professors and directors of physical education in the American colleges are often prepared to judge the fitness of an athlete by his response to posture as indicated by alteration in his blood pressure and cardiac rate. When a very fit man rises from the horizontal position, acceleration of the cardiac rate should be trivial, a small rise of blood pressure is usual, and these two results may be correlated into a factor of physical efficiency. An increase of cardiac rate of less than four beats per minute and a rise of blood pressure of 10 mm. would be graded 100 per cent. A man with very poor vasomotor tone, either constitutional or after illness, will often show a fall in blood pressure and a considerable rise in cardiac frequency. My own investigations do not lead me to place any reliance on the test sis an index of athletic efficiency, since there are many discrepancies. Above all, emotional factors produce most violent disturbances, vitiating any attempt at systematic investigation.
+
+Rises in Temperature and Heat Loss
+
+A large number of personal observations show that the rectal temperature after a run of about nine miles is generally between 102 degrees and 103 degrees F. The highest temperature I ever noted was 105.8 degrees, on a day when conditions were particularly unfavourable to heat loss. The temperature rapidly falls and reaches normal within two hours. There is clearly danger of hyper-pyrexia in prolonged efforts under unfavourable conditions. It is the practice for the classical Marathon race to be run in one of the summer months and generally during the hottest hours of the day, a practice against which I have more than once warned the authorities. At the Olympic Games at Stockholm in 1912 a Portuguese competitor collapsed on the road and died of alleged sunstroke, which was probably heat-stroke. During the games at Paris in 1924, the 10,000 metres cross-country race was run on an insufferably hot, humid day without a breath of wind. Nearly all of the few competitors who finished were in a condition not only of collapse, but also of mental distress and disorientation. When the Marathon race was held a few days later, there was fortunately a fall in the temperature with a cooling breeze, or fatalities might well have occurred.
+
+Comparatively simple experiments show that there is no foundation for the idea that the pyrexia of exercise determines the persistent cardiac rate.
+
+Deaths fro^n Exertion
+
+Excluding hyper-pyrexia, it is significant that the majority of sudden deaths associated with some feat of exertion are on the
+
+Digitized by CjOOQle
+158
+
+golf links, and their subjects elderly and plethoric with degenerate arteries. In the rare instances when a young and presumably healthy athlete has succumbed, there has been too ready a tendency to assume the influence of exertion, and post-mortem inquiry has rarely been undertaken. Last summer a verdict of heat strain was returned in the case of a young man who fell fainting from an eight at Henley and was found dead on removal from the water. I made all possible inquiries, and the doctor who had been called was kind enough to send me the fullest details. There had been, in fact, no antecedent exertion, as the boat had only just left the landing-stage.
+
+Sir Clifford Allbutt suggested the term "over-stress”- in preference to “overstrain,” since any strain is overstrain. The behaviour of a healthy heart under great stress bears no resemblance to what is seen in cardiac failure—dilatation, cyanosis, venous engorgement, enlarged liver, oedema—so that failure of ventricular muscle cannot be responsible. When one recalls the symptoms described by nervous people with perfectly healthy hearts one realises that subjective sensations are valueless. Such factors as chronic infections, dyspepsia, insufficient sleep, and puberty with its inherent nervous instability, are likely to be overlooked in adolescents and ill-effects from violent exercise are too often assumed. This is not to say that overstress leading to permanent strain is impossible, though the exact method of its production may be problematical and its detection may be beyond our capacity. There may be an alteration in the molecular state of the fibres of the cardiac muscle, some subtle change resulting in lessened contractile power. This is all hypothetical. There is no evidence that any such effect occurs, that I prefer to visualise overstress, and perhaps strain, if it occurs, as a far more general condition. A healthy and powerful heart is a sine-qua-non to a would-be athlete, but the feature which distinguishes the athletic man from the non-athletic is the equilibration of all the factors concerned—heart, lungs, muscles, and skin, as well as his biochemical machinery. If overstress really occurs it lies in a general disturbance of this fine equilibrium.
+
+Sir James Mackenzie had “personally never seen such a thing as a strained heart.” Sir Thomas Lewis expresses the same view. He says that the circulatory organs are built to stand the strains which they themselves create; their reserve is often underestimated. When the call is excessive, it is the full supply of blood to the muscles which will fail and not the heart.
+
+SOME SUGGESTIONS CONCERNING ADMINISTRATION OF PLAYGROUNDS
+
+By Grover W. Mueller
+
+Questions are raised from time to time concerning the administration of playgrounds. We feel it will be helpful to many readers to print the following instructions which were issued in
+
+Digitized by L^OOQle
+159
+
+the form of a bulletin to teachers in Philadelphia summer playgrounds at the beginning of the summer session.
+
+Instructions for Teachers of Summer Playgrounds
+
+1.	ORGANIZATION
+
+A.	Monthly program (Playgrounds will not be operated on
+
+Thurs., July 4.)
+
+The teacher in charge assisted by the other playground teacher shall make a general plan of the activities to be conducted during the month. This plan should be divided into weekly units and should include activities in the three major phases of the playground program.
+
+The following factors should be considered in planning the program: outstanding characteristics of the children; space facilities; supplies available; progression in each phase of program leading to a climax at the end of the month; adaptaton of activities to classified groups; amount and variety of activities; and preliminary special days or events at periodic intervals leading up to the climax events or goals set for the end of the month.
+
+B.	Daily Program
+
+1)	Each day’s program should be outlined at least a day before it is to be carried out. This will make possible preliminary announcements, will make the program more attractive, and will give the teacher more confidence in conducting the activities. Small cards bearing the names of songs, of quiet games, of stories, of games, and of handcraft projects arranged in the order to be presented together with notes concerning special announcements, special methods, and miscellaneous details will aid greatly in organizing and conducting the playground activities.
+
+2)	The general daily program of activities is as follows:
+
+Morning—9:30—10:00—Assembly
+
+10:0Q—11:30—Games, Contests, and Recreational Activities 11:30—12:30—Handcraft
+
+Afternoon—1:30—2:00—Assembly
+
+2:00—3:30~Games, Contests, Recreational Activities 3:30—4:30—Handcraft
+
+3)	Major changes in this program may be made only with the consent of the Director of Physical and Health Education or his Special Assistants.
+
+C.	Special programs
+
+1)	The purposes of special day programs are:
+
+a)	To provide an opportunity to children for en-engaging in those recreational activities which involve a
+
+Digitized by t^ooQle
+160
+
+little more extended effort and preparation than the ordinary play activities require.
+
+b)	To develop and maintain among the children a high level of interest and enthusiasm in the playground activities.
+
+c)	To interest the parents and neighbors in the playground
+
+d)	To increase daily attendance
+
+2)	Frequency of Special Programs
+
+Special day programs should be conducted at least once and not more than twice a week. To have them more often detracts from their value and significance. The supervisor should be consulted concerning the planning of special day programs.
+
+3)	Choice Of Day for Special Programs
+
+The choice of day and time for special programs should be determined by the local conditions. Discuss this matter with the supervisor.
+
+4)	Content of programs
+
+a)	The supervisor is always willing to make suggestions concerning the content of special day programs. You are urged to seek the supervisor’s help.
+
+b)	The content should always glorify and exploit the major activities of the play program. Group activities should always predominate in these programs. Solo numbers, while not prohibited, should be used sparingly.
+
+D.	Sectional Play Days
+
+During the last week of July and of August children from several playgrounds in each section of the city will assemble at a conveniently located playground to participate in a sectional play day. The children from each playground will participate in a certain portion of the program of activities. Detailed plans and instructions concerning this sectional play day will be given by your supervisor early in the month. Activities in all phases of the daily program should be so planned as to prepare for this final event.
+
+E.	Pet Shows
+
+Because of the dangers involved, pet shows are not to be organized or conducted in any playground.
+
+E.	Photographs
+
+Photographs should not be given to newspaper reporters nor should reporters be permitted to take photographs of activities unless the following requirements are met:
+
+The activity should—
+
+1)	Involve a group of individuals rather than a single individual
+
+Digitized by (^.ooqLc
+161
+
+2)	Portray regularly accepted and worthwhile activity
+
+3)	Reflect only credit to the playground
+
+G.	Marking the Yard
+
+1)	Consult the supervisor concerning the locations of courts, etc., before making any markings in the yard.
+
+2)	Use the Zementine provided for marking yards.
+
+3)	Use no more than half of the supply of Zementine during July.
+
+4)	Plan to have your yard contain markings for as many different types of activities as possible
+
+5( Use care in making all markings neat and attractive
+
+•
+
+H.	Leaders
+
+A group of leaders shall be organized in each playground. A group of boys and girls organized and trained to help the teacher conduct the activities will enable a more extensive and efficient program of playground activities.
+
+II. ADMINISTRATION
+
+A.	Bulletins
+
+1.	The following bulletins and forms will be delivered to you by the supervisor during the first visit to your playground:
+
+a)	Duties and responsibilities of custodian
+
+b)	Care of Sand
+
+c)	Absence report forms
+
+d)	Activity report forms
+
+e)	Attendance report forms
+
+f)	Accident report forms
+
+g)	List of bulletins concerning activities available in this office.
+
+2.	Bulletins or forms may be obtained by requesting them from the supervisor and by phoning or mailing a request to this office.
+
+B.	Reports
+
+1.	Accident
+
+This mimeographed form is to be filled in and mailed to this office immediately after an accident occurs in your playground.
+
+2.	Attendance
+
+a)	Care should be exercised in reporting the exact number of children in the playground at the hours indicated on the report.
+
+b)	In playgrounds operating an evening session, attendance should be counted at 6, 7, and 8 P. M.
+
+e)	All evening attendance figures are to be recorded on a separate copy of form P. 16 and labeled “Evening”.
+
+3.	Absence
+
+Digitized by L^ooQle
+162
+
+Immediately upon returning to duty after an absence fill in a copy of this form and send to this qffice.
+
+4.	Activity
+
+These forms are to be filled in at the close of the session e/ach day and held until the end of the month when they are to be sent to thip office.
+
+For instructions concerning method of filling in these reports see lower portion of the form.
+
+C.	Interplayground Contests
+
+Interplayground contests are not to be conducted except with permission from the Director of Physical and Health Education or his Special Assistants.
+
+D.	Supplies
+
+1.	One half of all consumable supplies (such as raffia, reed, paper, asbestos, etc.) is to be reserved for use during August.
+
+2.	Where a playground is operated during the summer and schoolyear seasons, the supervisors will designate the number of balls, nets, bladders, etc., that may be used for summer playground purposes.
+
+3.	The Board of Public Education furnishes material free for the first trial in each project in handcraft. If any children wish to make duplicates of these projects the cost of the materials used must be paid by the child using them. In such cases the money is to be given to the supervisor who will in turn bring it to this office.
+
+4.	Great care should be exercised in the method of inflating soccer and volleyballs.. Be sure that the rubber tube of the bladder when folded lies under the laces and parallel to the edges of the mouth. A tube which is tucked under the leather
+
+at an angle to the mouth edges causes a hump on the cover which in a short time results in excessive wear at this point.
+
+5.	Bladders should be kept wrapped in paper in a dark cool place.
+
+6.	The use of hockey sticks should be limited to play in games only and then under competent supervision.
+
+7.	Supplies must be kept in an orderly manner. The indiscriminate and careless scattering of supplies over a room, corridor, or playground must not be permitted.
+
+E.	Apparatus
+
+1.	Inspect apparatus for safety at the beginning of the first session each day.
+
+2.	Any repairs to apparatus that are needed should be reported promptly to the supervisor. Accuracy in reporting these repairs is very essential.
+
+3.	Make sure that all rubbing surfaces (except those which might come in contact with the clothing or parts of the body) are well greased.
+
+Digitized by LiOOQle
+163
+
+4.	Playground benches must be handled carefully. Do not permit children to slide them over the cement or tip them over.
+
+5.	Early in the season teach the correct way of using all of the play apparatus. Insist on correct use throughout the season.
+
+6.	The use of bicycles, coaster wagons and scooters in a playground is not permitted.
+
+7.	The use of roller skates in large yards is permitted where a space has been set aside for this purpose and where the activity is properly supervised.
+
+F.	Use of indoor facilities
+
+1.	The supervisor will give instructions as to what indoor facilities are available for use.
+
+2.	Toilet facilities must be available for the use of children. Whenever a child enters the building to use those facilities it should be accompanied by a suitable leader.
+
+3.	Indiscriminate entering the school by children should not be permitted. Permission should always be sought from the teacher.
+
+4.	The use of indoor facilities on rainy days should not be made unless local conditions warrant and only if the property can properly be guarded.
+
+G.	Hours of service
+
+1.	The morning session is operated from 9:30 A. M. to 12:30 P. M.; the afternoon session from 1:30 to 4:30 P. M.; and the evening session from 5:30 to 8:30 P. M.
+
+2.	All teachers are required to report at least 15 minutes before the time for beginning the first session each day.
+
+3. A teacher must not leave the playground during a session except by permission from the Director of Physical and Health Education or his Special Assistants. In case of sickness or other emergency, this office should be notified.
+
+H.	The playground during lunch hour
+
+Where the teacher or custodian is willing to be in the yard during the lunch hour from 12:30 to 1:30, the playground may be kept open; otherwise, the playground must be closed and the gates locked. I.
+
+I.	Use of water hose
+
+The hose may be used to give shower baths to the children during excessively hot weather only. Its use on such days
+
+is encouraged.
+
+J.	Duties of teachers
+
+1. The teacher in charge is responsible for
+
+a)	proper conduct of the playground
+
+b)	sending in all reports properly filled in
+
+c)	planning and directing activities
+164
+
+2.	The teacher not in charge is to assist in the organization, administration and supervision of the playground as directed by the teacher in charge.
+
+3.	All teachers are responsible for the safety, activity, and usefulness of the playground.
+
+III.	SUPERVISION
+
+The Special Assistant to the Director of Physical and Health Education and the Supervisors are desirous of assisting teachers in every possible way. They will appreciate requests for such assistance. Do not hesitate to ask them for a demonstration of any activity.
+
+BOWLING IN THE GYMNASIUM
+
+Bp Ruth M. Bailey, Director of Physical Education, State Normal School,
+
+Lowell, Massachusetts.
+
+Bowling seems to be such a popular sport these days—not only as an indoor winter sport, but also as a strong summer sport at the beaches and recreation resorts. There is a great desire on the part of the girls to perfect themselves in this sport so that they will become acquainted with the ‘bowling technique’ before going on to the public alleys. The suggestion of working up bowling in our gymnasium and making it a regular sport along with the hockey and basketball, met with great favor and the following plan was carried out and proved very satisfactory: Alleys:	Our gymnasium is small—measuring 60 ft x 30 ft. We
+
+planned 5 alleys—50 ft. by 6 ft.—with a run of 10 ft. back of the foul line. (Our alleys are 10 ft. shorter than the regulation alleys and a bit wider because this width includes the gutter space— and the run is 5 ft. shorter than the regulation run.) The alleys were separated by sets of partitions 8 in. high by 7-8 in. wide, built on a triangle base 7 in. wide. Each partition is 12 ft. long. We used three partitions per alley, working from the pins down. These partitions looked something like the balance boards. They were designed by our school engineer and were so constructed as to fit into each other so that the balls would not separate them. They were very satisfactory. We had in all four sets of partitions (3 per set)—the two walls making the boundaries of the outside alleys.
+
+Pads:	At	the end of each alley pads were nailed up to prevent
+
+the balls and pins from injuring the foot boards.
+
+Spots:	The spots on the alleys were spaced 12 inches apart
+
+from center to center as in the regulation alleys.
+
+Pins:	For	pins we used the regulation duckpins which are popu-
+
+lar in this district.
+
+Balls:	When it came to the question of balls we realized that
+
+we must experiment because our floor would not hold up under the regulation composition ball. Therefore we took the measure-
+
+Digitized by LjOOQle
+165
+
+ments of the regulation duckpin ball—14 in. circumference— and the weight.—3 1-2 lbs. and asked a sporting goods house to try to work out a ball which would be as near to this ball as possible and still be soft enough so that it would not make too much noise in rolling and would do no harm to the floor and at the same time be heavy enough to enable a person to score in the game. They made up a ball on the idea of the indoor baseball only heavier. It measures 14 inches in circumference and weighs 1 1-2 lbs. We bought six of these balls to try out, and for the other balls used the regular 14 in. indoor baseballs, which were much lighter and not nearly so good. The special balls worked very nicely. Of course they do not enable one to make the scores that the regulation composition ball allows, but with the shorter alleys, it sort of evened up.
+
+Score Sheets:	The regular alley score sheets and crayons were
+
+placed at the head of each alley and as much as possible the atmosphere of the regulation bowling alley was kept.
+
+Result:	As	an	experiment the game proved to be very satis-
+
+factory. We worked out our game schedule just the same as in the major sports, finishing the sport with an interclass contest which was full of interest. The alleys were in use every night after school with a different group coming out each time with about a 90 per cent voluntary enrollment. Next year we plan to cut our basketball season still shorter and start the bowling earlier because we feel that it is one of the “carry-over” sports which will mean much to the girls in their after school life.
+
+RINGWORM OF THE FEET
+
+Preliminary Report*
+
+Robert T. Legge, M. D., in collaboration wiih Lee Bonar, Ph. D. and H. J. Templeton, M. D., Berkeley, California.
+
+One of the biggest problems in public health work that is at the present time interesting college physicians, physical educators, military and industrial organizations, athletic clubs and bathing resorts is epidermomycosis. This term is used by Weidman of Philadelphia to obviate the various names given to mycotic infections of the skin commonly known as ringworm.
+
+At the University of California, during the fall semester of 1928, when a compulsory physical examination was conducted for all freshman entrants, it was found, on carefully searching and examining the toes of 3,105 freshmen, that 52 1-3 per cent of the men and 15 1-3 per cent of the women were infected with ringworm of the feet. This significant fact is evidence that the incidence of the disease is increasing and that it is very common,
+
+* Journal. Am. Medical Association
+
+Digitized by v^oogLe
+166
+
+having already permeated high schools and secondary schools' wherever gymnasium and bathing facilities exist.
+
+Halsey and Jordan showed in their investigations that 67 per cent of their university students had ringworm of the toes and that only 5 per cent of the cases were proved culturally. These figures conform closely with those obtained in our own researches. White reports that the incidence of the disease among the sexes, in his practice, is as follows: 61.3 per cent males and 38.7 per cent females. From our survey among all upper class men in the University of California, it is safe to estimate that 85 per cent of the men who are required to take gymnasium work are infected.
+
+It should be of interest to college physicians and instructors of physical education to reflect on some of the high lights gleaned from a recent questionnaire sent to about thirty-nine college physicians. The purpose was to secure data for a piece of research that my colleagues and I are now undertaking in the study of ringworm from a mycologic, epidemiologic and therapeutic standpoint. The results of our questionnaire indicate that some of our colleagues in several institutions who reported that little or no ringworm existed in their institutions, either lack a knowledge of the subject or have not sufficiently investigated the feet of their students during the physical examinations.
+
+In answer to the question, “Do you find that ringworm of the feet is prevalent among students under your care?” eighteen replied in the affirmative and sixteen in the negative; three were indefinite. Only two colleges reported that ringworm constituted an important factor in producing disease, with loss of time from class and athletic activities. Three institutions have attempted to study the cause from a laboratory standpoint. The sodden type was found to be predominant in fourteen colleges and the vesicular type was second in dominance. Three institutions made microscopic and cultural investigations and reported Epidermo-phyton as the type found. As to utilizing any methods of prophylaxis against the infection, only seven endeavored to make such attempts. With regard to treatment, various measures were used. Universally the mode of treatment was the use of Whitfield’s ointment, which seems to have been the settled panacea, although in our experience it is far from that, being particularly contraindicated in the acute vesicular and raw varieties.
+
+The distribution of ringworm infection is nationwide. The University of California draws its student body not only from all over the United States but from the whole world. Many of our students are from India, China and Japan, and it is probable that the fungi may have been imported from these countries. The so-called Hongkong and Shanghai foot is ringworm infection.
+
+Strange as it may seem, the federal government, health organizations and even medical schools do not have services for the study of fungi pathogenic for man. The bacteriologists and protozoologists assert that it is out of their sphere. Our mycologists
+
+Digitized by
+167
+
+are usually associated with the university botany departments and are interested only in academic mycology.
+
+The mycologic studies which are now under way are being conducted by Professor Bonar, whose labors will be the subject of another paper in the near future. It is his purpose to attempt to devise culture mediums for the purpose of more critically clarifying the various molds that cause ringworm, and to offer fungicidal and fungistatic measures in an attempt to prevent and cure the malady.
+
+We have noticed in our dispensary that many of the persistent cases of ringworm of the feet have been in those who wore woolen socks; probably on account of the wool being of animal origin, or possibly because the wool produces heat and moisture, the factors that favor the growth of fungi. The fungi naturally grow on leather articles such as shoes, gloves, trusses and athletic goods, and also on silk socks.
+
+Bonar has found that culture of fungi, when placed on wool and silk, will grow and multiply. Scrapings from floors, mats, and walks when planted in Sabouraud and other mediums produced large growths of various nonpathogenic fungi, but no tri-cophytons could be isolated, probably having been crowded out by the more vigorous molds. We have found in our experimental investigations so far that boiling kills the spores, which White believed survived such a temperature.
+
+Of the cases which were clinically diagnosed as ringworm, 90 per cent were proved microscopically by finding the organisms in tissue scrapings; and in about 5 or 6 per cent culture have been grown on Sabouraud and other mediums. These cultures have been examined micologically for identification, and have been replanted and regrown in new mediums in nearly every instance. Bonar has observed that when transplants are made of a single spore from a culture, the resulting growth, when aged long enough may have the character of the spores and growth changed. This makes it difficult to identify morphology of the numerous types reported by investigations. He is attempting to develop the organisms on material other than skin with a view to determining the saphrophytic conditions having a bearing on the possible source of infection. Trichophyton interdigitale is the foremost and principal species of fungi responsible for the majority of cases of ringworm in Berkeley. Other forms are noticed but these are of less frequency. Bonar obtained cultures of three other varieties which he has not as yet classified and which differ in morphology and spore formation.
+
+When scrapings from a patient with ringworm are mounted in from 20 to 30 per cent potassium hydroxide and allowed to stand for from two to twenty-four hours, the organisms can be readily found by an experienced observer. Cultures grow best at room temperature and, if positive, develop in most cases a dense mold which in time gives characteristic specific reactions in the medium, later apparently becoming sterile and ceasing to grow. It has been found that when these dried and “dead” cultures are
+
+Digitized by t^ooQle
+168
+
+replanted they grow abundantly and renew their activity, a fact illustrating that drying is not lethal, and destroying of the spores is persistingly difficult.
+
+It has been observed at our clinic by Templeton and myself that the chief site of infection among our students is between the toes, particularly in the third and fourth interdigital spaces, very frequently involving the nails. That it may be transferred to the hands, soles, groin and axillae by the towel in drying the body, after the same towel has been used on the feet, is a point worth noting.
+
+The clinical types as observed by us are chiefly the sodden interdigital, which is most common, then the vesicular and the eczematoid types. In quite a few instances a mixed infection with bacteria takes place and a lymphangitis and adenitis may be present.
+
+A future paper on the epidemiology and the clinical methods of treatment will be published when the researches are completed.
+
+TO GOLF OR NOT TO GOLF?
+
+The problem of physical exercise for persons who are under medical care as well as for those in health is engrossing the attention of physicians more than ever. The need of recreation is stressed and the provision for it has become a feature of the modem program for a well ordered life. For those who spend a large part of their waking hours in physical toil there is little occasion to proclaim the alleged virtues of muscular exercise. Among persons who cannot properly be classed as “workers” from the standpoint of muscular performance, the value of physical activity, it is said, is not duly appreciated. Thp gospel of exercise has long been preached, particularly to those engaged in sedentary occupations, often without any regard to possible limitations of the physiologic mechanism that is involved. The implication that exuberant health is dependent on violent exercise needs to be carefully examined, particularly with respect to the universal physiologic basis of the expected hygienic benefits.
+
+The value of exercise is not in the development of large muscles or in accomplishing athletic feats. The attainment of physical poise, symmetry of form and harmonious grace, and the furtherance of proper activity of tissue cells and organs and the elimination of waste products, are the chief ends sought. In fact, good health as a whole, and not a highly developed muscular system, should be the objective of exercise.
+
+Golf has attained tremendous prominence in this country during the present century. The hold of the game on our population is attested by the growing number of municipally owned golf courses. Medical associations now demand an opportunity for their members to “use their clubs” during the intervals between
+
+Editorial. Journal Am. Medical Assn.
+
+Digitized by LjOOQle
+169
+
+scientific sessions and clinical demonstrations. Little wonder that the untutored layman accepts this as prima facie evidence for the wholesomeness of the outdoor game! Yet, as far as disputable evidence is concerned, one may still ask with justification: “What is the real hygienic significance of golf?”
+
+The first dilemma is that of the age factor. As a recent writer1 has remarked, on one side is the opinion that golf is a game for old persons and that a man should play golf only when he is unable to participate in other kinds of sports. The fact that retired business men are so often pictured as playing golf has helped much in developing this impression. On the other side, it is asserted that a “real game” can be played only by young people, and as proof of this it is shown that the “champions” are young people. Obviously, other criteria than age must be established before the controversy about hygienic recreation and continued effort can be profitably discussed. Accordingly, Karpovich of the International Y. M. C. A. College at Springfield, Mass., has made a series of observations under the auspices of the Burke Relief Foundation. The major effort was directed to finding the reaction of the heart and blood vessels to the game among golfers of diverse ages, different sex and various conditions of health among whom were some patients with heart disease. Weight, heart rate and blood pressure were taken in the reclining and the standing positions. Schneider’s cardiovascular test was given before and after the game. There was usually a decrease in weight after the game, ranging from one to four pounds. This decrease was not a true loss because subjects were weighed in their clothes both times. Patients who did not show change in weight had drunk plenty of water. Karpovich points out that in healthy persons the heart rate increases with physical exercise, as the result of increased metabolism. In general the heart returns to normal in a short while, often to subnormal for a short period. His study showed that these observations were true with the well and convalescent golfers. The heart rate and the time needed to return to normal plainly indicated the amount of energy expended. It was shown that women expend less energy in playing than do men. There was no indication that any one overdid in the game. The energy spent in playing golf should not be minimized. It is estimated that a person walking at a rate of four miles an hour over a conventional level course of 6,000 yards spends as much energy as he would in lifting himself five times to the top of the highest skyscraper in New York; or, walking with a speed of about two miles an hour, he would spend enough energy to lift himself a little over four times to the top of the same building. As a matter of fact the golf courses are usually located on hilly grounds, and this greatly increases the output of energy necessary to cover the playing distance. To all this the work performed in practice and actual shots and in searching for the ball must be added.
+
+1. Karpovich, P. V.: A Study of Some Physiological Effects of Golf, Am. Phys. Education Rev., November, 1928.
+
+Digitized by
+170
+
+And when it comes to searching for lost balls—what a difference!
+
+From the experience gained in the examination of more than a hundred golfers, Karpovich suggests that a too great loss of weight following exercise with a slow return of weight is bad. Lower blood pressure, particularly in the standing position with higher heart rate and a slow return to normal after moderate exercise, is an indication of poor condition. Sleeplessness, restlessness, fatigue in the morning and lessened appetite after moderate exercise are indications of poor condition. Abnormal heart or kidney conditions increase the dangers in severe exercise. Moderate exercise cautiously taken will be of advantage. Every one should be cautious about eating too soon after exercise. Persons out of condition should be careful to rest before eating. Patients recovering after some sickness naturally have lower endurance and may collapse even after playing a few holes. Usually they walk and play slowly and it is better to allow them to play not more than thirty minutes on a plain, even course. There is strong evidence that such exercise is beneficial to them. Patients with heart disease with well developed compensation react in the same way as normal persons, and eighteen holes played by some do not seem to have any harmful effect. In the light of such advice the question to play or not to play is one that must be answered separately for every player.
+
+STARVATION AS A THERAPY* *
+
+Fasting as a cure of diseases other than those due to overeating runs back to antiquity. It is frequently bound up with religious practice and prayer under the assumption that abstinence from food “purifies” the body and renders it less susceptible to the influences of evil and more susceptible to the influences of good. When fasting is united with prayer one cannot know whether the favorable outcome is due to the fasting or to the prayer. In a recent address before the Medical Society of London, Dr. Edmund Spriggs’1 reviews the history of fasting as a therapy in earlier times, the modem indications for fasting in disease, and the dangers involved in the therapy of fasting. The physical, chemical and mental changes involved in prolonged starvation have been subjected to excellent studies both on man and on animals in recent years. Organs lose weight, not uniformly, and some, such as the heart and brain, lose at a much slower rate than organs such as the pancreas, liver and spleen, and the skeletal muscles. The basal metabolic rate and the blood pressure are gradually lowered during a prolonged fast. Complete starvation, particularly in an obese person, leads to a mild degree of acidosis. The changes in the blood during starvation are not great. There is a tendency to a slight increase of the nonprotein nitrogen and slight but not consistent or persistent decrease in the blood sugar. A healthy, well nourished man may fast for from
+
+1. Spriggs, Edmund: Lancet 1: 485 (March 9) 1929.
+
+* Editorial. Journal Am. Medical Assc's.
+
+Digitized by ^.ooQle
+thirty to forty days without demonstrable permanent injury, and dogs may fast without apparent injury for a much longer time. All this, of course, is under conditions when the individual receives a liberal allowance of water. After the rapid loss of weight during the first few days of fasting, an adult person on complete starvation may lose weight at the rate of about half a pound a day when no excessive physical work is being done. Despite the complete absence of food in the alimentary canal for from thirty to forty or more days, the alimentary canal still harbors at the end the flora common for this organ. Fasting for the purpose of sterilization of the alimentary canal is a failure. Complete starvation is not painful. The essential subjective symptoms are fatigue, and the predominance in consciousness of thought of food and eating. The sex urge is decreased. Dr. Spriggs refers to the wartime undemutrition experience of central Europe. Good clinical studies of these conditions have been reported. At no time, of course, was there complete starvation in Germany or Austria. There was rather prolonged undemutrition and probably in some cases, there were qualitative deficiencies in the diet, accompanied by unusual mental stress and anxiety, worry and fear. Under this restricted food intake in central Europe cases of diabetes, gout and obesity were greatly improved or decreased in number, while nervous disorders increased, as did tuberculosis and anemia. Patients with myxedema appeared to do badly. Chronic diarrheas and digestive disorders were increased, but this may have been due to the abnormal character of the available food rather than to the partial starvation.
+
+Dr. Spriggs outlines the results of the clinical experience with starvation in local diseases of the alimentary canal in epilepsy, in obesity, in diabetes, and in diseases of the circulation. He concludes that complete fasting is beneficial in appendicitis, peritonitis and ulcers, largely on the basis of the rest of the digestive organs afforded by the absence of food. The reasons assigned for the apparent benefits of fasting in alimentary canal disorders do not seem convincing, since it is now known that the digestive glands continue to secrete and the alimentary canal continues to exhibit motility all through a prolonged fast. Short complete fasts of from two to three days are said to be valuable in a number of other diseases, such as pneumonia, severe fevers, acute nephritis, chronic uremia, migraine, hyperthyroidism, local infections, phlebitis, rheumatism, rickets, and the vomiting of pregnancy. A number of physicians have reported diminution in the number and intensity of epileptic attacks in patients with idiopathic epilepsy during fasting. This appears to be due, not to th/e fasting directly, but to the acidosis accompanying the fast. On the resumption of a normal diet the condition of the patient returns to the original state. Dr. Spriggs discusses in greater detail the regimen of fasting in obesity. He recommends not complete abstinence from food but a severe restriction of the calory intake to a level of from 1,000 to 1,300 calories. This re-
+172
+
+striction should be horizontal rather than vertical, so that the patient obtains some of every ingredient necessary for the body welfare. The calory restriction is usually coupled with a definite increase in physical activity. Dr. Spriggs appears to have had success with this therapy not only with those obese from excessive eating but even in those obese in consequence of apparently hereditary factors (“endogenous” obesity). The pains and discomforts that some of these patients may exhibit after ten days or two weeks on this low calory intake are said to be quickly relieved by a meal. “Serious symptoms seldom arise during the treatment, and those formerly present generally disappear. Especially striking is the loss of breathlessness.” This is ascribed to the removal of fatty tissue among and within the muscle fibers of the heart. Anemia, it is reported, does not develop under this regimen. Dr. Spriggs remarks that obesity is often complicated by other disorders, and as a general rule after treatment by starvation the accompanying disease is improved. Two conditions especially can nearly always be treated in this way: circulatory disorders and mild glycosuria. Patients with high blood pressure benefit almost invariably by reduction in weight, if they are overweight, and in the majority of other patients the blood pressure is also reduced. Dr. Spriggs considers that a temporary short fast is still of value in diabetes, and mild diabetes may be controlled by moderate calory restriction without the use of insulin. He points out that children and cachetic and tuberculous individuals should not be deprived of food for more than a comparatively short period.
+
+Except in cases of obesity clearly due to overeating or underexercise, the fasting therapy is obviously not a cure-all but merely an aid to other remedial measures. The complications that may arise in a prolonged fast and the dangers to life and health that may eventuate in a starving person who is sick to begin with are such that fasting as a therapy is not safe except in the hands of competent physicians.
+
+According to Dr. Spriggs, fasting in an otherwise healthy person decreases resistance to infectious diseases. This may be seriously questioned, at least in cases of complete fasting not extending over longer periods than from fifteen to thirty days. As to the ways in which fasting may improve the general body health, there is little reliable information except for those obviously obese from overeating, in which case it may be a matter of less work for the heart, lessened tendency to fatty infiltration of essential tissues, and lessened strain on the pancreas and the liver. Dr. Kunde2 has shown that in complete fasts of fifteen days or more in man and from thirty to fifty days in dogs there is an increase in the basal metabolic rate extending over many months after the fast has been broken. In dogs there is also an incresed secretion
+
+2. Kunde, M. M.: J. Metab. Research 3: 399 (March) 1923; Am. J. Physiol* 68: 389 (April) 1924.
+
+Digitized by
+173
+
+of gastric juice and greater economy in the utilization of nutrients by the tissues. If these results should be confirmed and extended, some of the apparent benefits from fasting may be rendered understandable on these lines. Further, since in fasting the glandular tissues, among them the liver, pancreas, gastro-intestinal mucosa, thyroids and gonads, suffer great loss of weight, it is not improbable that in realimentation these organs respond with increased cell division and therefore may be said to be partly rejuvenated. This matter requires further investigation before it can be put forth as a basis for fasting therapy.
+
+It has been suggested that nature itself points toward a fasting therapy in those diseases that are accompanied by decreased hunger and appetite. But the success of the newer regimen of “feeding fevers” questions the inference. The ills of overeating and the dangers of partial starvation are relative, and excessive claims are advanced in both directions.
+
+Among some people in this country, fasting as a road to health has become an unscientific if not an injurious fad. On the other hand, some physicians go to the other extreme in holding that short periods of complete abstinence from food, and longer periods of severe restriction in calory intake, are always dangerous proceedings. Some of Dr. Sprigg’s conclusions are still tentative. More controlled observations both in the clinic and in the laboratory are needed before the final word can be said on the value and the limitations of fasting. But if there is real albeit limited merit in the fasting therapy, its aroma of cultism and occultism is no deterrant.
+
+AGE-AIM STANDARDS FOR SPECIAL CLASSES
+
+The age-aim table shown below has been compiled for use by Philadelphia teachers of Physical Education in “Special Classes.’’ The aims represent minimum requirements for various age groups. The requirements are slightly lower than those for pupils of regular classes.
+
+These age-aims are based upon certain preliminary studies that have been made in this field of work. They will be subject to modification in the future in the light of additional experience.
+
+Standing Ball Throw	50
+
+Age Broad	Overhead	Yard	dash Chin- Knee
+
+Jump
+
+	Boys	Girls
+8	3-10	3-2
+9	4-0	3-4
+10	4-3	3-8
+11	4-4	3-9
+12	4-6	3-10
+13	5-0	4-0
+14	5-2	4-2
+15	5-6	4-6
+16	5-8	4-7
+
+Boys	Girls	Boys
+13	9	10-1
+16	12	9-4
+18	15	9-4
+20	19	9-3
+21	21	9-1
+23	24	9-0
+24	24	8-3
+28	25	8-2
+28	25	8-0
+
+Girls  10-4	mng  1	16
+10-2	1	16
+10-2	1	16
+9-3	1	18
+9-4	2	18
+9-3	2	18
+9-3	2	19
+9-1	2	17
+9-3	3	21
+
+Digitized by Google
+174
+
+PHYSICAL AND HEALTH EDUCATION
+
+A Course given at the University of Hawaii, January to June 1929, involving the presentation and discussion of the fundamentals underlying physical education, health education and recreation.
+
+By William A. Stecher, Instructor in charge.
+
+A discussion early in the course relative to the work to be done by members of the class brought out two main points: First, lists were to be prepared that would show teachers what specific habits, skills, ideas and attitudes they were to form and develop in their pupils to meet the demands made by present-day communities. Older pupils and adults were to be given enough information to show them why the specific habits, skills, ideas and attitudes are necessary for good citizenship.
+
+Second, a programme of activities was to be prepared in which the “project method” of teaching was to predominate. Projects were to be suggested suitable for different age-groups embodying activities that would have a natural appeal to the group, and that could be used to form, develop and maintain the habits, skills, ideas and attitudes found to be desirable. It was believed that at times supplementary instruction would be necessary to reach the aims outlined in the course of study.
+
+To formulate the above named material and present it to the class for discussion and adoption, five committees were formed as follows:
+
+1)	Physical Education,
+
+2)	Health Education,
+
+3)	Physical Education,
+
+4)	Health Education,
+
+5)	Public Recreation for
+
+Grades 1 to 6 Grades 1 to 6 Grades 7 to 9 Grades 7 to 9 Children and Adults.
+
+The material adopted by the class is contained in the following pages. It was felt that much more time than was available ought to be devoted to a study of each phase of the work.
+
+Digitized by CaOOQle
+Digitized by
+
+O
+
+o
+
+o2
+
+FT
+
+Last Name
+
+First Name and Initial
+
+Sex............
+
+Date of Birth Year Month
+
+Day
+
+Date of Adm.	1 School
+Date of Adm.	2 School
+Date of Adm.	3 School
+Date of Adm.	4 School
+Date of Adm.	5 School
+DIRECTIONS	
+
+1	- Under “General Statement” use code as follows:
+
+0 - Normal. I - Slight or non-correctible defect, no notice sent to parent, x - defect, notice sent to parent. O - Defect corrected. In the ease of items marked with an (	)	see	also	directions under “Supple-
+
+mentary Clinical Notes.”
+
+2	- Under “Clinical Notes,” in columns 19, 20, 21 and 22 record visual and.
+
+hearing acuity as follows:	15-15, 15-20, etc.
+
+Communicaole Diseases
+
+Date
+
+		Remarks
+Diphtheria. 				
+Scarlet Fever.						
+Chickenpox			
+Measles._			
+Mumps				
+Whooping Cough 			
+		
+Immunization	Date	
+		Remarks
+
+Racial Descent (Indicate by X)
+
+c
+
+a
+
+*3
+
+*
+
+c3
+
+w
+
+: C : aJ
+
+: o
+
+12
+
+o
+
+;ph
+
+CO
+
+;*3
+
+: rt
+
+: a
+
+; CO
+
+i a>
+
+c
+
+A
+
+U
+
+!J8
+
+4->
+
+o
+
+9
+
+Date of Adm.
+
+6 School
+
+Vaccination Certificate
+
+I hereby certify from personal examination that the person named on this card has been successfully vacinated or has had smallpox.
+
+................................ M. D.
+
+Medical Inspector
+
+cn
+
+Diphtheria.^
+Digitized by
+
+Form I|(Back)
+
+PERSONAL HISTORY AND HEALTH CHART
+
+ROUTINE MEDICAL EXAMINATION
+
+Date of exam.	Grade	Medical  Examiner.  (Identification  Number)	GENERALIZED STATEMENT | CLINICAL NOTES																										
+			1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27																										
+			Eyes		Ears		Nose  and  Throat		Teeth		Nutri-  tion		Ortho-  pedic							Vision		Hear-  ing							
+																													
+																													
+																													
+			| Defective Vision	Symptoms of Strain	I Defective Hearing	Chronic Discharge	I Tonsil	1 Nasal Obstruction	Carious	Irregular	Underweight	1 Anemia	Stooped Shoulders	| Spinal Curvature	Flat Foot	Nervous Weakness	Heart	Skin	I Miscellaneous	Wearing glasses this Exam. Yes-No	Right	Left	Right	Left	1 Carious Teeth (NO.)	Height in Inches	Weight in Pounds	Standard Weight for his height	13% or more underweight. Yes - No.
+
+SUPPLEMENTARY CLINICAL NOTES Nervous Diseases other than nervous weakness: specify chorea, habit spasms, epilepsy, etc. Heart: specify endodardiaL myocardial, nervous. Skin: Omit temporary skin affections. Miscellaneous:	specify	squint,	corneal	opacity, discharging
+
+ear (R or L), nasal catarrh, chronic pharyngitis, cervical adenitis (T. B.), irregular teeth, very defective speech (if not due to mental deficiency, goitre, periodic disturbances in girls, etc. Specify any non-remedial defect, such as leg amputated, right hemiplegia, etc.
+
+J
+
+Nature of Defect
+Aq pazjijBjQ
+
+Form II (Front)
+
+Tb. Form No. 12
+
+MEDICAL AND DENTAL SUPERVISION OF SCHOOLS	TERRITORIAL	BOARD	OF	HEALTH,	HAWAII.
+
+Record of..........-.................Sex._...............Age.......Nationality..........Mother................
+
+School........................................................................................................
+
+19	19
+
+19	19	19	19	19	19
+
+o
+
+o
+
+o
+
+Grade.........
+
+Date..........
+
+Eyes..........
+
+Ears .........
+
+Nose, Throat
+
+Glands .......
+
+Teeth .........
+
+Skin .........
+
+Lungs ..........
+
+Heart ..........
+
+Nutrition ......
+
+Vaccination ....
+
+Height .........
+
+Weight .........
+
+No. in family.... Previous Illness Physician ......
+
+Residence
+
+-3
+Digitized by
+
+o
+
+o
+
+c§
+
+rT
+
+Posture..................................................................................................
+
+Back .........................ScoL....................Kyph.....................Lord................Treat-
+
+Shoulders ........................................................................................Treat..
+
+Hips ..............................................................................................Treat-
+
+Feet ....................T	Arch.............L	Arch..........Both............Weak...............Treat...
+
+1928-	1929 .............................................................................................
+
+1929-	1930 .............................................................................................
+
+1930-	1931 .............................................................................................
+
+PERSONAL HYGIENE
+
+Bowels:	Regular.........................Constipation..................
+
+Baths:	Hot....................Daily......................Twice	a	week..
+
+Cold..................._.Daily...................-.Twice	a	week..
+
+Teeth Cleaned.......................................................Twice	a	day....
+
+1928-1929 ......................................................................
+
+Diarrhea..............................  So
+
+...........Once	a	week................
+
+...........Once	a	week................
+
+...........Once	a	day.................
+
+1929-	1930.-
+
+1930-	1931.-
+
+ADDITIONAL FOR GIRLS
+
+Menstruation:	Regular........................Irregular..............
+
+Duration.-..........................Pain..............
+
+Amount of Flow............—......Excessive............
+
+..Interval____
+
+Moderate-
+
+Scanty.
+Form III (Front) NAME ..............
+
+HEALTH RECORD
+
+.SEX................................N ationality................Age.
+
+SCHOOL ..
+
+D
+
+CQ
+
+o
+
+o
+
+o
+
+	19  Grade	19  Grade	19  Grade		
+Date 					Glasses provided by Parents		 Date...	
+Eyes...					Glasses provided by School....		 Date.....	
+Ears. 					Tonsils removed by Parents..		 Date.		
+Nose, Throat.					Tonsils removed by School....		 Date.		
+Teeth 					Lungs		 V. P. R,		 X Ray
+Skin					Teeth.		Private Dentist	
+Lungs					School Dentist		Amount of Fee	
+Heart 					Pavment bv Parents	Bv School
+Nutrition							Midmoming Lunch.			
+Bowels.					General Health Condition...		
+Height						
+Weight						
+% Under Weight						
+20% Over Weight ....					
+Previous Illness.					General Remarks				
+Posture. .._						
+
+Form III (Back Of Card)
+
+This should be a social case record card, containing such information as will help decide how this pupil's case should be handled (privately or by public agencies).
+AGE - AIMS IN FUNDAMENTAL TRACK AND FIELD EVENTS
+
+The following aims are based upon accomplishments of school boys and girls in Honolulu. They are set as a level that should allow 70 per cent of a class to pass.
+
+BOY’S	|	GIRL’S
+
+Age  Yrs.	50 Yd.  dash  seconds	Broad Jump  Standing Running Feet and inches		Basket  ball  throw  free  Style  Feet	50 yd. dash seconds	Broad Jump  Standing Running Feet and Inches		Basket  ball  throw  free  Style  Feet
+9	9.0	4.4	7.0	20	9 3-5	4.2	6.6	12
+10	8 3-5	4.8	7.3	25	9 2-5	4.3	6.9	15
+11	8 2-5	4.10	7.6	30	9 1-5	4.4	7.0	18
+12	8 1-5	5.0	7.9	35	9.0	4.6	7.2	21
+13	8.0	5.3	8.3	40	8 4-5	4.8	7.4	25
+14	7 4-5	5.6	9.0	45	8 3-5	4.10	7.6	30
+15	7 3-5	5.10	10.0	50	8 2-5	5.0	7.8	35
+16	7 2-5	6.2	11.0	55	8 1-5	5.2	7.10	40
+17	7 1-5	6.6	12.0	60	8.0	5.5	8.0	45
+18	7.0	7.0	13.0	65	7 4-5	5.8	8.2	50
+19	6 4-5	7.6	14.0	70	7 3-5	6.0	8.4	55
+								
+								
+181
+
+Objectives in the Development of Character, Morals and Manners.
+
+Playground, gymnasium and athletic field activities offer exceptional opportunities for the teaching and development of behavior according to high standards.
+
+Play-life, if properly directed, may be made a powerful moral force. The playfield also may be made a laboratoiy for the cultivation and expression of manners, and for a discipline in manners.
+
+It should, therefore, be the constant aim of teachers so to direct the playlife of their pupils that the following objectives may be realized: Truthfulness, Kindness, Courtesy, Courage, Modesty, Honesty, Decency, Loyalty.
+
+In order to aid in the formation and development of these virtues or obligations the following procedure is suggested. Whenever an infraction in one of the objectives is observed, discuss with your pupils, at the first opportunity, the aim of this particular objective, so that all may understand its meaning.
+
+If, after a thoro discussion, an objective has been approved by the class, embody this in the “Code of Honor” of pupils in this class.
+
+Any serious infraction of an objective adopted by the class should be discussed in open meetings, and upon conviction, the offender should suffer the punishment determined by the class.
+
+(To Bo Continued)
+
+FIVE RECORDS FALL IN WOMEN’S TITLE MEET IN
+
+CHICAGO
+
+By Fred L. Steers, Chairman National Committee on Women’s Athletics
+
+Five world’s records were shattered and one equalled at Soldiers’ Field, Chicago, Saturday, July 27th, as the Illinois Women’s Athletic Club team won the National A. A. U. women’s track and field championships with a total of 31 points.
+
+Betty Robinson, Illinois Women’s A. C., America’s only feminine winner in the 1928 Olympic games at Amsterdam provided the most sensational performance of the meet setting new world’s records in the 50 and 100 yard dashes. The slim, smiling Chicago girl, who runs like a man, clipped 1-5 of a second from her own 50 yard dash marks, sprinting the distance in 5-4-5 seconds. In the longer dash she broke the existing mark of 11 2r5 seconds held jointly by herself and Helen Filkey Warren, a clubmate, in the semi-final heat by 1-5 of a second and equalled the performance in the final.
+
+Rena McDonald, a member of the 1928 American Olympic team, accounted for two first places for the Boston Swimming Association and set one world’s mark. She won the 8 pound shot put with a toss of 42 feet 4 1-2 inches to break the record of 40 feet 4 1-4 inches set in 1926 by Lillian Copeland of Pasadena, California. She also won the discus event with a throw of 113 feet 4 inches.
+
+Digitized by LjOOQle
+182
+
+The 80 meter hurdles also produced a new world’s record when Helen Filkey Warren of Chicago returned to competition for the first time in a year, won the event in 12 3-5 seconds, bettering the old mark of 12 4-5 seconds made by Miss Von Bredow of Germany in 1927.
+
+The record for baseball throw was the last to go, Glora Russell, representing the Northern California A. C. of Eureka, Cal. winning with a throw of 258 feet 1 inch. The old record was held by Vivian Hardwick of Pasadena, CaL
+
+The championships were witnessed by a crowd of 4000 despite the fact that it was the hottest day of the year, 93 degrees. The records show the increasing ability of the performers and the competition generally displayed the effects of training and experience on the part of the girls.
+
+EXERCISE FOR EXECUTIVES: ABSTRACT FOR DISCUSSION
+
+Dr. V. S. Cheney, Chicago: Executives are the hardest class of people to handle in an organization. They are accustomed to giving orders and not to taking them. I have found that more than 99 per cent of our executives are troubled with constipation. I have made more than 600 gastro-intestinal studies on our executives. In that number I found only one in whom the barium meal was eliminated within forty-eight hours. The maximum was 168 hours, a week, and still nearly all of these men say that they have regular bowel movements once or twice a day. They have; but they have simply a closed tube into which they are forcing food and it has to come out sooner or later. I have also found in our group that lack of exercise is the most prolific cause of disease or ill health in our executives. If we would take a picture of the executives who are over 40, and show them how they look in silhouette in the nude, I think it would impress them a little bit more than what we say to them. Their girth is anywhere from 6 to 8, sometimes even 10 inches more around the waist than it is around the chest. I tell them that they are physically lazy; they are, all of them, but they are not lazy mentally. They depend on about two days of golf to supply their physical needs. A man who has been physically active before the age of 40 needs that same activity; only in a lessened degree, after 40 if he wants to preserve his health. Exercise is just as essential to him then as it is when he is younger. We try to see our executives at least once a week personally. We go into their offices. We converse with them. If they have anything wrong, they consult us. In that way they sometimes ward off serious disease. I have in mind one of our vice presidents who had been under a severe nervous strain for weeks. He said that he had lost his pep. I found a blood pressure of 100 systolic and 60 diastolic. This man was below par because of inactivity of his
+
+Digitized by L^ooQLe
+183
+
+thyroid and suprarenal glands. The metabolism test was—27 His condition was very easily rectified—two weeks’ vacation, and a little thyroid-suprarenal extract put him back on the job. We try to have personal contact with our executives. I preach to them three things—posture, exercise and the wearing of suspenders. There are more big stomachs caused by the wearing of a belt than any other one thing I know of, because if one doesn’t stick one’s stomach out, something embarrassing is going to happen. I emphasize exercise—daily exercise— not getting out on the golf links and hitting the ball. That isn’t exercise, that’s a game; and a man who has muscles isn’t satisfied with that. I tell them to do something so that the muscles of the arms and body will tingle, and to work up a sweat at least once a day. I am sorry to say that only a small percentage follow this advice. There is no real incentive for them to do so.
+
+Dr. H. G. Murray, Framingham, Mass.: I should like to stress one point, namely, exercise. We found that forty of the eighty men examined took no exercise during the winter months, so the company provided two gymnasium classes with a physical director to conduct them. For the first week or two these classes were very successful; then the interest dropped off. We substituted volley ball for the setting-up exercises, and at the present time we have more than fifty men who play volley ball three times a week. They really enjoy it, and get a fair amount of exercise. We believe that, in the summertime, these men get enough exercise themselves, but I wanted to emphasize that they are likely to get no exercise at all during the winter, and fall below normal physically as a result.
+
+♦------------------------------------------
+
+HEALTH education notes
+
+♦	——	■ —♦
+
+The Dangers of Overstudy in the Public Schools
+
+Dr. Dufestel, head physician of the schools of the city of Paris and of the department of the Seine, recently made statements that attracted considerable attention, on the dangers of overstudy among young pupils, owing to the overloading of the curriculum. Statistics show that great harm to the general health often results from overstudy, at an age when neither bodily nor mental development has been completed. By multiplying the number of subjects in the curriculum, the number of teachers claiming a large part of a pupil’s time has been increased. Nowadays, a child often spends more than eight hours at school, and, in addition, has home work to do, which further increases the duration of his intellectual toil. The eight-hour law, which legislation has imposed on adult workmen, should be, for even greater
+
+Digitized by ooQle
+184
+
+reasons, applied to the child. Dufestel thinks that four hours a day is a sufficiently long study period, and that the rest of the time at school should be devoted to games, physical training and sports. Medical examination of those children who are subjected to overstudy brings out, every year, a considerable proportion of weakly subjects, many being anemic with a poorly developed chest, while from 30 to 40 per cent may be regarded as being in a pretuberculous state. These facts are known and an endeavor is made to remedy the evil by creating open-air schools. These have given excellent results. In addition, numerous philanthropic societies organize vacation outings at the seashore, in summer, extending over from three to four weeks. The children return considerably improved in health, and showing good gains in height and weight. But these results are not maintained for more than two or three months. A better solution, according to Dr. Dufestel, would be to reduce the number of class hours; that is to say, the number of hours spent in the class rooms, by ceasing to overload the curriculum and by giving fuller recognition to the logical law of pedagogy that the attendance at school has not as its basis the idea of teaching a child everything but to develop his brain, through appropriate training, to a point where he can learn readily when he quits the public school and begins to acquire the special knowledge needed for the career to which he plans to devote himself.
+
+Uses of Banana as Food for Healthy Infants and Young Children.—Scriver and Ross report their study on the value of the banana as a food for infants up to 2 years of age, one phase only of the subject being considered; namely, its use as a food for healthy infants over a long period of time. Banana was substituted for certain articles of diet which included sugar, potato and cereal (farina). These foods are for practical purpose carbohydrate foods containing small amounts of protein and traces of fat. They were fed in equivalent caloric amounts; 1 ounce by weight of banana pulp was used in place of one-fourth ounce of sugar, 1 ounce of potato or 2 fluid ounces of farina (made up from 1 ounce dry weight in 8 ounces of water and after cooking made up to the original volume). The bananas were carefully selected and used only when ripened. The fruit was kept at room temperature, not in a refrigerator room, and was considered ready for use when brown spots appeared on the skin and there was complete absence of any green on the skin, even at the tip. Ripened in this way and to this degree, the starch of the banana is practically all converted into sugar. In the case of infants of from 3 to 6 months, the banana was mashed finely, beaten, and incorporated as an emulsion in the milk formula. In the diets of the older infants in which banana replaced cereal or potato, it was mashed up finely and fed as such. Infants fed on banana as a substitute for these foods take it well, digest it satisfactorily and show no change in the character of the stools. Their gain in weight over a period of weeks is roughly equal to the gain
+
+Digitized by ^ ooQle
+185
+
+made by those on the control diet. The ripe banana thus provides a useful substitute for other foods of its class in healthy infants.
+
+Architecture and Health
+
+Mr. Leonard Hill, the well known physiologist, addressing the Royal Institute of British Architects on “Some Principles of Ventilation and Heating,” said that the prime motive of architects should be to design buildings which afford health and happiness to the inmates, not to secure approbation for the outside effect of the building. He cited as an example the London County Council Hall, commendable for its pictorial effect, in which there were long, narrow offices, in the back parts of which workers were removed from proximity to daylight and the view of the Thames, a just cause for criticism. The debating chamber of the council, too, proved very bad for audition, most deficient in that very quality which it should have possessed. As the best conditions for health can be secured by living in open-air shelters, what justification is there in country places for the enforcement of building by-laws with insistence on such requirements as concrete foundations and damp-courses? There is much to be said for light buildings, such as Japanese houses, which frequently could be renewed. Clean water and air and a proper method of disposal of sewage and refuse are essential and a garden is of high value. Why, then, should a man who has housed his family on a plot of ground by his own efforts have his home demolished by order of a council? People secure good health in caravan dwellings and little bungalows, and, while attacking the defacement of the natural beauty of the country by mean buildings, we must bear in mind that the most wonderful piece of architecture, the child’s body, is made sound through a large measure of open-air life. While damp, dark habitations must be condemned, we must remember that a modem house which satisfies every by-law, if left shut up and overheated, may do much harm to children confined within it, while a shedlike dwelling, from which children escape to play in the open air, may afford good health. A wise and elastic control by health officers should take the place of obsolete by-laws.
+
+Simple Exercise Tolerance Test for Circulatory Efficiency.— The test described by Master and Oppenheimer utilizes habitual muscular movements, causing a minimum of excitement and no dizziness or vertigo. It consists in ascending and descending two steps, each 9 inches high. The number of foot-pounds of work performed is easily calculated. The criterion for the satisfactory performance of the test is a return of the systolic blood pressure and of the pulse rate to the pre-exercise (resting) level within two minutes after the end of exercise. Tables have been constructed giving foot-pounds of work per minute performed by normal individuals, with variations for sex, age, height and
+
+Digitized by L^ooQle
+186
+
+weight. Curves of footpounds of work per minute, plotted against age, show that until about puberty girls perform more efficiently than boys, but after 13 years of age males do better than females. The sharpest rise in the curve occurs between 10 and 20 years of age. Males reach a maximum of about 3,795 footpounds of work at from 26 to 29 years, and women a maximum of 2,950 at about 24 years. After these optimum ages a gradual but steady decline occurs. Men at the optimum age have a work capacity of about one-eighth horsepower, and women, of about one-eleventh. Exercise tolerance varies directly with body weight up to the optimum weight of from 160 to 165 pounds (73 to 75 Kg.) for men, and from 135 to 145 pounds (61 to 66 Kg.) for women. Beyond these weights the exercise tolerance falls. The relation of work capacity to height is a direct one; the taller the individual, the greater is his exercise tolerance. The practical importance of the procedure is that the patient can be tested to determine (1) whether his exercise tolerance is within normal limits, and (2) what his actual maximal tolerance is in foot-pounds. The test is said to be helpful in the diagnosis and the grading of circulatory efficiency and insufficiency, and for tracing the changes arising therefrom during the progress of an organic condition of the heart or during recovery. It may also be used in giving advice as to sports and games.
+
+Birth Control
+
+In an article by Prof. Julius Wolf, the political economist, of Berlin, attention is called to the increased practice of birth control by the so-called proletariat. The birth rate qmong the poorer classes is still, for the most part, higher than among the rich, but during the past fifteen years it has decreased, both in an absolute sense and relatively, more rapidly than the birth rate of the rich. For example, in 1926, the district of Wedding, occupied by a working population, in Berlin, had a birth rate of 11.8 per thousand of population, while the wealthy Tiergarten section had a rate of 10.4. Prenzlauer Berg, with a working population, had a birth rate of 9.9. Outside of Old-Berlin, Charlottenburg—to mention the extremes—had a birth rate of 9.5, Schoneberg 8.8, Wilmersdorf (which is the lowest) 8.4, while Neukoln reported 13.7, Spandau 14.0, and Weissensee 15.0. Nevertheless, in Berlin the birth rates of the poor and the wealthy sections of the city were no longer very far apart. In 1894, Wedding had a birth rate of 40.3, and in 1895, of 40.4. The difference has shrunk to a fraction of the former difference. Similar conditions are found in other cities. To show the development by a few figures, in Dresden the birth rate of the well-to-do sections of the city in 1905 ranged from 15.8 to 16.3; in 1925, the birth rate of the poorer quarters ran from 12.8 to 13.6; in Chemnitz, the birth rate of the wealthy sections in 1907 was 21.5, that of the poorer sections in 1926 was 17.35; in Stuttgart, the birth rate of the
+
+Digitized by C^ooQle
+187
+
+wealthier districts in 1922 varied between 13.1 and 13.6, while that of the poorer sections in 1926 was between 12.3 and 13.9; in Hamburg, the birth rate of the well-to-do districts in 1910 ranged from 11.1 to 13.6, while that of the poorest sections in 1926 ran from 11.9 to 15.2. Outside of Germany, the picture, so far as data are available, is not much different. In Stockholm, the birth rate of the rich sections of the city in 1911 was 17.1; that of the poorer sections in 1926 was 12,1; in Oslo, the birth rate of the well-to-do sections in 1910 was 17.9, while that of the poorer sctions in 1926 was 15.2; in Zurich, the birth rate of the wealthier districts in 1908 was 17.45; that of the poorer districts in 1926 varied between 14.6 and 16.9; in Prague, the rate of the wealthier sections in 1910 was 14.5, while that of the poorer quarters of the city in 1926 was 14.2. In London it was noted that the birth rate of the very poorest sections in 1926 was approximately the same as that of the wealthiest sections just six years previously. It is clear, as Wolf says at the close of his article, from these statistics that the occurrence of large families among the poor was only an episode.
+
+Injuries of Lesser Trochanter in Sports.—Mosenthal found a few injuries of the lesser trochanter, all of which were indirect fractures caused by muscular contraction. He divides the injuries into active and passive ones. The first group is characterized by injuries occurring during transportation when, at a sudden stop, the person, standing on one foot, contracts the iliopsoas violently in order to avoid falling, and breaks off the trochanter. The second group comprises almost exclusively young persons participating in sports: while running rapidly, an obstacle forces them to stop abruptly, the body brought far forward is suddenly pulled back and the iliopsoas, unable to stretch rapidly enough from its preceding contraction, is tom off together with its point of insertion, the lesser trochanter.
+
+Healthy Children Of Consumptives
+
+The extraordinary success of the Papworth Village Settlement for the Tuberculous (an institution unique in England, where tuberculous persons live with their families and pursue their ordinary callings under medical supervision) has been described in previous letters to The Journal. Not only is the settlement almost self-supporting, but the hygienic conditions are such that the patients are not a danger to their families. The recent report of the research committee of the Jount Tuberculosis Council on “The Fate of Young Children in Tuberculous Households” states that at Papworth there is a complete absence of clinical tuberculosis in the 133 children of men and women who have the disease in definite form, and that Papworth’s infant mortality is little more than one-third that of the ordinary infant mortality for England and Wales.
+
+Digitized by kjOOQle
+188
+
+Resistance.—The word resistance, while it embodies much, is rather vague at best. We accept the term as meaning the patient’s ability to fight infections or disease. This struggle is carried on by the cell, which reacts with various defensive measures and exhibits, as Peterson puts it, a consistent effort to dilute the noxious agent, to remove it by intracellular or extracellular digestion, to neutralize it; these failing, to wall it off and put it outside the current activity. Why, then, if this is the case, do not cells overcome every disease that affects them? The most logical answer is that the cells become exhausted in their struggle and allow the disease to become chronic. It is here that protein therapy is of value in calling forth greater fighting power in the cell, stimulating it to greater activity.—Watkins, R. E.: Milk Injections in the Treatment of Pelvic Inflammatory Disease, Northwest Med., February, 1929.
+
+Minor Injuries.—The hangnail, the thorn-pricked hand of the gardener, the needle-prick of the seamstress or surgeon, and the bites of the gnat, lesions too trivial to figure in examination papers, are too often a nightmare in our practices. It is no exaggeration to say that in any large city many valuable fingers are amputated for gangrene which have never been infected. These and others permanently crippled might have been saved by a better appreciation of the usual reaction to injury and a knowledge of the destructive action of antiseptics, hot fomentations, and squeezing in search of nonexistent pus.—Kennon, R.: Sore Fingers and Such Trivialities, Lancet, Jan. 26, 1929.
+
+Relief of Earache by Phenol-Glycerin Mixture
+
+To the Editor of the Journal:—Will you be good enough to send to me a formula for earache. I have in mind a prescription that will immediately and continuously give relief for both the child and the adult. Please omit name.
+
+M. D., Pennsylvania.
+
+Answer.— Drops for earache that “immediately and continuously” give relief are not available, nor are they desirable, as they would mask the symptoms and permit middle ear suppuration to go on to mastoiditis with all its dangers and sequelae. Instillation, as hot as can be borne, of glycerin with 5 per cent of phenol is usually adequate to relieve pain of acute nonsuppurative middle ear inflammation. If this does not suffice, prolonged irrigation of the ear canal with water as hot as can be borne, quarts of it in the course of fifteen or twenty minutes, usually gives a great deal of relief, which often may be continued by hot phenol-glycerin instilled after the ear has been gently wiped dry with cotton applicators. A small hot water bag, or other application of dry neat (including light rays) is a useful addition to this treatment. When these measures fail to give satisfactory relief, the probabilities are that incision of the drumhead is required.
+
+Digitized by v^ooQle
+189
+
+Cracking of Joints
+
+To	the Editor of	Journal:— In making a routine medical
+
+examination on a group of school boys I came across a boy, aged 17 years, who could crack nearly every joint in his body, the way one cracks one’s fingers. This was done by forced active movement and did not require the use of another part, as in cracking the fingers. The joints of the toes, ankles, knees, hips, joints of the lumbar and cervical spine, the temporomaxillary joint, and practically every joint in the body could be made to crack without causing any discomfort whatever. On the contrary, this cracking gave some sense of relief, as one gets by stretching the limbs. The same joint could be cracked only a few times successively, but after a rest of a few minutes the process could be started anew. What is the pathologic physiology or anatomy of this condition? Why can’t the cracking be carried over a longer period, and what is it that is restored during the short time of rest?
+
+Nabih Shabb, M. D., Sidon, Syria.
+
+Answer.—The change underlying this condition is a fibrositis involving the capsule of the joints, the ligaments around the joint, and any tendon or fascia in the immediate region. These structures are made of fibrous connective tissue which, when allowed to contract, shortens, and when stretched causes the peculiar cracking. After this cracking has been produced once or more times, the tissue is stretched and no further cracking occurs until the structures are allowed to reshorten.
+
+“How do you Stand” is the title of a little pamphlet published by William R. La Porte, Professor of Physical Education at the University of Southern California, Los Angeles, Cal. It is a brief analysis of some of the fundamentals of correct standing posture, with illustrated exercises for the correction of minor foot defects.
+
+—There are said to be 25,000 undernourished children in Philadelphia living under “unbelievable conditions.” The mayor’s committee on child welfare and recreation in submitting a report, July 26, recommended that the mayor inaugurate a program for demolishing year by year houses that cannot be brought up to health standards; that the mayor establish a housing inspection service in congested sections and utilize to the full the power to condemn unsanitary and unsafe dwellings when notice to correct law violations is ignored. The committee further recommended that the city council make an appropriation for repairs to all playgrounds and for the development of the seven t>lay grounds not yet in use, and also to open the playgrounds Sunday afternoons throughout the year, and that city planning and zoning commissions plan for playgrounds and parks in the undeveloped parts of the city.
+
+Digitized by t^ooQle
+190
+
+It is announced by the Hon. George W. Wickersham of New York, that The Thomas William Salmon Memorial has been established to provide recognition to the scientist who makes the greatest contribution to the study of mental disease during each year. Awards are to be national and international, and will provide for the wider dissemination of the knowledge of mental hygiene and insanity through co-operation with the New York Academy of Medicine, in whose hands the administration of the $100,000 fund is to be placed.
+
+The late Dr. T. W. Salmon in whose memory this fund is established, was the Professor of Psychiatry at Columbia University and Medical Director of the National Committee for Mental Hygiene in the United States.
+
+ANNOUNCEMENT
+
+The name of “Children, The Parent’s Magazine’’ has been changed to “The Parents’ Magazine.” The policy of the publication will remain unchanged.
+
+Among the institutions officially interested in the magazine and cooperating in its publication are Teachers College, Columbia University; University of Minnesota, State University of Iowa and Yale University.
+
+As heretofore, the editorial content will deal exclusively with (1) The care and training of children from crib to college, (2) Family relationships and home life, (3) The management and equipment of homes in which there are children.
+
+Feeble-Minded Pass Badge Tests.—Fifteen boys and a dozen girls, inmates of the Caswell school for the feeble-minded at Kinston, have passed the athlete tests of the Playground and Recreation Association of America. Five of these youngsters are described as “borderliners,” nineteen are morons and three are high grade imbeciles. The tests they successfully passed are the same as fixed for normal boys and girls.
+
+A City Apartment Which Provides Play Space.—Not far
+
+from Chicago’s “loop” have arisen the Field Garden apartments, a great building two blocks long which provides facilities for play along with electric refrigeration and other up-to-date features. More than 600 families will be housed in these model apartments built by the Marshall Field Estate. The apartment will rent virtually at cost, bringing only a small return for the investors. Play space will be an important part of the development. The outdoor playground will require a plot 60’ x 150‘ in the center of the garden. Grilles and ornamental brick seats divide it from the rest of the park. Walks through the garden are detoured when they reach the playground and follow an arcade under the building. Seats for parents are provided at the sides of the playground. An indoor playground for rainy day use is also a feature, and a leader will be in charge of the children’s play.
+
+Digitized by v^.ooQle
+191
+
+<» ■ ■■ ■ —-----------------------------------■!'
+
+News, notes and comments
+
+«>	  ■	-	■■	—	H'
+
+The 16th National Recreation Congress will be held at Louisville, Ky., October 14th 19. The Recreation Congress is the official gathering together of all interested in play, recreation and leisure time in America. The plan adopted last year permits all to share in the discussion. Each delegate daily gets a review of all that happens the day previous. Send to the Recreation Congress, 315 Fourth Avs. New York City for a program and for further details.
+
+On June 22 the Sargent School Alumnae Association dedicated its Memorial to Doctor Dudley Allen Sargent at the Sargent Camp, Peterboro, N. H.
+
+—The American Public Health Association will consider this year the first award of the Sedgwick Memorial Medal, which was established in honor of the late Prof. William T. Sedgwick, Ph. D., one of its presidents, whose friends raised the fund which provided the medal. There is no restriction as to the service that will be considered in awarding the medal except that it is limited to the field of public health. Citizens of the United States, Canada and Mexico are eligible. The committee, which will not consider direct applications from candidates, asks for nominations giving the name, address, age, country, degrees with date and institutions from which received, and a brief description of the service for which the candidate is recommended. Nominations should be addressed to the secretary, Homer N. Calver, 370 Seventh Avenue, New York. The committee reserves the right to refrain from making any award this year.
+
+—From the moment that the sunbeams dancing on the wall or objects passing before the eyes hold the infant’s gaze until the time when the latest discoveries in science are eagerly examined by the savant, curiosity in some form is daily and hourly a factor in human thought and action. In the child curiosity brings about attention, develops interest, and by the end of the third month has led the infant to recognize or perceive those things which are responsible for his pleasurable or painful sensations. Curiosity impels him to creep and later to walk to investigate the things about him, thus bringing him into intimate relation with various phases of his environment. Curiosity may be the mother of knowledge or of scandal and gossip; hence this inherent tendency to investigate must early be guided into proper channels if it is to be productive of constructive interest, knowledge, science and love of truth.—Pike, H. V.: Psychology of the Normal Child, Pennsylvania, M. J.
+
+Digitized by v^ooQie
+192
+
++—------------------------------------------*
+
+Foreign items of interest
+
+«■	—	I
+
+The German University for Physical Education, Berlin, has many short courses in which those men and women that need special training in one or another sport or skill may get this. During one of the last semesters 12 such courses were held at the school, with an attendance of 450, and 6 courses with 300 attendants were held in such parts of Germany that presented favorable facilities for a particular sport (skiing being taught in four different parts of the country. A new venture was a course for house wives and mothers. This was such a success that the participants organized themselves into a club in order to continue the work under the direction of one of the women students of the university.
+
+The German Postoffice has organized classes in recreative physical training for its women employees during their daily recreation period, because the one-sidededness of their work might lead to unhealthful personal conditions.
+
+The Swiss Gymnastic Federation consists of over 1500 societies, composed of men and of women. The women’s section has grown most rapidly during 1928. It now has over 22,000 participants. The smallest section is the academic society with 700 members.
+
+In the legislature of Prussia a committee report was presented that in schools for girls biology, hygiene and physical training shall if possible be taught by women teachers.
+
+In September 1928 a Women’s Physical Training convention took place in Bern, Switzerland during which a field day was given with 6000 participants from 100 societies. The events consisted of games, track and field events, dancing, clubswinging and free exercises. No prizes or honors were awarded; the event was simply an exhibition to show what girls and women can do.
+
+In France a group of “Friends of Physical Education” was organized in the French parliament, consisting of 48 Senators and 85 Deputies. The aim of this influential group of men, who formerly were gymnasts or athletes, is to aid all movements having for their aim the physical improvement of French children and youths.
+
+At the last meeting of the Olympic Committee, France made a proposal materially to decrease the program of events, also to limit to one person the entrants of each nation to any one event.
+
+Digitized by L,ooQie
+193
+
+Secretary of state Dr. Lewald and Dr. Carl Diem of Germany spent 6 weeks in the United States to study the physical education facilities at our Normal Schools for the education of teachers of physical education, also the facilities at universities, high and elementary schools and for public recreation.
+
+Russia has granted 72 million rubles for the erection of swimming pools in the larger cities of the country.
+
+In several experimental studies Dr. Hans Hoske of Berlin found that no special exercise (like raising arms sideward, the spann bend, moving the shoulder blades backward, etc.) had any effect on the increase of respiration. On the contrary, such exercises decreased deep breathing; the spirometer showed a smaller lung content than when deep breathing was conducted in the fundamental position.
+
+Fascist sport director Turanti has promulgated the following orders:) The headquarters of all sports is to be in Rome, and Volata is to be the national game of Italy (Volata is a modernized game of the middle ages being a mixture of Rugby, Football and Fistball, 16 persons constituting a team).
+
+Physical training is becoming popular among diplomats. Several years ago the persons engaged in the diplomatic service at William street, Berlin, made arrangements to use the gymnasiums and playfields of the University for Physical Education, A news item from London says that the foreign office at Downing street has purchased Swakeley Castle with its park of over 12 acres and intends to use this as a recreation and sport center for its personnel.
+
+Frankfort on the Main, also Cologne are in the field to have the 1936 Olympic games held there.
+
+The Swiss Federation for the Encouragement of Hiking among youths, announces that the use of its sleeping facilities has increased from 13743 in 1927 to 30209 in 1928.
+
+Addition of Hygienists to the City Beautiful Commission
+
+The increasing population of Paris, together with the lack of housing facilities, owing to the transformation of many apartment houses into stores, banks, motion picture houses and automobile garages, has compelled the municipality of Paris to establish a general plan of growth for the capital, with construction of numerous apartment houses and other dwellings. The latter have already multiplied in the environs of Paris but without any definite plan, with the result that in many of the new sections
+
+Digitized by UjOOQle
+194
+
+there are no well defined streets, no sewers, no water system or electric light system. A commission has therefore been appointed to prepare for the construction of adequate roads, the erection of new buildings, and, above all, the demolition of old dwelling houses in the central sections of the city, dating from periods several centuries back, and which are veritable hotbeds of infection, constituting, however, historic landmarks that have been spared too long amidst new and sanitary quarters. Fortunately this commission has recently been augmented by the addition of a number of hygienists, whereas before it contained chiefly politicians and architects. The opinions of the hygienists will be valuable in determining the selection of buildings to be condemned and demolished; for the disposition of new buildings to be erected; for the location of open-air schools, playgrounds, athletic fields and dispensaries for tuberculosis and venereal diseases. The group of hygienists, of which M. Marchoux, professor at the Institut Pasteur, is the chairman, includes professors on the faculty of medicine, physicians to the hospitals, heads of services in the Institut Pasteur, and many other well qualified men.
+
+—Stephens in England relates the case of a young woman, aged 21, who after four years’ strenuous employment as a “permanent (hair) waver,” was compelled to give up work on account of severe pain in the right wrist. On examination it was found that she was suffering from tenosynovitis over the lower part of the right forearm.
+
+Schoedel, Germany, states that infant gymnastics are most effective in the period of greatest growth; namely, in the first twelve to eighteen months. Degrees of scoliosis that are resistant to treatment in early childhood are easily corrected in from four to eight weeks in infancy. He emphasizes the fact that infants who lie still in bed all day are much more susceptible to bronchopneumonia than are infants who sit or stand a great deal. In consideration of these facts, together with the general beneficial action of gymnastics, he recommends that infants be given passive exercise beginning the fourth or fifth month after birth. The need for infant gymnastics is particularly great in hospitals for nurslings because here even the usual handling of the infants by their mothers is missing. The article has fourteen photographs which show passive exercises for developing the various parts of the body in infants.
+
+In Bielefeld, Germany, Dr. Max Gerson, has had remarkable success in various forms of tuberculosis with a special diet, containing a high percentage of albumen and fat and very little carbo-hydrates (in 3000 calories daily, not more than 90 grams carbohydrates and no salt.
+
+The next national German Tumfest will, apparently be celebrated in Stuttgart in 1933, as the societies of this city are anx-
+
+Digitized by L^ooQle
+195
+
+ious to have the festival, the city is willing to build a stadium, and the necessary financial guarantee has been raised.
+
+The next national Tumfest of the American Tumerbund will be during June 1930, at Buffalo, N. Y.
+
+Folk dance societies in Berlin are planning an eight day trip to Vienna to take part in the celebration of the hundreth anniversary of the birth of Johann Strauss.
+
+The minister for education of New South Wales, acting on the recommendation of the council of education of that state, has decreed that the children of the state schools shall receive individual instruction in sex physiology by the senior teachers.
+
+In “Gymnastik,” Sweden, Miss Mary Billquists writes about “Sport, Its Place in Girls Schools.” She says that while sport for women is new, it should find a place in schools for girls. She advocates games, running short distances, jumping, spear and discus throw (but no shotput), swimming, rowing, cross country running, and bicycling. She believes that the different forms of sport should not be arranged as competitions, but as forms of play; women’s sport should be a means of unifying body and mind, of increasing the health of spiritual forces.
+
+A course was given recently in the German University for Physical Education, Berlin, for referees and umpires. The course lasted 14 days and was attended by persons from all parts of Germany, representing six associations. It is the intention to have such meetings yearly and to enlarge the fields of instruction.
+
+To increase the efficiency of teachers of physical education in elementary schools in France an extension course was given in Paris that was attended by more than 100 men and women teachers. The course consisted of practical work and of lectures in anatomy, physiology and kinesiology.
+
+In Vienna, Austria, Dr. Barth uses rhythmic gymnastics as a means for curing children who have inferiority complexes. He states that all children should be given the opportunity of taking part in rhythmic exercises.
+
+European countries are debating the proposition of the International Olympic Committee to shorten the Olympic Games to 15 days, including three Sundays. The German National Committee has proposed the following (1 Excluding the winter sports, the Olympic Games shall not last more than 14 days. 2) No distinction shall be made between obligatory and chosen sports 3) The number of participants for each nation in any event shall be three.
+
+Digitized by LjOOQle
+196
+
+In Coburg, Germany, the Hindenburg swimming pool is used during the winter months for skating. Damage to the concrete walls of the pool by ice pressure, due to expansion, is avoided by having the upper part of the side walls slope outward. This allows the expanding ice to move outward.
+
+Warsaw in Russia has engaged upon a definite plan for supporting physical education. This involves the yearly granting of definite sums of money to all organizations fostering physical education, for instance: Turner societies, sport clubs, swimming clubs, football clubs, winter sports, also special grants for public schools, summer camps. 21 pennies per capita is set aside for this work. For the acquisition of land ana for builings 3 1-2 million Zuloti have been granted.
+
+Following an invitation from Japan, Germany will send 10 track and field men to that counrty to take part in various track and field meets.
+
+The next Olympic congress will meet at Berlin, June 2 to 15, 1930. The agenda embraces 1) Amateurism 2) the Olympic program 3) construction of play and sport fields 4) the hygiene of sport. Receptions of all kinds and inspection of modem facilities for play and sport in Berlin and other German cities are parts of the program.
+
+Germany has 14 centers where anyone who wishes to know more about sport may enroll as a pupil. Up to the beginning of 1929 these 14 schools have held 455 courses which were attended by 10,159 students.
+
+University Diploma. A deputation of representatives from the various Colleges went before the Senate of the London University on Wednesday, May 30th, and laid before them their reasons for desiring a University Diploma for Physical Education. Mr. Sidney Skinner, M. A., Principal of Chelsea Polytechnic who has acted as chairman of the gymnasts, committee, introduced the deputation and put the matter concisely and clearly before the Senate.
+
+Poor Posture and Body Build. Dr. M. O’Brien, of North Queensland (writing in the “Medical Journal of Australia”) regards wrong posture as a much over-rated primary course of visceroptosis, and considers that pure weakness of body-build is a more frequent first cause. Effort should first be directed to strengthening the musculature of the vertebral column; special costal and abdominal work should follow. As exercise-treatment, he recommends the constant assumption of a position often seen in German gymnastics, which may be paradoxically described as “prone falling,—face-uppermost” position. It is taken by a rollover from side-falling. His second recommendation, is crook ly-
+
+Digitized by
+197
+
+ing, with the back of the neck supported on a piece of narrow cushioned apparatus from 10 to 12 inches high (a footstool turned up on its edge, suggests itself.) The pupil or patient then lifts the trunk to a horizontal position by partially extending the knees and finally moves the feet alternately forward until incline-lying pos.—hands to sides or in swing) is reached, heels and neck only being supported.
+
+Dr. O’Brien argues that strength in the osseous structure of the spine follows that of the musculature if the exercises are taken in the growing period, and that once the strength of the vertebral column is established, strength in the trunk walls will follow and visceroptosis be prevented.
+
+Size of Heart in Participants in Olympic Games at Amsterdam.—To determine whether the heart in athletes is larger than in other persons Herzheimer examined 196 pertici-pants ip the Olympic games at Amsterdam. Roentgenograms with a time exposure of one and two-tenths seconds were made at a distance of 2 meters. The pictures were taken during dia-tole while the persons were holding their breath. The author gives a tabular report, classifying the athletes in groups according to the various sports. On the basis of his observations he states that the hearts of persons outstanding in the more strenuous sports are larger than those of other persons, even if their weight and physique are the same. He reasons that this is probably due to the fact that in sports the heart is taxed to its capacity, and that this effects a larger development. He asserts that these observations confirm the statement which he made concerning the participants in the German sport contests in 1922.
+
+Mind and Tuberculosis.—To determine what influence pulmonary tuberculosis had on the personality of the individual, a study of 100 patients was made by Wolepor. Forty patients exhibited neurasthenic symptoms; 80 per cent of this group had far advanced, 5 per cent had moderately advanced and 15 per cent had minimal pulmonary tuberculosis. There was comparatively little difference in the extent of the disease between the group displaying neurasthenic symptoms and the one free from mental stigmas. In association with pulmonary tuberculosis, two of the 100 patients had cerebrospinal syphilis; one had mitral stenosis; one bronchiectasis; one bronchial asthma; one diabetes; one chronic arthritis; one chronic interstitial nephritis; one hyperthyroidism, and one cholelithiasis. Forty-four patients had a “shut-in” character; the remaining fifty-six were sociable and “good mixers.” The types of personality encountered are described as (1) the rebellious; (2) the phlegmatic; (3) the pessimistic; (4) the optimistic, and (5) the restless and apprehensive. The results of these studies led to the conclusion that there is no definite relationship between dementia praecox and pulmonary tuberculosis. The mode of living determines the large incidence of phthisis in hospitals for mental disease. Pulmonary tuberculosis does not al-
+
+Digitized by LiOOQle
+198
+
+ter the personality of the patient. It merely influences inherent tendencies and exposes the true individual. There is no one type of personality characteristic of pulmonary tuberculosis. The neurasthenia found in tuberculosis is not characteristic of this disease alone. It is often absent.
+
+Americans and Success.—Success in a business or profession is due to applied skill, energy and endurance. Two of these three qualities most assuredly depend upon health. The care of the human body therefore is the most essential element in success in any line of work. Though Americans are the most successful people in the world, they have yet much to learn about efficiency, and particularly in its relationship to personal hygiene. The criticism of Europeans that "Americans know how to work but do not know how to play” applies to many of us.—Harris, Seale: The Business of Keeping Well, Virginia M. Monthly, Jan. 1929.
+
+BOOK REVIEWS
+
+“A Pageant Of The Seasons”—(A Ceremony for Classes Completing the Junior High School) by Ethel E. Holmes and Nina G. Carey. Paper cover, 6x9”, with punched holes to fit the Physical Education lland Book. Published by A. S. Barnes & Co. Price 75 cents.
+
+This pageant was originally written for graduation exercises in a Junior High School. It consists of a short prologue and epilogue and four scenes entitled Spring, Summer, Autumn, and Winter.
+
+Two readers, a boy and a girl, read the lines while the characters enact the tableaux. The scenes represent the seasons, and the spring, summer, autumn, and winter stages of a life time; the spring is childhood; summer, youth; autumn, maturity; and winter, old age. Episodes in each stage of life are shown in tableau depipting the outstanding events in a life. There is one typical dance in each season and suggestions are made for suitable incidental mqsic.
+
+Opportunity is given in the epilogue for members of the graduating class to pass in procession on the stage.
+
+Teachers of Junior High School will doubtless find the pageant adaptable to other occasions than graduation.—Janet B. Walter.
+
+“Play Day—The Spirit Of Sport” by Ethel Perrin and Grace Turner American Child Health Association—1929.
+
+Although small in size and containing only 77 pages this little booklet contains much helpful material for teachers interested in socializing athletics for girls. Perhaps much of the criticism of interschool athletics for girls in the past has been due to the overemphasis placed on winning. This booklet points the way for conducting interschool athletics with emphasis on the joy of playing and of making social contacts.
+
+Digitized by kjOOQle
+199
+
+The first few paragraphs discuss the theory of play days. Following these is a discussion of the method of organizing play days. Then the plans of organization and administration of eight successful plays conducted during the year 1928 are elaborately reviewed. Even play days for industrial girls and winter play days are given considerable attention. At the end of the book is a splendid bibliography. Teachers of physical education for girls should become acquainted with this book.—C. Kieffer.
+
+“An English May Festival” by Linwood Taft, PhD. Paper cover, size 6x9,” with punched holes to fit the Physical Education Hand Book, being one of a series known as “Pageants with a Purpose.” Published by A. S. Barnes & Co. Price 50c.
+
+This is a pageant which would make an excellent spring play day celebration. It may be given either as an indoor or outdoor performance. The loyal subjects of Queen Elizabeth present for her entertainment their gam.es and feats of strength. These are interrupted by a group of peasants going a-Maying. At her command, they continue their revels, crown their May Queen, and dance and sing in her presence.
+
+The dances, songs, music and costumes are all suggested, and the pamphlet ought to be of great service to teachers who are always looking for material of this kind.—Janet B. Walter
+
+“The Reference Shelf,” Vol VI., No. 2—Interscholastic Athletics”—Julia E. Johnson, Compiler. Published by The H. W. Wilson Co., New York. 1929. Cloth, 182 pages. Price 90 cents.
+
+“Interscholastic Athletics” is the latest contribution of Julia E. Johnson to Volume VI of the “Reference Shelf.” The little book gives some of the more important recent discussions regarding interscholastic and intercollegiate competition.
+
+The different phases of the case for and against this type competition are clearly and in some instances quite strongly presented. By presenting the opinion of noted educators who have made contributions to the subject in recent educational magazines or papers read in conferences, the book offers rich material to one whose interest in athletics requires that he defend his attitude in the matter. A lengthy bibliography will also prove valuable to the reader who feels the need for the latest word on the subject.”—Trevdyn A. Jaynes.
+
+“Programs for Special Occasions” by Marion Kennedy and Katharine Bemis. Clothbound—104 pages. Price $1.50. A. S. Barnes & Co., New York.
+
+This new book by the authors of Special Day Pageants for Little People was written to help primary teachers in staging little pageants illustrating truths to be emphasized in the observance of certain occasions.
+
+Among the occasions for which dramatized programs are offered are Clean-up Week, Health Week, Safety Week, and World Peace.
+
+The book is heartily endorsed for use in primary grades.
+
+Digitized by Google
+200
+
+“Baseball for Girls and Women,” by Gladys E. Palmer. A. S. Barnes and Company, New York—Clothbound 140 pages— Price $1.60.
+
+We wish to recommend this book very highly.
+
+The primary purpose of the author has been to produce a single text giving instruction in indoor and outdoor baseball that heretofore could only be obtained through reference to several texts, most of which were written primarily for men.
+
+The fundamentals of baseball are thoroughly discussed in clear and simple language. Helpful suggestions for developing and testing skills are to be found throughout the book. The numerous illustrations and diagrams are of considerable value. While the book was written for women, we feel that many men might read it with profit to themselves.— W. M.
+
+Covering 37 physical education activities, a study of the reactions of 40 experts, prominent leaders in the physical education field of the country, has just been completed by members of the Committee on Curriculum Research of the National Society of Directors of Physical Education in Colleges. Evaluation of the activities was expressed in terms of their developmental contributions, including physical, social, psychological, safety skills, recreational, and corrective..
+
+“Swimming was easily the leader in every form of contribution except social and psychological,“states Professor LaPorte’s report. “In social contribution the team games naturally led the field. In psychological contribution a good mixture was evident, with football and hockey leading.”
+
+The ranking chart of the central median tendencies lists the 37 activities in the following order:
+
+First place, swimming.
+
+Second place, gymnastic games, basketball, football, soccer, speed-ball.
+
+Third place, tennis, hockey, playground ball, track and field, volley ball.
+
+Fourth place, diving, golf, baseball, field ball, touch (tag) football. Fifth place, life saving, boxing, fencing, hand-to-hand wrestling, gymnastic dancing, tumbling, handball, hiking, riding, squash tennis, water polo, horseshoes (quoits).
+
+Sixth place, boating, pyramids, bowling.
+
+Seventh place, free exercises, marching, archery.
+
+Eighth place, hand apparatus.
+
+The study included the entire range of educational divisions, so as to provide a progressive and systematic sequence of subject matter from childhood up through college life. Health education, dramatics, winter activities, and outing activities were not included. The activities were arranged alphabetically in the questionnaire, under the headings aquatics, combative activities, gymnastics, individual sports, and team sports.
+
+Digitized by v^ooQle

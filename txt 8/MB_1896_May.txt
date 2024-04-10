@@ -1,0 +1,534 @@
+﻿Editorial Committee : KARL KROH, cook co. normal school, Englewood, Chicago, III.
+
+WM.STECHER, Sec’y. of the Technical committee of the n. A. Gymnastic Union, cor. 3rd a chestnut 8t’8, St.Louis,Mo. HANS BALLIN, managing Editor, southern Illinois State normal university, CARBONDALE, III.
+
+ANTHROPOMETRY INDIVIDUALIZED.
+
+By D. F. LINCOLN. M. D.
+
+(Read before the American Association for the Advancement of Physical Education, New York, April 25, 1895.)*
+
+IT has always been considered one of the principal achievements of the science of Anthropometry to have pointed out and defined what was called the “type” of the race—the normal or ideal being, the standard of what the perfect man should be.
+
+It is needless to say that the ideal man is a non-existent personage. None the less, ideals, standards, and averages have scientific value, and are fascinating to the popular mind. In the history of that very ancient art, sculpture, a belief in an ideal is prominent. The Egyptians possessed a canon for the proportions of the erect human figure more than three thousand years ago ; the Greeks borrowed from them; and since classic times man’s imagination has run riot over the idea of an absolute standard of proportion. We are informed by Fletcher that as many as one hundred and fifteen of these standards have been constructed, each claiming to present the typical man. The basis of the artistic standard, however, has not generally been a scientific one, but has been constructed from various pleasing numerical ratios, or interesting geometrical coincidences found in collocating squares, circles, etc. It has remained for modem research to ascertain the true basis—that of fact, rather than that of taste—and to found its laws on multiplied observation rather than fancy.
+
+Generalizations of.this sort, regarding the normal or mean dimensions and weight of man, including both sexes and all ages, have been
+
+* This paper has been in some parts remodeled without changing the character of the statements.
+
+Digitized by U.ooQle
+“46—
+
+carried a great way. In the present paper no attempt is made to add to existing results of this kind. Its object is a critical one, viz., to point OjUt certain defects which necessarily attend the method of extended generalization, and to ask attention to the comparatively unused methods of continued study of individuals.
+
+Logically speaking, no generalization can be too wide. For practical uses, however, it may be best to stop short of the broadest view. The ideal man, as distinguished from types of the ape, is a theme for the zoologist rather than the anthropologist. The latter is at present too busy, and finds too much profit in his work upon small subdivisions of man, to trouble himself about the Genus Homo.
+
+A similar restriction is necessary in the fine arts. Modern sculpture idealizes only the European features, or rather, the features of one among many European types.
+
+The races of Europe and kindred races in the East, popularly supposed to present a single type of humanity, are as deserving of distinct recognition as are the different languages they speak. There is less difference among them than exists between the Greek and the Negro ; but there is enough to strike the vulgar eye. Even within the limits of one national name distinctions are strongly marked. The German of the north, tall and tow-headed, cannot be confounded with the dark, short, South German. The great racial distinctions found in .parts of France and Britain are well enough known; relics of an older day, they have not yet disappeared in the fusion of modern life. Isolated communities still exist, presenting precious opportunities for identifying and describing the primitive stocks which mingle in the so-called “Englishman” and u4Frenchman,” and which a true national pride may do well to seek out ere they are swept out of their nooks into the general whirlpool. It is not among barbarous races alone that sub-types await investigation.
+
+The key to future progress in anthropology is subdivision. The race is to be studied within the nation—the sub-type within the type. Wide generalizations can be made at any time ; the sub-type becomes yearly more difficult to reach. Yet, even in our own country, such sub-types •exist in districts lying outside of the great lines of movement.
+
+It has been stated that the general curves, or diagrammatic lines, indicative of the English people, under the heads of height, weight, etc., are sufficiently symmetrical to justify the assertion that the race is tolerably homogeneous, or at least sufficiently fused.—These curves, as you know, present the outline of a section of a hill, steep at the middle and with long equal slopes on each side. If, however, the people •examined belong to two types, not yet fully fused, the fact is indicated by the presence of two summits with a depression between, or by other irregularities ; peculiarities which are not marked in the English curves. —But may not this seeming regularity be due to the presence, among the subjects of the statistics, of a considerable npmber of types, each •capable of giving a different curve, but which, when thrown together, mutually fill up and neutralize the irregularities, the one of the other ?
+
+In this way it may have come to pass that the influence of large
+
+I.
+
+Digitized by
+47
+
+distinct groups—Gomishmen, Welshmen, Saxonst Dutch, Frisians, etc.— lias been smoothed Over and made to disappear from sight. It is hardly possible, in point of fact, to suppose that the physical differences once traceable between the men of the different English counties, as a matter of common observation, have dwindled to insignificance in our time.
+
+II.
+
+The statements which are offered under this second head may be •summed up in the general remark, that every generalization may sup-press some vital facts relating to some comprised individual.
+
+1.	In regard to the possible value of an individual, from the biological point of view, the following considerations may be useful in a general way.
+
+A race-type, like a species in natural history, can be regarded from two points of view. It may be considered as an ideal, whose perfect form is represented by the mean or average specimen ; and this may be called the pre-Darwinian view. Or it may be considered as an aggregate, each member of which, however unlike the average, may perhaps represent something more important than an average, namely a tendency in a new direction—a tendency to the development of a new species ; or at link of continuity with another existing species.
+
+In the view here taken, any individual of a series may be (not necessarily is) as truly a representative of a type as the “average individual” is.
+
+2.	As the sub-type disappears in the nation, so does the individual in the sub-type. In either case the large result, embodied in averages and curves, is capable of destroying the essential features of the smaller group or the individual.
+
+In seeking for data on which to construct a law of human growth, the earlier anthropometrists contented themselves with observations on very large numbers of people taken simultaneously, or, at least, without any attempt to repeat the observation on given individuals. These results were then sorted under “ages,” and we were enabled to state the average or mean weight and height of a person at each age.
+
+In a general way these results have proved of great value. But it is beginning to be perceived that they must be supplemented by continuous observations on known individuals.
+
+By compiling the averages of weight, height, etc., for different ages, •diagrams (“curves”) representing the law of average growth have been made. So far as that plan is capable of being worked, these curves are correct. There is, however, strong reason for believing that individual curves may normally differ to a wide extent from the general formula. The facts in the matter can only be ascertained by numerous individual measurements from birth to maturity.
+
+What results we shall obtain by such individual studies, when accumulated in considerable numbers, is at present a matter of conjecture. It may be presumed that the great generalizations which have cost so much labor and ingenuity will retain a high value. To deny the the existence of a type-idea which embraces the great masses of individuals would be needlessly to rush to an extreme, before the case is developed.
+
+Digitized by VjOoqLc
+—48—
+
+3.	By an application of Galton’s method of percentile grades. Professor Bowditch has re-distributed his original data, derived from measurements and weights of large numbers of Boston school-children, taken at one time. As at first arranged, the entire mass of statements was condensed into one average for each age, giving a single cur\e of growth for the whole body of children. The new plan sorts the children at each year of age into eleven groups, according to size (or weight); by combining which we have eleven curves, representing the rates of growth in big, medium and little children. Inspection of these curves shows a remarkable fact, to wit, that the period of rapid growth begins earlier in large than in small children. A boy destined to be a large man would, judging from these plates, begin to grow fast at twelve ; one destined to be short would not grow fast until fifteen.
+
+One thing is wanting (as Bowditch himself points out) to the com* pleteness of this demonstration. We have no proof that the individuals who compose any one group or percentile grade are the same year by year. John and Richard, aged fourteen, may be respectively in the tall and the medium grades this year ; next year their relations may be reversed ; but nothing in the numerical statements will indicate that they have changed places—the exchange preserves the balance of number. The question, therefore, whether a boy may be beneath the average at one age and above at another, or whether a large baby may make a small man, is not answered by the “generalized” method.*
+
+4.	It is worth noticing that the Jews are stated to possess a curve of growth which contradicts the law hypothetically framed by Bowditch —the law that large children have their period of rapid growth early. The Jews in the Moscow gymnasium (Sackj, a much shorter and smaller race than the “Anglo-Saxon,” have their most rapid growth from the twelfth to the fourteenth year, after which the rate falls off rapidly. For Boston boys of English or Irish descent the ages (at last birthday) of most rapid growth were 14, 15 and 16 for the 50 per cent, grade ; Roberts puts it for the English artisan class at 13—16.
+
+5.	In the same line of argument stands the probability that the high school pupil represents a different class of the population from the primary scholar. He is selected by intelligence, capacity, family antecedents. His average does not belong with the average of the mass of the population. Hence we cannot but see a source of error in such school statistics as employ the data of all grades of the public schools without distinction.
+
+* After reading the above, the writer was informed by Dr. Henry G. Beyer, of the Annapolis Nava? Academy, that the individual records there kept prove that individuals frequently do pass from one percentile grade to another as they advance in age.
+
+Surgeon Beyer’s statistics have since appeared in the “Proceedings of the U. S. Naval Institute,” vol. XXI, No. 2, under the title, “The Growth of U. S. Naval Cadets.” It appears from his tables that (as suggested irt the text) many boys who at 16 are short, grow to be tall at 22; e. g., from 62^ to 70.2 inches ; 64—70.4; 62.5— 70.5. Some boys who are tall at 16 are comparatively short at 22 ; as 66.7—67.4 ; 67—67.6; 67—68.1. In sum, there is a strong tendency for the 25th and 75th percentile curves of height, starting at 16 years, and retaining the same boys, to approach the 50th or middle curve. “Tall boys are much more likely to have completed their growth at an earlier age than short boys, and short boys not only grow more rapidly and more extensively than tall boys, but also continue to grow up to a later age than do tall boys.”—The last statement is closely parallel with Bowditch’s; while individual exceptions are abundantly shown by the tables.
+
+The suggestion is here added that we have to take into account the existence of two natural systems of classification whose lines partly cross each other. Growing youth are first divided into early and late growers; second, into those ultimately tall and short. Using the initials of these four words, we find that for the majority, E = T, and L = S. For a minority (undetermined in number) the contrary holds; E = S, L = T; and for others E or L = medium height.
+
+Digitized by CaOOQle
+-49-
+
+6.	A discriminative selection is made by nature upon old men. It is possible that a larger proportion of tall men than of short men die after middle age. If this be true, it helps to account for the apparent ■diminution of height in the aged. Individual measurements, taken year by year, are required to settle the point.
+
+7.	The relations between the general development of the system, and special sexual development at puberty, form a subject of the first importance. And yet, such is the uncertainty of the primary data, that I know not how to interpret the statistics. By the primary data I mean the age of first menstruation. There is no date for that event. There are averages given in the text-books, e. g., “14 years and 7 months.” But such a datum is entirely valueless for the purpose for which we require it: as may be seen by examining Pagliani’s tables, which show that the incidence of first menstruation covers a period of six years, or from the 13th to the 18th year, without very great variation. Less than one fifth of his cases are assigned to the 14th year. Ten-elevenths are comprised in the six years (13th—18th) distributed by percentages as follows: 12*4, 19^, 17M>, 1610
+
+In view of this great variation, what can we think of statements like the following :
+
+“About two years before the age of puberty, there is a period during which the growth in both height and weight shows a distinct acceleration.”*
+
+Or again, that the height, lung capacity, and weight of girls are nearly of full dimensions at the ages of 14, 15, and 16 respectively, 4ii. e., at the age of first menstruation.”**
+
+Or this : that puberty in boys coincides exactly, in the majority, with the maximum rate of growth, which is at the age of 15 or 16.f
+
+An epoch which lasts five or six years (13th—18th year) is a hard one to date from.
+
+A very important question of causal relation is involved. We wish to learn whether the relation between puberty and acceleration of .growth is a fixed one, approximately alike for all or most. We attempt to compare the age of rapid growth with that of puberty, and are confounded to see that, in our statistics, we are not informed within six years of the true date of first menstruation ot any one individual in the tables.—Is it not a possibility, calling for strict investigation, that the relation between growth and sexual development is a widely varying one ; so that some girls may accomplish all of this great growth (which may average nearly eight inches) after the incidence of puberty, -and others before, while in still others the two processes coincide ?
+
+Something is known in regard to the influence ot race, or rather of type. Light-haired girls reach sexual maturity, in Denmark, two years ^earlier than the dark-haired ; and the same fact appears in Pagliani’s observations in the neighborhood of Turin, where a large intermixture of races has occurred. If the light-haired races here concerned are the
+
+* XXII Mass. Board Health Rep., p. 502.
+
+'	** Shepard.
+
+4 Carlier.
+
+Digitized by CjOOQle
+—50—
+
+taller (a reasonable conjecture), it is interesting to note a. coincidence between early sexual development and Bowditch’s suggested law of early growth in tall children.
+
+8.	A few practical considerations may be added in closing.
+
+The object in view is to obtain continuous records of as large a number of individuals as possible, from birth to maturity ; or at least till 18 for women and 20 for men. Records for later ages are desirable, but to a less degree.
+
+The records shotiid be made at least once-a year; better, once a month for the first three years of life. If once a year, a period of rapid change, (accelerated growth in' height, less in weight), like the spring, should be avoided ; the neighborhood of the new year may be suggested as more desirable.
+
+Continuity is best attained by making the practice a family institution. In asylums and schools there are breaks in time and personnel ^ no child is kept from birth to maturity under one care, unless it be that of his own family.
+
+The interest is enhanced, in the case of children, by noting the development of the faculties of speech, perception, movement, thought* Facts relating to illness, diet, residence, school, are often of first importance in interpreting the rest.
+
+Special interest may be added by weekly or daily weighings, noting for comparison the dates of appearance of sickness.
+
+Dr. E. Seguin on the Education of the Hand.
+
+THE hand—-of which so much is expected as the executive officer of the will and of the mind, by force or delicacy—receives only the chance training of automatism.
+
+It is unfortunately the fact that it has for years and ages struggled against matter to make it express or accomplish ideas, receiving all the while the least possible help from the mind. But the great progress of hand-work at the Vienna World’s Fair, at the exhibition of Philadelphia 1876 and Paris 1878, over the preceding exhibits at Paris and London,, and the drawing of the French, German, Italian, and Swiss schools, show that the hand is more and more educated intellectually, if not yet physiologically. The object lessons have largely influenced the-advent of the realistic taste now prevalent in art and industry; but when the physiological education—of which these lessons are only art inverted and partial application—shall prevail in the schools—then the-hand will rule, and the question will arise, The hand of which nation, will be the queen? Why should it not be that of America?
+
+There is something in chiromancy. As the aspect of the head bespeaks mental power, so the hand indicates its creative capacity. Like the head, the hand is amenable to greater perfection of shapep hence to untold dexterities. If we judge of the American hand by the promise of its forms,—long, without puny tapering, its palm large enough for a strong clasp, its phalanges well defined, without articular-nodosities, the nails well made, supporting a pulp equally sensitive,, firm and elastic,—such a hand, well trained, must become a match for
+
+Digitized by ^.ooQle
+—51—
+
+the most skillful. Here, coarse hands are of foreign origin, made clumsy by hereditary over-work, and can, by culture, be brought to an average of dignity and usefulness, at the latest in the second generation. But the correction by education, of the anomalies of forms, of contractility and of tactility—of the hand, forms a special department of education.
+
+In its general application, the education of the hand aims at exercising the muscular and nervous apparatus separately and conjointly; making the hand obey an outside will or example, or the internal will or thought; exeeutfcjg either of these dictates in the shortest time, in rational order, with the greatest correctness, force, delicacy, and finally, art; habituating the hand to convert all labors of repetition from intellectual to automatic, without losing the appearance of the former; working alternately under the dictates of the will and under the impulses of automatism, without ever mixing the former, in which the hand is obedient to the brain, with the latter, whose repetitive impulse is from a near ganglion when the mind takes rest. These exercises must be made singly, in small groups, by large assemblages, on command, on imitation of a person or of objects. Education trains the sight as well as the hand to wonderful quickness and precision, and prepares these organs for higher labor.
+
+Both hands must be equally trained, the right and the left separately, alternately, and together, and must be made to execute movements of totality, or of their small phalanges singly or together, by the most rapid and correct simultaneity of the will, the eye, and the hand.
+
+Moreover, when some inequality is discovered, not only in the ability of the two hands, but in the growth and action of both sides at large, two orders of correctives must be ready in the school for application, one to the child directly and personally, the other resulting from some pre-arrangements in the school. By the first, as soon as a difference of size or symmetry is manifested, the dexter habits of the pupil must be altered into sinister. Eating, cutting, brushing, and the menial services which the hand performs as a domestic of the body, must be intrusted to the left, even drawing, writing, and a few automatic games and exercises, like spading, sawing, at the same time that the lacing, buckling, buttoning of the garments must be altered to be worked by that hand. By the second and more general device, it would be well to have the school-arrangements, as the doors and windows, altered and disposed to be moved by left-handling, so that not only the children deformed by prior right-handling would improve, but so that new cases of this deformity would become as rare as they now are frequent. So this physiological training of the hand and of the left side is urged on the grounds of necessity in favor not of a few children, but of all, on the plea of dualistic structure of the human body.
+
+In educating the hand as the executive officer of the will, one soon finds that it is also the surest carrier of the impressions produced by contact; that is, of the general sense of touch, and of the special sense of tact-carrier of so many comforts and so much happiness. These, like the other senses, are susceptible of education, and were educated by the Ancients, as it appears from the expressions, “tactus eruditus”, “eruditus oculus”, “eruditum palatum’’.
+
+
+
+Digitized by v^.ooQle
+-52-
+
+Self-consciousness a Barrier to Fre?, Spontaneous
+
+Expression.
+
+By ANNE E. ALLEN, Kindergartener at Chicago and Cook County Normal School.
+
+THE greatest obstacle to human progress, next to lack of mental vigor, otherwise known as ‘brains,’ is self-consciousness. By this I mean that setting up of one’s self to take cognizance of and pay attention to himself instead of the thing to be done. This dread ghost rises up before the stoutest hearted men, even as Macbeth’s victims haunted him. Whenever the average person rises to speak, no matter how much he may have to tell that he feels must be interesting; whenever he sings, or in any way becomes the center of an audienee, he is held in bondage by this awful specter.
+
+Even so it is with our little three year old babies sometimes, and what is the result ? The muscles become tense, the movements consequently awkward and unnatural, the face flushes an unnatural red, the heart beats increase, and the nerves are jarred and injured. This lack of co-ordination, of harmony throughout the entire system emphasises all that is unattractive and ushers to the rear, beyond the power of human recognition, all that is attractive and beautiful.
+
+We see this in the man full of ideas who is eager to tell his thoughts to the world. He may be great in his laboratory and great in thought power generally, but when he stands before an audience who know infinitely less than he does on his pet subject, he blushes, stammers, his wits desert him, and he is reduced to a pitiful state of weakness, as he stands confronted by nothing more nor less than this wretched self-consciousness.
+
+Between him and those who would know and learn of him it stands, rendering him helpless in the face of his vast knowledge and great experience.
+
+People are born into an atmosphere of self-consciousness, and the duty, the sacred duty of every teacher, is to find for each child a path leading to his freedom.
+
+Many of our physical exercises have a tendency towards making self prominent in the child.* His thought constantly is led towards
+
+* Our esteemed contributor is too vague in this statement; and besides her position toward certain physical exercises as having the tendency of promoting self-consciousness is incorrect. For, while there may be teachers who use the means to achieve undesired ends, the evil is to be sought in so many different sources, that we cannot refrain from criticism. Certain exercises do not possess, in our opinion, any more inherited tendency to promote self-consciousness, but we hold that any physical exercise may be thus taught. The leading forth must be so systematically arranged as to bring about a conscious will-act in methodical progression, and before any other conscious will-act is taken up the former must have been acquired to a certain degree of unconsciousness. This course must be carefully observed as to age, temperament, social environments, and individuality. But this is as essential in all other studies. Those learned men, experts in the laboratory, who blush and stammer when they are called upon to express their convictions, we think, have been more harmed by other abnormal training than physical training, even what poor teachers could have effected. And then, we think, this picture is somewhat exaggerated. We do not agree, further, when the writer says, “When his whole being is full with a thing to be expressed, then and then only have we free, genuine action or expression.” Is the worker of the laboratory, to whom we are referred, not full with a thing he wishes to express ? or, are we referred here to Delsarte ‘physical culture’ ? If so, we have nothing to say. For, there is nothing more preposterous than to claim that this mimicry is fostering unconsciousness. Instead of ‘undoing,’ it is doing everything to the contrary.
+
+Self-consciousness, when it exists to such a deplorable extent as to hamper all free expression, is a morbid condition, a stunting of wholesome growth. But embarrassment and self-consciousness must not be confounded. A farmer boy may be embarrassed in the city, a city boy on the farm. Both are free in their actions at their respective homes. Thus it may be with the hermit-scientist of the laboratory. Their embarrassment is easily overcome by bringing them in social communion with their fellow-creatures. No better place for the attainment of this end tnan the mirthful association in the gymnasium. We refer to our article on ‘Tactics and its Place in Physical Training,’ vol. Ill, No. 25.—EDITOR.
+
+Digitized by kjOOQle
+-53-
+
+the thought of how he is doing a thing, instead of what he is doing.
+
+Children who do well are brought out as leaders in a class, and they become eager to lead because it shows them off.
+
+Those who do poor work are discouraged often by the constant ‘nagging’ they receive, and so hide themselves as much as possible. Both are made self-conscious and both in so much are crippled.
+
+The little bright, spontaneous child in his home is constantly made the center of interest to admiring friends. He is asked and, when unwilling, is sometimes bribed and compelled to do his cunning little tricks. Soon he begins to show off of his own accord, or, if he is shy, shuts up every avenue of expression, blushes when spoken to and becomes equally uninteresting with the pert one who makes himself obnoxious with his forwardness.
+
+We all know these children and people of both classes, and we know the wrong of their training, but so far very little has been done to remedy the defect. The problem is far from solved, but I should like to offer a suggestion along a line that has been rather successfully tried.
+
+When a child’s mind is fixed upon the performance of an action, when his attention is directed perhaps to the measured time in the music he is trying to follow in movement or to the time set by others, when his whole being is full of the thing to be expressed, then and then only do we have perfectly free, genuine action or expression.
+
+The forward child, when wholesomely criticized, may be led to the same beautiful, free expression ; the backward, shy child has many a time been led to free genuine expression when the leader has kept his mind steadily upon the thing to be done and ignored his awkward self.
+
+So much of our gymnastic work is reduced to the drudgery of arbitrary, imitative action, and is thereby degrading to very little children especially. It divorces thought and action and does not appeal to any side of his nature. What we want for little children is an avenue for genuine, true expression, and if he has the opportunity for this he will have the chance of securing his birth-right.
+
+He who is instrumental in annihilating the self-consciousness of our people when they are young will lead the race from Egyptian bondage into a freedom such as that to which Moses led the chosen people. He may, like Moses, himself see the promised land from only afar, but one glimpse, I feel, will fully repay him for his effort.
+
+---------► ♦--------------
+
+AN admirable little volume, entitled “Electricity in Electro-Therapeutics,’’ by Doctors Houston and Kennelly, has just been published by the W. J. Johnston Company of New York. The little volume is what its authors claim for it, an elementary treatise on electricity. Text-books upon the subject of electricity need frequent revision, so rapid is the progress made by tireless investigators in this science. The authors have made the work one strictly up to date. It must commend itself especially to the busy practitioner who has not the time to study the more extensive treatises of the standard works upon the science of electricity. The authors have aimed and succeeded admirably in putting the reader in possession of just enough facts and principles ot the science as will enable him readily to comprehend and follow discussions in the
+
+Digitized by i^ooQle
+
+/
+-54-
+
+professional journals as to its application in the treatment of desease. The explanations are clear and to the point, leading logically from the simpler to the more complex. The accompanying diagrams, with few exceptions, are excellent and aid greatly in elucidating the text. The work is sufficiently technical to put the reader right abreast of the most recent developments of the science and at the same time elementary enough to be easily grasped by those who have not made the study of electricity a speciality. It bears a careful perusal by all, who want to know what are the latest advancements in the electrical field.—E. L.
+
+FIRST ANNUAL MEETING OF THE R. I. GYMNASTIC LEAGUE OF
+
+THE A. A. A. P. E.
+
+HE first annual exhibition of the Rhode Island Gymnastic League
+
+was given May 2, in Infantry Hall to a large audience. A pleasing variety of athletic work was presented by classes and squads selected from various institutions in this and adjoining cities and towns of the state. The grades of public school instruction in gymnastic work were well represented, from the kindergarten to the high school, and the champion dumb bell squad of Brown University was also added to the list. The girls’ and ladies’ classes that participated included those of the E. Y. W. C. Association, and of the Providence Turnverein. Y. M.
+
+C.	A. classes of Providence and Pawtucket had important places upon the program.
+
+The various events were watched with interest by the audience, and applause was liberally bestowed.
+
+The meeting in the afternoon in Sayles Hall constituted the literary part of the “Fete,” when papers on the various aspects of physical training were given by those qualified to speak on the subject; these papers were followed by discussion on the topics treated. The program for the afternoon was as follows : “A Brief History of Physical Training,” William L. Coop ; “What Constitutes an Ideal Teacher of Gymnastics,” Ellen Le Garde; the discussion on this topic was opened by Miss Edith L. Hill ; “A Systematic Physical Training,” Fred E. Parker ; “Military Drill,” Dr. D. A. Sargent of Harvard University ; with discussion by Hon. T. W. Bicknell, Frank A. Cook and others.
+
+The officers of the Rhode Island Gymnastic League which is a branch of the American Association for the Advancement of Physical Education are as follows : President—Horace S. Tarbell, Superintendent Providence Public Schools; First Vice President—John E. Doldt, Director Providence Athletic Association ; Second Vice President—Fred W. Parker, Director Brown University; Secretary Treasurer—Marion L. Earle, Assistant Supervisor Providence Public Schools ; Executive Committee—George F. Weston, Principal Manual Training High School, Providence ; S. May Taylor, Supervisor Pawtucket Public Schools ; Ellen Le Garde, Supervisor Providence Public Schools.
+
+Digitized by
+
+Google
+CHICAGO BRANCH OF THE A. A. A. P. E.
+
+A NUMBER of Chicago teachers sent out a call to organize a Chicago Society as a Branch of the American Association for the Advancement of Physical Education. A meeting was held on May 2d, and a temporary organization effected. From a Chicago daily we gather the following report of this meeting :
+
+There was an enthusiastic, earnest gathering of physical culturists in the lecture-room of the Y. M. C. A. Building at the meeting called to organize a Chicago Society as a Branch of the American Association for the Advancement of Physical Education. A temporary organization was •effected and it was voted to make it permanent at the next meeting, which will be held at the time of the child-study congress, at the Cook County Normal, May 15th, at 1:30 o’clock p. m. Some of those present were :
+
+Mara L. Pratt, M. D.; Eva D. Kellogg, Editor “Primary Education”; John Koelling, Janet Orr Thompson, Mary Elizabeth Barnett, Blanche Phillips; M. Stephens Ayres, Lake Forest University ; Kate Anderson, University of Chicago; Francis W. Parker, Cook County Normal School; Henry Suder, Superintendent Physical Training, Chicago; Dr. Phillips, Medical and Athletic Director, Chicago Y. M. C. A.; G. W. Ehler, Physical Director, Central Department Y. M. C. A.; Charles J. Kroh, Head Department Physical Training, Cook County Normal School; Miss Reba Ritchie and Miss Frances Cavern.
+
+Mr. C. J. Kroh, head of the Department of Physical Training at the Chicago and Cook County Normal School, called the meeting to order. As one of the resident members of the A. A. A. P. E. he was deeply interested in the formation of a local society of physical education, such, as it was proposed to organize to-day, in which the various interests concerned should find representation. Mr. Kroh dwelt particularly upon the fact that teachers elsewhere seemed to be in the avant-garde in the formation of such societies. Teachers were seeking information on the subject of physical training and the interest manifested augured well for the future. He hoped the day was not distant when the teacher’s activity would be extended in the direction of physical training.
+
+In this live country of teachers and child-study organizations, he argued, the physical activities of children were studied as never before, and he felt that the strongest advocates of proper physical training would come from the ranks of those to whom the child-study movement appealed so strongly.
+
+With our physical training sections in the several women’s clubs, our numerous gymnastic societies, Y. M. C. A., our many athletic clubs and school clubs innumerable, the gymnastic clubs of different nationalities, clubs devoted to out-door games, pastimes and sports, we should not be slow to avail ourselves of the advantages certain to accrue from the massing of all interests and concerted action.
+
+The advantages of a Chicago Society for the Advancement of Physical Education were also dwelt upon at length by Dr. Ehler, Director
+
+Digitized by G.ooQle
+-56-
+
+of Physical Training, Central Department, who was elected temporary chairman, Mr. Kroh being selected for the secretaryship.
+
+Miss Reba Ritchie read the constitution as it was adopted by the National Association at its last meeting in New York, April 27th, 1895y and the articles were discussed. It was proposed by principal F. M. Sisson that the 5,000 principals and teachers of the Chicago public schools be approached through their various meetings that as large a membership may be gained as possible, and to interest all teachers in the work of the physical training of children.
+
+This will be done next Saturday at the principals’ meeting in the Schiller Theater, when Superintendent Lane and Col. Francis W. Parker will call the attention of the principals to the object of the association which has done so much good throughout the country, especially where societies have been formed, in Massachusetts, Ohio, Wisconsin, Rhode Island and Connecticut. It is believed the time for the organization of a Chicago Physical Education Society has come and when the society is organized May 15th it is the purpose of the leaders in the movement to have a good representative membership.
+
+A committee, consisting of Mr. Kroh, Dr. Phillips, Miss Janet Orr Thompson, Mr. Ehler and Miss Mary Elizabeth Barnett, was elected to report on matters pertaining to permanent organization, nomination of officers and committees, and program for the next meeting.
+
+Department Physical Education, National Educational
+
+Association.
+
+BUFFALO, N. Y. JULY 3 to to, 1896.
+
+PROGRAM.
+
+PHYSICAL EDUCATION. Meetings in St. Stephen’s Hall, Franklin and Swan.
+
+President, R. Anna Morris, Cleveland, O.
+
+Vice-President, Ed. F. Hermann, Denver, Colo.
+
+Secretary, Miss N. D. Kimberlin, Detroit, Mich.
+
+Wednesday, July 8th.
+
+Class Exercises in Swedish Gymnastics. Directed by Miss Adella F.
+
+Fay, Supervisor of Physical Training, Buffalo, N. Y.
+
+President’s Address. By R. Anna Morris, Supervisor of Physical Training, Cleveland, O.
+
+“The Life of Man in Every Part has Need of Harmony and Rhythm.’* By Dr. Nicholas Butler, Columbia University, New York City. Educational Value of Body Culture. By Dr. G. Stanley Hall, Clark University, Worcester, Mass.
+
+Should We Have Military Training in the Schools ? By Dr. D. A. Sargent, Hemenway Gymnasium, Harvard College, Cambridge,. Mass.
+
+Discussion by Mrs. Frances W. Leiter, Supt. Physical Culture Dept., W. C. T. N., Mansfield, O.; J. N. Wilkinson, State Normal School, Emporia, Kan.
+
+Digitized by CjOOQle
+—57—
+
+^Thursday, July 9th.	.
+
+Class Exercises in Eclectic Gymnastics. Directed by Miss Annie M-Somerville, High School, Buffalo, N. Y.
+
+Physical Deterioration Resulting from School Life; Cause, Remedy. By Dr. J. H. Kellogg, Battle Creek, Mich.
+
+Discussion by Dr. W. G. Anderson, Yale University.
+
+Physical Training as a Factor in Character Building. By James L. Hughes, Inspector of Schools, Toronto, Ont.
+
+Discussion by Buel T. Davis, Supt. of Schools, Winona, Minn.
+
+The Nervous Force of the Teacher. By Dr. Mara L. Pratt, Durant Gymnasium, Boston, Mass.
+
+The meetings of the department will be held in St. Stephen’s Hall, the time to be announced on the general program.
+
+This hall is located at the lower end of Franklin Street, quite convenient to the various department meetings and will seat at least 1000 people.
+
+An exhibition of Public School Gymnastics by pupils of the Buffalo schools will be an interesting feature of the program.
+
+The Headquarters of the Department will be at Iroquois Hotel, cor. Main and Eagle streets.
+
+ORGANIZATION.
+
+A meeting was called in the interest of Physical Education at the close of the morning session of the National Educational Association, Denver, Colo., July 9th, 1895.
+
+On the following day a permanent organization was effected and the following officers elected for 1895—96 :
+
+President—Miss R. Anna Morris, Supervisor Physical Training, Public Schools, Cleveland, Ohio.
+
+Vice-President—Mr. Ed. F. Hermann, Principal High School, District No. 2, Denver, Colo.
+
+Secretary—Miss N. D. Kimberlin, Supervisor Physical Training, Public Schools, Detroit, Mich.
+
+The President in stating the object of the department said :—
+
+“The aim of the department is not only to establish a closer relation between those who are actively engaged in Physical Training, but to give dignity and scope to the work by enlisting the interest of prominent educators and by bringing it more effectively to the attention •of the regular teachers with whom the hope of the future lies.”
+
+It is hoped that this department will be of such interest to all instructors and supervisors of physical training that the gathering at Buffalo will be of a national character, as it will be the only opportunity for a general meeting of physical educators this year.
+
+Nettie D. Kimberlin, Secretary.
+
+Detroit, Mich., May 2, 1896.
+
+
+
+Digitized by ^ooQle
+-58—
+
+A TEXT-BOOK OF THE GERMAN AMERICAN SYSTEM OF GYMNASTICS.
+
+IN 1852 the National Convention of the Gymnastic Union at Cincinnati authorized the Executive to cause a boQk to be written which would serve as a manual for gymnastic teachers. Mr. Eduard Mueller, a very able teacher, both in practice and theory, was selected as the author of the work. For many 'years his book has done admirable service, being then in many respects superior to any gymnastic literature for like pur* poses. The book contained 350 pages, and had 32 explanatory charts of apparatus and exercises on apparatus.
+
+More than forty years have elapsed since the publication of this book which is now surpassed in superiority by many similar ones of Germany; but it deserves to be kept in a sacred place as a token of the energy and liberality of the Turners of those days. A goodly number of books have been published by gymnastic teachers, especially by those engaged in public school work; most of these have appeared within the last ten or twelve years.
+
+But there was felt the need of a book equal to those published in German, that would be helpful to the gymnastic teachers in public-schools and gymnasiums. Again and again attempts were solicited at the different teachers’ conventions of the North American Gymnastic-Union, but the plan did not materialize. A few years ago renewed attempts resulted in the appointment of an editor and in the promise of a number of experienced teachers of the Union to render him every possible assistance.
+
+To-day the work of years of arduous labor is accomplished. Mr. Wnw A. Stecher, one of the most successful gymnastic teachers of this country. Secretary of the Technical Committee of the North American Gymnastic Union, is its editor. The whole is a compilation of contributions of sixteen of the best known teachers of German-American gymnastics in this country.
+
+The book is published by Lee and Shepard, Boston. From the advance sheets "we gather the following data:
+
+The work contains 348 pages and 309 illustrations. The lajter were designed by Mr. Stecher who happily combines the experience of the teacher with that of the artist.
+
+The usefulness and completeness of this work will be best understood by giving the subjects treated and their authors.
+
+1. System of German-American Gymnastics—Wm. Fleck.
+
+2. Method—Wm. Fleck.
+
+3. Notes for Leaders—Wm. A. Stecher.
+
+4. Marches—Wm. A. Stecher.
+
+5. Free Exercises—Henry Suder.
+
+6. Wand Exercises—Wm. Reuter.
+
+7. Exercises with Clubs—Ferd. W. Froehlich.
+
+8. Dumb-Bell Exercises—Henry Suder.
+
+9. Exercises with Rings—Dr. Karl Zapp.
+
+10. Fancy Steps—Christian Eberhard.
+
+11. Horizontal Bar—Ferd. W. Froehlich.
+
+12. Parallel Bar—A. E. Kindervater.
+
+13. Side Horse—Wm. A. Stecher.
+
+
+
+Digitized by
+
+Google
+—59—
+
+14.	Long Horse—Wm. A. Stbcher.
+
+15.	Vertical Ladder—Dr. Hy. Hartung.
+
+16.	Inclined Ladder—Dr. Hy. Hartung.
+
+17.	Simultaneons Exercises on Inclined Ladders—Dr. Karl Zapp~
+
+18.	Rings—Dr. Karl Ziegler.
+
+19.	Vertical Poles—Wm. Kopp.
+
+20.	Swinging Poles—Dr. Karl Zapp.
+
+21.	Buck—Wm. A. Stecher.
+
+22.	Round Swing—Hans Ballin.
+
+23.	Whipple Ladder—Hans Ballin.
+
+24.	Balancing boards—Richard PerTUCH.
+
+25.	Jumping—Herm. Hein.
+
+26.	High Jump—Herm. Hein.
+
+27.	Window Jump—Herm. Hein.
+
+28.	Broad Jump—Herm. Hein.
+
+29.	Pole Vaulting—Herm. Hein.
+
+30.	Hop, Step, and Jump—Dr. D. M. F. Krogh.
+
+31.	High Long Jump—Dr. D. M. F. Krogh.
+
+32.	Weight Throwing, Weight Lifting, Throwing the Spear—Dr. D. M. F.
+
+Krogh.
+
+33.	Gymnastic Games—Karl J. Kroh.
+
+34.	Roundel—Wm. A. Stecher.
+
+35.	Ring Roundel—Dr. Karl Zapp.
+
+36.	Double Wand Exercises—Dr. Karl Zapp.
+
+27.	Exercises with Hoops—Dr. Karl Zapp.
+
+It must not be understood that “The German-American Gymnastics,” as represented in this work, is exclusively intended for society teachers. It will be noticed that most of the contributors are public school teachers!; a few are instructors in normal schools. That the public school teachers find an abundance of material will be seen from the fact that seven pages are devoted to tactics ; nineteen to free exercises (calisthenics); fifty-one to wand exercises; eighteen to club-swinging; twelve to dumb-bell exercises ; five to ring exercises ; eleven to fancy steps ; twenty-two to games; five to roundel; and twenty to double wand and hoop exercises^ in all one hundred and sixty-nine pages of work as at present performed in the common schools of this country.
+
+Lastly, we will make mention of the fact that all the material is so arranged as to make it useful for woman gymnasiums as well as for those of men.
+
+The illustrations in this issue of “Mind and Body” are from the work now ready for sale.
+
+i
+
+Digitized by
+
+Google
+-60-
+
+MIND I AND I BODY.
+
+Published Monthly.
+
+BY
+
+FREIDENKER PUBLISHING CO.,
+
+242JLaCTa.'vaJeee,	‘Wlacoaajalxx.
+
+Subscription Price, =	=	$1.00	per	Year.
+
+9S~ Address all business letters to FREIDENKER PUBLISHING CO., 468 East Water St., Milwaukee, Wis.—Address all editorial correspondence to HANS BALLIN, Managing Editor, Southern Illinois State Normal University, Carbondale, 111.
+
+Entered at the Milwaukee Post Office as Second Class Matter.
+
+REMARKS AND COMMENTS.
+
+Dr. F. A. Schmidt’s “Physiology of the German System of Physical Training” has been adopted as a text-book in several schools of physical training. It is a concise and masterly treatise of a subject which will prove most interesting and instructing to anyone engaged in physical exercise. We shall mail a copy of it to the person who sends us the name of a new subscriber, and one dollar for his own subscription.
+
+Laws are for protection, not for education. That government of
+
+school, of home, and of state, is the best that needs the fewest laws. Physical training teaches self-control. A well conducted gymnasium is an ideal school of democracy.
+
+Here are fostered in wholesome emulation equal rights and duties, conducive to self-esteem and esteem for others. This alone is sufficient to make laws unnecessary.
+
+All men work or they cause others to work; the true workman, however, does and causes work. The one who is taught to love physical exercise will never shun work.
+
+The Summer School of the Chicago and Cook County Normal has one highly attractive feature as heretofore, the department of physical training, with Karl Kroh at its head.
+
+Do not forget the Summer School of Physical Training at Milwaukee, June 29 to August 8! This will be the only summer school in the West for public school teachers and teachers of physical training.
+
+Digitized by kjOOQle
+-61-
+
+Great Britain’s teachers are compelled by a new law to undergo a course in school gymnastics. Thousands prepare themselves for examination.
+
+Dr. Hermann Arnold has been elected Director of the Anderson Normal School of Gymnastics. Dr. Arnold is a very able exponent of German Physical Training.
+
+“Die Kinderfehler, Zeitschrift fur Padagogische Pathologie undThera-pie in Haus, Schule und socialem Leben’’ (“The Defects in Children, a Journal for Pedagogical Pathology and Therapeutics in Home, School, and Social Life”). Little needs be said in commendation of this contemporary in the field of child-study, when we learn that its editors are Dr. I. L. A. Koch, Director of the Insane Asylum at Zwie-falten,Wurtemberg; Chas. Ufer, Rector of Schools, Altenburg; Dr. Zimmer, Herbora; and Prof. J. Trueper, Director of the Institute for Defective Children, Auf der Sophienhohe, at Jena. The Journal is published six times a year as a supplement to the “Zeitschrift fur Philosophic und Pa-dagogik”; its annual subscription is 3 M. = one dollar. The prospectus well defines by this paragraph of its introduction its mission. Speaking of the approaching Pesta-lozzi-Centennial, it says, “What this self-denying friend of humanity pictured intuitively in his fiction ‘Lienhard and Gertrud,’that is what we will strive to redeem : The discernment of the defects of our people in body, mind and sentiment, and the betterment of the same by a sounder education of youth.” Among the contributors to this Journal we find the foremost educators in the world ; of this country are mentioned Elmer E. Brown, W. S. Monroe, and Frank McMurry.
+
+There is a certain class of ‘educators,’ noisy and boisterous in language, to be found in all lands of the globe, who, peeping through the key-hole of their chamber-door, are amazed (a Jesuitic amazement) over the cosmopolitan spirit in educational themes. They raise the nativistic cry for the preservation
+
+of a patriotic and national education, and laud the memory of Horace Mann, the champion of a rational training, which they claim to be good in any land. Then they wax wroth in contemplation of the means that are employed outside of their chamber - door. Their country is to be only as big as their souls ; their brotherly love is sincere as their liberality. The cosmopolitan spirit they hate because it forces upon them the recognition of a great big world with a great big mind, and their’s has been trained in dogmatic creeds and sectarian littleness. Their patriotism can not to be justified by Goethe’s beautiful word,
+
+Was du ererbt von deinen Vatem hast, Erwirb es, um es zu besitzen ;
+
+nor can it reasonably be of the
+
+Digitized by taOOQle
+-62-
+
+cosmopolitan spirit of Shakespeare, Spinoza, Leibnitz, Kant, Herder, and their own countrymen Taylor and Longfellow. These ‘educators1 ^cannot stem the wave of universal enlightenment. The time is long past, when Greeks could call other nations barbarians. These ‘patriots’ in education are toad-eaters, nothing more.
+
+The Council for the Festival of the North American Gymnastic Union has secured the Fair-Grounds in St. Louis for May 6th, 7th, 8th, 9th, 1897, for the sum of $3,500. The reason for holding the festival so early in the year is, that an opportunity may be given to the pupils of societies and schools to take part. If Neptune does not interfere, we think this time is very appropriate.
+
+Our views on the practice of exercise and the employment of music and rhythm calls forth a lengthy reply from a ‘writer* in the “Posse Gymnasium Journal” of April. We expressed the belief that there are some exponents of Swedish gymnastics who think as we do on the methods. It seems the writer in the Journal does not belong to them. Nevertheless we had at the time of writing the late Baron Posse in mind, and we are almost certain that music and rhythm are used in the Boston Normal School of Gymnastics. “This is an excellent illustration of the difference between Swedish and German idea of gymnastics,” our critic exclaims. Let it be so. “The followers of the Swedish system would never think it wise to practice automatically for the sake of retaining what had been gained.*’ We are at a loss to understand how we are enabled to retain any knowledge, unless we practice it. What harm there will accrue from practising an exercise which has been gained' for the sake of retaining it,
+
+automatically, we cannot understand. We wonder, whether children after the Swedish method are never allowed to walk automatically after the first step ? ! Must they walk all their life by count ? There is no difference in gymnastic . work. If we wish to influence not only the physical growth, but also the mental powers, each exercise must have also an effect on the nerve-centres. Slight as this effect may be in each lesson, it must be the connecting point for methodical and systematical progression. We ‘abjure* not muric, not rhythm, but mechanical gymnastic work. There is a vast difference between automatic exercise as we wish to practice it, and mechanical drill. As we explained automatism, it is methodically used for progressive work, i. e., for new work. The mechanical drill goes over the same ground again and again.—The writer is not just when she argues that “it is impossible to get the correct form of most of the important movements like
+
+shoulder-blade movements, balance movements, abdominal movements, etc., if an arbitrary rhythm is supposed to be attained by the whole class/’ In the first place we do not expect any rhythm before a movement has been
+
+Digitized by t^ooQle
+—63—
+
+mastered; Secondly, where has it ever been claimed that all movements are to be practiced in rhythm in each lesson? Such iron-clad methods German pedagogy does not prescribe. Not that it is not possible to adapt a rhythm to any, even the most difficult movement, but, rationally the teacher •does not follow iron-clad rules, sometimes called scientific when employed by the Swedish system.—The rhythm •employed changes with the different movements according to difficulty, so that some exercises require twice, thrice, four times as much time as •others. Therefore we do not object “when the teacher establihes an arbitrary standard for the class,” etc., for the rhythm is adapted, not constant. That Swedes have their work -arranged in the form of shoulder-blade movements, abdominal movements, etc., to the exclusion of rhythmic movement is true, if the iron-clad rules of method, stunting all free and wholesome development are followed by them. But the same issue of the Journal brings an account, of the Gymnastic Teachers' Convention in Stockholm, and we find that these teachers adopted a resolution which says among other things, “the system of gymnastics should possess a sufficiently large number of movements, automatically and physiologically correct, arranged in .groups according to their effects.” The same account is responsible for the -statement that Major Balck showed a good deal of interest in the exhibition of a Dane whose class practiced by *music and songs. It was Baron Posse who was the exponent of Major Balck’s tolerance. But, never mind, Tmusic and rhythm will form a part of the German System, and though an ^exercise may not be classified as ‘gymnastic’ by the Journal,we don't care. Let it be “an excellent difference between -German and Swedish gymnastics!”
+
+It is not so much woman as man w’ho has taken a new departure.
+
+It is wrong to speak of a ‘new woman' only, it is as much a ‘new man.' And let it be so, new both, in the realization of higher ideals by united forces. Once man strove alone, now woman is at his side in
+
+many noble efforts from which she was once barred by man’s belittling her strength and ability. Let us hope that the barriers will fall that still hold woman in traditional dependence. The new course once taken will rapidly lead on. But let those nice people stand aloof who still maintain the notion of being judges in woman’s affairs of decency. There is too much conventional morality on this point interfering with true and spontaneous naturalness, and woman will evolve her own affairs. She has more genuine tact than ever man has exhibited. We are reflecting on this subject, because we hardly take up a newspaper that does not feel called upon to comment in would-be funny ways on the ‘new woman’s’ perverted notions. These prominent persons whose opinions on woman’s dress, her aptitude for bicycle riding, etc., the busy reporter solicits, insult woman, no matter whether they mean well by her, or feel called upon to pose as judges.
+
+Digitized by CaOOQle
+^64-
+
+In no other direction has woman been more inclined to revolutionize than in dress. We are well aware that Fashion’s tyranny is not as yet overcome. But good and noble work has been done. The hygienic consideration had much to do that many laid aside some instruments of torture which were not only a detriment to individual health but to the race. Much as sound reflection upon this hygienic question may have done, the gymnasium girl has found practically what all theorists could not bring out vividly enough. Whosoever has once felt the beneficient effect of free bodily movements which are not restricted by Fashion’s dictation, will not feel at ease any more in other walks of life in ‘state array.’ Mrs. Bloomer’s happy invention and woman’s partaking in physical exercise have done much, very much, to free woman in this country from traditional dependence.
+
+All the more is it desirable that man learn a lesson also. He, too, is much under tradition’s sway. Even our boys must suffer under it. Too soon are knee-pants given up. These are very convenient and suitable for boys. Being buttoned to the waist, they do not unduly tax the development of the chest. But, too soon the trousers take their place, and as a necessary adjunct, the suspenders. These are injurious to most boys for two reasons. There is a natural inclination with them to tighten them too much, causing interference with respiration and a free development of growth. Then, they are not evenly worn, one being often tighter than the other, tending to asymmetry of growth. We believe in knee-pants, especially for weaker boys. When trousers are taken up they should
+
+rest a few inches above the hips, so that they may be worn without belts and suspenders.
+
+While woman has adopted a uniform well suited for exercise, this cannot be claimed for man. Neither the casual participant in physical exercise, nor the one who oftener and more regularily practices in gymnastics and sports, has adopted, as a rule, either a sightly or a convenient suit. The gymnastic suit should be comfortable, hygienic, and esthetic. These three requirements are absolutely essential, if not uncleanliness with all its exrescences shall crop out to boot.
+
+We prefer the turner’s suit, as adopted by the North American
+
+Gymnastic Union and in use by many gymnasts of the Young Men’s Christian Association, before all others. It has the advantage of being simple and inexpensive. We show in our advertisement on the last page the suits as we have them in mind. It is to be hoped that at least in the gymnasium among gymnasts uniformity will be the rule, and also simplicity. Let those of the turf and circus parade in gaudy attire, display their vanity and quaint beauty of body; simplicity and modesty must forever be the watchword of the gymnast.
+
+
+
+Digitized by v^ooQle

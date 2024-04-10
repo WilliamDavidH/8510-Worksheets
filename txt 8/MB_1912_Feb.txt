@@ -1,0 +1,1477 @@
+﻿MIND AND BODY
+
+Y®1. 18.	DECEMBER,	1911	No.	204
+
+Editorial Committee :
+
+WILLIAM E. DAY, Director, Deseret Gymnasium, Salt Lake City, Utah,
+
+DR. ROBERT FISCHER, Indianapolis, Ind.
+
+D. M. FERD. KROGH, M. D., Public Schools, Philadelphia, Pa.
+
+CARL L. SCHRADER, c. o. Harvard University, Cambridge, Mass.
+
+WM. A. STECHER, Managing Editor, Germantown, Phil., Pa.
+
+Editorial communications are to be sent to WM. A. STECHER, 72 W. Johnson St., Germantown, Phil., Pa.
+
+All business letters and payments to the Freidenker Publishing Co., c. o. Herold Building, Milwaukee, Wis
+
+THE THEORY AND PRESENT PRACTICE OF HUMIDIFYIGN.
+
+By W. H. CARRIER.
+
+Speaking before the Engineers’ Society of Western Pennsylvania- at its recent June meeting on the subject of “Air Conditioning Apparatus,” W. H. Carrier reviewed, in an interesting manner, the theory of humidifying, including a discussion of humidity control. The occasion was equally noteworthy for the prolonged discussion aroused by his remarks, which brought out phases of the subject having a direct bearing on present practice in this field of engineering.
+
+The following, in part, are his remarks on the subject, together with the discussion, which appears in the society’s proceedings for July:
+
+The hygienic benefits of a uniform and proper degree of humidity, temperature and cleanliness combined with ventilation is now beginning to receive the serious consideration which its importance demands. The irritation caused by breathing excessively dust laden air, even though otherwise pure, is responsible for a large class of diseases of the respiratory organs.
+
+Aside from the hygienic aspect the process requirements in many manufactories make air conditioning highly advantageous, or even imperative. This is true in the manufacture of textiles, of photographic films, of all gelatine products, of various confections, in lithographing printing, in the malting of grain, in cold storage of many products, and even of highest importance in the smelting of iron ore. Moreover, it is safe to predict that it will be a short time only before an air conditioning installation will be required by law in every coal mine throughout the country as the only sure and practical means of preventing mine explosions due to dryness of the air in the mines in the winter months.
+
+Air purifiers are either of the dry air filter type, or of the moist washer type. The dry air filter has its legitimate field and is applicable wherever air is required to be cleaned without moistening. Properly designed it can be made a fairly efficient means of removing solid impurities. As it is ordinarily employed, however, in the form of cheese cloth screens, or bags, of one thickness, it is very inefficient and hardly worth the trouble of installing. In ‘most cases no adequate means of cleaning is provided and the screen becomes only a hindrance and a detriment to the ventilating system. To make this type effective, three elements are essential: .
+
+Digitized by
+-322-
+
+First, some mechanical means of continuous, or intermittent cleaning, which will not interfere with its operation.
+
+Second, cloth, closely woven, or else several' thickness of coarse mesh to obtain adequate cleaning, the ordinary cheese cloth in single thickness, will not answer.
+
+Third, sufficient filtering area to avoid excessive resistance to the passage of air.
+
+The second type of purifier, the air washer, has so many advantages over the dry filter for most purposes, that it has practically displaced the latter type. The usual form of washer depends for its action upon bringing the air into more or less intimate contact with water first in the form of a spray, and second in the form of a film on metal plates. The advantages of the air washer over the dry filter are:	That it is compact; it is
+
+practically self-cleaning; it not only removes solid matter efficiently, but also extracts a large proportion of the soluble gases, such a sulphur dioxide, and offensive odors. That the latter may be removed most completely has been demonstrated by installations in the vicinity of rendering works and packing houses, where the air outside would be nauseating while in buildings ventilated with washed air the odor could not be detected. In such locations, of course, the water must be continuously changed, otherwise it would become saturated and ill smelling.
+
+In the early attempts to wash air a coke screen was employed over which running water was allowed to trickle. This device proved very unsatisfactory because it either occupied too much space, or offered too great a resistance, and also it fouled with impurities very quickly, becoming ill smelling and a source of contamination. These difficulties soon l'ed to its abandonment and to the adoption of the present types of air washers.
+
+All mechanical washers have the following essential features:
+
+First, a spray system* for supplying the water, usually requiring some form of nozzle.
+
+Second, a centrifugal pump for supplying the water under head.
+
+Third, a washing chamber in which the air is brought in contact with the water spray.
+
+Fourth, an eliminator for the removal of the water from the air.
+
+Fifth, a settling tank for holding the supply of water which is recirculated.
+
+Sixth, a strainer or filter for preventing the coarser dirt froni entering the spray system.
+
+Such types of air washers will all do a certain amount of humidifying depending on the degree of contact of the air with the water; none of them, however, as ordinarily used as washers, will give complete saturation. Likewise, they will not give the full cooling action theoretically available.
+
+Humidity may be controlled in three distinct ways:
+
+First, by use of some hygroscopic substance as woof!, hair or silk.
+
+Second, by the use of a differential thermostat having two elements, one subjected to wet bulb temperature and the other to the dry bulb temperature.
+
+Third, by controlling the absolute humidity, or dew point, with reference to the room temperature.
+
+The first method is too unreliable to be of much value in accurate
+-323-
+
+work. The second method of control can be made exceedingly accurate and is well adapted to regulating where there is a change in absolute humidity in the room to be conditioned. An instrument operating on this principle has, as its essential elements, two rods of hard rubber attached to a frame. These rods are arranged horizontally one above the other and the lower one is covered with a cloth which dips in a reservoir of water. This cloth serves as a wick and keeps the rod continually moist. These two expansible rods operate conjointly through a series of levers upon an air valve. In order that this instrument shall operate to maintain a constant percentage of humidity over a range of temperature it is essential that it shall produce no movement of the air valve so long as the humidity is constant. These two rods expand in opposite directions to each other and the dry element is provided with an adjustable leverage so that any desired ratio of action may be secured.
+
+For example: In order to maintain 50 per cent humidity the expansion caused by 8° rise in the wet bulb temperature must have the same effect as the expansion caused by i° rise of temperature in the dry element.
+
+Where the absolute humidity is but slightly affected by local conditions, the third form of regulating device is used. The simplest form of this control is that employed in public buildings for winter use. Here the air is saturated, delivered to the room where a higher fixed temperature is maintained than the fixed temperature at the air washer, and then, by varying either temperature and keeping the other constant, any desired percentage of humidity may be obtained.
+
+For example: If we maintained a saturated temperature of 50° at the apparatus and 70° in the room we will have a relative humidity of 50 per cent; if we lower the dew point at the apparatus to 40° and still1 hold the room temperature at 70° we will have 34 per cent of humidity in the room as the result. On the other hand if we have a dew point at the apparatus of 6i° and maintain one room at 700 another at 75° and a third at 8o° we would have 75 per cent, 64 per cent and 55 per cent of humidity in these rooms respectively.
+
+An apparatus of this nature is used in the Central District & Printing Telegraph Company's building in Pittsburg. In this installation the air is tempered by direct contact with a heated water spray. The temperature of the spray is so controlled by means of a thermostat as to maintain a constant air temperature past the eliminator plates. The temperature of saturation is ordinarily maintained at 40°. The air is then drawn through the fan, passed through the tempering coils, and forced into the building. This method of fixed dew point regulation is only adaptable for winter use and is employed chiefly in public buildings.
+
+In textile mills it is impossible to maintain a uniform temperature throughout the summer. Therefore, it becomes necessary to vary the temperature of the dew point as the room temperature varies. By referring to the chart it may be shown that the difference between the dew point and the room temperature is practically constant over a: considerable range. This fact is taken advantage of in the control of humidity by means of a differ-e»tial thermostat. This maintains a constant difference between the dew point and the temperature of the room and thereby regulates the humidity regardless of the room temperature.
+
+Digitized by L,ooQle
+, -324-
+
+Where several rooms are to be controlled from one central plant, the temperature of the saturated air at the apparatus is governed in cool weather only by means of the ordinary thermostat, thus preventing it from going below a certain specified temperature. Each individual room is controlled with reference to this humidifier temperature by means of a differential thermostat which operates upon the heaters and upon air dampers in .the outlets to the room.
+
+In this case an air differential thermostat is employed, one element being an air bulb placed at the apparatus in the current of saturated air. Each differential thermostat has a lever operated by two aneroid diaphragms in opposition. One of these is connected to the dew point element by a hollow wire tubing. The other diaphragm is connected to an air bulb of adjustable capacity placed in the room*. The pressures in these diaphragms are opposed to each other by means of a lever so that a change of one degree of temperature in one element exactly counteracts one degree change in the other. This lever operates an air valve which controls the air suppty dampers in the room by means of an air motor, and the radiation by means of diaphragm valves.
+
+This system of humidity and temperature control has been very successfully applied to a large number of textile mills. The advantage of this system is that it gives uniform humidity throughout the year and it permits the lowering of temperature in the mills several degrees in the summer time.
+
+Another field in which air conditioning must sooner or later be generally adopted is coal mining. The numerous and disastrous explosions that have occurred during the past winter are sufficient evidence that further precautions should be taken. To say that three-fourths of these could have been prevented by proper conditioning of the air supply in the mine is no exaggeration. This, as statistics will confirm, would have saved hundreds of lives and millions of dollars. A large part of these mine explosions were caused, or augmented by dust, which accumulated owing to the dryness of the mines.
+
+The temperature in the mine remains uniformly between 55° and 60* winter and summer. It is quite noticeable that there are rarely any explosions during the summer months when the absolute humidity is high. Whenever the dew point of the external air is above the temperature of the mine,, moisture is deposited on the walls of the mine. However, when the outside dew point is below 55° the air remains unsaturated and the mine becomes dusty. In extremely cold weather the moisture content of the air is very low, and the air when heated in the mine to approximately 550 has an exceedingly low percent of humidity. This causes the walls to dry so rapidly that it is impossible to keep them moist by any of the usual means of spraying. By use of proper air conditioning apparatus in connection with the air supply, summer conditions may be reproduced in the mine without any appearance of fog, or other objectionable features, and the mines may thus be kept in a perfectly safe condition where it is now an impossibility.
+
+DISCUSSION.
+
+Mr. A. R. Raymer:	How	is the humidity controlled during the
+
+winter months and in summer months?
+
+Mr. Carrier: The air is heated and saturated by means of a water
+-325-
+
+spray of variable temperature. This temperature is automatically controlled by means of a thermostat subjected to the saturated air temperature, so that the latter is maintained constant, say at 40°. By controlling the temperature of saturation a fixed number of grains of moisture are held in the air. When this saturated air is raised to the room temperature, the proper relative humidity will1 be secured, depending upon the difference between the temperature of saturation and the room temperature. When the outside wet bulb temperature is above the saturation temperature desired, perfect control is impossible without refrigeration.
+
+In summer time the humidity cannot be kept as low as desired without refrigeration. In the plant I spoke of where they ha a saturation temperature of 40° all the year around, this was obtained by cooling the water below 40°. This is the only way that humidity can be reduced except by use of some moisture absorbing chemical such as calcium chloride. But the use of this in the ordinary plant is more undesirable than the refrigeration. It imparts an odor to the air which is very objectionable. In the plant mentioned about all that can be accomplished is to prevent an increase of humidity. On exceptionally humid days this is accomplished by cutting off the sprays and using cold water through the flooding sprays on the baffle plates; the water being below the dew point of the air, will precipitate moisture from the air rather than cause it to take up more.
+
+Now I will not say that the relative humidity of the air will not be greater after it leaves the washer than before, but it will have fewer grains of moisture in it per cubic foot, and by bringing it back to its original' temperature there will be a slightly lower relative humidity. A distinction must be made between relative humidity, which depends both on temperature and on moisture content, and absolute humidity, which depends on moisture content alone.
+
+Mr. A. G. Ludgate:	I would like to ask if the quality of the air, in
+
+passing through these washers, is in any way changed, and to what extent, especially as regards the chemical composition of the air proper and the contained gases, and particularly as to the amount of free oxygen in the air.
+
+Mr. Carrier: There are a large number of installations in the school's at Cincinnati where they have about every washer on the market, at least every one mentioned to-night. There they have made a bacteria test which is very interesting. By obtaining cultures of air samples they have found that the colonies of bacteria after the air has been washed have been reduced to about one-third what they were originally.
+
+Mr. A. R. Raymer:	In	regard	to	humidity, Mr. Carrier has spoken
+
+very fully and I do not know that I can add much, except to give you some examples of what we have accomplished. During 1902, which was the first year after the plant in the terminal station of the Pittsburgh and Lake Erie Railroad was in service, we took humidity tests three times daily throughout the entire year. During the month of December the average absolute amount of moisture in each cubic foot of air was 1.4 grains. The average relative humidity outside, from the government reports, was 76 per cent. During the same month the relative humidity was only 39 per cent in the office building while the outside relative humidity was 76 per cent. In other words the air was much drier after it had been washed and tempered, relatively, than it was before it was conditioned.
+
+During the month of August the amount of moisture in each cubic
+'	-326-
+
+foot of air was 6.3 grains, with a relative humidity of 64 per cent, and in the office building we maintained a relative humidity of 70 per cent.
+
+About 60,000 cu. ft. of air are handled each minute by this plant. To wash this air requires about 250 gals, of water per minute at the sprays. To force this air into the rooms, three motors, two 10 H. P. each and one 7^4 H. P., are used. With that amount of power handling the air into the rooms, only 10 H. P. is used in removing it. In other words the air in the rooms is under a slight pressure, the object being to have all air leaks from* the inside out, rather than from the outside in, so as not to allow dust and dirt to be drawn into the room.
+
+We made some testts to determine the amount of dust removed from the air. The quality of the dust consisted of powdered coke, ordinary soil or dirt, pulverized horse manure, and such materials. About 90 per cent of that is removed by the washing plant we have, 10 per cent apparently leaks through. We have the greatest trouble in- removing dirt when the weather conditions are foggy combined with smoke. For some reasons which we have not been able to determine, that kind of material apparently goes through the washer. It may be on account of the smoke being more or less oily.
+
+During the summer months the water is used once and wasted; in the winter it is recirculated and when it becomes dirty is replaced. From the amount of mudr emoved from the tanks we have made an attempt to determine the quantity of dirt taken out of the air. The results show something like 3500 lbs. removed from the air for the whole building per year. During the summer months instead of using river water, well1 water which has a temperature of between 5°° and 55° is used. This water is used in the sprays and has a decided cooling effect on the air, the result being that we have been able to keep the temeprature in the office building at a maximum of about 12° Cooler thin the outside temperature, or an- average of about 5° or 6°.	120 is too much difference, as it causes chills, particularly
+
+after one has become heated; a difference of io° is about the limit for comfort. The system has been generally conceded to be successful. It makes conditions in the offices much more pleasant than they could be by ventilating through the windows on account of the dust that is in that neighborhood.
+
+Mr. V. R. Covell: When the Allegheny County Court House was erected 25 years ago it was ventilated by means of fans in the basement. The basement was used as a plenum chamber from* which ducts led to the various rooms. A washing device consisting of perforated pipes was also installed, but as there were no eliminators the entrained water was carried through the building and the washing was soon discontinued. The air, which was drawn from the top of the tower, was heavily laden with dirt and in a number of offices the fresh air registers were always kept closed to avoid the dirt nuisance.
+
+,During the year 1907 a new ventilating and air washing system was installed under the supervision of Prof. S. H. Woodbridge. The air supply js tempered and washed by the Acme system and is then carried to the various rooms through ducts so that it is not again contaminated by the machinery and by the various kinds of work performed in the basement. The electrically driven centrifugal pumps, originally part of the air wesher
+
+Digitized by CaOOQle
+-327-
+
+system, have been replaced by duplex, steam*, tank pumps. These air washers are giving very satisfactory results at the present time.
+
+The new County Morgue, erected about 5 years ago, was also provided with an air washer of the same type. The sheet metal work was of copper held in place by galvanized iron angles and after a comparatively short service these angles were found almost rusted away. This was explained as the result of electrolysis and when the repairs were made galvanized iron was used throughout. Sufficffiient time has not elapsed to compare the durability.
+
+Mr. F. C. Schatz:	There is an installation iri a church in our city
+
+(Pittsburg) which may be of interest. It contains a fresh air supply and extraction system, together with a means of cooling the fresh air entering the building. The circumstances leading up to the installation are briefly as follows:	The minister at the time was anxious to be able to attract an
+
+audience in hot weather and have them feel comfortable while in the building, and the question at once arose as to whether the cooling should be done by a refrigeration plant or by means of ice supplied in cakes from* the outside. The latter method was adopted. Fresh air is taken in at the roof by means of a fan placed in the basement, and the air carried up under the pews and in the aisles. The air was first washed and cooled. The foul air was taken out at the ceiling by means of a duct system which maintained a circulation of air practically throughout the entire church. Some trouble was encountered in regulating the quantity of air taken in and discharged, but this worked itself out in time. This system was followed up for perhaps two summers, when the cooling feature was abondoned. It was found that ice bills were enormous, although not as expensive as to have installed a refrigeration plant. However, both systems operating at once, that is fresh air and exhaust, were finally accepted as being satisfactory and the use of ice discontinued. Furthermore, the system after having been in use for this length of time, showed signs of corrosion, which would have meant considerable expense to overhaul.
+
+Mr. John Allison:	I	would like to ask if in the P. & L. E. Terminal
+
+Building the same system is used in the waiting room that is used in the. offices? I have noticed a different odor frequently in the waiting room, but that may not be due altogether to ventilation.
+
+Mr. A. R. Raymer:	As	the	installation that was put in there was
+
+practically the first of its kind, we found that we had some errors to correct, which I will be free to speak about for your information. Ordinarily in ventilating an office the foul air is voided from an opening near the floor. When the heating plant and the ventilating plant were installed in our building, that method was followed. We found after one or two years’ use that the results were not good. It became necessary to change the ordinary practice and design something to meet the requirements. In this system the ventilating air is cooler than the maintained temperature in the rooms, consequently the best air is at the floor. The air as it remains in the room becomes warmer and goes to the ceiling, consequently the foulest air is at the ceiling. So we made a very simple inference that the ceiling was the place to void the foul air. In the mornings there was an odor of stal'eness. The fresh air was by-passing; as it entered the room it fell to the floor and was drawn out, and from an elevation lower than a man’s
+
+Digitized by CjOOqLc
+-328-
+
+head, the air became more or less stagnant during the night. After we changed the location of the openings for withdrawing the foul air, this was entirely overcome.—Heating and Ventilating Magazine.
+
+AMERICAN AND ENGLISH “PURES”.
+
+By WALTER E. HAPGOOD.
+
+There is a popular, but none the less erroneous, belief in this country that amateur athletics—and the term is used in its broadest sense rather than with any restrictions to merely track athletics—is upon a much higher plane in England than here in the United States. One hears frequently the wish that American athletics might be conducted on English standards, as if sport would be the cleaner in consequence;
+
+Probably Jbhose who give expression to such sentiments have never studied the amateur situation in- England at close range and are in no wise familiar with actual conditions in England. They fancifully imagine that the definition of an amateur as laid down in other branches of sport is practically the same as that for the Henley regatta, the latter being about the only English definition of an amateur with which the average follower of sport in the United States is familiar.
+
+That this Henley definition of an amateur oarsman should be so generally known on this side is, of course, due to the fact that not a few clean American amateur oarsmen have had their application for entry in the Henley regatta turned down by the stewards. . The most notable example of this was in the case of Constance S. Titus, rowing coach at Princeton, when he was the champion single sculler of the National Association of Amateur Oarsmen. It is perhaps but natural that the impression should in consequence prevail here that the English are equally strict in other branches of sport.
+
+Surprising as it may seem to many, it would be perfectly possible for a sculler or a crew that had actually rowed for a money stake to compete at Henley. And there have been such instances known to the stewards at the time the entry was made and accepted.
+
+Some of the clauses in the amateur definition as set forth in the rules of the Henley-on-Thames royal regatta read:
+
+No person shall be considered an amateur oarsman, sculler or coxswain—
+
+Who has ever rowed or steered in any race for a stake, money or entrance fee.
+
+Who has ever taught, pursued or assisted in the practice of athletic exercises of any kind for profit.
+
+Who has ever been employed in or about boats, or in manual labor for money or wages.	>
+
+There is an asterisk and a rider that goes with the first clause of this Henley amateur definition that reads:	“This	clause is not to be construed
+
+as disqualifying any otherwise duly qualified amateur who, previously to June 23, 1894, has rowed or steered for a stake, money or entrance fee, in a^race confined to members of any one club, college or university.”
+
+It was formerly the custom in England—and it is now to a certain
+
+Digitized by
+-329-
+
+extent—for oarsmen of a club or college to chip in equally to a stake or jack pot, the race winner to take all. This practice was certainly of “profit” to the winning oarsman or crew, and the Henley lawmakers finally legislated against it, but decided to permit offenders who didn’t offend any more to row in their regattas. So it was that oarsmen and crews who had rowed for money were not debarred from participation in Henley’s exclusive fixture.
+
+Tell some of those who are forever lauding English amateurism and English amateur sport that men who have rowed for money row at Henley and they will not believe it. But the records show it and there is no going back of the returns.
+
+In the restriction and control of her track and field athletes England* as represented by the Amateur Athletic Association, has even been notori- v ously and deplorably lax. It has been common gossip that a good amateur athlete in England can go along competing for years with no visible means of support. The cry sometimes goes up on this side—and frequently not without cause—that organizations affiliated with the Amateur Athletic Union are rather too liberal in thejr allowances for expenses for visiting athletes! Many good men, some of them numbered among the best in the. game, have been suspended pending more detailed statements of expenses* But did any one ever hear of any such step being taken by the Amateur Athletic Association in England?
+
+Recently, to be sure, there was so. much agitation on this point that the A. A. A. felt in duty bound to place among its rules a clause compelling all affiliated clubs to produce, upon request of the A. A. A., detailed statements of expenses and of all moneys allowed for that purpose. Possibly had that rule been enacted years ago William Downer, that noted'. English authority, would not have felt, compelled to make the confessions; and implicate so many clubs and officials as he did in his book.
+
+There is no* rule in the books of the controlling athletic body in Eng-and to prevent an athlete from accepting any sort of testimonial, even the * hard-cold cash itself. He may do so without injuring or affecting his amateur status in the least. Lieut. Halswelle, the hero (in English eyes) of the famous “boring-in” race in the Olympic games, has accepted a substantial testimonial. In Africa, in an English colony and .amenable to the A*
+
+A. A., they are getting up a great cash subscription for R. E. Walker, a truly sensational* sprinter, now on his way to England to run in the English' championships and later to appear in this country. The monev is not to be* handed to the sprint winner in the last Olympic in cash, but is to be invested in an endowment policy that matures when he is 30 years of age. It is* all the:same thing, however and equally true it is that the same thing would, not be permitted on this side. *	’■
+
+In this connection many will remember that Bernie Wefers of Lowell* after winning an international sprint, was given a gold watch and a well filled purse by over-enthusiastic native friends in Lowell. But Wefers had. to return the donations to their givers.
+
+Here the ruling is that no athlete may accept anything that is to be in any way of pecuniary assistance. It was just for that reason that the plan; to raise sufficient funds to insure a College Course for Henri Renaud, the B’..
+
+A. A. Marathon winner, was squelched. E. F. ver Wiebe, a comparative**
+
+Digitized by CjOOQle
+-330-
+
+ly poor boy at Harvard, could not accept a gift of money from friends in the Somerville Y. M. C. A.
+
+In England there is no end of athletes who have accepted cash tributes and remained amateurs. In the United States there are many athletes who have been prevented from just that remuneration that is permitted in England. It is perfectly permissible in this country for an athlete to sell or take tickets at any athletic contest or to receive any other remuneration so long as his skill, ability or efficiency as an athlete adds in no way to his efficiency. By this rule students who are working are thus able to earn a legitimate penny without professionalizing themselves.
+
+There are some men in England who admit that it is all wrong. J. E. Fowler-Dixon of international reputation in athletics is of those who believe that something should be done in this line.
+
+Here is what he says in that connection. It surely makes most interesting reading.
+
+“The question has been raised several times since the Olympic games as to the standing of an athlete who accepts a testimonial in cash. Apropos of a recent case, I have had a number of inquiries. However, there is no A. A. A. rule which the athlete can be said to have infringed by the acceptance of such a present, although to my mind and that of many others it is a marked infringement of the spirit of the amateur laws.
+
+“The southern committee have, it is true, ruled that they deprecate the giving of purses of money to athletes, as in their opinion it may open the door to malpractices; but I have yet to learn that any action has ever been taken where cash testimonials have been accepted.
+
+“Of course the conditions under which such testimonials are given has a distinct bearing on the subject, and for that reason it is perhaps advisable to consider each case on its merits. The view I hold is that a testimonial to an athlete who is leaving the path is comparatively harmless, but having once accepted such a present from the admirers I think that he is scarcely entitled to compete with the average amateur on terms of equality. In all cases there may be remembered the old saw that gratitude is a lively sense of favors to come, and in regard to the active athlete who is being testimonialized it is more than probable that those who wish to secure his attendance at their sports will hasten to contribute their quota.
+
+“In the case to which I referred above, however, there is no question of^this, and as the athlete in question is understood to have retired, the testimonial appears to me a perfectly bona fide expression of public apprecia-tion.”
+
+In this country even the announced intention of an athlete to go into the professional ranks as a college coach, for example, is sufficient to penalize him and to professionalize him even before any contract has been signed and regardless of when he is to assume his position. An incident of just that sort came to the attention of the authorities in the case of John H. Hubbard, Amherst’s great hurdler, who announced at just about this time of year two seasons ago that he would coach the Amherst football candidates the following fall. He had signed no contract, but the A. A. U. * ruled that his amateur card should be cancelled. Would any such radical measure be adopted by the Amateur Athletic Association?
+
+Again, in England no rule of amateur track athletics is broken by a
+
+Digitized by
+-331-
+
+man challenging for a match race for money. He can do so and remain an amateur while negotiations are in progress. An English amateur can, with perfect propriety, announce that his next race will be his last as an ama-- teur. But in this country his last amateur race would have been already run just as soon as his intention of becoming a professional was declared.
+
+Special provisions have been made in England for sailors and soldiers in order that they may be exempt from loss of their amateur standing under certain conditions. The English army and navy have many inter-company competitions for cash prizes under the Amateur Athletic Association rules. It is perfectly possible and proper for these army and navy “amateur” athletes to compete in contests for cash so long as the prizes go to the company and not to individuals. A tug-of-war team, for example, could have pulled in a dozen matches for a side stake contributed by company supporters, and yet, so long as that money did not go to the individual participants, there would be nothing to prevent these same men from competing in the English amateur championships or from holding an amateur tug-of-war title, were such an> event upon the championship program.
+
+In this connection, it might be mentioned that no less an athletic light than Lieut. Halswelle^ was accustomed to run for money in army games in South Africa before going to England. This statement is made on the authority of one of America’s foremost athletic trainers, to whom it was told in turn by one of Lieut. Halswelle’s fellow-officers in England last summer. Halswell'e, however, was not accustomed to retain the money for his owr* use, but handed overfall of his winnings to the private who acted as his rub ber. In the United States such a procedure would not be permitted by the Amateur Athletic Union; in England by the A. A. A. officials it was regarded as eminently proper.
+
+As baseball is this country’s national pastime, so in the British Isles football and cricket are the two branches of sport that draw the biggest crowds and in which England holds her best records. The integrity of each game is carefully guarded by the parent organizations, and any infraction of the rules is summarily dealt with. But the rules regarding what constitute an amateur player are works of art.
+
+Everybody who knows anything^ about English cricket knows that it costs much more to maintain a first-class “amateur” team that a professional organization of equal strength. Cricket is the only means of support during the playing season of many a member of a county club, and the Englishman regards it as all perfectly proper. The county club player, to be sure, doesn’t receive a fixed salary for playing, but all of his expenses dur-ine the season are paid. The county club meets his laundry bill, his cab bill, his cigar bill, as well of course, as his travelling expenses and hotel bills, under the term “legitimate out-of-pocket expense.” And this cricket season lasts from the first Saturday in May to the last Saturday in September.
+
+The summer baseball condition among college players in this country is immaculate in comparison with some amateur cricket conditions in England. For instance, it often happens that a clever English amateur feels that he cannot afford to devote his entire summer to cricket, although his expenses might be paid. There is a way—a perfectly legitimate one, it is regarded there—for the situation to be met and remedied, unless there are too many such cases.
+
+Digitized by CjOOQle
+—332—
+
+The player can be made the salaried secretary or other official of the: club at a figure of which the outsider knows nothing. The nominal figure is $250.
+
+^One of the most notable.instances illustrating this point may be found in the case of Dr. W. G. Grace, an extraordinarily good player. He played regularly for a time as an amateur with the Gloucestershire county eleven and kept up, dr, rather, tried to keep up, his medical practice. Dr. George -found he must abandon cricket or medicine. He had decided to follow his > profession when' the county cricket committee came to his rescue and offered him the position of secretary of the county club, but only, of course, upon the condition that he should be an active amateur member of the team, and Dr. Grace played happily as a member of the Gloucestershire team for many years thereafter.
+
+The amateur and professional cricket players have a way of “mingling” on the same teams in England that seems quite out of place to those born and bred in the atmosphere of American amateurism. Let an amateur sprinter compete in a race in America against a professional and he becomes a professional' himself. Let an English amateur cricket player be a member of the same team all the season and at the end of the season he is still an amateur under English cricket interpretation.
+
+These instances are not isolated. Examples are numerous. Here are a.few for the skeptical:
+
+' Lord Dalmney, the Earl of Roseberry’s son, plays with the Surrey eleven, a purely professional team, but no one would ever dare to put him in the professional roster.
+
+\ Lord .Hawke, an amateur, is captain of the Yorkshire County Cricket Club, another professional team.
+
+Archie McLaren, Lancashire’s amateur captain, captained the all-England eleven that went to Australia not so long ago- without impairing his amateur status. The Indian Prince Ranji played with Sussex as an amateur.
+
+• In short, the mingling of the amateurs and professionals is the rule, rather than the exception.
+
+The same thing obtains, in football in England, but not to so large an extent. The reason isn’t because the practice is frowned upon, but because . the amateur player will not conform so strictly to the rules of the football governing board as do the professionals. There are, however, some good amateurs playing “prof” football week in and week out.
+
+Nor are golf and tennis in England on so high a plane of amateur ethics as in this country. Recently, the cudgels have been taken up in England against some of the practices of the amateur golfers, the rumpus starting from the professional rather than the amateur end, however. It appears that many amateur players, some of whom are pretty near the top-notch division, have been accustomed to act as selling agents for golf balls on their home links, getting thereby part of their living.. The professionals objected to this as it was robbing them of ani income, to which they felt they were justly entitled. At last accounts the matter had not got beyond the “consideration” stage.
+
+English tennis is not exempt from faults that would make a thorough
+
+Digitized by
+—333—
+
+house-cleaning rather than white-washing a good thing for the morals of the game.
+
+Over in England an amateur can derive a direct income from his knowledge of sport and yet remain clean in the eyes of the athletic world.
+
+C.	B. Frey, for instance, is undoubtedly one of the best all-around athletes England has ever produced. He has been successful in many branches of sport, and is a splendid type of fellow in every way. He is still an amateur, although he has repeatedly refereed final cup ties in football, both in professional and amateur games, and has received as high as 50 pounds for officiating in an important game. But he is a bona-fide, simon pure amateur cricket and football player in England today.
+
+The English amateur would not hesitate one moment to lend his aid. or to identify himself prominently with a professional event. In amateur rowing, for example,' no two teams stick out more prominently than those of Guy Nickall’s and H. T. Blackstaffe. Each has been a frequent winner at Henley and elsewhere and moves in polite circles. They are both members of the committee in charge of the $2500 professional handicap on the Thames July 15 and the days following. Mr. Blackstaffe was likewise one of the judges in the $500 handicap on the Thames last month. For .prominent amateurs in this country to identify themselves thus prominently ^with professional sport would occasion something more than passing comment.
+
+English sport unquestionably has its good points, and there are lessQiis that might be learned to good advantage on this side from our British brethren. More go into sport there for the physical benefit they derive from it than is the case in this country, where the thought of competition-, rivalry and supremacy over others -is paramount, in nine cases out of ten, to •the recreation end of it. In consequence, there is not in England the feeling of bitter rivalry so frequently in evidence here.	.	>
+
+But even in this connection, one cannot pass over unnoticed the foots hall riot that occurred in the English cup tie final only last month, when
+
+60,000	spectators partly wrecked Hampden Park, the finest football enclosure in the world, and more than 100 persons were injured. No such 'scene was ever witnessed at a sporting event in this country, not even in the deciding game of a major league pennant chase or at a professional foot race—two events in which feeling ever runs highest.
+
+Over at Hampden Park, after efforts had been made to reach the players, the crowd worked itself into a state of ungovernable savagery—the .words are those of the Glasgow Herald-^-pulled down the stands and buildings and set fire to the timbers, threatening a tenement house district close by. Then the crowd—or the mob element of it—10,000 strong, joined hands around the blazing pile and danced and cheered wildly, while willing hands seized more woodwork to feed to the flames. Mounted po-b’cemen were unhorsed, firemen were driven back and hose lines cut. For 20 minutes was witnessed the astounding spectacle of firemen and policemen stoning the crowd that more lines of hose might be laid.
+
+It was no uncommon sight to see a constable knocked down and kicked. And on two occasions, having wreaked its vengeance on a fallen constable, the mob stoned the ambulance assistants as they went to the aid of injured officers.
+
+Digitized by L.ooQle
+-334-
+
+Police re-enforcements poured in from all sides until there were 400 uniformed officers and several companies of militia on the scene. After it was all over, all that remained of the equipment of this world-famous enclosure were the officers at one entrance. All over the pitch lay portions of the goal posts, netting and barriers. At the exits and all entrances save one, the charred woodwork and twisted turnstiles showed that the fire department had arrived none too soon, while the playing pitch was covered with stones, sticks and broken bottles.
+
+Is it surprising that those who know cannot help feeling that the United States still leads in the purity of its sport and its amateurs?— Herald, Boston.
+
+CONSERVATION AND CHILDHOOD.
+
+From “THE SURVEY.”
+
+The more a teacher of gymnastics tries to improve the hygienic conditions in his gymnasium, and the more he inquires into the home conditions of his pupils, the deeper will be his understanding of the effect of the environment upon his pupils. If he persists in his inquiries any length of time he eventually will arrive at the point of seeing that in many cases he can do his pupils more good by improving their living conditions than by teaching them new co-ordinations. The following article from “The Survey’7 should interest all teachers who take more than a “gymnasium-interest77 in the pupils, and should enlist their sympathies and active support for a movement to improve the conditions of childhood.
+
+Giving up the latter half of his address to the part which the courts in America play in the matter of social legislation, and paying vigorous rqspects to those “mischievous judicial decisions77 which have blocked the will of the people to improve conditions, Theodore Roosevelt spoke last week at Carnegie Hall, New York. The meeting was a joint one arranged by the Civic Forum and the Child Welfare League, and in the course of his address to crowded galleries Mr. Roosevelt outlined several constructive lines of legislation to which he urged the people of New York state and the nation to address themselves. His subject was the Conservation of Womanhood and Childhood, and he put its force and meaning in these words:
+
+“We have begun to realize that we are guilty of crime against our children if we hand them over a wasted heritage. But after all, the most important type of conservation is the conservation of the manhood and womanhood of the country; and vitally important though it is to leave our children a proper heritage, the one thing of supreme importance i,s that we shall leave the right tyipe of children, children of such character and living their lives under such conditions that they shall be fit to enjoy and make use of their heritage. It would be a dreadful calamity to continue to waste and destroy the resources of the nation as until a few years ago we were wasting and destroying them, as we still in certain respects continue to waste and destroy them. But it would be even worse calamity, because irremediable, if we wasted-and
+
+Digitized by ^.ooQle
+-335-
+
+destroyed the manhood and womanhood of the nation. And the only way permanently to conserve the manhood and womanhood is to conserve the childhood”
+
+First among the measures Mr. Roosevelt advocated he put the creation by Congress of a Children’s Bureau in the Department of Commerce and Labor to gather, classify, and distribute for popular use in the states and territories accurate information on all subjects relating to. the welfare of children. Of this he said:
+
+"During the five years the bill has been before Congress no valid argument has be^n presented against it. The chief ^reason for it is solely in the interest of the conservation of human resources, and does not directly touch any material int^rfest. It is therefore devoid of features which should win the advocacy of any selfish interest; and the persons who desire to continue to exploit the labor of children arc naturally against it. It is a scandal to the American nation that our national government has proved so supine in doijng what it can to promote the welfare of the children of the country.”
+
+Turning to New York state and especially Manhattan, Mr. Roosevelt came out flat-footedlv that the state should "put a stop to manufacturing in tenements.” New York leads in the amount of manufacturing carried on in tenement houses: The labor law contains no provisions to prevent the employment of children nor to restrict the working hours of minors or women in tenements. It provides merely that work on specified articles (forty-one in number) given out by manufacturers or contractors may not be carried on in a tenement living room unless the owner of the house has first obtained a license from the department of labor. To obtain such a license certain sanitary requirements must be satisfied. No one knows the actual extent of home work in New York City, as the inadequate force of inspectors of the State Labor Department cannot cover completly all the tenements where’ work may be carried on. The incomplete figures from the labor records show over twelve thorn-sand tenements licensed for home work.
+
+Mr. Roosevelt advocated a commission of inquiry. He said: "Actual experience has shown that under present conditions home work is a serious menace'both to the workers and to the public. A home workshop is neither a home nor factory. The institution of the home from earliest times has surrounded itself with peculiar rights and traditions. To make it a "factory annex5’ is an invasion of the home which should not be tolerated. The home workshop is a factory without a closing hour. All day the adults labor, with an occasional brief recess to look after the baby or attend to the most pressing household, duties. After school and into the evening (sometimes until late) children of five years of age and upwards assist the grown-ups, in order to increase as much as possible the daily earnings. In many instances children of school age remain away from school entirely to work in the home. Home work and congestion, bad ventilation, and dark rooms go hand in hand. To permit women and little children to live and work in wretchedly lighted, badly ventilated rooms, polluted by overcrowding, both from the materials for work and from the workers, so that the air is contaminated, furnishes new recruits to the ranks of
+
+Digitized by C.ooQle
+-336-
+
+tuberculosis victims. Home work promotes truancy. School principals testify that the .“system”’ constantly encourages the children to become -“regular irregulars” in their. attendance, and often chronic truants.
+
+Since 1894 the state has attempted to control tenement-house manufacture bv a system of regulation. Burdened by numerous other duties the labor department can now detail resrularlv for Hew York City only four inspectors, and periodically but twenty, to visit twelve thousand licensed tenements.—known centers of home industry. In addition thousands of houses—no one knows how many—in which work may be going on without a license also need attention. Work on any one of a specified list of forty-one different articles c$n only be carried on legally in a licensed tenement. Present-day industry has overflowed into the houses to-such an extent that over sixty other articles not mentioned in the law are now being made in tenement homes. For these no license are required, and work may go on under indescribably had conditions, the output to find its way through channels of trade to the public. In short, the actual methods and possibilities of tenement house labor practically nullify the existing laws by rendering them impossible of enforcement.
+
+The fact that the welfare of the workers is seriously menaced, that heme life is broken up and that the public health is endangered through use of tenement-made articles makes imperative some action looking towards a remedy. Moreover, tenement house labor introduces unskilled and unsupervised work, including that of very young children, into ■competition with skilled labor in the shops, thus tending t6 reduce the proper wages of labor, and enabling unscrupulous employers to avoid the expense of shops and the necessity of submitting to supervision bv encouraging piece-work in the tenement houses. Organized labor has a legitimate interest in this matter aside from the general interest. The first step should be legislative inquiry into this whole subject, such an inquiry as state Senator Wain wright's committee made concerning workman's compensation.
+
+The reason for suggesting the appointment of a commission rather than the presentation of a bill are:
+
+' First, the information at present at hand, while simply sufficient to show absolute need of immediate relief, is not as complete as is desirable for the purpose of. laying a basis for the formulation of public (opinion or of securing the enactment of the wisest provisions.
+
+Second, only through the operation of such an official commission would it be possible to present to the courts, which later will be called upon to coustruete the provisions of any enactments, a. collective body of evidence showing the reason which moved the legislature to the adoption of the specific enactment, whatever form it may finally take. In this manner only, therefore, a wise and enforceable provision of law with regard to the evils dealt with can be assured.
+
+Third, the Court of Appeals of this state held in the case re Jacobs that a statute forbidding manufacture of tob&cco in tenement homes is contrary to the constitution, because not shown clearly to be a health measure. If we cannot secure, as we ought to, a flat reversal of mischievous decision, then it would be well to obtain through a commis-
+
+Digitized by
+
+G< le
+sion sucli convincing and comprehensive data as would exclude doubt of the immediate connection between work in tenements and injury to the health of the workers.”
+
+LEGISLATION NEEDED AS TO CONTINUOUS WORK.
+
+In equally trenchant words the speaker came out for the organiza-' tion of working women; outlined the generous settlement made by mine owner and railroads after the Cherry-disaster, roundly condemned the child labor permitted in western New York canneries, and the lobbying of the canners in defeating prohibitive legislation; backed up the bill for a fifty-four-hour week for women’s work, which will be re-introduced next January by the State Federation of Labor; and called public attention, as the newspapers have in large part failed to do, to the effort to exempt the new supervising inspectorships in the Bureau of Factory Inspection from the civil service.
+
+“It’s mighty little use,” he put it, “to have labor laws, if we let them be enforced primarily to give jobs to politicians.’’
+
+To an extent, Mr. Roosevelt went outside his text to urge legislation regulating the hours of men in continuous industries. His point was that fatherhood no less than motherhood and childhood must be considered, that indeed, all three must be considered together, for the fundamental question is that of the family; and women and children suffer if the men “are killed or crippled or labor under conditions which inevitably tend to brutalize and degrade them.” He said:
+
+“The development of modem large-scale production has brought about a very rapid increase in the number of workmen employed in industries which are operated without stopping twenty-four hours every day for seven days a week. These continuous industries are new phenomena; just as factories with dangerous machinery were new phenomena. There must be new legislation, and new and enlightened methods of judicial interpretation of law, to meet the new conditions. To quote the counsel of the Factory Commission:	“It	has	become in-
+
+creasingly clear that it is the duty of the state to safeguard the worker, not only against the .occasional accidents, but the daily incidents of industry, not only against accidents which are extraordinary, but against the incidents which are ordinary occurence^', of industrial life.” In just the same way it has become the duty of the state to safe-guard the worker against the “daily incidents” of a tirade which takes the shape of inhuman toil.
+
+With respect to this necessarily continuous seven-day work our old Sunday laws, dating back to an earlier generation, have broken down. Relief to the workers can be afforded only by increasing4 the labor force — one-seventh if necessary — to let part of the force off each day in the week and in that way giving every man one day of rest in seven. Legislation is needed to bring this about in this country, just as it has been brought about in France. And such legislation would be sustained by the courts unless they scuttled the iogic on which the Sunday laws now on the statute books have been sustained; that is, as an exercise of the police power in protecting men from continuous toil. - The supreme courts of practically every state in the union have gone on
+
+Digitized by (^.ooQle
+—338—
+
+
+
+record as upholding Sunday laws, and in 1884 the United States Supreme Court expressed its approval of them “not from any right of the government to legislate for the promotion of religous observances* but from its right to protect all persons from the physical and moral debasement which come from uninterrupted labor.” The priests and ministers and physicans of every mill town in America where the seven-day week governs could testify to how it undermines the comfort of their people, thei<r happiness, and their health. At the present time* the progressive men in one big industry where it has been at its worst— steel—are tackling this seven-day schedule, and it looks as if they were going to be able to down it. The American Iron and Steel Institute has passed resolutions to that effect. So has the Federal Council of Churches of Christ in America, representing churches with a membership of thirty millions. It is high time we had six-day statutes and they were enforced.
+
+In a continuous industry—whether it is a cement works or a trolley car, or a power plant or a blast furnace, makes no difference—there are only two ways in which you can. split up the twenty-four hours. There must be either two shifts of men each working twelve hours or three shifts each working eight. You can’t compromise on nine or ten. You must choose between twelve or eight, and, with these two choices, surely the decision must be for the eight-hour day.
+
+The workmen who put in the longest hours are classified by the New York State Bureau of Factory Inspection in a group labelled “sixty-three hours and over.” That group includes roughly everybody above the ten-hour men—men who work anywhere from si^xty-three to 119 hours per week. The report of this bureau for 1909 showed that out of 5059 workmen employed in the most important steel center in New York State, 4584 fell in this class. The same report shows that out of 12,991 workmen in paper and pulp mills in this state, 5650 worked over sixty-three hours a week. Out of 9543 employed in water* light, and power plants 2652 worked more than sixty-three hours per week. In all over 36,000 employes in the entire state worked a daily schedule of from ten in thirteen hours and over.
+
+The effect of a twelve-hour day is paralyzing from the standpoint of the man’s personal welfare, of his usefulness to his family, and of his usefulness as a citizen ”
+
+DOUBTS THE. END OF TUBERCULOSIS.
+
+The Survey in its edition of August 19th printed an article by Christopher Easton entitled “The End of Tuberculosis.” In the last number of the Survey, Dr. Joshue L. Barton, of New York City takes issue with Mr. Easton. He says:
+
+“The author will no doubt pardon those who decline to subscribe to his Utopian plan. It is not difficult to outline an ideal scheme and with that as a basis to build an argument which has the appearance of being logical. It seems to the writer that in future the discussion of this problems should be conducted upon a basis of fact. Millions of dollars have been
+
+Digitized by CjOOQle
+-339-
+
+expended. Sanatoria have been multiplied. Enlarged powers have been given to boards of health. Yet today we are almost ready to ask whether the results justify the expenditure.
+
+The reason is not far to seek. Ideally extravagant unattainable results were promised which could not be realized. In order to hit the mark one must “aim a little above it”; but to shoot wide of the mark is evidence of poor marksmanship or of an idealistic enthusiasm which ignores basic conditions.
+
+The so-called war upon tuberculosis has been conducted upon the assumption that if those already infected can be prevented from infecting others no more cases would develop. That habits of cleanliness aid in the suppression of disease and tend to the preservation of health is axiomatic;, but that tubercular disease can be ended by such means alone or even made a negligible quantity by segregation or corporate control is but a delusive dream. It may be granted that without tubercle bacilli there can be no tuberculosis. Yet we do not know whence tubercle bacilli come nor by what avenue they gain entrance to the human body. Whether they enter by inhalation or by way of the stomach and bowels or by some means yet undetermined is a problem which awaits solution.
+
+The philanthropic efforts of laymen have done much to prevent disease by improving the environment in which people live and by educating them in the art of living in a healthful manner. The average individual, however, fails to realize that the general health is undermined, the physiological powers of resistance lowered, and the door thrown wide open to infection by many of the habits which obtain in daily life. Among these are over-eating, worry, indigestible food, drinking, use of tobacco, sexual excesses, anger, loss of sleep, poor ventilation, exposure, the habit of taking unnecessary risks, and insufficient food. Indeed, if we exclude acute disease, the conclusion is irresistible that many of the ills of man are the direct result of his own ignorance, careless recklessness, scorn of self-control, and of his determination to have what he calls a good time at all hazards. Our hospitals, sanatoria, insane asylums, and jails all bear mute but eloquent witness to the truth that “whatsoever a man soweth that shall he also reap.” .
+
+The bearing of all this upon the tuberculosis problem is evident when we remember that it is a disease incident to physical degeneration, that individuals whose powers of resistance are normal are immune. The measures already taken to care for the sick and to afford some degree of protection to the public were necessary, helpful, and possibly as successful as can reasonably be expected; but at best it has been an effort to control the manifestation of a degenerative process.
+
+Until the problem is approached with a clear understanding that the bacilli are present because of a breach in the human wall, and that we are playing a losing game until the breach is closed, we can not expect to control, much less end, tuberculosis. “The physical improvement of the race and the conservation of the physiological forces of the individual” should be the war-cry. The surgeon wastes no time fighting bacilli beyond enforcing a proper sanitary environment. He closes the wound and keeps the bacilli out.
+
+There is a large field for the teaching of sanitary science in the home and the inculcation of self-control'. The activity along these lines should
+
+Digitized by v^ooQle
+-340-
+
+be persistent and aggressive and the result will be far more effectual in pre-venting tubercular disease than millions spent in segregation camps under corporate control.
+
+OUT DOOR PLAY IN OUR PUBLIC SCHOOLS.*
+
+By Sally G. Morlby, Principal Dunlap School, Philadelphia.
+
+At last, educators have awakened to the importance of Physical Training in our school curriculum. For years, we have learned from our study of psychology and pedagogy, that education should be three-fold in- char-actor, physical, mental and spiritual. But in practice, how little attention has ever been given, to all three at the same time.
+
+In the old days in Greece and Rome, a perfect body was the desired ideal. During the middle ages, the spiritual life only, was important. But since the eighteenth century, the intellect has reigned supreme. To the twentieth century comes the great work of combining in a harmonious whole, these three elements in education, which, while separate and distinct in character, are yet so closely connected that the highest perfection in any one, is not possible without cultivation of the other two.
+
+We hear a great deal about the perfect mind and heart in the perfect body, but until the last ten years, very little has been done, in this country at least, to bring it about. Even now, it is astonishing to find the number of educators who think physical training in the school's, a great waste of time.
+
+In this utilitarian age, the great cry is “Fit the boy and girl for the part they are to take in the world. Drop out the many useless mental gyn>* mastics which they will never need in life, and give them something prac-tical.” What can be more practical and of as much importance as health? Bodily vigor is the greatest asset that we can have in the battle of life, the lack of it, the greatest drawback.
+
+Many people think that the time devoted to physical training would be more profitable spent in teaching arithmetic, language, etc. If this outdoor work is done properly and in the right spirit, better mentality will result, and the moral tone of the child will improve.
+
+In Germany, an experiment was made to ascertain the effect of physical training on the regular scholastic work. Two schools were selected, in one of which, pupils were given a great deal of time for exercise and play in the open air. At the end of a year, the school which devoted one-fourth of its time to physical training and recreation not only equaled, but surpassed the other in scholarship.
+
+Our Board of Education rules that fifteen! minutes each day be devoted to physical training. But what a farce this W6rk becomes in many school rooms. In the press of other workr with a crowded Curriculum, work for which the teacher is held personally, responsible, the physical training l«son is often" omitted, or if given, the:work:is done so perfunctorily that it loses most of its value.	Whenever > and .wherever possible, physical training
+
+>>'*- Read: a£ the annual meeting of League of ffoltae a^d §chjool Ajssocia-tibfis of Philadelphia,November1911. .’y \	!	y	/	y	.	;
+
+Digitized by L.ooQle
+—341—
+
+should be given in the open air, in the school yards, and should be followed by games.
+
+In my school, we often combine the recess with the physical training period. This gives us a half hour in the yard. The formal exercises are taken, then the pupils line up for a game or practice in field sports, the teacher acting as referee. The teachers agreed, unanimously, that the regr ular class-room work following this period, is more than satisfactory in every respect.
+
+The great trouble here lies in the fact that so few teachers realize the good results that follow real physical training. Some do not wish to spend a half hour in the yard, although they should know that fresh air does wonders for both health and beauty, and we teachers certainly need both.
+
+It is claimed that familiarity on the part of the pupils might result from the teachers’ participation in their games. I find that my interest in the games «has brought me into closer relations with my children and has given me more influence with them than I ever had before. We are really friends, and if they are treated squarely and courteously, I think there is no danger of losing their respect.
+
+The formal1 work, the exercises, do not appeal to children, but in the games and field sports, we have muscular development combined with the purest enjoyment. Games give exercise in a natural way and are very ben* eficial. Of course, in* all competition there is danger of excess which must be guarded against by the wise teacher. Then, too, games bring to light unsuspected traits in a child’s character. In the intimacy that naturally follows this close association in pleasure, the teacher’s deeper understanding of the points to be fostered or discouraged helps in the moral development of her pupils.
+
+We have an Athletic Association, organized and officered by the pupils themselves, (boys and girls).. This Association provides for the games, contests, etc., between the several classes, discourages bad language and the use of tobacco. We find, as I suppose most teachers do, that the hardest boys to reach, are the inveterate cigarette smokers. They will not stud^ are not interested in school work, and are continually giving trouble. But the athletics help me here. Boys all know that smoking “hurts your wind’* as they term it Boys who smoke much are obliged “to put their hats oveif their mouths when they run, etc.” . So it seems reasonable to them to have a rule forbidding budding athletes to smoke. Of course this rule is not al~ ways kept inviolate, but in the main the boys try to be honest.
+
+We have just concluded an Interclass Athletic Meet which lasted through the month of October. Races, ball throwing, jumping, chinning, tug-of-war, comprising the events.
+
+First we had the try-outs. The whole class competing for the purpose of selecting the best teams. Such practicing! Squads of boys every evening running around the block, or jumping in the streets, chinning on every awning bar to and from school. Discussions as to who could jump the furthest or the highest, run the fastest, etc., were heard on every handl Enthusiasm was at its highest pitch.
+
+Such excitement when the events were run off! I think the children who were merely spectators enjoyed themselves as much as those on1 the Warns. Such shouting and chaffing, and dancing like wild Indians when members of their own class did well. Children who seem ver^ quiet and
+
+Digitized by
+\
+
+—342-
+
+col or less in the school room suddenly burst into the greatest animation. I think we teachers enjoyed it as much as the children and became quite as excited. Banners were presented to the classes winning the highest number of points, boys and girls competing. One banner to each grade. During November games will take the place of the track sports in the class competitions.
+
+We have to contend with one great drawback in this out-door wort. That is the lack of time. The course of study is so crowded that the teachers find great difficulty in doing the work satisfactorily, and after school it soon becomes dark and cold and the teachers are often too tired out after their day’s work to stay.
+
+I would like to say that I think school1 from nine o’clock until two would not only solve this problem but many others in the home and school.
+
+At the present time the noon intermission amounts to very little. The pupils rush home, mostly eat a very light lunch, and hurry back to school to stay until nearly dark. The brightest hours of the day are spent indoors in the class rooms.
+
+With frequent intermissions during a consecutive five hour session, the work could be well done. The experiment of selling a healthful lunch has been successfully tried in many schools. Children would then be free for the best part of the day, from two until four thirty, to play in the sunshine.
+
+1 have been very much interested in one of my. boys whose character has been much benefited by the sports. This boy was always at the foot of his class. He was dull, lazy, never recited, merely attended school because his father insisted upon it. He had spent four years in one grade in another school and altogether was a thorn in the flesh for all' his teachers. The old saying, “I care for nobody, and nobody cares for me,” seemed to be true in his case.
+
+When the Department of Physical Training held its first Field Day, I sent him to take part in the games. Since then he has taken an active part in all our athletic work, but not without many heart-aches and considerable self-denial on his part. He had to give up smoking. That was hard, for he had smoked since he was six years old. At first he tried deception, for he lacked -that nice sense of honor so essential to real manliness. He lied when it suited him, and cheated in class, because he had to reach a certain standard in work to stay on his team. Yet he was fine on the field, he coul'd run faster, jump further, and play a better game than any one in the school.
+
+He was straight too, in his play. I found I could take his word in any dispute that might arise. When I was surprised at his cheating in class, but not on the field he said, “Oh, that’s different.”
+
+It took considerable time and patience to make him understand that both were alike dishonorable. The truth is, that boys in their games will not play with a cheat, and children learn that lesson very early in life. But the teacher is too often considered an enemy to be deceived and over-reached as often as possible. John and I travelled a long and hard road together, for I was very vigilant. I dared not let him slip. So the boy was put off the teams again and again.
+
+In the midst of all this, his father sent me a note asking that John do arithmetic while the other boys were playing games* as he needed the extra
+
+Digitized by C^ooQle
+-343-
+
+drill. This nearly broke the boy’s heart and also made him very indignant, for he was doing better class work than he had ever done before. I sent for the father and explained that the sports gave me the greatest hold over John, and if he would trust to my judgment in the matter, I would assume the full responsibility.
+
+Happily, it has all worked to my satisfaction. John became the most popular boy in the school'. It is strange how admiration for physical prowess is deep-grained in the best of us. John is not a perfect boy yet, by any means, but he is trying hard to do his duty, and to be honest and true. He is just one of the many whose characters have been much improved by the athletics in the school.
+
+Why are English men and women, as a rule, such splendid specimens of manhood and womanhood? Large, muscular, fresh complexioned and healthful! Simply because they are the greatest people in the world for out-door exercise and games. The nervous excitability of life in America tends toward the dwarfing of its youth. Observe the middle-aged men of our cities! Acute, shrewd, intellectual, hut undersized, thin, dyspeptic. The younger generation is growing larger and, while just as bright mentally, is re-inforced by better health, and we hope, a higher moral development.
+
+What we need in our cities are places for "the children to play. The school yards should have play apparatus of all kinds for the young children. The yards should be open until dark, and all day, Saturdays, with a paid supervisor in charge. In addition, and this I consider most important, in each community there should be an athletic field, a common, where the older children could play their games, run, jump, etc.
+
+If boys and girls have some natural outlet for their energies, and something legitimate and interesting to think and talk about, there will be less mischief and evil in the world. The city is responsible for the safe-guarding of our children, and while the outlay of monev required might seem extravagant, what a grand result would be achieved, in bringing to maturity, right-minded and healthful citizens.
+
+I wish that all teachers and parents would help in this growing work of the physical training of our boys and girls. The results are so magnificent, so tangible, and with it, the joy of the children. We talk so much about the kind of men and women they are to make, but after all', is it not the greatest thing in the world to make them happy and strong now? Give 'them the best and require their best, having them give it spontaneously, happily, in the right spirit, and the future will take care of itself.
+
+—Nervous teachers. According to William Estabrook Chancellor, in his book “Class Teaching and Management,” nearly all American teachers are of the typical nervous temperament. This has advantages as well as disadvantages. “It follows,” he writes, “that few of our teachers nourish long and great resentments, few waste much time, few are cold and distant, iew are slow and dull1, few are unpunctual or dilatory, few are victims of any physical vices, few are pedants or bookish or out of touch with reality. But it is characteristic of this temperament not to accumulate great reservoirs of vital reserve, not to be well and strong and at ease. The temperament is explosive, and easily exploded at that. It is executive and not judicial. Obviously,” he concludes, “such a temperament is peculiarly adapted to school-teaching.”
+
+Digitized by v^ooQle
+H Jt TUTrv w	~	Published	Monthly.
+
+Jy\i«P mD body. *
+
+FREIDENKER PUBLISHING CO ,. Price, 91.00 per Year. Foreign $1.26.	"Wlaoonm\n.
+
+MT Address all business letters to FREIDENKER PUBLISHING CO., c, o. Herold Bldg., Milwaukee, Wis~ Address all editorial correspondence to WM. A. STECHER, 72 W. Johnson St., Germantown Phil., Pa.
+
+Entered at the Milwaukee Post Office as Second Class Matter.
+
+NOTES AND COMMENTS.
+
+—In this issue we reprint an article by Dr. J. H. Kellogg of Battle-Creek, Michigan, which is written in the doctor7? characteristic style. Although a number of the statements may be questioned, there is enough good, common sense in the article to make the same valuable.
+
+—The chief of police of Berlin, Germany, has issued an order that children under 14 are forbidden from visiting moving picture shows after 9 p. m., even when accompanied by adults. The chief has provided by thisr order against the dangers that threaten from pictures that exert a brutalizing and exciting action on young minds. As this danger was not sufficiently avoided by very thorough supervision it was necessary to make the prohibition complete. The attempt of the owners of the theaters to remove-this prohibition with the help of the courts Has been of no avail, as the high^ est Prussian court has decided that the order is entirely legal. This step-of the Berlin chief of police has been followed by the provincial authorities. Some time ago the police received the general right from the authorities to forbid the exhibition of unsuitable cinematographic films, especially when young persons are admitted. As the moving picture firms often conceal from the provincial police officials the fact that many films are prohibited in Berlin, in future a list of the interdicted films will be published twice ir* the Prussian Central Police Journal.
+
+—Corsets are classed by Dickinson as corrective, neutral and harmful.. He maintains that the average corset still shows constriction of the waist line of the form if not of the degree of the hour-glass design. His observations contradict the claim that low abdominal girdling and “lifting7 have-taken the place of the waist-line pressure. Tests show that in two-thirds of the cases there was greater pressure at the waist than lower on the abdomen, one-third being equal. In thin women neutral conditions were general. Pressures on the lower ribs still ran high. In one-half the cases all pressures ran high. The spring or gap of the corset when unhooked gives an excellent practical measure of the amount of pressure exerted, inches being the most that should be tolerated. Comparison of the girths over the corset with that measured around the undershirt is worthless as aii index of qonstructiqn. Interior tests showed little effect on increase in-vaginal pressures in corseted women whose abdominal walls were firm,; but they indicate a marked rise in intrapelvic pressure from exertion In corseted women whose muscles are flabby and interior supports relaxed. . The tight corset harms vigorous women little, weaker women greatly. Among'
+
+Digitized by CjOOQle
+- 345-
+
+postures one-half were found defective, one-third good. Alteration in or change of the corset often brought about marked improvement in attitude. A simple test consists in standing a patient with heels against a mark on the floor, and her side to the wall and noting the location of the scapula and buttock with and without the corset and any change for the better or worst. in the center of gravity and in uprightness. Certain types of body-form are particularly susceptible to defective corseting, such as the individual with the long and slender trunk.—Journ. A. M. A.
+
+—In July the Athletic League of the Young Men’s Christian Associations terminated its alliance with the Amateur Athletic Union. This was done, growing not out of a quarrel with the A. A. U. but because the A, A. U. has, in our judgment, failed to keep'pace with the needs in athletics. For a number of years the alliance has actually been a hindrance to the work which the Associations were attempting to do. The A. A. U. places emphasis upon legislation, the Association is more concerned with education. The A. A. U. is primarily interested in promoting highly specialized sport, the Association is endeavoring to provide wholesome sport for the mass of men. The A. A. U. believes in autocracy, in centralization of administration ; the Association believes in democracy, in placing responsibility for the conduct of sport upon the local organization which is in closer touch with the athletic activities and with the athlete. Naturally and necessarily two bodies so different in ideals with reference to sport and to its administration could not continue in close affiliation particularly when the one assumed a dictatorial attitude toward the other.
+
+Now as to the future. The Association League has its great opportunity; now, for the first time in its history it is free to adjust its admin^ istration to actual needs and conditions.
+
+At this stage of development a few things are clear as to the form of the new basis of organization, which will be announced in detail at a later date.
+
+First, an amateur platform will' be adopted of high standard and purity. All Associations that become members of the League must subscribe to the platform*.
+
+Second, national registration will be abolished. It has always seemed to us unethical to charge a man a fee for the privilege of competing.
+
+Third, sanctions for games will also be eliminated except for national games Local organizations will have their own systems of registration and sanction.
+
+Fourth, the unit of membership will be the local Association. For this there will be a minimum fee for educational purposes. This will not exceed $2.50 per year. Local Associations, however, may unite as a group in district, county, State or Interstate federations and join as one member with a fee equal to the total fee of all in the group and the League’s relation. will be—for purposes of administration—to the groups rather than to the local unit in the group. These groups may elect their own officers, and direct their own activities, simply conducting them* in keeping with the-amateur platform of the national body.	.	.
+
+Fifth, local' Associations further may form or enter federations composed of other than Associations such as high schools, colleges, churches or
+
+Digitized by
+-346-
+
+athletic clubs, provided such federations adopt the amateur platform of the League. The League’s relation in this case will be to the local Association only and not to the federation as a whole as in a federation made up purely of Associations.
+
+Sixth, the League will immediately undertake in addition a number of agreements with existing national and sectional athletic governing bodies which are on a high basis of amateurism by which competitive relations in sport will be established covering a wide area or field of activity, thus increasing the opportunities for sport.
+
+By the above, it will be seen that the emphasis will be upon an honor system and responsibility will be placed upon the local or group organization.	.-----------
+
+—In an especially fitted schoolroom of the Chicago Normal School some experiments m ventilation are being conducted by the Chicago Ventilating Commission in accordance with many of the ideas advanced by. Dr. William A. Evans, until recently commissioner of health for that city.
+
+As outlined by Samuel1 R. Lewis, the commission is seeking means to improve the air distribution, both in buildings heated by direct radiation and those mechanically ventilated.
+
+“We found,” said Mr. Lewis, “that we did not get air distribution unless the air was introduced much warmer than with ordinary outlets and inlets. In order to study this matter we have taken a standard class room and put in a false floor and ceiling, the false floor being raised up 16 in. from the floor. Under every desk is placed a 3-in. pipe. The air is introduced through these openings, numbering aibout fifty, one for each occupant of the room and is taken out through four openings in the false ceiling below the normal flow of air into the room. The room is occupied by adult people.
+
+“By keeping careful record of the temperature of the air and by taking CO2 samples and analyzing them as well as the dust by means of special apparatus provided by the Board of Education, and also by keeping a record of the health of the occupants, we will have, in the course of a year or two, some interesting and valuable data.
+
+ATHLETIC RESEARCH SOCIETY
+
+November 15, 1911.
+
+Dear Sir:—
+
+The Fifth Annual Meeting of the Athletic Research Society will be held at the Hotel Astor, New York City, at 10 A. M., December 27, 1911.
+
+The Society has set itself to the task of studying the problems of rational athletics. The membership of this Society is composed of representatives from all' institutions and organizations doing educational and social work for boys and young men. As the problems of athletics affect the life of the youth of the whole nation and of all social conditions, no one institutional organization alone can solve them. Therefore, the Society is organizing a National Federated Committee, composed of representatives from each of the national educational groups or organizations that are conducting competitive athletics or in whose name such activities are conducted. The report on the nature and form of this federated committee deserves wide discussion and careful consideration.
+
+The Society is framing a Platform of Principles which should govern
+
+Digitized by L^ooQle
+-347-
+
+the conduct of athletics and should help to develop a saner public opinion. This platform of principles deserves the consideration of every educational and social worker as a basis for the development and administration of his work in athletics. It involves the principle of leadership, which lies at the very root of the moral and social education of boys and young men.
+
+The committee, appointed to study Amateurism by the case method, will report. This study has gone back of arbitrary rules that have no scientific basis in the search for general principles. The aim is to consider those acts and tendencies in athletics that seem to be bad or unwholesome in their actual1 influence on the development of the individual or on the organization of athletics. It is hoped that the study of these cases will make clear the general tendencies, from which princlfdes and reasonable rules may be deduced.
+
+Other important topics will be presented for discussion in addition to the above subjects.
+
+The sessions of the Society are open to all those interested in athletics as a phase of the play, recreative and educational life of boys and young men. Representatives from all organizations having these interests are cordially invited.	Very	respectfully, x	*
+
+Clark W. Hetherington, President. Joseph E. Raycroft, Secretary.
+
+THE HOME AND THE SCHOOL.*
+
+By D. M. FERD. KROGH, M. D.
+
+Look to the future of the child. Children must be raised to maturity. Maturity not only in growth but also in health, in intellect, in morality. The object in view is to raise, train, educate the child to manhood and womanhood. This implies good citizenship, that is, physical power of resistance to avoid disease, intellectual faculties to act sensibly; it means to be courageous and to acquire good judgment and the moral strength of self government, of self-conviction and to do unto others as you would have them do unto you.
+
+The first year of the child’s school-life is to get it accustomed to the school and to learn the most elementary of lessons in reading, writing, numbers, singing and playing gamep.	During this very little
+
+assistance is needed. But, as the child advances, difficulties present themselves. William gets a poor mark, Helen becomes disinterested because she doesn’t like her teacher. Reporting these and similar •obstacles in their progress at school is usually avoided until mamma -discovers that her darling is not promoted to a higher grade, and, “the child is so smart.”
+
+Very often the teacher is blamed. This is unwise and frequently is the result of lack of knowledge of conditions and circumstances. Teachers love their profession and are fond of children. They strive lard to promote as many pupils of their class as they possibly can and, in their strenuous efforts, suffer personally. They come to- school in
+
+* An address at: a meeting of the parents of the pupils of the Morton school, - Philadelphia.
+
+Digitized by
+-348-
+
+robust health when the school yeax begins, having benefited by their well earned vacation, only to leave school at the end of the year (sometimes sooner) broken down in health, fatigued physically and mentally. This is not always due only to effort and consciencious work, but very often also to poor sanitary conditions in and about the school: poor location in over-inhabited districts, stuffy school-rooms with poor ventilation facilities and overcrowded class-rooms with 50 to 60 Children in * a room intended for 35. And then, instruction must be class instruction. The teacher hasn’t the time to give special attention to each individual pupil. Such conditions and many other ones cause retardation of some children.
+
+The teacher cannot do all, pupils must aid in their development by their own effort. To foster the habit of doing their home-work, or, of going over their spelling or arithmetic etc. which they had at school, parents should direct and encourage the children. They should ask questions concerning the work at school, look at papers the children bring home, devote a half hour daily to hear their spelling, look over their arithmetic, “take journeys” with the children on the map of their geography and converse with them on some chapter of history.
+
+This course of procedure is encouraging. The child sees that its father and mother is interested in his school problems. Ambition and self satisfaction, joy and happiness* develop and displace drudgery and discouragement.
+
+But, your boy and girl must play. They are not in condition after five hours at school to do more school-work. Therefore, let them play for an hour and then let them do their lessons.
+
+When father comes home from the shop, store or office he is naturally tired, but half an hour or even an hour with his youngsters will prove a wholesome rest and recreation for him.
+
+Other activities of your children must be of interest to ypu. If possible attend their base-ball or other games in the field or vacant lot. Get into the game yourself. Take walks with your children and interest yourself and the child in what is to be seen. Or, take a ride to the suburbs, country or a park and get into environments different from the usual. On dreary evenings arrange a reading circle at home, or discuss Something you and your children have read. Eomp with the little tots, play with the bigger ones or chat with the older ones. This will help you and them and bring about a better understanding, a closer relation between parent and child and result in real happy family-life.
+
+But this is not all that is necessary. A connecting link must be wrought between the parent and the teacher. Personal aquaintance of and social relations between teachers and parents must be established. The teacher should report to the parents of the child any discrepancy, every short coming, parents must acknowledge receipts of notes, and, if pecessary, a personal interview or discussion may be arranged. Such intercommunication will make the child more careful and all concerned will feel that they have the same object in view, every one of them.
+
+We are beginning to see daylight. The strange and’distant feeling between parent and teacher, teacher and child and chili and parents is
+
+Digitized by v^.ooQLe
+-349-
+
+promising to subside. This is effected principally by the organization, of Home and School Associations of which teachers and parents are; members. This gives ample opportunity for entertainnig, instructive meetings at the school of the district. Teachers and parents become acquainted with each other, discuss matters of interest to both parties and to the commonwealth, and, perhaps, this will form the stepping-stone of making the schoolhouse (the common property of the people) what it should and will be: the social rendez-vous of the neighborhood.
+
+VIOLENT EXERCISE AND HEALTH.
+
+There is a curiously interesting difference of opinion between physicians and the directors of physical training departments of various kinds in universities and in connection with clubs as to the effect of severe exercise upon the health. While there is a general impression that violent exercise by developing muscles, giving wind, providing endurance and the like adds to the resistive vitality, physicians have for years insisted on the likelihood of indulgence in violent exercise, especially during the period before the full growth is attained, proving an injury rather than a benefit to the constitution. This was emphasized at the last meeting of the American Medical Association, held at Atlantic City, where, in the section of medicine, a number of prominent medical authorities emphatically asserted that present day methods of encouraging violent exercise among university students are almost sure to have disastrous results in the after life of the risipg generation.
+
+The reasons for this opinion were stated very plainly. The subject under discussion was arterio-sclerosis, or, as it is sometimes called, arterial degeneration. The old proverb “A man is as old as his arteries/' means that the best index of diminishing vitality is the condition of the arterial walls. When the arteries begin to degenerate a man is growing old, no matter how few the years of his age. On the other hand, it matters not how old a man is, if his arteries still retain their elasticity he is not going into senile decadence and there is ever promise of many years still ahead of him. There is universal agreement among physicians that the most important factor in the production of premature arterial degeneration is hard physical labor. This is especially likely to have serious effects upon the arteries when it is begun during the early years of life and continued during adolescence. If a grow-ing boy has had to exert his physi/cal powers to their limit during much of the working hours of the years between fifteen and twenty, then he is almost sure to present the signs later in life of premature arteriosclerosis.	.	.	/	;
+
+This means that at about the age of forty to forty-five his arteries, instead of being the soft, flexible tubes they should be, which can be1 readily rolled under the finger without any special resistance; show; signs of thickening and of lengthening, which givefc them ' a pethifiar tortuous appearance and feel. It is not hard to understand why tfiM' should be the case. The arteries' form* an important dynamic element in the circulation of the bloody Wheit the' hCart forces 'the bfo^d^ftoni
+
+Digitized by
+-350-
+
+the ventricles into the arteries these do not receive the fluid as so many inactive tubes, but they are distended by the pressure exerted by the heart, and when the valves close in order to give the heart the opportunity to refill itself and force blood out once more the arteries contract and so push the blood along, keeping the stream of the circulation continuous. It is easy to comprehend that in the as yet incompletely developed youth the arterial walls may easily become overstreehed. If this does not happen, at' least they develop and especially luxuriant muscular coat in order to enable them to accomplish the additional work unseasonably forced upon them. Later on, if the severe exercise is no longer demanded of them, a certain amount of degeneration occurs, and as a consequence the arteries lose their elasticity.
+
+* According to some of the best medical authorities in America this is iust what happens in the case of young persons who exercise to violently, whether flat exercise be of the pleasant order called sport or of the unpleasant variety called work. The effect is the same if the strain is put upon the circulatory system. Hence it is that the tradition has become rather firmly established that athletes are not especially long lived. While as a rule they are the picked men of their generation. with physical constitutions that would seem to insure them length of life, so that everyone involuntarily has a thrill of envy at their possibilities of continued good health, they not infrequently break down in early middle life and exhibit a lack of resistive vitality against such infectious diseases as typhoid fever and pneumonia that soon thins their ranks and leaves the survivors to a good old age only few and far between. It is not the athletes as a rule wrho live longest, tho their original endowment of strength would seem to promise this. On the contrary, they do not live proportionately nearly as long as their weaker classmates.
+
+Of course, these expressions of physicians at Atlantic City, most of whom it may be said in passing were neither old nor fogyish and some of whom are deeply interested in athletic sports as such, will probably have very little effect in lessening the severe training indulged in for athletic sports during the coming university year. It is well, however,, to have a straight forward opinion like this plainly set forth, in order that we may realize just what are the dangers ahead in these cases. It is possible that physicians exaggerate the evils, or axe mistaken in their estimate of the possible longevity of athletes. It is much more likely,, however, that the present fad in this matter is carrying young people much beyond the bounds of reason and has unfortunately so infected the minds of those whose influence should be used to prevent the abuses that in spite of warning and even forebodings on the part of the members of faculties the abuses are allowed to continue. It would be sad to think that a movement that has been welcomed as likely to produce the best possible effect upon the health of the rising generation should, because of certain exaggerated features in it, prove a source of serious-evil.	The	Independent.
+
+ASK POR A SAMPLE COPY foi yourseH or for your friends-
+
+Digitized by
+—351—
+
+THE CHILD’S DIET.
+
+By NELLIE W. FARNSWORTH,
+
+Domestic Science Department, State Normal School, Valley City, North Dakota.
+
+There are doubtless few children in these days of plenty who are underfed, but I am wondering how many are properly fed. How many mothers make' the feeding of their children, a study? In how many dinner pails would we find the right kind of food for the school lunch? In too many cases children are permitted to eat whatever they choose whether it is best for them or not.
+
+The growing child needs good nourishing food and plenty of it, but he should not be fed on pickles, pie, doughnuts and fried foods as steady diet.
+
+The child is active and his body is growing larger each day, so he should be given foods that will furnish heat and energy to make his activities possible, for thus strength is developed; also foods which will fumislr the nitrogenous elements necessary for building up of body tissue.
+
+Many children are permitted to spend their pennies for candy, instead of being encouraged to save them, and soon the candy habit has destroyed the appetite for the regular meals, impaired digestion and often ruined the teeth. Not that the child shall be deprived of candy, for pure sugar is a food most easily assimilated and one that furnishes an abundant supply of heat and energy with little effort on the part of the body. The child should be taught when to eat candy; never just before meals, for it takes away the appetite for solid food, but just after the meal and then in moderation.
+
+The child’s diet should include'plenty of pure milk, eggs properly cooked, either soft boiled or poached, white and graham bread, fruit, vegetables, soups, well cooked cereals, fish or meat in small quantities once a day, and simple cakes and puddings.
+
+Many children do not care for vegetables yet they should be encouraged to eat them. Vegetables supply valuable minerals which aid in purifying the blood: they also furnish bulk to the food, which causes a healthy exercise of the muscles in the digestive organs. By presenting* a variety and preparing each vegatable in a number of ways, the child can be led to cultivate a taste for this class of foods.
+
+From infancy children should be taught that older people can often eat things which are quite unwholesome for children; lighter desserts or fruits may be substituted for the rich pastry or pudding and a lesson in self control be presented.
+
+A child who is fussy about his eating meets many unpleasant situations later in life and often places his hostess in an awkward position, because he has not cultivated a liking for good wholesome foods in general.
+
+Children should be trained to cat slowly and masticate their food thoroughly. This necessitates cultivating the habit of being prompt in rising in the morning, so the breakfast need not be hurried. Many a mother thinks she is doing a kindness to her child to let him sleep in
+
+Digitized by
+-352-
+
+the morning. She does not realize what a bad habit she is helping him to form, one that will prove a hindrance all thru life. If the child goes to bed at the proper time he will get the required, amount of sleep and can rise promptly without the slightest harm.
+
+It is often deemed necessary for the child to eat more often than the adult, in fact it is a far better plan than to have him over-eat at any one meal. The child’s stomach cannot assimilate as large a quanity of food at a time as that of a grown person. Lunches between meals should be regular and carefully planed. Highly seasoned foods should be avoided, but simple, nourishing foods such as bread and butter, milk, fruit or a sandwich, may be given.
+
+The greater number of children’s diseases arise from improper diet and yet mothers continue to permit their children to eat abundantly of highly seasoned and unwholesome foods which create unnatural appetites, impair digestion and lay the foundation for all manner of future troubles. Tea and coffee have no place in the diet of the child. They are stimulants which are injurious to the nervous system. Cocoa may be given at times; it is mild in its action and the fat it contains gives it real food value.
+
+Drinking a great quanty of water with the meal is a bad habit, for frequently it is taken to wash the food down, and in this way hinders perfect mastication. The diet of the growing child should.receive the mother’s most earnest care and attention. Variety should be sought for; and salads, highly seasoned meats, pie and all kinds of fried foods should be avoided.
+
+Eight habits of eating should be established and regularity observed if the child is to be healthy and strong in mind and body.
+
+BASE-DODGEBALL. (BULL-PEN.)
+
+. The following form of “Dodgeball” seems to have descended from the game of “Bull-Pen”—See Mind and Body, December 1909. This game is played as follows:	Place as many small circles (about 2 feet in diameter)
+
+arpund the periphery of a small circle having a diameter of from 45 to 50 feet. The players of one team, the drivers, occupy the bases, and a like number of players are the bulls who roam about inside of the pen (the large circle.) An indoor baseball is used. This ball must always pass through thp hands.,of three basemen (drivers) before it may be thrown at a bull. If die‘bull is hit he is out of the game. If, however, the bull catches the ball he may from where he caught the ball1 throw this at a driver who may not leaye bis base, ;. If the driver is hit he is out of the game. Should, he, however, catch the ball he keeps his place, and again starts the game by throwing . the ball to one of his team-mates. ' If one 01 more drivers are put out of the game the other basemen may run and occupy the empty bases.
+
+, After playing five minutes (or any other specified time) count the number of players left on each team, and then change places. At the end of the second^ half again count the players. The side having the greater; number is the* winner.
+
+Digitized by UooQle
+353
+
+AVERAGE RECORDS FOR AVERAGE BOYS AND GIRLS.
+
+By John H. Chase, Playground Supervisor, Youngstown, O.
+
+When! boys come to a gymnasium or playground and try to put the Sib. shot, chin the bapr, or do the high jump or dash, what should we expect to be the average record for the average boy for different ages.
+
+Elaborate records: of championship events are kept, but no where "In the United States have we been able to find accurate records for the .average boy. The New York Public School Athletic League and the Boy Scout figures are impossibly and digcouragingly high for averages. Yet averages are far more useful and interesting for a gymnasium or playground director than championship events.
+
+They can be made the basis for bulletin board notices by which the mass of children can compare their efforts. They can be the standards for giving out large numbers of playground buttons, the means for strength test cards, or a method of comparing the ability of a specific group, or of group i progress. Two playgrounds located in the heart of a city, where conditions were exceptionally noisy and crowded had records below the average fof every, age, and every event, different nationalities could also thus b$ tested.
+
+The following records were compiled from 262 boys as they came to seven different playgrounds:	Four	of the grounds were in outlying
+
+healthful localities, and the boys were of all nationalities. Each boy was given some practice before hi3 record was taken.
+
+The total records for each age were added together and devided by. the number taking part, so that the following figures give the actual mean, or real average.
+
+	8 1b. Shotput.	Standing broad jump.	Running high ump.	Chin up. .	6o yd. dash. -
+10 years old	13*4“	5*	2*8“	3.7 times	
+V11 years	14*5“	5*2“	2*11“	3.2 “	1''
+12 years	16*4“	5*6**	3*	3.7 “	•
+13 years	19*1“	6*	3*3“	4.1 “	
+14 years	20*7“	6*	3*4“	4	
+r 15 years	22*6“	6*3“	3* 6“	4.9 “	
+; Average lor the 10-12 inclusive group	14*9“	5*3“	2*10“	3.5 times	9 1-5 sec.
+Average for the • 13-15 group	20*9“	6fl“	3*4**	4.3 times	8 4-5 sec.
+
+Digitized by
+
+Google
+-354-
+
+The above in round numbers.
+
+Under 13 years old	15‘	5*3“	3‘	3  r	9 1-5
+Under 16 years old	21*	6*	3*4“	4	8 4-5
+
+The girls did not like to pnt the shot, and as a rule were not able to chin-up: so throwing the 14'inch indoor baseball for distance, was substituted for those events. This proved interesting to the girls and spectators, stimulated interest in girls' baseball, and taught a fundamental activity which should be enjoyed by girls as well as boys.
+
+162 individuals made official records, and from them were calculated the following averages.
+
+	X4 inch baseball throw.	Standing broad jump.	Running high jump.	6o yard dash.
+8 years old	31*	4*	2* 2“	► 10 seconds.
+9 years old  i	36*	4*2“	2*3“	
+\ 10 years old	40*	4*4“	2*6“	
+11 years old	49*	4*7“  I	. 2’8“	
+12 years old	55*	4*10“	2‘10“	
+13 years old  \		63*	5*	3*	
+
+The cards showed that a larger number of girls eight and nine years old took part in athletics than 14 and 15 years old, so that averages were taken from 8 to 13; instead of from 10 to 15 as with the boys.
+
+IN MEMORIAM.
+
+—ON TUESDAY, October 24th, Dr. Karl Zapp died in Cincinnati, 0. Although never actively engaged in the management of Mind and Body, Dr. Karl Zapp was from the beginning one of our most trusted councillors and guides. No one who was fortunate enough to know our departed friend intimately will ever forget his kindly interest, his deep insight and his high ideals. Many colleagues never knew the real Karl Zapp; they thought him frigid and unapproachable. And yet there never was a man with a greater sense of. humor, with a greater regard for the welfare of his colleagues, and with a moire lasting idealism than Karl Zapp. His gymnastic work was always of the highest quality. The dances and roundels composed by him show a rare insight into the laws which govern the beauty of motion. Karl Zapp will be greatly missed by many teachers, especially by these who many years ago lovingly gave him the sobriqfiet “The old Swede.'’
+
+Digitized by v^ooQle
+
+4
+-355-
+
+EXPERIMENTS ON THE DIFFERENCES OF SEX, AGE, AND * CAPACITY OF SCHOOL CHILDREN.
+
+By J. COHN and J. DIEFFENBACH, Germany.
+
+Our inquiries have each time dealt with three clever pupils and three below the average taken from the seven classes of the High School for Girls and the Normal School for teachers, as well as from the Higher Grade School.
+
+In addition we have included those girls educated with the boys examined from the Higher Grade School.
+
+Altogether our inquiry included 100 individuals. Each had a certain number of psychological tests to make, namely: —to learn numbers, describe pictures, give recitations, trials of restitution (practise of combination as carried out by Ebbinghaus) and experiments in reading and writing simultaneously in order to test the capacity of widening the scope of the attention. Each person carried out these experiments for himself alone.
+
+In addition, each one wrote a composition and executed a drawing, and finally we obtained the opinion of the Masters of the school on each pupil, by means of a set of printed questions.
+
+The method of our system of research and its utilization, should be referred to in our first publication. Through it the following important systematic results were obtained:—
+
+(1)	The testing of the same individual by several different methods has great advantages, in that, the regular recurrence of phenomena, under different aspects, confirms the other results!
+
+Also one observes in the various groups, on different points, various ways of action among the same people.
+
+On the other hand, there is this drawback, that one cannot get a sufficiently large number of persons, unless one limits the subject to one or at least a few tests, Here, as in so many other cases, one must use the two methods simultaneously.
+
+(2)	In our method we lay stress especially on using composition as a psychological test. For details of this we must refer the reader to our former publication.
+
+(3)	It has been found that our questionaire for obtaining the opinions of the Masters was too complicated.
+
+It has not stood the test. On the other hand we have been able to show that it is easily possible, by adopting a correlative estimate, to compare the conclusions of the Masters with the results of the. tests; also, the figures show the conformity of the opinions of several Masters respecting the same pupils. In consideration of the great importance which the certainty of precise knowledge has for many questions of reform, and of the reliable judgment of the Masters, it would be well now' carefully to examine these matters with the aid of a reviewed list of questions.
+
+Among the objective results we will only give a few, at the same
+
+Digitized by C.ooQle
+-356-
+
+time drawing attention to the fact, that these results are naturally only proved as far as the -individuals tested are concerned,
+
+(1) Difference of age. Various functions show, and this has been frequently noted, — that the maximum measurement of progress, varies at different periods of life. The capacity of retaining figures decidedly increases up to the age of 13 years, and after this it very perceptiably decreases, while the faculty of combination increases most rapidly bo-tween the ages o-f 11 and 18 years.
+
+Our data do not allow us to decide as to whether the increase due to ages takes place during a period of maximum or minimum growth. It is a curious point, that the capacity of reading and writing at the same time, that is, of dividing the attention between twp objects, diminishes with age, but between 14 and 19 years a perceptible decline is seen.
+
+It is not possible to decide whether it is a secondary effect, resulting from our scholastic education, with its tendency towards concentration, or whether, this decline is to be seen in every case.
+
+.(2) Difference of sex:— There is no general superiority of the male sex, but side by side with certain superiorities of the male sex, there are certain superiorities of the female sex.
+
+Among the superiorities of boys are seen certain traits which indicate a better capacity for combination, and a superior judgment. Especially noticeable among boys* superiorities is the power of completing, and also the fact that, when learning numbers, the boys in the higher grade take a longer time to learn a number from a long series, which can be repeated than from a shorter series, while the girls act in the reverse manner. These latter apparently easily repeat long series in spite of the fact that this task is a more difficult one.
+
+It is well known that tests of elocution, as regards relative certainty between the sexes, are variable.
+
+Our inquiries taking the total percentage of precise information do not show any clear difference in the sexes.
+
+r On the other hand, self criticism is seen to be better developed in -boys, by the fact that a number of recitations were given reluctantly, (that is to say, marked as uncertain) and especially that the number of many of these recitations were thus marked, is much higher with them; still the girls from the higher grade school, who are generally well above the average, do surpass the boys.
+
+Finally the class of recitations in which the boys of the higher grade school show most confidence, indicates a better developed critical power as regards themselves, while the better delivery among the girls testifies a better visual memory.
+
+f The girls surpass the boys, on very different points, by reason of their special application. Their descriptive capacity, their recitations and their compositons are better developed.	‘
+
+The girls superiority as regards facility in style is very marked. While boys like writing descriptive compositions based on reflection, girls prefer narratives and the graphic style.
+
+(3) As regards the difference between good pupils and those below the average, the most important thing proved is, that where .one sex is in-
+
+Digitized by L^ooQle
+-357-
+
+ferior to the other, the best of this sex surpasses the feeble in a much, more marked degree than does the opposite sex. The best boys, therefore, add to their qualities of sex feminine superiorities and vice versa.
+
+Still, the moment does not seem yet to have come to draw practical conclusions from these results, and we should like them to be verified by ample tests, thoroughly modified, if possible.
+
+International Archive for School Hygiene.
+
+ELEMENTARY DANCING STEPS FOR CLASS WORK.
+
+By E. C. DELAPORTE,
+
+District Supervisor of Physical Education, Public Schools, Chicago, 111.
+
+The following elementary dancing steps have been taught to the classes at the Y. M. C. A. Training School in Chicago, also during the summer of 1909 at the Lake Geneva Summer School. They were especially successful in the South Park Indoor Gymnasiums during the winter of the past four years. I always began with this work for both men and boys, and found that my classes reached a higher stage of cO-ordination, and reached that stage more quickly than by any other method. These steps fit in with the calisthenic drills given in the different gymnasiums. I always placed the steps between the free arm work and the use of hand apparatus as follows: The class is arranged in ranks of eight or more; have them place the hand apparatus on the floor; a) free arm work, b) elementary steps, c) then take the hand apparatus and finish a given set of exercises with the hand apparatus.
+
+FIRST SERIES.
+
+* Music 2-4 time.
+
+'Counts.
+
+1-16 Hopping on right foot, left teg raised in rear, knee bent, 17-32 Repeat 1-16 beginning with left foot.
+
+33-40 Hopping on right foot, 8 counts.
+
+41-48	'C	“ left	<«	8	
+49-52	it	right	t*	4	<«
+53-56	if	left		4	a
+57-58 ;	ti	“ right	a	2	a
+59r60	it	“ left	a	2	a
+61-62	if	“ right	a	2	a
+63-64	it	“ left	it	2	a
+
+This series may positions, and either direction.
+
+be practiced with holding the arms in different leg may be raised or bent (as described) in any
+
+SECOND SERIES.
+
+GROUP I.
+
+i-4 Hopping on right foot, left leg raised to left side,
+
+6-8 Hopping on left foot, right leg raised to right.side,
+
+9-12 Hopping on right, foot, left leg raised to left side,
+
+13-16 Hopping onf left foot, right leg raised to right side, and make a full turn to l^ft, facing front again while hopping on left foot.
+
+Repeat 1-16 starting with the left foot.
+
+GROUP n.
+
+1-4 Hopping on right foot to right side, left foot raised sideward left,
+
+5-8 Hopping on left foot to left side, right foot raised sideward right, 9-10 Cut right foot over left and hop on right foot,
+
+Digitized by L.ooQle
+358-
+
+11-12 Cut left foot over right and hop on left foot,
+
+13-14 Cut right foot over left and hop on right foot,
+
+15-16 Cut left foot over right and hop on left foot,
+
+Repeat 1-16 starting with the left foot,
+
+CROUP III.
+
+1-4 Hopping obliquely forward right on right foot,
+
+5-8 Hopping obliquely forward left on left foot,
+
+9-12 Hopping obliquely forward right on right foot,
+
+13-14 %turn to left hopping on left foot,
+
+15-16 turn to left hopping on right foot and face front again,
+
+17-32 Repeat 1-16 beginning with the left foot.
+
+GROUP IV.
+
+1-4 Hopping on right foot, to right side, left leg raised to left side,
+
+5-6 Step on left foot and hop, kick right foot across in front of left foot, 7-8 Step on right foot and hop, kick left foot across in front of right foot, 9-12 Hopping on left foot to left side, right leg raised to right side,
+
+13	Hop on right foot, raise left leg up high in front,
+
+14	Hop on left foot, raise right leg up high in front,
+
+15 Hop on right foot, raise left leg up high in front,
+
+16 Hop on left foot, raise right leg up up high in front,
+
+17-32 Repeat 1-16 beginning with the left foot.
+
+During the exercises of the Second Group, Second Series, a fair distance should be covered sideward, the movement depending upon the size of the gymnasium.
+
+EXTRACTS FROM MEDICAL JOURNALS AND PHYSIOLOGIC AND HYGIENIC NOTES OF INTEREST.
+
+By D. M. FERD. KROGH, M. D., Philadelphia.
+
+—Clinical and Histologic Effects of Total Arrest of Circulation for an Hour.—Depage of Brussels was operating on a boy of 15 for osteomyelitis of the femur when the patient’s heart stopped beating. Notwithstanding all measures for resuscitation for a whole hour, including massage of the% heart, there were no signs of revival, but then a pint of salt solution was infused and under the influence of this the massage of the heart proved successful and the boy was resuscitated. His mind, however, seemed affected; he was agitated and delirious, but there were no motor disturbances or modification of the reflexes. He remained in this condition for nine days, the temperature going up to 40.5 C (105 F.) and then he died. The university pathologist, R. Sand,' examined minutely innumerable sections of the brain and other organs, regarding the case as equivalent to a laboratory experiment on the effects of total arrest of the circulation for an hour, conditions in the brkin having been practically the same, he thinks as when the circulation has been shut off from an organ by a ligature. His report was read at a recent meeting of the Belgian Academie de Medecine. It stated that there “was not a single nerve cell intact in the entire extent of the cerebrospinal exis,” and, further, “that the case teaches the value of saline infusion as an adjuvant in chloroform* accidents.” Sand’s conclusions were qualified by the academy, in accepting the report, as being “rather too sweeping”—the patient had not exhibited symptoms which would have been inevitable if every nerve cell' had been injured.—Journal Am. Med. Assoc.
+
+—Air is just as important to the body as light. It consists of seventy-seven parts of nitrogen and twenty-three parts of oxygen. The air we
+
+Digitized by CaOOQle
+-359-
+
+breathe is the most essential element to our life; we can live without food for some time, but we cannot live one minute without air.
+
+Only healthy, oxygen-containing air, however, furnishes us with the elements we need most for the support of our body.
+
+It is, therefore, of great importance, particularly in cities, to bear in mind that our living and bedrooms must always be supplied with good air. Frequently ventilation by open windows is the best way to obtain a good circulation of air. It is not absolutely necessary to have the whole window wide open in order to ventilate the room sufficiently. This is, of course, a good thing to do in summer time, but in winter it suffices to open the windows a few inches in order to promote ventilation, and on the other hand not to allow the temperature to cool off too much. People who cannot open their bedroom windows at night, or who do not care to do so, may keep the windows in the adjoining room open and leave the door to the bedroom ajar.—London "Health ”
+
+—The Miami Valley Dental Society is making an attempt to educate the public regarding the care of the mouth and teeth and has published for distribution the following:—
+
+What are the teeth for?—Not merely for ornament. Their chief use is to prepare the food for the stomach—to grind food and mix it with saliva. Food which is not thoroughly chewed causes indigestion and constipation.
+
+How long should the teeth last?—To the end of life.
+
+How do we lose them?—By decay and loosening.
+
+What causes teeth to decay?—Bits of food and candy sticking to the teeth; also a poor physical condition.
+
+Where does the food lodge?—All along the edge of the gums between the teeth, and in the crevices of the grinding surfaces.
+
+Can decay be prevented ?—Yes, to a large extent.
+
+How can decay be prevented?—By scrubbing the teeth thoroughly with a toothbrush, tooth powder and water; and by keeping up the general health.
+
+How often should the teeth be cleaned?—At least twice a day—after breakfast and at bedtime. Better after each meal.
+
+Should the gums be brushed?—Yes. Moderate friction helps to keep them healthy.
+
+How often should tooth powder be used?—At least once a day—at bedtime.
+
+How should the teeth be brushed?—Consult your dentist and he will advise you.
+
+Twice a year, at least, a dentist should carefully examine the teeth. A bad condition of the throat, the nose and the ears is made worse by decayed teeth:	They add to the chances of catching infectious diseases.
+
+Cleanliness is the best guard against disease.
+
+—The Chicago Tribune began a movement in the right direction by securing the services of the eminent scholar and professor of hygiene in the Northwestern University, Dr. W. A. Evans, to promote the health of the community by a series of articles on “How to Keep Well.” Dr. Evans’
+
+Digitized by
+
+Googk
+- . •	—360— .. . • ' ;	.	-	r
+
+first article appeared in the “Tribune” Sept. ioth. The following are brief abstracts from this:
+
+The pneumonia situation is not improving. We are in great need of> help. The mortality from the bad air diseases, taken collectively, shows-a slight gain. The people are ventilating somewhat better. But men will’ still stay in badly ventilated workshops, offices, halls, and cars. We have never heard of a strike on a given place because the ventilation was bad and> the consequent colds, coughs, pneumonia, and consumption ate up all thle-r wages of the men.
+
+The fresh air movement must be pushed, and pushed hard.
+
+We are now satisfied with conditions which cause 10,000 deaths a year T in Chicago—and in addition there is a great deal of disabling illness which -does not result in death. Should we stop, can we stop, until the general discontent brings competent action?
+
+Then there is the outside air begrimed^with smoke and befouled with dust. We go on year by year tolerating it, mildly objecting, but with noconcert of purpose between the objectors.
+
+—To Increase Human Efficiency, There should be no blind men, nomen with crooked backs or with stiff knees. Under more rational living * the average efficiency of the human unit should be 10 per cent higher than it is. Those who are in contact with this work know that an estimate of 10 per cent gain in efficiency is far too low, but an understatement just now is better than an overstatement.
+
+A large part of the physical conditions which men and women now accept with as much patience as they can will be terminated when men are less complacent about it than they now are.
+
+Much effective work is now being done by health departments. These departments are unevenly developed. They have much of the machinery needed to do the work of physical welfare and health conservation, but they . are usiially very weak in getting public attention. Latent is the great pow-* * er of the mass who through their work are being gradually improved.. The interests that are being controlled, while less numerous, are in no sense ; latent.
+
+—Finger-Prints and Identity.—It is thought that:the epidermic ridges of the fingers and palms, as well' as the soles' of the feet, are a survival of ; the. pads or permanent callosities .of the. mammalian pawf which bear the weight in walking. In the typical paw there are five pads at the ends of : the digits and five on the surface of the palm or the sole. In: monkeys,, where the habit of climbing instead of walking makes requisite a delicate organ of touch, the pads have become flattened and their hard coring re-, placed by a sofe epidermis, whose lines and ridges show the positions of the . pads by scroll and whorl patterns. In man, the arrangement of these ridges has become of secondary importance; a~ standard form is no longer maintained, and individual variation has enormously increased. It is this high degree of individual variation which is important from the standpoint of identification. It is, practically speaking, infinite. Not less important is the fact that the patterns are formed in embryo, and from the sixth month » of uterine life remain unchanged until the destruction of bodily tissue. A
+
+Digitized by v^.ooQle
+-361-
+
+system of classification of the digital ridges was first devised by Galton, and has been elaborated by many workers, notably the Argentine, Vucetrich. In some form dactyloscopy, so called, has largely superseded the Bertillon system in police work. It requires, however, study and experience as well as intelligence in operation. An American, Dr. H. H. Wilder, has proposed the extension of the observations to the palm of the hand and to the sole of the foot. The advantage of this is that the variation in these surfaces is greater and the details larger and more obvious. From* the scientific standpoint, therefore, finger-prints offer strong evidence of identity, though only properly available in trials through expert testimony.—Journal of Criminal Lam and Criminology.
+
+BOOK REVIEW.
+
+—'Now that the folkdance craze is on its downward path and is finding its natural level it appears opportune to call attention to two little books on dancing that will always be an inspiration to teachers who have the correct “feeling” for the place of dancing in an educational1 scheme, and of the kind of dancing that should be encouraged. The books are “TANZ-SPIELE UND SINGTAENZE” (third edition) by Gertrude Meyer, and “REIGENSAMfMLUNG” by Minna Radezwill both published by B. G. Teubner, Leipzig, Germany. The price of the first booklet is 35c, and of the second is 75c.
+
+In the “Tanzspiele” Miss Meyer presents a selection of 53 simple dances, text and music. In “Reigensammlung” Miss Radezwill gives us 28 dances and music arranged for children according to their ages. But what makes the second booklet most valuable is the reading matter preceding the dances where in short essays one finds valuable information concerning the origin and teaching of dances, the attire or ornamentation of dancers, naturalness in dress, the education of the sense of sight so as to be able to perceive the beauty of motion in dancing, and lastly, something our folk-dance-enthusiasts so often overlook, an essay on the unnaturalness of trying to teach to children in other countries movements expressing occupations, sentiments, social conditions, etc., which are entirely foreign to the learners.
+
+To those who are capable of understanding German both books will be welcome and valuable reading. They are highly recommended.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+—GYMNASTIC GAMES, classified by E. H. Arnold, M. D. A new, fourth, edition of Dr. Arnold's well known book of games has just appeared. An appendix, “Happiness Games,” has been added, also a classification of games of imitation.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+—ATHLETIC JUBILEE, a vigorous dance for men, by G. M. Caskey. 12 pages 5x73/2 inches, published by the author, 215 West 23rd Street, New York. Price 50 cents.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+Digitized by ^.ooQle
+—362—
+
+—'RECORD OF ATHLETIC EVENTS by Samuel L. Finn. pages 7y2 by io*4 inches, published by the author, Dayton, Ohio. Price $1.00
+
+The aim of the author was to furnish a book into which anyone participating in any phase of athletics could paste the newspaper clippings pertaining to each event, and also write other data which in the course of time becomes more valuable. As the book is bound with a stiff cover it always will be an attractive volume.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin-
+
+—-MENTAL FATIGUE (Die Geistige Ermuedung) by Dr. Max Offner, Munich, translated by Dr. Guy Montrose Whipple of Cornell University. 112 pages 5%. by 8 inches, published by Warwick and York, Baltimore, Md. Price $1.25.
+
+At a time when all wide-awake school men are questioning their methods, and are seeking the conclusions of the latest experiments of noted scientists Or. Whipple presents to us a translation of the recent work of Dr. Offner on Mental Fatigue. After explaining the methods employed to measure fatigue the book presents the latest conclusions. The chapters on the Results, and on the Laws of Fatigue are of great value to all teachers. To teachers of physical training the part relating to the fatigue of gymnastics will be of especial interest because Dr. Offner shows a greater insight, and a more intimate knowledge of the great field of physical training than, for instance, is shown by Allen in “Civics and Health.”
+
+To students in all fields of educational endeavor the book should be of greatest interest. It is heartily recommended.
+
+To be% had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+—PSYCHOLOGY AND PEDAGOGY OF WRITING” by Mary E. Thompson, Ph. D. no pages, by 8 inches, published by Warwick and York, Baltimore, Md. Price $1.25.
+
+In the book the author traces the development of the alphabet, collects and elucidates many of the best recent investigations bearing on the psychology of writing. Using these as a basis she formulates and applies the educational principles deduced therefrom. To teachers who wish to know more than the routine of teaching writing, the book will be of great interest. Numerous illustrations and figures add to the value of the study.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+—EDUCATION FOR CITIZENSHIP by Dr. Georg Kerschen-steiner, translated by A. J. Pressland. 133 pages, 5^ by 8 inches, published by Rand, McNally & Company, Chicago. Mailing price 75c.
+
+Dr. Kerschensteiner’s prize essay rapidly passed through four editions in Germany. It was, therefore, an admirable move on part of the Commercial Club of Chicago to secure the consent of the famous superintendent of the schools of Munich, Germany, to have his book translated 'into English. Those of our readers who were fortunate enough to hear Dr. Kerschen-steiner when he lectured here in America last winter need no encouragement to buy the book.
+
+That a man who believes that work (especially motor training) de-
+
+Digitized by C^ooQle
+-363-
+
+velbps will-power would also speak highly of gymnastic training as a means for civic training was to be expected. His stand on allowing a child to have its own way he expresses as follows:—“The value of our school education, as it is enjoyed by the masses, rests essentially less on the cultivation of the field of thought than on the resulting training to diligent, conscientious, thorough, well-finished work, on the steadily formed habit of unconditioned obedience and faithful fulfillment of duty, and on the authoritative and continuous introduction to the exercise of a readiness to oblige. .	.	.
+
+The first education of a human being in the course of his daily work does not follow his own way of thinking, but follows the will.of some one else and prescribed rules; and only on the basis of this heteronomous education can an antonomous one be developed.”	•
+
+The book Will be certain to create as great an impression here as it did abroad. It is highly recommended.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+—“SOME GREAT STORIES AND HOW TO TELL THEM,” by Richard Thomas Wyche. 188 pages 5 by 7y2 inches. Published by Newson and Company, .27 West 23 Street, New York. Mailing price $1.10.
+
+The playground is a strong aid to the school in the formation of correct habits of thought and of action. As this fact is being understood more generally, those agencies which interest the child are being studied by all teachers more intensely than ever before. One of the best agencies for creating a good spirit on a playground is the art of telling stories in a manner so as to interest the child. But all playground teariieis as well as all class teachers soon feel that some stories appeal to the children more than others. In the present book Mr. Wyche tells us why. The chapters in the fundamental needs of the child, on psychological principles, how to tell a story, the spiritual equipment necessary to tell a good story; etc., should be read by all teachers. The book is highly recommended.
+
+To be had of Mind and Body, Herold Bldg., Milwaukee, Wisconsin.
+
+IN MEMORIAM.
+
+Whereas, the family of AUGUST MUEGGE was deeply stricken by the untimely death of a beloved husband, father and brother, and the family of DR. KARL ZAPP by the death of a son, husband and brother, and
+
+Whereas, The Jahn Physical Training Club, and The Teachers of Physical Education, and The North American Gymnastic Union, have sustained the loss of two earnest co-workers, beloved friends and colleagues,
+
+Therefore, be it resolved, that we the members of The Jahn Physical Training Club tender to the families our heartfelt condolence, and assure them of our deepest sympathy.
+
+Resolved, that these resolutions be recorded upon the records of the club, and a copy be sent to the families of the deceased and to “Mind and Body” for publication.
+
+For The Jahn Physical Training Club of Chicago: Hy. Sudcr, C. S. Knapp, C. F. Weege.
+
+Digitized by CaOOQle
+—364—
+
+—Feel that I would not be doing justice to the state if I tried to teach a year in the Kansas State Normal School without “Mind and Body.”	Clair	Turner.
+
+Books 01 Physical Trailing aid related Sohjects.
+
+Send your orders to “Mind and Body,” Herold Bldg., Milwaukee, Wis
+
+Add 10% for Postage.
+
+SUBSCRIPTIONS to MtND AND BODY $Ljoo per Annum (10 Copies). $1.26 to Foreign Countries
+
+Single Copies 16 Cents.
+
+COMPLETE VOLUMES OF “MIND AND BODY’* $i.oo: bound $1.75. (Postage paid.)
+
+Issues No. 1, 2, 9, 24, 72, 149, 170, 181 and 191 are out of print.
+
+Theory of Physical Training.
+
+Bodily Exercises, The Mechanism of.—By Wilbur P. Bowen, M. S..	.	75
+
+Dancing, The Healthful Art of.—By Luther H. Gulick, M. D......... 1.50
+
+Education by Plays and Games, by G. E. Johnson................... 1.00
+
+Gymnastics. A Textbook of the German-American System of Gymnastics. Specially adapted to the Use of Teachers and Pupils in Public and Private Schools and Gymnasiums. By W. A. Stecher 2.50 Gymnastic Kinesiology. A Manual of the Mechanism of Gymnastic
+
+Movements, by Wm. Skarstrom, M. D............................  1.25
+
+Gymnastics, The Teaching of Elementary School.—By Prof. W. P.
+
+Bowen ...................................................      1.00
+
+Model Positions.—Ten Tablets, two feet square, showing in 32 illustrations the principal gymnastic positions both in their correct and incorrect forms. (German.) By F. A. Schmidt, M. D...... 1.85
+
+Muscles and How to Develop Them, by F. J. Harvey.....................50
+
+Physical Education by Muscular Exercises, by Luther H. Gulick,
+
+M. D.............................................................75
+
+Physical Exercises.—A Short Synopsis of the German System of Gymnastics. By F. A. Schmidt, M. D..............................  25
+
+Psychic Processes and Muscular Exercises, by Prof. Angelo Mosso. A
+
+lecture .........................................................20
+
+Training for Athletics, Health and Pleasure, Practical.—Bv Rud.
+
+Faries, A. M., M. D........................................ j.oq
+
+Tactics.
+
+A. B. C. of Swedish Gymnastics, by H. N'issen........................75
+
+Book of Drills and Marches, by B. M. Wilson......................   .30
+
+Calisthenic Training and Musical Drills, by Geo. Cruden..............50
+
+Drills, Fancy.—Illustrated, by Diagrams for Children, by Kellogg...	.30
+
+Drills, Ideal.—By Morton........................................    .30
+
+Drills and Marches,	by	Rook....................................... 25
+
+Drills and Marches, Successful.—By Gertrude Williams-Lundgren..	.50
+
+Drills and Marches, by May Dickerman... .*........................  .30
+
+Drill Regulations of the U. S. Army, Infantry........................75
+
+Gymnastics. A Textbook of the German-American System of Gymnastics. Specially adapted to the Use of Teachers and Pupils in Public and Private Schools and Gymnasiums. By W. A. Stecher 2.50
+
+Digitized
+
+by Google
+-365-
+
+Gymna$tics, The Teaching of Elementary School.—By Prof. W. P.
+
+Bowen ..................................................... i .00
+
+Hand-book of School Gymnastics, by Baron N. Posse................ .50
+
+Musical Drills for Little Children, by A. Alexander................50
+
+The Special Kinesiology of Educational Gymnastics. With 267 ill.
+
+and analitical chart, by Baron N« Posse..................... 3.00
+
+Tactics, Gymnastic.—Part I: Tactics of the Individual, by E. H.
+
+Arnold, ML D...............................................   .35
+
+Tactics, School.—By Wm. A. Stecher.................................60
+
+Free Exercises, Wands, Dumbbells, Clubs, etc.
+
+Calisthenics and Fancy Steps for the Gymnasium, Marching.—By
+
+Gertrude Williams-Lundgren..................................... 50
+
+Club Exercises, Indian—and Exhibition Drills, by H. B. Camann......75
+
+Club Swinging, by William Schatz................................ 1.00
+
+Club Swinging, Indian.—1, 2 and 3 Club Juggling, by Fr. E. Miller. 1.00
+
+Dick's Dumb-Bell and Indian Club Exercises......................... 25
+
+Gymnastics. A Textbook of the’ German-American System of Gymnastics. Specially adapted to the Use of Teachers and Pupils in Public and Private Schools and Gymnasiums. By W. A. Stecher 2.50 Wand Drill, by R. Pertuch.............................................
+
+Apparatus Work.
+
+Apparatus Work, Elementary.—of the German System of Gymnastics,
+
+by E. H. Arnold, M. D.; arranged by Frances N. Boynton.......35
+
+Apparatus Work, Graded.—By S. P. Middleton.................... 1.00
+
+Code Book of Gymnastic Exercises, by L. Puritz...................60
+
+Exercises on Horizontal and Parallel Bars, Rings and Horse, 1076.—
+
+By F. J. Harvey............................................ .50
+
+Gymnastics. A Textbook of the German-American System of Gymnastics. Specially adapted to the Use of Teachers and Pupils in Public and Private Schools and Gymnasiums. By W. A. Stecher 2.50 Horizontal Bar, The.—By H. Butterworth........................  1.00
+
+Games.
+
+Book of Song Games and Ball Games, by Kate F. Bremner......... 1.25
+
+Children’s Old and New Singing Games, by Mari R. Hofer...........50
+
+Dances and Games, Folk.—By Caroline Crawford.................. 1.50
+
+Dances and Singing Games, Folk.—Illustrated; by Elizabeth Bur-
+
+chenal................................................     1.50
+
+Games; Captainball, Dodgeball, Soccer, Football..............	.10
+
+Games, Graded, and Rhythmic Exercises for Primary Schools.—By
+
+Marion B. Newton....................................... 1.25
+
+Games, Physical,—for the Youth. By A. Leibold.................. .25
+
+Games, The Teaching of Gymnastic.—By Prof. W. P. Bowen...........75
+
+Games, 200 Indoor and Outdoor Gymnastic.—By Maria Grey...........70
+
+Games and Dances, Popular Folk.—Arranged by Mari R. Hofer........75
+
+Games for the Playgrounds, House, School1 and Gymnasium, by Jessie
+
+H. Bancroft............................................    1.50
+
+Gymnastic Games. Classified by E. H. Arnold, M. D................75
+-366-
+
+Gymnastics. A Textbook 'of the German-American System of Gymnastics. Specially adapted to the Use of Teachers and Pupils in Public and Private Schools and Gymnasiums. By W. A. Stecher 2.50
+
+Plays and Games for Indoor and Out, by Belle Ragnor Parson...... 1.50
+
+Play.—Games for the Kindergarten, Playground, School-room and
+
+College. By Emmett D. Angell.................................. 1.50
+
+Schlagball, (German Bat-Ball). A Game of Ball described in four
+
+Grades of Difficulty by Richard Pertuch..........................15
+
+Prize Drills and Dances, by M. W. Morton..........................  .30
+
+Song-Plays, Swedish.—By Jacob Bolin................................ .75
+
+Song-Roundels and Games, by Henry Suder...........................  .75
+
+Dancing.
+
+Athletic Pageant, a dance for men and boys, by G. M. Caskey..........50
+
+Calisthenics and Fancy Steps for the Gymnasium, Marching.—By
+
+Gertrude Williams-Lundgren.......................................50
+
+Dances and Games, Folk.—By Caroline Crawford.....................  1.50
+
+Dances, Drills and Entertainments, by Gertrude Williams-Lundgren .50 Dances and Singing Games, Folk.—Illustrated; by Elizabeth Bur-
+
+chenal...........................................'............ 1.50
+
+Dancing, Gymnastic. By Wm. J. Davison........................... 1.10
+
+Folk Dances, Swedish.—By Nils W. Bergquist.......................  1.50
+
+Games and Dances, Popular Folk.—Arranged by Mari R. Hofer............75
+
+Song-Plays, Swedish.—By Jacob Bolin.........................        .75
+
+Song-Roundels and Games, by Henry Suder............................  75
+
+The Folk Dance Book for Elementary Schools, Class Rooms, Playground and Gymnasium, by C. Ward Crampton, M. D.............. 1.50
+
+Pyramids, Swimming, Fencing, Boxing, Wrestling, Tumbling.
+
+Athletics. How to train for Walking, Running, Rowing, Etc., by
+
+William Wood.............................:.......................25
+
+Attack and Defense, Art of.—A Manual of Fencing, Sword and Bayonet Exercises, and Boxing, by Major W. J. Elliott..............25-
+
+At Home in the Water, by Geo. H. Corsan..............................75
+
+Boxing, Dick's Art of.—A thorough Manual of Sparring and Self-
+
+Defence; illustrated;	127	pages................................ 25
+
+Fencing with the Foil, Theory of,—in Form of a Catechism, by Geo.
+
+Heintz, Sr., Naval Academy, Annapolis, M3.....................  .25
+
+Fencing Instructor, by H. A. Colmore Dunn..........................  25
+
+Groupings, Athletic,—Taken from Life. By Robert Nohr, M. D. .*.	.25
+
+How to. A Book of Tumbling, Tricks, Pyramids and Games.—By
+
+H. Butterworth ............................................. 1.00
+
+Mat Exercises, by Elmer	Schreiner................................... 25
+
+Muldoon’s Wrestling..................................................25
+
+Pyramids for Gymnasts. Lion and Puritz. Six Parts, each..............45
+
+(Part 1: 72 Pyr. free; Part 2: 72 Pyr. free and with wands:
+
+Part 3: 24 Pyr. on Ladders and Chairs; Part 4: 36 Pyr. free and on apparatus; Part 5: 34 Pyr. on Ladders; Part 6: 28 Pyr. variety.)
+
+Digitized by
+—367—
+
+Pyramids.—J. Reinhardt.
+
+Part I. 80 Pyramids on one Parallel Bar........................70
+
+Part II.	50	Pyramids on two Parallel Bars....................55
+
+Part III.	50	Pyramids on Table and Chairs................... 55
+
+Part IV.	70	Pyramids on Table and Chairs....................70
+
+Part V.	100	Free Pyramids.................................. 85
+
+Pyramids on Horses.—A. Rietmann.
+
+First Patffc: 60 Pyramids on 1 and 2 Horses....................70
+
+Second Part: 40 Pyramids on 3 and 4 Horses.....................50
+
+50 Pyramids on 1 and on 2 Ladders........................... 1.00
+
+Pyramids for Strong Men and Gymnasts, by F. J. Harvey..............50
+
+Swimming, Art of.—Illustrated; by Rich. F. Nelligan................65
+
+Swimming, by Archibald Sinclair and Wm. Hei\ry; illustrated...... 2.50
+
+Wrestling, Dick’s Art of.—A Hand-book of Thorough Instruction in
+
+Wrestling......................................................25
+
+Handbooks of Lessons for Public Schools.
+
+Gymnastics and Tactics, Manual of Exercises in Free.—Arranged by
+
+E. H. Arnold,, M. D............................................35
+
+Gymnastics, The Teaching of Elementary School.—By Prof. W. P.
+
+Bowen....................................................... 1.00
+
+Gymnastic Exercises for Elementary Schools, by Harriet E. Trask. .67
+
+Physical Education, Progressive Lessons. By Clara G.	Baer......50
+
+Physical Culture for Public Schools, Manual.—By Anton	Leibold...	.65
+
+Physical Training, Manual of.—-By T. Toepel, M. D..................50
+
+Physical Culture. Primary Book, by B. F. Johnson...............   .35
+
+Physical Training in the School Room. By Hans Ballin........... 1.00
+
+Physical Training, by T. Toepel, M. D. 8 Grades, each..............20
+
+Physical Training and Games, Handbook of Lessons in.—By Wm.
+
+A. Stecher.
+
+Part I. First and Second Grades................................35
+
+Part II. Third and Fourth	Grades.............................35
+
+Part III. Fifth Grade..........................................50
+
+The Public School Gymnastic Course, by Carl Betz, Book I 75c, II
+
+out of print, III 75c, IV......................................60
+
+Subjects related to Physical Education.
+
+A Brief History of the North American Gymnastic Union, by H.
+
+Metzner. Translated from the German by Theo. Stempfel, Jr. .50
+
+Anthropometric Chart, by Fr. Pfister, M. D.....................$ .02
+
+Anthropometry and Physical Examination, by J. W. Seaver, M. D... 1.50 Boy Problem, The.—A Study in Social Pedagogy, by M. B. Forbush. 1.00
+
+Breathing Exercises, 240.—By Gertrude Williams-Lundgren.........	.50
+
+Camping for Boys, by H. W. Gibson.------- .'................... 1.00
+
+“Confidential Chats with Boys,” by William Lee Howard..........  1.00
+
+“Confidential Chats with Girls,” by William Lee Howard.......... 1.00
+
+Civics and Health, by William H. Allen.......................... 1.40
+
+Control of Body and Mind, by F. Gulick Jewett..................... 50
+
+Digitized by L^ooQle
+-368-
+
+Exercises in Education and Medicine, by R. Tait McKenzie, M. D. 3.50
+
+Efficient Life, by Luther H. Gulick, M. D........................ 1.20
+
+Good Health, by Luther H. Gulick, M. D..............................50
+
+Health Through Self-Control in Thinking, Breathing, Eating; by W.
+
+A. Spinney..................................................  1.20
+
+Hygiene and Morality, by Lavinia L. Dock......................... 1.35
+
+Hygiene, Lectures in School.—By, Robert Fischer, M. D............  .55
+
+Hygiene, Reproduction and Sexual.—By W. S. Hall, M. D............ - 1.00
+
+Hygiene, School.—By Edto. R. Shaw................................. 1.00
+
+Inspection of Schools, Medical.—By L. H. Gulick, M. D............ 1.00
+
+Living Things, Some.—Primary Lessons in Physiology. By Ella B.
+
+Hallock.........................*...............................45
+
+Lateral Curvature of the Spine, by Lovett...................... 1.75
+
+Manhood, From Youth into.—By W. S. Hall, M. D.......................60
+
+Measurements, Manual for Physical.—By Luther H. Gulick, M. D..	.75
+
+Methods, Statistical.—By Geo. W. Moorehouse, M. L...................25
+
+Mind and Work, by Luther H. Gulick, M. D......................... 1.20
+
+Mind in the Making, by Edgar T. Swift..........................   1.50
+
+Nomenclature, Y. M. C. A.; illustrated..............1.......... 1.00
+
+Nomenclature, Free Gymnastic.—Part I; illustrated; by E. H. Arnold
+
+M. D........................................................    35
+
+Open-Air Schools, by Leonard P. Ayres, Ph. D................... 1.35
+
+“Open Air”*—A statement of what is being done and what should be done to secure right air in homes, schools, offices, factories, churches, etc., by William E. Watt, A. M., Ph. D....................... 1.50
+
+Outdoor Book for Boys, by J. H. Adams............................ 1.95
+
+Pioneers of Modern Physical Training, by Fred. E. Leonard, M. D..	.75
+
+Playgrounds, American.—By E. B. Mero............................. 2.00
+
+“Plain Facts on Sex Hygiene,” by William Lee Howard.............. 1.00
+
+Playgrounds, First Steps in Organizing.—By Lee F. Hanmer............10
+
+Play, The People at.—By Rollin L. Hart........................... 1.65
+
+Playground Technique and Playcraft, by Arthur and Lorna Higbee
+
+Leland ....................................................   2.50
+
+Physical Education, by D. A. Sargent, M. D..................... 1.50
+
+Physical Nature of the Child, by S. H. Rowe.................... 1.00
+
+Physiology of Exercises, Lectures in.—By Robert Fischer, M. D.......55
+
+Physiology of Bodily Exercises, by Ferdinand Lagrange, M. D.... 1.75
+
+Red Cross Text-Book on First Aid and Relief Columns, by Major
+
+Charles Lynch ............................................. 1.00
+
+School Gardens, by M. Louise Green, Ph. D......................   1.25
+
+Sex and Society. Studies in the Social Psychology of Sex. By William T. Thomas.............................................. 1.50
+
+The Body at Work, by F. Gulick Jewett.............................  50
+
+Training in Theory and Practice, by A. Maclaren...................  50
+
+Women’s Life, The Four Epochs of.—A Study in Hygiene. By
+
+Anna M. Galbraith, M. D...................................... 1.5a
+
+ASK FOR A SAMPLE COPY OF MIND AND BODY.
