@@ -1,0 +1,951 @@
+﻿Vol. 3.	OCTOBER,	1896.	No.	32
+
+Editorial Committee : KARL KROH, cook co. normal school, Englewood, Chicago, III.
+
+WM.STECHER, Sec’y. of the technical Committee of the N. A. Gymnastic Union, cor. 3rd « chestnut 8t'S, St.Louis,Mo. F. PFISTER, M. D., managing editor, 780 third 8t., Milwaukee, Wis.
+
+A THEORETICAL AND PRACTICAL DEMONSTRATION OF THE ACTION AND TENSION OF THE TENDO-ACHILLIS IN SUPPORTING THE BODY ON TIPTOE.
+
+By WILLIAM E. WIRT, A. M., M. D., PH. D., Professor of Orthopedic Surgery in the Cleveland College of Physicians and Surgeons, Cleveland, Ohio, Late House Surgeon, Hospital for Ruptured and Crippled, New York City.
+
+(Concluded.)
+
+NOW we have seen that moments in the different directions must be equal; therefore we have the equation.
+
+T X Ft = T cos o X SF -4- AF cos tp X W T X Ft — T cos o X SF = W X AF cos q>
+
+T (Ft — SF cos o) = W X AF cos AF cos <p Ft — SF cos o
+
+To determine T from this formula we must calculate by trigonometry the values of Ft, Fs, o, and cp: and to do this we must know accurately the values of hF, AF, CA, and the angle CAF, the angle formed between the tibia and the foot, and the angle CBF, that between the tibia and the ground. The latter quantities (hF, AF, CA, etc.) I determined by measurements on the several members of the staff of the Hospital for Ruptured and Crippled, and the former quantities (Ft, FS, o and cp) by trigonometrical calculations. The following is the result for different positions of the foot:
+
+Digitized by C.ooQle
+	Angle  CAF	Angle  O	Angle  <P	sF  (Inches.)	tF  (Inches)	T
+DR. LOGUE.  CA = 16 in.  AF = in. Foot about horizontal. Ah = q.% in. | Extreme tiptoe.	82 0 165°	7° 46* 2 0 25*	0°  75°	5.20  1-359	7.217  2.245	2.542W  x.53 w
+DR. FITZHUGH.  CA = 15 in. I  AF = 4 in. Foot about horizontal. Ah = 2% in. I Extreme tiptoe.	82° 160 0	8° i7‘  3 0 26*	0°  70°	3.961  1.368	6.200  2.485	1.925W  1.221W
+DR. WIRT.  CA = 16 in. 1  AF = 4in. I Foot about horizontal. Ah = 2% in. 1 Extreme tiptoe.	80 0 i53 0	-*»- 00 0 0 -*»- u>	0®  63°	4.677  2.156	6.874  3.811	2. IT2W 1.30 W
+DR. DEPASS.  CA = 17 in. I  AF = 5 in. Foot about horizontal. Ah = 2% in. 1 Extreme tiptoe.	83 0  165°	8° 12* 20 55*	0®  75°	4.965  1.31	7.25  2.21	2.236W  I.434W
+AVERAGE.  CA = 16 in. |  AF = 4% in. Foot about horizontal. Ah = 2% in. 1 Extreme tiptoe.	82 0 161 o	8° ii‘ 3° 22*	o®  71°	4.701  1.548	6.835  2.688	2.2oW  I.37W
+
+The values of T, the tension on the tendo-Achillis given in this table, were found by substituting values of SF, tF, AF, o, and <p, in the
+
+formula T = W AF C^S	-	■
+
+r t — SF cos o
+
+We see by the table that the average value of T when the foot is just leaving the ground is 2.2 W, and in extreme tiptoe T = 1.37 W. Also, that the higher the foot is raised on tiptoe, the less is the tension on the tendon. Nevertheless, it is not easier to stand in this position than in a less elevated one; for, the more a muscle is contracted, i. e. the nearer the origin and insertion of a muscle are brought together, the less powerful is the muscle. On examining this formula, we see that when (p = 90 degrees, then cos = 0, therefore T = 0. That is, when the foot is held vertically on tiptoe, the tension on the tendo-Achillis is 0. This, we see, would be in accordance with the facts. But this is a theoretical position, as one cannot ordinarily balance one’s self in that position.
+
+Dr. Judson exhibited, at the March (1890) meeting of the Orthopedic Section, New York Academy of Medicine, a mechanical contrivance so arranged that a horizontal bar represented the foot, a vertical bar the tibia, and a spring balance scales attached to the upper end of the tibial bar and the heel end of the horizontal bar represented the calf muscles forming the tendo-Achillis, and also indicated the tension brought to bear upon it. A bag of shot attached to the upper end of the vertical bar represented the weight of the body. The vertical bar had a hinge motion upon the horizontal bar, and could be adjusted at different distances between the heel and toe end. By an attachment to upper end of vertical bar the center of gravity could be so shifted that the apparatus would balance with the foot-piece at different angles to the ground. When the apparatus was balanced on the toe end (having been so arranged that the foot-piece would remain about horizontal), and the vertical bar was hinged at twice the distance from the toe end
+
+Digitized by C.ooQle
+—147—
+
+as from the heel, i. e., the same relation the tibia bears to the ball of foot and the heel, the spring balance registered 2-f-, or a little more than two times the weight of the bag of shot, which agrees exactly with my calculations as given in the tables. When the apparatus was balanced with the foot-piece at different angles, the scales registered values of T ranging closely to those given in the table.
+
+But the above values of T are on the supposition that the tendo-Achillis has the whole weight of the body to lift.
+
+Henry Morris, in his “Anatomy of Joints” (p. 409), gives the following muscles as the elevators of the heel, viz.,muscles attached to tendo-Achillis,tib-lalis-posticus, flexor longus pollicis, flexor communis digitorum and peroneus longus.
+
+The latter four muscles are together, in size or quantity of muscles, about 3-5 that of the muscles forming the tendo-"
+
+Achillis, and their h p B	P
+
+contractile power is	FIG*	3
+
+about in this proportion.—In Fig. 3 the measurement of the different parts of the foot are the average as calculated in the table.
+
+BF = 4>% in. Br = Av = 1% in. Bh = 2% in. hr = % in. qAB is the axis of the tibia and passes through A, the axis of flexion at the ankle. The dotted lines represent the contour of the tibia. The tendo-Achillis while relaxed arches forward, due to the elasticity of the fascia and skin; but when made tense, as in supporting the weight of the body, it passes in nearly a straight line to the muscles of the calf.
+
+The four deeper muscles named above, viz., tibialis posticus, flexor longus pollicis, flexor communis digitorum, and peroneus longus pass behind the malleoli, around the astragalus and os calcis, along the arc v v* v”, and are attached to bones of the anterior and middle part of the foot. In their mechanical effect to lift the heel they act as a cord passing around a wheel. With A as an axis they act on a radius Av of l)i inch. Or considering F, the fulcrum, as the fixed point the muscles act on the radius Fr = 6% inches (= 4% -f-1^).
+
+In order to have equilibrium established we must have, as in the case of the tendo-Achillis, the forces in the different directions around F equal. (The reaction of T as felt at A is so nearly equal to T in this case that it may be called T.) Therefore:
+
+FR
+
+T X Fr = (T + W) X FB; T = W—-
+
+= W4.75
+
+1.5
+
+3.1 W.
+
+Digitized by tjOOQle
+-148-
+
+For every unit of weight lifted by this group of muscles 3.1 units of power are required, while for the tendo-Achillis only 2.2 units of power are required per unit of weight.
+
+To apportion off the work between the two sets of muscles so that each shall do its proportional amount, requires that it be divided in the ratio of the amount of muscle in each group, modified by the effective power of that group.
+
+Let X = proportion of body weight sustained by tendo-Achillis.
+
+1—X = proportion of body weight sustained by other posterior muscles.
+
+Then
+
+X: 1-X :: % X 1:2.2:% X 1:3.1.
+
+Solving this equation we have X = seven-tenths. That is, the tendo-Achillis is only required to lift seven-tenths the weight of the body, the other three-tenths being sustained by the deep group of posterior muscles.
+
+The tension (T) on the tendo-Achillis would be .7W X 2.2 == 1.54 W.
+
+Therefore the tension on the tendon is 1% times the weight of the body when the foot is just leaving the horizontal position, and rapidly^ diminishes as the foot is raised into extreme tiptoe, being only % the weight of the body in the latter position, when the deep muscles are considered. (Foot raised to 161 degrees).
+
+WAND EXERCISES.
+
+Arranged by ROBERT FISCHER.—Executed at the Centennial Exhibition at Cleveland, O.
+
+INTRODUCTION.
+
+1.	Starting position for all exercises; Wand grasped in both hands horizontally
+
+in front of thigh.
+
+2.	Every exercise begins left, 1—8 counts, right, 9—16 counts, repeat, 17—32
+
+counts.
+
+3.	Each movement requires 2 counts.
+
+4.	Sixteen counts intermission between groups.
+
+I.
+
+EXERCISE I.
+
+a.	Raise wand forward................................................... 1—2
+
+b.	Wand horizontally sideward left (left arm straight, right hand in front
+
+of left shoulder).................................................. 3—4
+
+c.	Return	to position a................................................5—6
+
+d.	Return	to starting position.......................................... 7—8
+
+Execute.............................................................. 9-32
+
+exercise n.
+
+a.	Raise wand and horizontally sideward left............................ 1—2
+
+b.	Raise wand upward (over	head)....................................... 3—4
+
+c.	Return	to position a................................................. 5—6
+
+d.	Return	to starting position......................................... 7—8
+
+Execute.............................................................. 9-32
+
+EXERCISE III.
+
+a.	Raise wand upward.................................................... 1—2
+
+b.	Wand vertically upward on left side (left arm upward, right hand in front
+
+of left shoulder)................................................. 3—4
+
+c.	Return	to position a................................................. 5—6
+
+d.	Peturn	to starting position......................................... 7—8
+
+Execute.............................................................. 9-32
+
+Digitized by C.ooQle
+Cr & Q* cr to	cx.pc?*to
+
+-149-
+
+exercise IV.
+
+a. Raise wand forward and cross arms left above .......................... 1—2
+
+b.	Wand vertically down on left side, (left arm straight at side, right hand
+
+in front of left shoulder)......................................... 3—4
+
+c. Return to position a................................................... 5—6
+
+d. Return to starting position............................................ 7—8
+
+Execute............................................................... 9-32
+
+a-xao-oT ii.
+
+EXERCISE I.
+
+a. Step left forward and raise wand forward............................... 1—2
+
+b.	Step right forward, bend knees and wand vertically in front of body, left
+
+arm above (arms remaining straight)................................ 3—4
+
+c.	Return to	position	at by stepping right backward ................... 5—6
+
+d.	Return to	starting	position......................................... 7—8
+
+Execute............................................................... 9-32
+
+EXERCISE II.
+
+a. Step sideward left and raise wand horizontally sideward left........... 1—2
+
+b.	Follow with right	foot sideward left, rise on toes and wand upward.. 3—4
+
+c.	Return to	position	a, bv stepping sideward right..................... 5—6
+
+d.	Return to	starting	position.......................................    7—8
+
+Execute............................................................... 9-32
+
+exercise in.
+
+a. Seep left backward and raise wand upward .............................. 1—2
+
+b.	Step right backward, bend knees and wand horizontally in front of left
+
+side (left arm forward, right hand under left shoulder)............ 3—1
+
+c.	Return to	position	a, by stepping right forward ..................... 5—6
+
+d.	Return to	starting	position.......................................... 7—8
+
+Execute................................................................ 9-32
+
+EXERCISE IV.
+
+Step left forward and raise wand vertically upward on left side......... 1—2
+
+Step right forward, rise on toes and raise wand upward................ 3—4
+
+Return to position	a, by stepping	right	backward...................... 5—6
+
+Return to starting	position......................................... 7—8
+
+Execute................................................................ 9-32
+
+aHOT7P HI EXERCISE I.
+
+t^tum left, step sideward left, and raise wand forward................ 1—2
+
+Lunge left forward	and raise	wand	upward............................ 3—4
+
+Return to position a.................................................... 5—6
+
+Return to starting position .......................................... 7—8
+
+Execute................................................................ 9-32
+
+EXERCISE II.
+
+titurn left, step left backward, wand horizontally sideward left...... 1—2
+
+Lunge left sideward and raise	wand	upward.............................. 3—4
+
+c.	Return	to	position a................................................. 5—6
+
+d.	Return	to	starting position.......................................... 7—8
+
+Execute..............................................................  9-32
+
+EXERCISE III.
+
+a.	titurn left, step left sideward and raise wand vertically upward on left
+
+side................................................................ 1—2
+
+h. Lunge left backward and raise	wand obliquely forward upward............ 3—4
+
+c.	Return	to	position a................................................. 5—6
+
+d.	Return	to	starting position......................................... 7—8
+
+Execute............................................................... 9-32
+
+EXERCISE IV.
+
+a.	titurn left, step left backward,	and	raise	wand upward...............  1—2
+
+b.	Lunge	left	forward and lower wand horizontally on shoulder............ 3—4
+
+c.	Return	to	position a................................................. 5—6
+
+d.	Return	to	starting position.......................................... 7—8
+
+Execute............................................................... 9-32
+
+Digitized by tjOOQle
+-150-
+
+a.
+
+b.
+
+c.
+
+d.
+
+a.
+
+b.
+
+c.
+
+d.
+
+a.
+
+b.
+
+c.
+
+d.
+
+a-^o*ur^» ttt.
+
+EXERCISE I.
+
+Bend knees and raise wand forward.................................... 1—2
+
+Lunge left forward and bend trunk forward (to a right angle)......... 3—4
+
+Return to position a................................................. 5—6
+
+Return to starting position.......................................    7—8
+
+Execute.............................................................  9-32
+
+EXERCISE II.
+
+Rise on toes and raise wand upward................................... 1—2
+
+Lung sideward left, bend trunk sideward left and lower wand on shoulders 3—4
+
+Return to position a.................................................. 5—6
+
+Return to starting position........................................... 7—8
+
+Execute..............................................................  9-32
+
+EXERCISE III.
+
+Bend knees and raise wand forward..................................
+
+Lunge left backward, bend trunk backward and wand obliquely forward
+
+upward..........................................................
+
+Return to position a...............................................
+
+Return to starting position........................................
+
+Execute............................................................
+
+1—2
+
+3—4
+
+5—6
+
+7-8
+
+9-32
+
+EXERCISE IY.
+
+Rise on toes and raise wand upward................................... 1—2
+
+liturn left, lunge left forward, bend tyunk forward (to a right-angle. 3—1
+
+Return to position a................................................. 5—6
+
+Return to starting position.......................................... 7—8
+
+Execute.............................................................. 9-32
+
+SCHOOL GYMNASTICS.
+
+Physical Training Department, Chicago Normal School.
+
+Swinging Rope Exercises.
+
+Apparatus, Class Formation, and Starting Order.—A rope, 20 to 30 feet long, with one end fastened to a pillar or piece of apparatus at a proper height from the floor, grasped at the other end by the teacher (centre of rope resting on the floor). The class is formed in single file (in flank or in front—in a straight or curved line) on one side of and at a distance from the rope. Pupils approach the centre of the rope from a proper distance—the ‘starting point’— upon command.
+
+Passing [walking, running over and under the rope); Jumping; Hopping; Skipping.
+
+Passing.
+
+Swing rope sidewa}'s over a space of about 2—4 feet.
+
+Pass (walk) over rope forward left (right). (Form opposite side in first order.)
+
+Repeat sideward left (right). (Approach and face to step over.)
+
+Repeat backward. (Approach and face about to step over.)
+
+Repeat forward, sideward, etc., turning left (right) about. (Step over and turn about to leave.)
+
+Repeat exercises in pairs, threes, fours, etc.
+
+Repeat exercises from both sides simultaneously, (class formed in divided order on both sides of rope).
+
+Repeat exercises, increasing length of rope swings. Ditto, height. Ditto, length and height.
+
+Repeat exercises, running.
+
+Digitized by LjOOQle
+-151-
+
+Jumping.
+
+Repeat above exercises with walking and running starts, jumping (with both feet simultaneously) from given starting points.
+
+Repeat, hopping two or more times over rope, before leaving.
+
+Repeat, adding arm and leg exercises, facings.
+
+Repeat exercises, as above, sideward and backward; in pairs, etc.; from both sides of rope ; increasing length and height of swing.
+
+Hopping.
+
+Repeat above exercises, hopping on one or both feet, one or more times —leaving to form on the same or opposite side.
+
+Skipping. (See Skipping Lesson, November, ’95.)
+
+Skip forward left (right); sideward and backward left (right); forward left to face right about and forward right to face left about—leaving backward. Sideward and backward, same.
+
+Combine above exercises, skipping and hopping, or jumping.
+
+Circle Swinging—from ‘starting9 line.
+
+(Circle right, if the class is on the right side of the rope—left, if on the left side.
+
+Pupils pass under the rope.)
+
+Pass under rope, singly ; in pairs, etc., to full class.
+
+Same, turning about, etc., to form opposite side—walking, running.
+
+Circle Swinging—toward *starting3 line.
+
+(Circle left, if class is on right side of line, etc.,—pupils skipping, hopping or
+
+jumping over rope.)
+
+Pass over rope to opposite side; ditto, hopping on place—repeating rope jump one or more times before leaving ; ditto, hopping or jumping, till next pupil enters ; ditto, hopping or jumping, with quarter and half (about) facings ; same, until next pupil enters ; same, two, or more, pupils at a time. Repeat exercises, leaving toward same side, etc., etc.
+
+Combine jumping over and passing under rope.
+
+INSUFFICIENCY OF MILITARY DRILL FOR PHYSICAL CULTURE.
+
+The efforts of some enthusiastic but ill informed educators who have been seeking to have musket drill introduced into our public schools is calling out protests from unsuspected quarters. That from Lieutenant
+
+H.	J. Koehler, professor of physical training at West Point is positive and convincing ; he has seen the bad effects of military drill on the cadets at Sing Sing. In fact a full and all around system of gymnastic training such as is used in our best institutions has been introduced into West Point to prevent the lopsidedness of the old military drill so long in use and so highly prized by conservative officers of the army.
+
+The new system has opened the eyes of these officers who have so long believed that the manual of arms setting up exercises of tactics were more than sufficient to develop the soldierly qualities in man. Prof. K. believes that if we have athletics we shall never lack soldierly qualities when we need them.
+
+Digitized by c^ooQle
+
+/
+-152-
+
+Tbe demand for military drill in schools is the result of a still surviving military spirit in us. We do not yet realize that war is wasting, and that it can in most cases be prevented by wiser methods ; nor do we yet fully realize that we have entered into an industrial age. The industrial age demands peace, but it also requires health, and health can be maintained better by scientific physical culture, not yet perhaps possible, but in the near future quite possible. Let all true educators strive to promote the industrial and not the military spirit; if the latter is needed at any time it will be easy enough to secure it.—Exch.
+
+CATCH-AS-CATCH-CAN WRESTLING.
+
+By F. W. FROEHLICH, Instructor in Wrestling and Boxing at the Summer School of the N. A. G. U.
+
+Milwaukee, Teacher of Gymnastics of the North St. Louis Turnverein and of the Public Schools of St. Louis.
+
+HOLDS AND BREAKS IN STANDING.
+
+(Continued.)
+
+5. Same as 4
+
+or 3 with left arm over opponent’s left arm, elbow down well, left shoulder against opponent’s left.
+
+Break: Step away left and bend knees low, grasping his left ankle, jerk left arm away forcibly.
+
+Remark: The above hold can also be taken with left arm under opponent’s.
+
+6.	Backheel from Inside and Leghold.
+
+Grasp opponent’s left thigh with both hands, step with left behind his right from inside, lean forward tripping with left and fall upon him.
+
+Break: Sit down quickly and turn left or right.
+
+7.	Neckhold and Trip left.
+
+With left arm draw opponent’s towards yourself holding him firmly, grasp his left arm or wrist with right hand, then with left leg through from front and around opponent’s right leg in rear jerk, his leg from under him at the same time falling forward.
+
+Break:	Duck	head and push off with right hand, or if thrown turn
+
+quickly to the right.
+
+8.	Neckhold and Body-Nelson.
+
+Grasp opponent’s neck firmly with left hand and jerk his head under vour right arm, push left arm under his right arm and over his back (Body-Nelson) as far as possible, then twist him towards his left with full weight of body against him, falling as you turn.
+
+Break: Grasp opponent’s right wrist with left hand and pull it away at the same time turning (^4) out under his left arm, facing him, or before he gets the Body-Nelson grasp his right arm with left hand and right leg with right arm. See hold 2.
+
+9.	Same as Hold 8 with Armlock and Backheel.
+
+Take hold as in 8 and slip right hand under opponent’s left arm to prevent his turning out, then backheel his right with right on the outside.
+
+Break: Grasp his elbows with both hands, drop upon the floor and roll with him quickly.
+
+Digitized by C.ooQle
+-153-
+
+10.	Half-Nelson and Crotchhold.
+
+Throw opponent’s left arm upward and to the left with right hand, slip left arm into a Half-Nelson, grasp his left leg from rear and throw over falling upon him or take crotchhold right (arm up far between legs) and throw over forward, or take right leg from front.
+
+Break:	Extend left leg between opponent’s for first and winglocking
+
+over left elbow with left; same for second or bend forward and grasp his left leg with both hands.—Twist quickly to the right to prevent leghold and use winglock (left elbow).
+
+(To be continued.)
+
+PLAY AND SONG ROUNDEL.
+
+For Girls of 8—12 Years of Age.
+
+By BERTHA v. d. LAGE.
+
+German Song, translated by O. SOUBRON. Newly arranged by F. PFISTER.
+
+The pupils form a circle, face the center, grasp hands sideways and are subdivided into Nos. I and II.
+
+THE POOR RABBIT.
+
+			1 i	i	l			T-“	
+To the woodland glen I went T’other eve, on			nothing bent.	
+	g—#—J jL			
+Eyeing me I i  G ft	there did spy Little Rabbit,		L W 4 J -J  drawing nigh.	
+“7T®—F	h	h	K--		—g—j—r-f-		4
+		1~TTT '		-d—0—1—	3
+
+Rabbit seemed con fi ding ly; Thus it shy ly spoke to me :
+
+“Are you not the farmer, say,
+
+Whose fierce dogs make me their prey ? If they catch me on the run,
+
+For poor Rabbit ’tis no fun ! —
+
+When I think of this, my doom,
+
+My poor heart is filled with gloom.”
+
+“-Little Rabbit”, I did say,1 “Keep from cabbage fields away. Cabbage fields are claimed by Man, Keep away then, if you can.
+
+Happy Rabbit, then you’ll skip,
+
+And evade a fatal trip.”
+
+8 eighths. 8 44
+
+I.
+
+To—went : Four follow-steps to the right...................
+
+T’other—bent : Return........................................
+
+E3reing—I : Bend knees slowly in four counts....4 eighths \ g
+
+There—spy: Straighten knees slowly in four counts.4 44 j
+
+
+
+Digitized by ^.ooQle
+-154-
+
+Little—drawing : Rise on tip-toes three times with swinging
+
+arms forward on rising.......................6	eighths,	8	eighths.
+
+Nigh : With one hop and hand-clapp
+
+y	.	M	turn to the right....2 eighths, 8	“
+
+' X	X	'	Rabbit—confidingly: No. I four follow-
+
+steps sideways to the left, No. II
+
+i ,	. . the same to . the right............... 8	“
+
+'	T	Thus—me : Return, and on last count
+
+with one hop and hand-clapp turn I and II face each other, the back of No. I and face of No. II toward the center......................... 8	“
+
+II.
+
+Are—say : Grasp both hands of partner with four follow-steps
+
+sideways to No. I’s left............................. 8	eighths.
+
+Whose—prey: Return...................................... 8	“
+
+If—run : No. I encircles No. II with eight ordinary steps, commencing to the left..................................... 8	“
+
+For—fun : No. II the same around	No. 1.................. 8	“
+
+When—doom : Both grasp hands and four follow-steps sideways left in a small circle............................. 8	“
+
+My—gloom : Return, and hands	down...................... 8	u
+
+III.
+
+Little—say : No. I and No. II (in opposite directions) four
+
+follow-steps to the left. Back of hands on hips..... 8	eighths.
+
+Keep—away : Return..................................... 8	“
+
+Cabbage—man: No. I and No. II (in opposite directions) eight
+
+small steps backward................................ 8	“
+
+Keep—man : Return...................................... 8	“
+
+Happy—skip: No. I and No. II grasp right hands and wheel
+
+with eight ordinary steps to the right, until againjin places 8	“
+
+And—fatal : No. I and No. II facing each other, bend trunk forward slightly three times and threaten with right
+
+finger.......................................6 eighths. 8	“
+
+Trip : All with one hop and hand-clapp again face to the
+
+center.......................................2 eighths, 8	“
+
+CHANGES IN THE TEACHING CORPS OF THE N. A. G. U.
+
+Mr. ,Otto Mauthe has left the Vorwarts Turn Verein, Milwaukee and accepted a position with the West Minneapolis Turn Verein.
+
+Mr. Wm. Mauthe, formerly of Danville, 111., has been appointed instructor of the Vorwaerts Turn Verein, Milwaukee, Wis.
+
+Mr. Wolf has resigned his position with the ‘Einigkeit’ Turn Verein, Chicago, 111., and accepted a position as teacher of physical training in the Ottawa Public Schools.
+
+Mr. G. W/ Retzer has taken charge of the Gymnastic Club in Monterey, Mexico, and reports favorably on his work.
+
+Mr. G. Stehn, formerly of Hartford, Conn., is now instructor of the Socialer Turn Verein, Cleveland, 0.
+
+* Mr. L. Kittlaus was appointed gymnastic teacher of the Rock Spring Turn Verein in St. Louis, Mo.
+
+Mr. K. Alleborn has been engaged as instructor of the Detroit Athletic Club.
+
+Digitized by <^.ooQLe
+-155-
+
+Misp mu BODY. ^
+
+r Published Monthly.
+
+BY
+
+Subttcription Price, $1*00 per Year.
+
+FREIDENKER PUBLISHING CO.
+
+Mll-wa.-uJcee, “Wiacoaa.slaa..
+
+J«=* Address all business letters to FREIDENKER PUBLISHING CO., 468 East Water St., Milwaukee,Wis Address all editorial correspondence to F. PFISTER, M. D., 760 3d St,, Milwaukee, Wis.
+
+IF we would canvass the country and investigate every place where physical training is made a part of common education, we would, in a great many instances, find out that it has been introduced by way of mere everyday politics or political manipulation. No matter which system may be concerned, the manner of its introduction will generally be twofold : Either someone really interested in the cause has secured a few political friends or members of the school-board and has probably convinced them of the beneficial results to be expected and of the necessity for an up-to-date city to have such work. These then have to push the legislative enactment. This is the purer way.—Or some representative of the system to be introduced, or may-be the future teacher, is making a political deal with someone of influence, the return for the service being his higher booming among his constituents, or the like.
+
+In short, physical training could in most places be introduced through the aid of politics only. The result often is that the teacher considers the position as a political “job” with all the uncertainties ol such and with a view of pocketing so much salary a month or year. The true educational spirit does not here enter into the question. In stating these facts, we have in mind not any particular system or any particular place, nor either individuals, but know that such strategies have been adopted and succeeded, and still are in vogue. We doubt not but that this is not too frequent a case and that the ensuing evil is of secondary importance.
+
+That political influence alone has often secured the introduction of gymnastics we recognize from the fact that as soon as certain influential persons receive a set-back or refuse further support, the whole matter very soon is dropped and the instructor or teacher has to look for another “job.” We could cite a number, of striking illustrations.
+
+Even where the teacher is doing his very best and his work it satisfactory he cannot sometimes hold his place.
+
+Physical training in the public schools should be independent of political influence. The capacity of the teachers and the quality of the system should be the only guides in the selection ; never a political belief or influence.
+
+The true teacher should be too proud of his manhood and value his profession too high than to submit to be dragged into the political mud.
+
+It is, perhaps, in some places at least, impossible to accomplish anything without political aid, but the true educator ought even in that case always to do his best for the cause and not to do it merely for the sake of the salary. We have seen school-boards, fully convinced of the
+
+Entered at the Milwaukee Post Office as Second Class Matter.
+
+PHYSICAL TRAINING AND POLITICS,
+
+Digitized by
+
+Google
+-156-
+
+benefit derived from physical training and of its neccessity in school education, abandon the same simply because the work done by the teacher or teachers was entirely inadequate. A teacher of physical training in a public school must not undertake more than he possibly can accomplish; he can not satisfactorily manage the gymnastic department of a large city all alone. He must have assistants, even if he has to sacrifice part of his own, often quite liberal, salary. Otherwise he will never be a factor and a representative of his system, but remain simply a professional political tool not worth mentioning after he may have lost his “office.’’
+
+Let us hope that physical training will soon be a universal requirement and an inseparable part of general education, and that the appointment of the instructors will be made on similar lines as that of the teachers of common branches of the public school curriculum.*
+
+THE FALSE AND THE TRUE IN PHYSICAL
+
+BEAUTY.
+
+WE sometimes imagine that wand exercises etc., in physical training are chiefly a matter of display, but this is far from the truth. On the contrary, the experience has shown that the elements which make up an erect bearing as gained in this form of athletic work, are the very ones which indicate the development of the highest possible degree of vigor, of speed, and of endurance.
+
+The same will be found true of the various regions and parts of the body. We will begin with a region where the standards are supposed to be entirely at variance, the waist line, wLose flowing curves from armpit to hip are rightly regarded as forming the chief beauty of the trunk outline. Fashion and popular taste demand simply a rapid inward slope to as small a waist as possible, regardless of all other elements of the curve; physiology and hygiene denounce this as unhealthy and crippling. Beauty and health appear to be at logger-heads here. But it is only with a false ideal of beauty that there is any conflict; call in the artist, the anatomist, to settle the dispute, and he will instantly decide with the physiologist. The ideas of “beauty” of the fashion-plate, the modiste, and Mrs. Grundy, are often widely different from those of the artist, the architect, and the naturalist^ and it is with the latter only, that we are concerned. We may well paraphrase Madame Roland and exclaim:	“Oh Beauty, what crimes
+
+are committeed in thy name!” In the vast majority of these conflicts between beauty and common sense, the fault lies in a false ideal of beauty. The ideal waist of the artist is that of the Venus de Milo, and every line of it fulfils to perfection the demands of the hygienist for the highest lung power, combined with ease and vigor of movement.
+
+Another similar instance of conflict between grace and efficiency, is that between the popular and hygienic ideals of a beautiful foot. These differ widely indeed. The popular demand in a feminine foot is that it
+
+* After this article had gone to the press we notice in the (but recently received) July issue of The Posse Gymnasium Journal an article written by the late Baron Posse on the same subject. We shall return to this excellent article in our next issue.—Ed.
+
+X
+
+Digitized by GiOOQle
+-157-
+
+shall be a narrow, pointed elongated body curved, or more accurately humped, into a nearly horse-shoe shaped arch, the pillars of which are within a few inches of each other, and consist of the compressed tips of the toes, and a high narrow heel brought forward almost directly under the center of gravity. Its functions as an organ of support and locomotion are ruthlessly disregarded, and instead of a series long, low, graceful arches, it is distorted into the resemblance of a link of sausage pointed at one end, or a banana in opisthotonos.
+
+The physician, the skilled pedestrian, denounce it as deformed, useless, painful, and almost disabled; and again, the artist cordially unites in their attack, and demands the very same outlines that they do.
+
+The plan of the healthy, natural foot is an exquisite combination of arches — one long and low from the heel to the balls of the toes, the other short and high, crossing this at right angles a little in front of the ankle-joint. These are composed mainly of a number of wedge-shaped bones, but there is little that is “bony” or rigid about them, as their form is mainly preserved by the tension of three muscles of the leg, whose tendons attach themselves to both the upper and lower surface of their keystones in a most ingenious manner, if w;e may use such a term with becoming reverence. Thus the weight of the body is naturally supported upon the intersection of two graceful, yielding, living arches, which, by their expansion and contraction, give a beautiful, springy elasticity to the gait. But in order to do this, they must, like all other springs, expand so that the foot ought to become markedly both longer and wider when weight is placed upon it. For this change in form, the modern “pretty” shoe makes absolutely no adequate provision, and not only this, but by throwing a ridiculous pegshaped heel far forward to give an appearance of shortness to the foot, the longitudional arch is completely broken, the weight thrown directly upon the sensitive instep, the center of gravity of the whole body disturbed, and the elasticity of the gait destroyed.
+
+Mechanically, the human foot is one of the most exquisitely adjusted, effective, and most enduring instruments in the world — it will run down and outlive any hoof, pad, or paw that moves. Artistically, for beauty of outline, harmony of curves and dimples, and grace of movement, it is equally unsurpassed. Here again, beauty goes hand in hand with strength, and fashionable deformity with feebleness.
+
+The beauty of finely molded shoulders and rounded arms, and tapering wrists, is dependent not upon the form of the bones, nor even upon the amount of adipose or fatty tissue — mere plumpness is not beauty — but upon the live contour and rippling grace of muscle.
+
+As for beauty of complexion, although universally decried as only “skin deep,” in its natural and only truly attractive form, it affords one of the best and most reliable indices of health and vigor. It may be imitated, but no paints, cosmetics, or “local treatments” of any sort can begin to reproduce the rich, warm, living depth of coloring, the translucent creamy whiteness, and the velvety gloss of surface which is as absolutely dependent upon pure blood and springy muscle, as a red June rose is upon its vigorous stem and roots in a fertile soil. A fine complexion instead of a mere surface finish, is the exquisite
+
+Digitized by CjOOQle
+-158-
+
+blossom of health and purity throughout the entire body, and literally '‘goes to the bone” as its counterpart “ugliness” is proverbially declared to do. An artificial complexion usually deceives nobody but its wearer.
+
+In that important realm of decorative art, dress, the coincidence between beauty and healthfulness is no less striking. From the Greek chiton and the Spanish mantilla to the graceful Persian divided skirt and mantle, which the celebrated Worth kept hanging upon the walls of his studio as his ideal of the beautiful in the feminine costume, the lines of artistic beauty and of hygienic utility coincide almost absolutely. The corset, the bell-skirt, with its “street-cleaning” attachment, the crippling multiplicity of petticoats, and the ridiculous bustle, are offenses alike against the canons of art and the rules of health.
+
+—From the Medical News.
+
+HISTORY OF THE GERMAN TURNERS IN OHIO.
+
+By ANTON LEI BOLD, Columbus, Ohio.
+
+(Concluded.)
+
+IN former years some of our gymnasia introduced into their youth’s classes (for boys between 14 and 18 years of age) military tactics under good instructors; but the interest lasted only as long as the newness of the uniform and the attractiveness of brass buttons, feathers and epaulets. In a short space of time the movement died out, and may it never enter our gymnasia again.
+
+After the Civil War our gymnastic work was gradually reorganized, some societies having gone out of existence meanwhile. The present Columbus society was reorganized on March 1, 1867, under the lead of Colonel Gust. Tafel, of Cincinnati, then member of the Ohio Legislature. Among the charter members were Judge Henry Olnhausen, Sr., C. Synold,
+
+G.	Luchtenberg, and H. Schneider.	»
+
+The following figures show what progress has been made in the state since 1872:
+
+YEAR.	Societies.	Members.	Gymnasts.  (Active	Fencers.	Pupils.		Women	Teachers.
+			members).		Boys.	Girls.	Gymnasts.	
+1872 ....	»	760	216	24	452	37	—	2
+1895 ....	25	2443	632	76	1310	570	270	11
+
+This gratifying increase is. partly due to the growth of our Normal School of Gymnastics in Milwaukee and partly to the introduction of the plan of club contests, as opposed to the former squad contests. The new plan was first adopted in Ohio about eleven years ago through the efforts of Mr. Karl Kroh, then in Cincinnati, now with the Cook County Normal School, Chicago. At the National Gymnastic Tournament in Cincinnati, in 1889, there were 1,500 men exercising under this new system.
+
+An important step in the advancement of physical training was taken by the Ohio Turners in 1892. In 1891 the writer of this paper presented to his fellow-members of the Executive Board of the Ohio
+
+Digitized by G.ooQle
+-159-
+
+Turners’ Circuit, then in Columbus, the idea of pushing a bill simitar to the one which had previously been lost in Pennsylvania, to make physical training a branch of instruction in the public schools. With the aid of the Turners and other friends of the cause we were successful and the bill became a law on April 13, 1892. Mr. Carl Stein, then secretary of the Executive Board of the Ohio Turners’ Circuit, was an arduous worker in behalf of the bill, and Hon. John Molter, member of the Legislature, was also very active in promoting its passage. Thus Ohio became the first state in the Union to enact such a law. The Turners have been instrumental in securing the introduction of physical training into the public schools of the following cities:
+
+Cincinnati, 1868—1872, under the supervision of Louis Graeser; again in September, 1892, under the direction of Carl Ziegler, with eight assistants, three of whom are engaged in the high schools. Messrs. Georgi, Herholz, and Bettmann were active promotors. Cleveland, 1870—1872, under the direction of Louis Best; again introduced in 1887, Karl Zapp acting for several years as director. Messrs. Schellen-trager, Goodhart, Mahler, and Dr. Smith where active in securing its introduction. Canton, 1890, where W. E. Bartsch is the present director, and Gustav Gesswein was instrumental in introducing the work. Sandusky, 1890. Hans Ballin, last with the Southern Illinois State Normal University, and ex-editor of “Mind and Body,” was the first director, and Hon. John Molter pushed the cause in the Board of Education. Dayton, 1892, with Robert Nohr as first director. Columbus, April, 1892. Anton Leibold was appointed first director, and Henry Olnhausen, Jr., a Turner and a member of the Board of Education, was the chief promoter. Tiffin, 1893, John E. Schmidlin being director to-day", and also in charge of similar work at Heidelberg University. We find the German system introduced also into the schools of Van Wert, Marysville, Delaware, Gallipoli's, Kenton, Newark, Barnes-ville, Flushing, Urbana, Edison, Mansfield, and other places.
+
+THE PLACE OF PHYSICAL TRAINING IN EDUCATION.
+
+Abstract from a Paper read before the Ohio Physical Education Association, by F. E. LEONARD, M. D., Oberlin.
+
+SUMMARY.—The writer, in order to show that the incorporation of physical training as a part of education is no new American “fad,” reviewed its history in Greece, Rome, the Middle Ages, and Modern Europe, describing the place it holds to-day in the school systems of Germany, Sweden, Denmark, and other European countries, and mentioning facts that point to the permanence of that position. He classified the aims which educators have sought to accomplish by this means as either pecuniary, hygienic, disciplinary, educational or recreative, explaining and illustrating each one to show its relative importance. It is on account of its hygienic, disciplinary, and above all for its educational effects, that physical training is fairly entitled to a position in the school curriculum. Except in the form of games and free play, it is not to take the place of recess. Among the conditions to be fulfilled, if the position of physical training is to be secured and the various aims satisfactorily accomplished, he mentioned: trained teach-
+
+
+
+Digitized by LaOOQle
+-160—
+
+ers, methods based on sound physiological, psychological and pedagogical principles, adaptation of methods to local conditions, organization of workers, more intelligent popular interest in the work, and a more adequate conception of its importance on the part of general educators.
+
+THE ASSAULT.
+
+THEORY OF FENCING IN FORM OF A CATECHISM.
+
+By GEO. HEINTZ, Sr. .
+
+Question: 1. To what principal points should the instructor draw the attention of the pupil at the beginning of instruction ?
+
+Answer: To a correct attitude of the body in the position of defence.—
+
+Question: 2. Why so?
+
+Answer: Because the position of defence is the foundation in fencing from which all attacks occur and in which all defences are made; whenever we advance or retreat it is from this position and after each attack we have to return to this position.
+
+A correct position is absolutely essential.
+
+Questions: 3. How does the fencer develop from fundamental to position of defence?
+
+Answer: He turns on the left heel an eighth turn to the left, (half face left) placing the right heel in front of the left so that both feet form a right angle between them.
+
+The left shoulder is well drawn back; the left arm hangs naturally down behind the body, palm of the hand to the left; the right arm is extended obliquely downward; arm and foil are in one straight line; the right hand holds the handle of weapon, the thumb is directed upward and the point of the foil is about five inches from the ground and in a straight line with the right toe.
+
+From this position the foil is raised over the right shoulder, swiftly swung in front of body to the left and held horizontally under the back of the left hand, (both arms straight); thence raised without pause into position of engagement: right hand as high as the breast; elbow about 5 to 8 inches from the hip and in line of it; point of foil as high as the chin; at the same time the left arm is elevated to a half circle behind head and left shoulder. Now both legs are bent, knees well outward and finally the right foot is placed smartly at a distance of about twice its length in straight line with the left heel to the front. The position of trunk and head is unchanged.
+
+Question: 4. How does one test a good equilibrium of body in position of defence?
+
+Answer: It is tested by a double “appcl.’;
+
+Question: 5. How is a double “appeV’ executed?
+
+Answer: The foot in front is somewhat elevated and taps twice the ground in quick succession on the same place.
+
+“X
+
+Digitized by U.ooQle
+-161-
+
+Question: 6. How does one orm the position ot defence close to the front or rear?
+
+Answer: To close to the front is executed by extending the right arm, while the left arm drops to the left side and at the same time by bringing the left heel towards the right and extending both legs with body erect.
+
+To close to the rear is executed in the same manner, with the exception that the right foot closes to the left heel.
+
+(To be contunied.)
+
+TO CLASS LEADERS AND ACTIVE MEMBERS OF SOC’S.
+
+Under this column we would like to publish your opinion upon practical subjects.
+
+We will gladly revise articles and withhold names if so desired.
+
+Come forward with your opinions and experience, all of you.
+
+—Editor “Mind and Body.’’—My opinion is that the “Steel Horizontal Bar” is by all means the better, especially for our system of gymnastics (German system).
+
+1.	There is no danger of breaking.
+
+2.	It not being so thick a better hold can be had.
+
+3.	It has not so much “spring,” the gymnast therefore has more confidence and feels safer.
+
+But the “wooden bar” is undoubtedly the better for “circus work.”
+
+Wm. Mauthe, Danville, 111.
+
+—Editor “Mind and Body.” Dear Sir:—Allow me, as an active member, to thank you for the interest you are showing for questions that occupy us younger members. I am a firm believer in a steel bar for work on the horizontal bar. A wooden bar mav be all right for beginners and children, but when an active member has been exercising for years and has learned to do all the preparatory work easily and gracefully and has therefore advanced to the more difficult exercises—he finds the wooden bar too thick and clumsy. Here is where the the thinner steel bar comes in for us, and I believe that all actives who exercise in the 3rd grade are of the same opinion.	An	Active.
+
+—Editor “Mind and Body.” Dear Sir:—I am glad that “Chicago” has taken the stand he did against the so-called “fencing sections” in our societies. In the greatest number of cases they work directly in opposition to the interests of the regular gymnasium work. I am a firm believer in the regular work and never thought much of these “side shows,” as these are usually gotten up in the interest of specialists who care very little for the regulars. No special branch offers that all around development that the programs of our regular class nights do.
+
+C. H. Tv.
+
+—Editor “Mind and Body.”—In last night’s (Sept. 26.) smoker of the Actives of the South St. Louis Turn Verein the horizontal bar and fencing section questions were debated.
+
+The former caused quite an exitement, for the better gymnasts differed from the opinions of the beginners (we use both wood and steel). Some of the arguments were very good but to long too relate.
+
+The end was: it is a matter of habit aud taste.
+
+It was a good thing, though, that “Chicago” was not present during debate on question No. 2, for then the Fencers spoke and they did not differ.
+
+They wanted to know how many societies without sections had ever done any remarkable work at tournaments (Turnfeste)—and of those who really did the work, how many belonged to the “Old Gents” classes and how many to the actives ?
+
+Quintessence: The only way to improve and conduct fencing is in sections of men who exercise on separate evenings and who are governed by strict rules.
+
+One who cares for fencing will gladly sacrifice one more evening.
+
+Louis Hock, Chairman.
+
+Digitized by kjOOQle
+—162“
+
+We are ready to submit new questions to our active friends and their teachers, but wish that first the one, concerning “bathing,” perhaps the most important of the last three, be discussed also.—Ed.
+
+CORRESPONDENCE.
+
+Miss A. Ph., Chicago.—Thanks for your kind offer.
+
+F.	W. F.f St. Louis.—Continuation received. Have ordered No. 31 to your address.
+
+Dr. H. A.—We shall print those articles in the form of abstracts. We are much interested in your announced work on games.
+
+H.	W.—Your communication is too personal.
+
+Messrs. P. Rauschenhach and J. B. Whittington.—We are glad to notice that you take such interest in anthropometry.
+
+Dr. T. S.—Whether your lungs are in the act of inspiration or expiration when you bend trunk forward—just getting ready to lift a heavy weight from the floor—does not seem to be so very hard to decide. In our mind you as well as Z., both are wrong. The trunk is preparing itself for the heavy work by fixing all the muscles, therefore respiration is suspended.
+
+A. Leiboldy Columbus.—We gladly comply with your request stating that your article in our last issue was only an abstract from your paper read at the 0. P. E. A. The other correction is unnecessary. In regard to your work in the Teachers’ Institutes we shall bring a short notice in our next issue.
+
+Cleveland, 0., September 22, 1896. Dr. Arnold, and Editor of “Mind and Body”!
+
+Dear Sirs :—You certainly are mistaken in “Mind and Body” when you say that I gave favorable mention to all the other systems of physical training except the German. I spoke on the broad basis of physical education without wishing to touch the thought of system. That I leave to the A. A. A. P. E. We, as teachers in the great public and higher schools, are seeking the best in all. You certainly don’t believe me unappreciative of the merits of the German system. It is a great educational scheme in itself.
+
+The turners were late in requesting a place on the program last year. This year, if it is desirable, I will gladly give a half hour or so to a class at the opening of one of the sessions. As you know, our time is very much limited, with scarcely more than time for the few papers. When the time and place of our meeting are fixed, a class can be arranged for.	Yours sincerely,
+
+R. Anna Morris.
+
+New Haven, Conn., October 5, 1896.
+
+Editor “Mind and Body”!
+
+I have your letter together with the one addressed by Miss R. Anna Morris jointly to the editor of “Mind and Body” and to me.
+
+There is no room for a controversy in this matter, as the facts in the case will be proved by the printed transactions to be as by me represented. In my report of the meeting of the N. E. A., published in the “Americanische Turn* zeitung,” I simply state that in the address of the president of the physical training department mention was made of the progress of physical training in general, that in this connection the president made mention of nearly all organizations working in the same line, except the Turners, that the different normal schools of gymnastics came in for a kind recognition, except the oldest one, i. e., the one established b}r the Turnerbund at Milwaukee. I also expressed it as my belief that this omission was intentional.—There was no discussion of systems or methods, nor even a statement of merits of different schools, but simply a statement in regard to progress made in this work by organizations in no wise connected with the public schools. In regard to merits of systems aud methods every one has a right to a personal opinion, no such privilege can be granted when facts are cited. Especially the president of an association speaking on a broad basis of all the factors contributing toward the progress of a certain movement can not be excused for forgetting the as yet most potent factor. The only causes for such omission I can think of are either intention or ignorance. I have made my choice and leave it to your readers and Miss Morris to do likewise.	E.	H.	Arnold.
+
+
+
+Digitized by tjOOQle
+-163-
+
+NOTES AND REMARKS.
+
+—Cincinnati is to have a branch organization of the A. A. A. P. E.—There is none in Wisconsin so far. All the teachers of physical training in this state and those persons interested in it will shortly receive an invitation for a preliminary meeting at Milwaukee for the purpose of organizing such a branch institution.
+
+—The third director of physical training for the public schools in New York City has not been appointed as yet. Dr. K. Zapp of Cleveland and Mr. H. Seibert of New York, and several other gentlemen are said to be candidates from among the “German” element.
+
+—Physical training seems to be a well-appreciated part of education in Cincinnati- The children exercise now 15 instead of the former 10 minutes daily. The Normal-School pupils get bi-weekly gymnasium work in the Hughs High-School gymnasium. Until recently they had calisthenics in their school-rooms only once a week.—At the High-School measurements will be taken of all the pupils.
+
+—Mr. Otto Wendelburg, Denver, Colo., is instructor of physical training at the West Side High School in Denver.
+
+—Dr. Arnold informs us of an error in our report on the N. E. A. Miss Morris did not speak of the different systems, but of the organizations. We are glad to note from Miss Morris’ letter that she had not intended to be unjust to us, and hope that this controversy is herewith ended.
+
+LADIES’ COLUMN.
+
+IS PHYSICAL TRAINING A FAD?
+
+By BLANCHE PHILLIPS.
+
+■ftLonte of our prominent educators have been accused, by less radical leaders in the cause, of instigating fads. Popularity should not at once condemn a movement which may contain a grain of good. A fad must possess some factor of merit as an explanation of its hold.
+
+We are now in the midst of a whirling bicycle craze. What shall we expect as a residue after the ephemeral has blown away? If it be a larger waist in woman, future generations will reap the benefit of a germ unconsciously sown. So it is that some growth comes from each drop in the bucket. The drop may be the realization of a mistake. History shows us that the worth of exercise has been acknowledged since man’s intelligence developed. So soon as tilling the soil was left off for more confining labor did man realize his need of fresh air and and increased circulation. We have daily evidence of why he realized it. Customs of bodily training have not been short-lived. Ancient Greece, in whose intellectual attainments are reflected robust bodies, has been an example to all nations whose degree of intelligence warranted an appreciation of exercise. More than ever to-day does man realize, science having affirmed, the absolute dependence of mental and moral upon the physical. What is physical training, and do we need it in America? It has in the past been an aid to health by means of gymnastics, athletics, calisthenics, etc. It is to-day savoring of a mastering of body by mind, drifting toward a practical utility of motion, by which the mental, moral, and physical meet in combination. Manual training bids us leave off exercise that has no other motive than to. get strong. The new theory say to us, Does the child get more mentally, morally, and physically, when he is making a useful article than from a flourishing of dumb-bells ? These ideas speak to us of a school where man shall be equally capacitated in art, science, and letters. If we follow it further, we might imagine that time which Emerson hints at when man shall have overcome nature. Child Study is heralding a better understanding of these questions, for none are solved yet. It seems, however, that if we would build from the ground up, a correction of social evils will only result from the study of the child, his growth, and needs. We have outlived the old heads who predicted
+
+/
+
+Digitized by Google
+-164-
+
+for our republic a life of less than one hundred years. As yet no appalling signs of dissolution appear on our horizon. If our social questions seem larger than those of other countries, it is partly because they are ours. The nervous tendencies of Americans have great value; for with such are associated delicate and exact ability. But to have these tendencies balanced and sustained, robust bodies cannot be denied to be essential. Just how this had best be obtained is agreat question—one which no teacher of physical training or physician in America would profess to answer. It is, however, almost universally believed that the most effective and needful place for physical education, whatever kind it may be, is in the public schools. “As the twig’s bent the tree’s inclined.’’ We can hope for nothing better as a result from the fad than a continuance of it, and should feel repaid if the next generation find in our error something better for posterity.
+
+gpb* comparison of ancient Greek ideas regarding physical training and bodily hygiene, taken from Galen’s writings of the second century, with modern methods and aims in educational work, is timely and suggestive. A well developed body and a correct daily regimen are nature’s preventives of disease, and rational medicine is based on a recognition of the claims of a regulated diet, exercise, rest, etc., as paramount in effecting any cure, so-called. Recovery is a better word because it indicates that nature has regained that “equilibrium” of vital function which constitutes health.
+
+There can hardly be a higher aim than that of the modern physical director. He is defined as “a medical specialist whose sphere is educational and who is pre-eminently a health specialist.”—This latter is by no means a distinction without a difference.—“Prevention is his motto; bodily perfection his aim; the problems of growth and nutrition his study; health symmetry of mind and body his professional aim.”
+
+No argument is needed in any progressive community to convince well-informed people of the necessity of such skilled hygienic supervision over student life.
+
+A recent physical education bill in the Legislature of Maryland suffered defeat from want of sufficient popular interest, and from the political machinations of those who have no higher concern for public duty than that it shall not conflict with self-advancement. This is most unfortunate in its influence on the efficiency of our public schools. The remedies for such balking of the people’s interests is the arousing of public sentiment and the selection of better men to advance good government. It seems almost incredible that any honest and sensible legislator should hesitate at this day to promote the cause of physical education in the public schools. To let such a bill die upon the files is no part of the honors of an honorable calling.—The Health Magazine.
+
+THE BURNAM GYMNASIUM.
+
+Miss S. M. Burnham, formerly of Detroit, has opened a gymnasium for women and children at the Ethical Building in Milwaukee, Wis.
+
+She announces to form classes in calisthenics, free exercises, light gymnastics, and elementary exercbes in heavy gymnastics, also in swimming and cycling.
+
+At the opening on Monday, October 5,* Miss N. D. Kimberlin, teacher of physical culture in Detroit, Mich , delivered a vej7 able and well appreciated address before a large audience, consisting mostly of ladies, explaining the objects of physical education.
+
+The program also provides for a one years’ Ladies' Normal School. Not being familiar with the details of this project, and not knowing of whom the faculty outside of Miss Burnham is to consist, we shall refer our readers to our next issue.
+
+Miss Burnham \s a pupil of Dr. D. A. Sargent.
+
+Miss Kimberlin’s differed favorably from speeches usually heard on such occa^irns. She simply pointed out facts ar.d gave due credit to jpecal systems and methods.
+
+THIS MEANS YOU:-We will send -MIND AND BODY” free to you for one year on receipt of $4.00 for 4 new subscribers.
+
+A
+
+Digitized by

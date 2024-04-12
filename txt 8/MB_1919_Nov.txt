@@ -1,0 +1,1353 @@
+﻿MIND AND BODY
+
+Vol. 2b	NOVEMBER-. 1919	No.	282
+
+Published By THE MIND AND BODY PUBLISHING COMPANY, New Uin, Mina.
+
+EDITORIAL COMMITTEE WM. E. DAY, Director Physical Education, Public Schools, Salt Lake City, Utah. EMIL RATH, Normal College, Indianapolis, Ind.
+
+D.	M. FERD. KROGH, M. D„ Public Schools, Newark, N. J.
+
+CARL L. SCHRADER, c. o. Harvard University, Cambridge, Mass. WM. A. STECHER, Managing Editor, Germantown, Phil., Pa.
+
+Editorial communications are to be sent to WM. A. STECHER, 45 W. Johnson St., Germantown, Phil., Pa. Subscription payments should be made to Mind and Body, New Ulm, Minnesota.
+
+Entered as eecond-claes matter October 14,1916, at the ■postoffice at New Ulm, Minnesota, under the Act of March 3, 1879.
+
+I—'—----- -------------- ■	'	" ■ '—'—■i'll
+
+ORIGINAL ARTICLES AND REPRINTS
+
+......... ■	i i. i —.................41
+
+GLARE AND THE STUDENTS LIFE.*
+
+By JAMES KERR, M. A., M. D.
+
+Whilst thousands of children are being provided with glasses, who would probably for all practical purposes be better without them, no great attention is paid to the school conditions which are at the root of eye discomfort. Merely to provide concave glasses for the school myope is but locking the stable door. Pen-ny-in-the-slot hygiene wants figures and immediate results, and cannot wait, so that remoter, although more important, conditions not thought of in its philosphy must be otherwise provided for. Glare, possibly the most important of all ocular conditions, is certainly so in relation to the student life. For the mass of students it is more important than abnormal refraction or the provision of spectacles.
+
+Attempting to define glare only renders the difficulty of the task and our ignorance more evident. Since a discussion at the Illuminating Engineering Society some years ago further work
+
+’Reprinted from School Hygiene (English.)
+
+Digitized by Google
+M2
+
+and, more especially in America, the writings of P. W. Cobb and the experiments of M. Luckeish have considerably developed the subject. Much yet remains as regards theoretical explanation of detail, but considerable practical advance has been attained.
+
+The Eye and The Glare.
+
+Glare is essentially subjective, depending on the eye. The retina is its sole test. The function of the retina is mainly to record changes of colour and brightness on its nerve endings. Where any unvarying condition exists there is no visual record. The area in the field of vision corresponding to the blind spot is not noticeable, nor are shadows of blood-vessels which always fall on the same place in the eye. It is only by altering the direction of the light to cast the shadows in an unusual place that they are noticed.
+
+The ocular mechanisms have evolved reactions to obtain clear images on the retina. Refractive conditions, pure and simple, which can indeed be eliminated by wearing glasses, may be left out of account, as the effects are discounted by their continuity and permanence, and the images subconsciously accepted as the best.
+
+Most important, but slow, is adaptation of the retina, which retracts the pigmentary cells in low illumination, increasing exposure of the sensitive structures to the light, making the “dark adapted” eye many hundred times more sensitive than when ‘light adapted.” The eye integrates the average illumination and slowly adapts itself, so that in the extreme case of coming from a dark room to daylight glare is temporarily felt from slowness in adaptation.
+
+The quantity of light passing through the pupils is regulated almost instantaneously by the iris causing contraction of the pupil in bright light; this is a temporary reaction, as with the development of adaptation in the retina the pupil again dilates. In the case of near objects being looked at the pupil also contracts, cutting off the peripheral rays which, by spherical aberration, would have interfered with the clearness of definition of the retinal image.
+
+The accommodation of the lens for the different distances of objects looked at is almost instantaneously effected to get a defined image.
+
+The eye has no mechanism making it achromatic, so that in white light there are several overlapping images—for instance, if the red rays are clearly focussed, the image formed by the yellow is somewhat out of focus, and that formed with blue still more so. Probably adjustments are being made all the time for these various foci in the way the microscopist uses his fine adjustment to visually penetrate a section. If an advertisement, as seen on the Under-
+
+Sound, is noticed, where bright green and red letters occur on a ack ground, the subconscious efforts to adjust causes mistaken judgment of distance, and the red letters, thought to be nearer, appear to stand out in front of the general level. These mechanisms are in constant play. Very accurate detail is not physically wanted, and probably not considered in most visual affairs. The
+
+Digitized by v^ooQle
+248
+
+silhouetted image is filled in mentally from previous experience, although subconsciously a clear image is sought by the ocular mechanisms.
+
+Clear contrasts in the image require rapid removal of metabolic products formed by light from the visually sensitive material; if this is not done, after-images result, persisting and interfering with visual contrasts.
+
+Unfocussed light falling on the retina as a haze may mar the contrasts, or, if its brightness approaches that of the focussed image, obliterate it.
+
+The two last conditions also occur intrinsically. Malnutrition or interference with the retinal circulation causes after-images from the sluggish removal of waste products in the retina. One of the earliest signs of migraine, often preceding the headache, is glare from persistence of after-images. So, too, in toxic, fatigued, or exhausted conditions, muscae volitantes, the shadows of little cells and obscurities in the vitreous, usually unnoticed, set up afterimages which are noticeable and sometimes obtrusive in consciousness. In neurasthenia persistence is also frequent. The appearance, too, of considerable haze, especially in bright daylight, is common in tobacco amblyopia. Albinos in whom the absence of
+
+Sigment permits light to penetrate the sclerotic, suffer unfocussed ght as a haze that even illumines the usually black pupil so that it shines with a delicate pink. If the light transmitted were not in such large quantity, albinos might be expected to get habituated to it.
+
+The upper halves of the retinae, lighted usually by the comparatively dark images of the foreground, seem more sensitive to masses of light flux than the lower, used to the image from the sky. The myriad sparkle of the summer sea, sunshine on the dusty road, or snow upon the mountains, may thus have become intolerable. The wanderer notices no glare till he lies down on his back, but even a grey sky may set up glare when its image falls on other than the usual lower half of the retina.
+
+All people have some irregular reflection and scattering of light in the eye; although so much of this is destroyed by the dark pigments of the iris and of the choroid coat that usually, except in albinos, the amount is small compared with the brightness of the focussed image, so that except in rare conditions, such as early cataract, it is unnoticed.
+
+If a bright image falls on the retina, its effect is extended by what is called induction, affecting the contrast in the neighbouring parts; this has been used to explain loss of acuity in the image and glare from excessive contrasts, but is unnecessary. Extension of the retinal effect, however, explains irradiation, where the image of a bright surface is larger than it should be geometrically, so that the surface, of an incandescent wire, say, appears much larger than it really is. It also helps to make white letters on a black board more visible than equal-sized black letters on a white surface.
+
+So long as extreme effort to get an exact image has not to be made no glare may be evident. Standing one afternoon on a country railway platform there was no sense of excessive light; the face
+
+Digitized by LaOOQle
+244
+
+of the electrically-driven clock was clear and bright in all its details, but on watching the tip of the minute-hand for the half-minute move forward the sense of glare became at once almost intolerable, to vanish as soon as this steady attention to one point ceased.
+
+Visual Acuity and Glare.
+
+Subjective feelings do not admit of quantitative measure, and so diminished acuity of vision has been used as a measure of glare effects. This is probably correct only so long as the same variety of external factor is being dealt with.
+
+To test visual acuity both Cobb and Luckeish used Ives’ crossed gratings, which produce dark and light bands separated at greater distances according to the angle at which the gratings cross. This is more accurate than any optotype methods.
+
+Attention is a variable quantity. Listening to a low-ticking clock its beat is heard to wax and wane. The images on right and left eye by suitable means, such as the stereoscope or Harman’s apparatus, seem to alternate in brightness. Visual acuity measured exactly fluctuates hourly and daily, variations occurring of 10 per cent, beyond instrumental errors. The eye is a very variable meter. Years ago Sewell suggested that extraneous light on the eyeball increased visual acuity but his results were explained by neglect of pupillary contraction. Side light falling on the eye decreases the visual acuity the stronger the light and the less the angle it makes with the line of vision. This is due to internal reflections, as the effect is actually greater when the light falls on the insensitive but white nerve-head (blind spot), and results from the reflected light veiling contrast in images on other parts of the retina. If an artificial haze is made by throwing the same light into the eye, reflected from a sheet of clear glass at 45 degrees with the line of vision, the reduction of acuity from this haze is still greater.
+
+The intrinsic conditions associated with difficulties in the realisation of clear retinal images and with glare are:
+
+1.	Want of adaptation of the eye to relative excess of light.
+
+2.	Strained pupillary reactions to rapidly varying brightness.
+
+3.	Want of accommodation of the lens to all bright spots and defective achromatism in vivid colour contrasts.
+
+4.	Persistence of after-images from physiological or pathological causes affecting relative excess of light.
+
+5.	Haze from unfocussed light.
+
+6.	Strain from unusual distribution of brightness on the retina.
+
+Intrinsic Brightness of Sources of Light.
+
+Taking these intrinsic causes of glare, although not in the order given above, persistent after-images are, perhaps, of greatest importance. The effect produced on the retina by every image should be transient, but in the case of bright images may be, although only functional, yet of some duration. In rare cases there may occur permanent organic changes. The commonest instances are met with in amateur observers, whose eyes have not been property
+
+Digitized by Google
+245
+
+protected when watching sunspots or eclipses, and in whom a permanent blur in the visual field remains (scotoma). Less effective degrees have functional effects lasting for hours or even days. A person walking westward on a sunny afternoon on closing the eyes can often see numerous, round, equal-sized black spots, generally in a row, the after-images of the sun on the retina, although he may not have specially looked at it. These are examples of glare from actual intrinsic brilliancy of the images falling on the retina, even when at its best adaptation for them. In connection with modern lightning problems, where the sources of light are hundreds of times more brilliant than those of the last generation, this cause of glare is important. It is now agreed that no source of light in school or house should be visible which presents a higher intrinsic brilliancy than about three foot candles a square inch. Electric filament lamps whose brilliancy by the square inch may be reckoned by the hundred or even thousand, and the incandescent gas mantle, should never be exposed to the eye, but constantly shaded. Prismatic glass shades and ribbed glass do not always get rid of glare, although they help to diffuse illumination, and for ideal results even they should have opalescent coverings. By this means a large uniformly brilliant surface is possible, and of a degree which does not cause any glare even when directly viewed.
+
+Adaptation of The Eye To Lights.
+
+The head lamps of cars or acetylene flares not only act by producing a transient blinding after-image through excess of light, as by the fact that, in their case, the image is usually suddenly thrown on the dark adapted eye, and therefore produces a relatively enormous effect. The gas flame or electric bulb, which may be intensely glaring at night, shines almost unobserved by the eye adapted for daylight.
+
+The object looked at should be the brightest in illumination; if a brighter object is in the field the eye tends to turn towards it, so that here at once is a cause of discomfort.
+
+The eye appears adapted to the general average lighting, but more especially for the brightness of the image on the macula; that is, the object looked at. To an audience sitting on a sunny day in a large room with shaded windows at one end behind the platform, on a small part of a window being uncovered the glare was unendurable, but as the whole window was opened up, and then the neighbouring couple of windows, although the general lighting became possibly hundreds of times as strong as before it was more uniform—eyes became adapted, and the room seemed lighted without any glare.
+
+Temporary glare may thus occur in an eye adapted'for low illumination, and this will be likely to happen in a poorly lighted room which has streaks or reflections of bright light in it. Badly set prism glass, or plate glass with designs cut in it, if set low in a window, are likely to set up nearly horizontal streaks of light with such a glaring effect.
+
+Digitized by v^ooQle
+246
+
+Sunshine is educationally very objectionable is a class-room. Mere superstition credits it with strange powers over germs which it cannot reach or touch. A western sun low on the horizon shining into a class-room by glare can reduce the average visual acuity. The old-fashioned ribbed glass, formerly popular in ground floor rooms, had similar effects.
+
+It is adaptation which explains the great differences between intensity of artificial and natural lighting required. With fairly uniform distribution of light adaptation does not cause glaring trouble, but with masses of brightness and darkness glare may be felt. A black board set against a white wall may be troublesome. Again, an actual instance occurred in a class-room with good light from 2- to 6-foot candles on the desks on an average day, but the play shed was complained of as too dark for use with lighting of six to twelve candles, the only difference being in the adaptation of the eyes to the brighter light of the playground.
+
+Unfocussed Light As A Source Of Glare.
+
+Unfocussed light as a cause of glare interfering with the focussed image chiefly arises from shiny surfaces reflecting images of sources of light into the eye; the eye is accommodated for the object looked at, and this unfocussed light is from an image far behind the reflecting surface, and even if these unfocussed images are not to be considered as images, they are the cause of side lights entering the eye nearly in the line of vision, and thus setting up haze. The glaring effect which they produce depends on the amount of this light entering the eye compared with the amount from the object forming the image.
+
+In daylight a brightly-lighted window in a dark room may be glaring, and pasting tissue paper over the window, partly by diffusing the light and partly by permitting more dark adaptation of the eye in the room, may actually make the room appear brighter. For the same reason indirect illumination, owing to the higher light adaptation of the eye, is less efficient visually with equal amounts of light than other well-planned systems of director half-direct lighting.
+
+In rooms, especially if not well lighted, the moderately adapted eye may resent shiny surfaces of walls or desk tops, and if there are few bright sources of light high in the room the reflections from shiny objects may exert a kind of distracting effect, especially if attention is beginning to flag.
+
+Shiny Surfaces As Cause Of Glare.
+
+All school-room surfaces, furniture, or walls are therefore recommended to avoid bright varnish or smooth gloss, and to have dull non-reflective finish.
+
+The essential feature, however, of glare in school is that too often the total light tends to minimal rather than excessive amounts, and, that, as m the case of the railway clock, the straining after clear images by ocular fixation intensifies any glare effects. This is more marked in certain cases; for instance, thepresbyope whose glasses are not strong enough and whose accommodative capacity
+
+Digitized by UaOOQle
+247
+
+is unking, constantly complains of glare with artificial light. More important, however, and probably part of a vicious circle, is the effect in the young student who is habitually using the eyes in an intensive way, far beyond what any of the generations before have done. The spasm of overworked ciliary muscles and their nerve centres, and possibly allied conditions of structural irritation with nutritive changes in early myopia, have made the eye sensitive of glare in any effort at exact work, although he no longer meets the jumping gas flame which caused his parents to seek relief with a colza lamp. The eye strain due to glare becomes increasingly obtrusive after the twelfth year. It is reading, writing, and figuring that demand accurate images, although even here the scholar works without the proof correctors eye for detail. In these tasks especially is glare evident; it becomes insistent and is distracting to attention, seriously hindering the efficiency of educational aims.
+
+Whilst daylight troubles from the glare of shiny desks or walls are not likely to be remarkable in the absence of sunshine or bright sky, artificial lights may be very troublesome, and as the shiny reflection glares proportionately to the intrinsic brilliancy of the source of light it is an additional reason for urging as an absolute rule that	no naked filament, mantle or flame should be permitted, nor
+
+any	source of light with greater intrinsic brilliancy than three foot
+
+candles per square inch.
+
+The next noticeable source of glare in teaching is the black board. A black and matt dull surface is worth maintaining by weekly attention. A good position of board avoids reflection of lamps, windows, or bright walls in the faces of the pupils; by suitable tilting these images can be thrown in other directions harmlessly. With artificial lighting the yellow light requires good contrast to be maintained between the colour of the chalks and the board. The written figure should be brightly lighted from above so that any regular reflections fall towards the floor. A high accessory lamp near the board and shaded completely from the pupils aids, illumination and lessens the relative degree of glare. Excessive-contrast, as from a white wall behind, has already been mentioned as a cause of discomfort.
+
+Glare from paper is the commonest source of trouble to the-student, even with moderate lighting. Although understanding of glaring paper helps many school problems it has had little attention beyond the condemnation of glossy surfaces, until well worked out by Luckeish.
+
+The rays of light from any object which fall on a mirror art regularly reflected, that is, they pass off in such a way that a perpendicular to the surface of the mirror where each ray is reflected is in the same plane and makes the same angle with incident and reflected ray. The light falling on other flat surfaces is partly reflected in this way (regular or specular reflection, so that it appears to emerge from a point behind the surface corresponding to the position of the source or object in front. Another part of the light, however, is reflected irregularly and goes off in all directions, so that it appears to come from the surface itself and not from any
+248
+
+image behind; it partly penetrates the surface, and is the light by which the surface is characterised and recognized. This irregular reflection or scattering of light takes place in all directions, but as a rule there is excess nearly in the same plane as the incident light.
+
+For school purposes of reading and writing all the contrast possible between the black of the letters and the white of the paper is required. The surface brightness of the paper should be about a hundred times that of the ink. Only the irregularly reflected light which shows up the colour of the ink and texture of the paper is wanted by the eye. The eye is accommodated to the focus of this paper and ink. The amount of regular reflection, if any, from the surface tends to form an image of the source of light which appears to be behind the surface, and for which the eye is not accommodated, so that diffusion circles of unfocussed light are formed on the retina, blurring and interfering with the image of paper and print, and causing glare. The proportion of this regular reflection must be kept as low as possible. By pressure of the types it is possible for the black printed letters to have a smoother surface than the white, so that beyond a certain angle of incidence of the light illuminating the surface the letters are as bright or brighter than the paper and become invisible.
+
+The ratio between the reflected (glaring) and scattered light gets more the greater the angle of incidence, so that obliquely-placed paper may be very troublesome. The conditions of glare in low degrees are accentuated by ocular sensitiveness due to malnutrition of the nervous elements of the retina, as in early myopia, spasm, migraine, neurasthenia, and chronic fatigue from excessive eye work. Beyond this the position of the eye must fall within the region of regular reflection, for which reason commonly in olden times reading was done standing at a desk, looking down on the book placed at such an angle that any regular reflection remains about a constant brightness, although the glare-light, book, and eye are not approximately in the same plane glare does not predominate, as, for instance, with the light coming over the shoulder. It is, however, not only actual lights en face (as when a student sits at home at a centre table with a light in the middle of the room), but also bright reflected images which also act as equal to sources of light.
+
+As the surface brightness of the print and the paper waries inversely as the distance of the source^ of light, whilst the glaring reflection remains about a constant brightness, although the glaring image decreases in size or area, the brightness of the print increases and the relative contrast with the glare gets less as it is brought nearer the source of light. Where no regular image tends to be formed, as with indirect lighting, for instance, glare is absent. Indirect lighting, however, has many disadvantages for school work, and semi-direct, with large sources of light of a brilliancy of the same order as the neighbouring ceiling, appears the best for school, and has little tendency to formation of after-image.
+
+Having reduced the factors of glare in size and direction of light source, the paper surface itself and the ink are worth much
+
+Digitized by
+care. Paper can be obtained matt and dull enough to avoid glare, and yet smooth enough for any print or illustrations.
+
+Tests and Standards For Glare.
+
+An accurate method of fixing definite measurements of glare easily is required. Ingersoll has devised an instrument which
+
+Klarises the regularly reflected component, and measures its amount the displacement of a Nicol prism. Mr. Trotter has also devised an instrument for this purpose.
+
+As the brightness of the surface varies inversely as the distance from the source of light, whilst glare remains unaltered, this ought to be utilized for a simple means of standardising paper.
+
+The external factors of glare, excess of light, and misdirected light are within control in the class-room, the hygiene of which is now being overlooked and neglected in this country. The ocular factors of nutritional conditions, fatigue, and overwork are beings neglected for provision of glasses, but these factors are of extreme importance for students.
+
+The proof of the benefit of attention to ocular hygiene has been afforded in recent years by the steady and continuous fall in myopic conditions in the higher classes of Swedish schools through increased lighting, reformed time-tables, and the abolition of the German type.
+
+RECONSTRUCTION IN PHYSICAL EDUCATION.
+
+An Address by FLOYD L. BROWN, Lake Forest, 111.
+
+Mr. President and Members of the North Central Academic Association:
+
+I assure you I consider it a privilege to have the pleasure of speaking to you on a subject which has been neglected and which I believe merits the most careful consideration of every member of this Association. Because of the many phases of mv subject I have been forced to condense the material greatly, so if I seem dogmatic in some statements please do not feel that 1 am trying to advance personal opinions as the final word on the subject. I may say, however, that I have endeavored to include nothing which cannot be substantiated.
+
+Reconstruction involves many problems, not the least of which is physical education. The basis of military preparedness is physical preparedness; the basis of prepardness for any business or profession is physical preparedness. The statistics in regard to the physically unfit as brought out by the Army and Navy examinations are appalling; the statistics which were available long before we went to war are even more appalling but we in our complacency have ignored them. Gentlemen, I say to you in all seriousness that I consider the school men (and I include the colleges and universities) as morally criminally negligent because of their failure to recognize the possibilities of and the necessity for the proper physical education in their respective schools. Because of their blindness our effective entrance into the war was retarded, hundreds of young men lost their lives unnecessarily, and millions of dollars were
+
+Digitized by LaOOQle
+260
+
+wasted that could have been so well used otherwise; because of their adherence to old customs, thousands of young men have gone forth into life illy prepared for the tasks which lay before them; their weaknesses have been transmitted to others; many of them have been mediocre men or failures; many who were successful have been taken away in the prime of life; —and why?—because the so-called “school men” could not or would not accept the challenge which has been before them for years,.
+
+You who are responsible for the existence of such conditions need first of all a reconstruction of ideas and ideals. Let me ask, what is the purpose of the institution which you represent? To educate your boyB, of course, but what do you mean by education? If I may answer that in a general way, you are all still grinding the boys through an educational mill (should I say intellectual mill?) using the long established machinery of languages, mathematics, etc. Of course in your high class private schools the boy gets things ot value which are not in books; some of you have slight variations in methods which look good to you in theory and which have an advertising value; but, essentially, your boys all go through the same mill, you apply the same standards to every boy, at the end of a specified time if you do not “flunk” him you “get him through” and you consider that you have rendered a real service to the boy. I wonder!
+
+Dr. Max Exner said in a recent address that the schools should be “not a mere teaching agency but an agency for human betterment.” To me it seems that that education which does not prepare a boy in the best possible way for Ms future life is not worthy of the name. Is there a man here today who can conscientiously say that his school is preparing boys in the best possible way? If the methods of an efficiency expert were applied to your school what would be the result?
+
+Because of its close connection with physical education, let me call your attention to a recent trend in the methods of estimating a man’s qualifications. I refer to the psychiatric examinations conducted by the Army and Navy; to the experiments of Columbia University in the use of psychology tests for entrance examinations; to similar work at the University of Pennsylvania and in the schools of Detroit. This work has been discredited in the past by impractical theorists but present indications are that there will soon be great strides made along this line. Can you afford to r.eglect this movement in so far as it could be applied to preparatory school work? Is the N. C. A. A. strong enough and determined enough to lead the way instead of following?
+
+But what has all this to do with physical education as a reconstruction problem? Just this—physical education, properly administered, offers to you one of the quickest and most feasible remedies for some of the flaws that now exist.
+
+To be well equipped for his life work a man must have reasoning power, judgment, alertness, memory, retentiveness, ability to comprehend a complicated situation quickly, ingenuity, deci-
+
+Digitized by CaOOQle
+261
+
+sion. All of these at*e developed in a decided manner in physical education. A man needs self-control, inhibition, ability for fine coordinations, a quick nervous reaction, a knowledge of self defedse, the power of relaxation, a certain amount of daring, good posture, gratefulness: How many of these qualities are developed in your class rooms? Yet all of them properly come within the field of physical education. You graduate with high honors boys who have acquired little or none of these characteristics. All the study of Greek, Latin, and Mathematics that you could crowd into four years would not place a man very high in the “Human Rating Scale” given by Mr. Bruce Barton in The American Magazine for March. Four years of real physical education would rate a man higher than all the purely academic work. You would hold up your hands in horror over a school that would graduate a boy who was even slightly deficient from a scholastic standpoint (according to your set standards), but you think nothing of graduating a boy who is seriously deficient physically.
+
+Reliable authorities show that there are physical defects in "5 per cent of the school children of today, most of them preventable and remediable—heart and lung defects, disorders of vision and hearing, malnutrition, diseased adenoids and tonsils, flat feet, weak and imperfect spines, imperfect teeth. How many of you care enough to find out? How many of you would be willing to back a movement to make it the business of every school to find out and to remedy the defects they are sure to find?
+
+The big trouble has been a popular misconception in regard to the nature of physical education. The work has been hampered by cranks, faddists, ex-pugilists, etc. Many people were misled by the advertisements of big muscles; many were disgusted with the professional athlete type of a few years ago that reflected anything but credit upon the profession. Naturally the people with judgment were not enthusiastic over the results obtained physically, and they were justified in regarding unfavorably the association of boys with such men.
+
+Boards of Education generally followed the same plan—for the teacher of mathematics, for example, they would engage a man who had participated in athletics while in college and he would be placed in charge of the athletics of the school. The result was often fair athletic teams, but more often there was no attention to the really important phases of the work. Too often the attitude of such coaches was “anything to win”—the result was dirty or tricky playing, foul language, no thought of sportsmanship,—and physical education got the blame. Or perhaps some gym work was required. Any old left-over cellar or attic corner was used for the gymnasium regardless of hygienic or sanitary condition. Mr. Athletic Coach purchased a book of exercises from some sporting goods concern and proceeded to put the boys through memorized drills. He might be giving the boys exercises which developed nothing but anterior muscles which, if continued, would cause
+262
+
+round-shoulders, decreased chest capacity, and lessened vitality. The mere fact that a boy had a hernia, varicose veins, or defective heart valves meant nothing to him—he was blissfully ignorant of the existence of such things. The Board of Education thought they had a "live wire” for a Physical Director. He was just about as dangerous as a real live wire, and the miracle was that there were not more casualties.
+
+The sad part of it is that today there are Boards of Education—school men themselves, if you please—who have no conception of the meaning of physical education. Just two years ago I was asked by the president of the Board of Education in one of the most progressive cities of Illinois, a city that prides itself on its civic improvements, to recommend a physical director to take charge of their work and a $100,000 gymnasium then being erected. They thought they ought to get a man for about $1200.00 with $1400.00 as a very high maximum. What do you suppose they expected in return? The man was to coach football, basketball, and track; conduct all gym classes in the high school of nearly 1000 students; supervise swimming, supervise and organize work for the grade schools, do all the clerical work connected with the department, and a few other things. One man actually suggested that he might teach some class in addition. I asked how many assistants he would have and they thought I was joking. Yet they said they would take nobody but a graduate of the best technical school for physical education.
+
+Of course that was due to their failure to appreciate what a physical director should be and the work he should do. May I here outline briefly my conception of the modern physical director. He should be a college graduate and a graduate of a first class technical school for physical education; he must know among other things, anatomy, physiology, histology, biology, botany, chemistry, physics, kinesiology, physical diagnosis, prescription of exercise, massage and First Aid, personal and public hygiene, anthropometry; he must be familiar with the various competitive sports; he must know swimming; he must know how to discard and guard against dangerous exercises on apparatus; he must be able to plan and to use judiciously the calisthenic exercises which have corrective, educational, hygienic, and recreational values; he must be an executive and a diplomat; he must be a man who can command the respect of boys in other things such as speech, manners, and general culture; and with it all he must be a Christian gentleman who has the ability and the inclination to use his position to influence boys in the higher things of life. There is not a man on your faculty, not even excepting the Headmaster or Superintendent, who comes into such intimate and personal contact with the boys as a whole as does your physical director.
+
+It takes years to make a man of this type. He is a trained man in a class with a doctor, a lawyer, or an engineer, and as such he is entitled to a renumeration in keeping with his technical training. Not many men are willing to sacrifice the years necessary
+
+Digitized by CjOOQle
+253
+
+for such training when they know the returns are so small. The men who have made the sacrifice have done so because they believe in their work and in themselves, because they know that every worthy cause must have its pioneers, and because they hope to see physical education recognized eventually for its true worth.
+
+If you are fortunate enough to have secured such a man, do you give him the opportunity to exercise his talents? Are you paying a man a good salary because he is a skilled man and then asking him to waste a good part of his time by doing routine work not connected with his department? It requires many hours of hard work to administer a department of physical education properly—far more than any school will ever pay for—and let me say that you will surely discourage a man when you ask him to take his time away from work that he knows is vital to spend it on extraneous duties.
+
+Within a short distance of this city there is a first class high school with a fine modern gymnasium. They are almost conceited about the type of work they do as a school, they pride themselves on their efficiency, yet what do they expect of their physical director? Several days of the week he has seven gym classes with as high as 200 boys in a class. He must coach football, basketball, baseball, track, direct the intermural sports, and handle the military work. This would be laughable if it were not so pitiable. There isn’t a school superintendent in the U. S. who would ask a teacher of any other subject to do anything like that. I want to assure you that if a gym class is what it should be the director must prepare the day’s lesson as carefully as any lesson in Cicero or Geometry, and the class itself will require a greater expenditure of energy, both mental and physical, than any other class.
+
+Before closing, may I present for your consideration a definite constructive program for the work in your schools:
+
+1.	At the head of the Department of Physical Education a technically trained Physical Director.
+
+2.	One or more assistants so that the director will not be tied down with routine work and thus be unable to give to the school the full advantage of his special training.
+
+3.	A physical, medical, and dental examination of every boy at least once a year. I would recommend standard forms for the purpose of research and comparison.
+
+4.	One or more resident nurses.
+
+5.	A health record which should accompany a boy throughout his school life, even into college.
+
+6.	Special corrective work for all boys found deficient in any respect.
+
+7.	Disorders of growth and nutrition remedied.
+
+8.	Competitive mass athletics for every boy physically fit.
+
+9.	At least 5 hours per week of exercise for every boy.
+
+10. A course of instruction, required for graduation, which would include all matters pertaining to health with emphasis on
+
+Digitized by C.ooQle
+254
+
+physical and mental habits, on personal hygiene (which would properly include sex hygiene), on public health and sanitation, on methods to avoid communicable diseases, on the responsibilities of parenthood, and on all that relates to nutrition and growth, including foods and food values.
+
+11.	A definite standard for physical attainment as requisite for graduaiion, i. e., the work in Physical Education put on exactly the same basis as the work in any other subject.
+
+12.	No school to be recognized by colleges and universities as an accredited school unless these requirements are met.
+
+In regard to the last point, I am surprised that the colleges and universities have not taken action before this. They are lowering their own efficiency when they fail to make such a requirement. They, as well as you, are sending out every year men who are physically unfit to be handicapped all their lives because those in authority cannot or will not face the issue squarely and require the proper kind and amount of physical education. Boards of Education formerly hired many cheap teachers until the colleges set a standard and refused to recognize schools that did not have teachers, with a definite preparation. If the colleges are justified in requiring accredited schools to have teachers with college or normal school training, they should be consistent and require the schools to have physical directors with special training and qualifications; if they are justified in requiring a definite standard for attainment in English and Mathematics, they should be consistent and require a definite standard for attainment physically.
+
+Doubtless there are school men who will say that such a program may be good in theory but not in practice. Let me assert that there is not a single step therein which cannot be realized, and which will not be realized sooner or later. It may involve a very slight reconstruction of your curriculum and a veiy great reconstruction in your ideas of the importance and possibilities of physical education, but it can be done. The sole question in my mind is whether you gentlemen will recognize this fact and decide to be the leaders in one of the biggest phases of reconstruction or whether you will stick to your long established conservatism and be content to “fall into line” only when you are compelled to by the growing of public opinion.
+
+If I interpret the matter correctly, one of the chief reasons for the existence of such schools as are represented here today is the more efficient service they are able to render; therefore in proportion to
+
+imur neglect of those things which make for efficient service do you essen the reasons for your existence.
+
+Looking at it from a purely selfish standpoint, it is only a question of time until Congress will pass the proposed “Bill for the Promotion of Physical Education” or something similar to it. Its passage will mean millions of dollars for the public schools for the purpose of physical education. You will be required by the state to have an efficient department of physical education but no appropriation will come to you as it does to the public schools. You should be prepared to meet this condition before it arises.
+
+Digitized by Google
+265
+
+Therefore for the sake of your duty in helping to develop a virile race, for the sake of greater efficiency in scholastic work, and for the sake of expediency, 1 would recommend that the North Central Academic Association appoint a committee to draw up a uniform plan which would be applicable to all members of this Association, the adoption of which would immeasurably increase the quality of your “product" and would entitle the Association to serious consideration in any discussion of proposed legislation.
+
+WHAT WAS DONE IN A CASE LIKE THIS.
+
+C. L. SCHRADER, Cambridge, Maas.
+
+During the war period or rather during that period when we were involved, our government ordered and directed many investigations in order to meet the endless chain of problems which were arising daily. Out of many of these investigations definite courses of study resulted, which added more toward winning the war than the world may ever know. The industrial army, which must indeed be credited with a large portion of effort and service toward terminating the war, created also its due share of problems, the solving of which became a pressing duty of the government. The question of caring for the employed became indeed a very vital and acute one. Large plants doubled and tripled their output and, accordingly, their personnel. New industries were organized in centers that had nothing to offer in the way of accommodations for the new population about to enter the community. The difficulties of housing, while tremendous in scope, were comparatively easily solved, as we had at our command unbounded resources in skill as well as in funds and materials. Entirely new towns seemed to grow out of the ground over night.
+
+The other big problem which forced itself to the foreground, and upon which the attention had to be focussed was that of plan-
+
+afor the recreation and general social adjustment of these sud-y thrown together people. For the purpose of studying these conditions and the betterments thereof the government caused the establishing in several colleges of courses under the name of “Employment Management.” The government financed this undertaking, and consequently reserved the right to determine who should attend these courses, and also to dictate, to some extent at least, the content of the courses. The various important war industries were invited to detail their most efficient representatives then already engaged with the employment problem, to attend these courses, winch were carried on for the duration of from five to six weeks on the intensive plan, covering ten and twelve hours a day. Harvard University was selected as one of these centers, which was presided over by Professor Kelly. There were in all five units averaging from thirty to forty in number, that came to Harvard during the last year and a half of the war.
+
+A significant stipulation in the requirements of the courses laid down by the government was, that at least three horns per week
+
+Digitized by LjOOQle
+266
+
+were to be devoted to Physical Education, a recognition which augurs well for our cause. It became my pleasant task to look after this end of the program at Harvard, and the experience was a most gratifying one to me and apparently to all concerned.
+
+The men who comprised these different units were of the usual mixture of ages and inclinations. The ages varied from thirty to sixty years. I was prepared to meet the usual apathy and suspicion that goes with a required procedure of service. At our first meeting I separated at once the has-been college athlete, who in the pursuit of his business career had dispensed with his former athletic activities and had sought no substitute, and the other class which had never done anything particular to keep fit. The first mentioned group portrayed the feeling of suspicion that the work required of them would be dull, tame and monotonous. These I assured that as soon as they had “come back” their special interests would be gratified so far as space and numbers permitted. The other group expressed the fear that they might not be able to go through with it. These I assured that they would not only go through with it, but would go over the top. In order to give these men as much evidence as possible relative to the improvement they might show after the expiration of even so brief a period as five weeks (aside from merely feeling differently) they were given a general physical examination and a strength test, both at the beginning and again at the end of the term period. The strength test was modified from the regular required strength test then in vogue at Harvard for all competing athletes. The events were strength of left and right forearm, back and leg lift, and the number of push ups and pull ups multiplied by one tenth of the body weight. This and the lung capacity constituted the test.
+
+Harvard at that time had disposed of its gymnasium to the Radio School and only a substitute building was available, which offered locker and bathing facilities and floor space, but no equipment aside from hand apparatus and play paraphernalia. The class program consisted in the main of floor work without and with hand apparatus, some dancing steps and games. Exercises while sitting and lying on the floor played a large part in the proportion of time set apart for floor work. The games consisted of the general mass type played both with basket balls and medicine balls. Volleyball and other improvised games to suit place and men were played. All participants paid the penalty for their physical neglect by getting unusually sore, although the beginning was made as light as possible.
+
+The attendance was very good, interfered with only when the men were obliged to visit manufacturing plants in nearby towns. The attitude of all men changed very soon after the start was made, and they became without exception ardent enthusiasts, coming early and staying late. It was most gratifying to see these men “come back.” Once over their first soreness no dose wras too much for them, and the last two weei-ts were made rather stiff. From the beginning the attention of the men was called to the significance of
+
+Digitized by
+267
+
+this particular kind of work for the employed in relation to their recreation. This coupled with the men’s own experience made enthusiastic advocates of recreation of them. It was a delight to see the older men, who at first entered into the game timidly, soon catch 'the spirit and lose themselves in play. They shared in the joy of winning as well as in the remorse of defeat. Their abandon was. more like that of freshmen than of business men of the ages above cited. It was the hour they looked forward to, once the first kinks-of awkwardness had been eradicated, and many of them vowed that they would never get into the condition again in which they first appeared.
+
+It was but natural to expect some definite improvement from even so brief a course, but carried on regularly. But the results registered in the strength tests (see table) at the end of the five weeks were so unexpectedly good, that they are well worth bringing to the attention of all physical training teachers, especially as they were achieved with a type of work which at present is so much maligned and underestimated by people who fail to understand that work of this type is fundamental, and that it prepares for those other highly important activities which of necessity demand strength, endurance and agility in order to give the degree of pleasure sought.
+
+In the industrial world, even more than in schools and colleges one is confronted with the problem of the masses. It would be blindness to ignore a type of work, even though necessity prompted it to be indoors, that not only squarely meets the mass issue, but that also in a large measure means a self awakening physically for the individual, which in turn leads him to those recreative activities that the community may afford, and that he then may pursue with at least some degree of satisfaction. Take the business men’s classes out of the Y. M. C. A. today and one might almost be prompted to say that there would be no Y. M. C. A, left. It is a large and splendid piece of work the Y. M. C. A. is doing, and the demand for it is constantly growing. In the industrial world this work is going to be a tremendous factor and the men who attended these classes I am speaking of may be counted on as boosters. Their letters at least are indicative of that. Professor Kelly who read a paper at the Boston Convention on “Physical Education in Industry” made use of some of the data which is here given. The following figures show the varying increases in the several items considered in the strength test.
+
+Strength of chest from			 2 - 15 Points
+Capacity lungs from			 5 -35
+Strength of back from			 2 - 70
+Strength of legs from			10 -180
+Strength of right forearm			 3 - 15
+Strength of left forearm			 2 - 15
+Push up..		 1 - 5
+Pull Up			 1 - 5
+Total upperarms			 2 - 43.6
+Total strength			71.3-360.7
+
+Digitized by t^ooQle
+268
+
+“COME, LET US PLAY WITH OUR CHILDREN”—
+
+MAUD I. DOEBLIN, Philadelphia, Pa.
+
+I wonder why the old German schoolmaster was so much wiser than we of today. Through his great love of children, he knew instinctively what we are just learning through years of training, that is, the educational value of play. We, as teachers, are be-gining to understand that play is the natural spontaneous expression of normal childhood, and when directed into the right channels, can be made the basis, not only of his physical education, but of his mental and moral education as well.
+
+Legitimate play, by successfully using a child's surplus activity, will make more manly men than any number of hours devoted to spelling or arithmetic. People are beginning to awake to this fact, and in most cities a Department of Physical Education is established in connection with the public schools. There is no question but that this is a step—and a long step—in the right direction, but to be truly successful we must go much further. Our children need more than two or three periods in a week devoted to the formal physical exercises; they need daily play under the leadership of efficient and sympathetic teachers. And I think if we realized how much closer we get to our children by playing with them, instead of by constantly trying to teach them, we would be willing to give them more of our so-called leisure time.
+
+Even those of us who truly wish to direct and develop the children’s play time, give too little attention to it in connection with the actual school life. We leave it to the playgrounds and the recreation centres. From the first grade, a definite program should be arranged of supervised play. Paradoxical as it may sound, children do not know how to play, even though it is the natural expression of childhood. They will run, or dig in the ground, or fight, but of play per se they know nothing. And strangely enough, most children are shy about games, because it means playing in a group, and this, in turn, means the overcoming of a natural timidity that seems inherent in the majority of children.
+
+In teaching games, the teacher should, from the beginning, inculate the spirit of give and take, for when this once becomes part of a child’s code, not only will he begin to see moral relations, but the teacher’s burden, also, will be appreciably lightened. While I do not believe in laying down formal rules for the games taught the younger children, I do believe that from the first they should be made to understand that there can be no real game which is not based upon the spirit of fair play, and that the winning of the game is secondary to this fundamental principle.
+
+The ideal place for play is outdoors, but in cities this is not always possible, nor is it always advisable, neighborhood conditions being a large factor here. Where playgrounds are adjacent to school buildings, teachers may take their classes there during the recess periods, but in most cases the playground is several blocks away from the school, and the walk there ana back would consume the whole
+
+Digitized by tjOOQle
+269
+
+of recess. Assuming this to be true in the large majority of cases, schools should be surrounded with sufficiently large yards to admit of several classes being able to have games there at the same time. In addition to this, there should be some indoor space in every school set aside for play, so that inclement weather need not interfere with this activity. Not only high schools, but elementary schools, should have properly equipped gymnasiums. These should be situated, if possible, in the basement of the building, so that classroom work will not be disturbed. A number of the newer schools in New York are being built on this plan, and for several years past, Peoria, 111., Kenilworth, 111., Reno, Nev., and Lexington, Ky., have built their schools with gymnasiums in separate wings.
+
+In Ohio, much attention has been given to the matter of supervised play. The Eagle school in Cleveland, has a gymnasium, two inside playrooms—one for boys and one for girls—and two roof playrooms. The Columbia school, also in Cleveland, has a gymnasium and one playroom. In Cincinnati, the Guilford school has a gymnasium and two roof playrooms; the Westwood school has a gymnasium and two inside playrooms. This shows a real recognition of the necessity of play, and also of its value as a factor in education. In these schools, the play is supervised and led by the teacher.
+
+The Russell Sage Foundation has made an exhaustive inquiry into the subject of children’s play, and the amount of attention given it in the schools. As a result, data has been collected from all over the United States, and we read of various expedients resorted to by schools where separate playrooms are not feasible, and where gymnasiums cannot be obtained. Many such schools speak of the success with which they have used ordinary classrooms equipped with movable chairs. These rooms can be cleared rapidly either by removing the chairs from the room, or by placing them against the walls, and no extra janitor service is necessary as the larger children in the class can attend to the removing and replacing of the chairs. The objection has been made that such a use of classrooms will distract the attention of children in other classes. My answer to that would be that if all the rooms in a building were so equipped and used, the element of strangeness would soon wear off, and the children would pay no attention to the play in other rooms. Of course, games necessitating running and jumping would, by their noise, interfere with surrounding classes at work, but the playing of noisy games should take place during the recess period of the entire school or floor, in buildings without playrooms. In that way there need be no restraint on the play and no interference with actual classroom work.
+
+Certain New York schools are built with courts, and these are utilized as playrooms. So far as I have learned, no other city has a similar provision for play, although New York shares with a number of other cities, the scheme of using a covered roof as a playroom. And not only in the type of school building, but in the attention given to play and to physical training in general. New York seems to be ahead of most of the cities with which I have
+
+Digitized by kjOOQle
+260
+
+been in communication. The goal at which the New York schools aim in their play activity, is to establish in the children a lifelong habit of hygienic living. A year or two ago, a New York newspaper printed the following statement which purported to be taken verbatim from an interview with a prominent saloon keeper: “The thing that is doing the most damage to the liquor trade is school boy athletics. He’s taught that he can’t be an athlete and drink or smoke, and he doesn’t do it. And he doesn’t do it when he grows up, either, because he wants to keep in good condition.’’ If the report of this interview is true, I do not know of a teacher who would grudge any amount of time spent in playing with the children to obtain such a result.
+
+There is another side, too, to the play question. A child has a right to some fun that he doesn’t have to pay for in any way, and which he knows will not be accompanied, or followed, by a scolding, and every classroom teacher should realize this, and be willing to help him play. Youth wants to play; it is the natural, sometimes the only, form of expression; and if we sometimes think that children are too exuberant in their games, we should remember t.hat, after all, they	are children and youth is very brief.	Is anything more
+
+pathetic than the experience of the pioneer street-play leaders in New York, who were again and again met by the appeal, “Teacher, make me play.” Every teacher in every school should be a play leader. Why should she spend all her recess periods in marking papers? Let her go into the schoolyard or playroom and join the children in their games. Both she and they will benefit, and a closer relationship will be built up between teacher and pupils than can ever be established by book lessons. “Come, let us play with our
+
+children.” Let us utilize the group spirit—the “gang instinct----”
+
+in the children under our charge. It was by directing this instinct into the right channels, that one of the worst gangs of young hoodlums was broken up and turned into New York’s Juvenile Police,— that body of boys, which from being the terror of the communities through which they roamed, became an earnest and efficient instrument in the reform of other youngsters who, like themselves, had been outlaws.
+
+When we realize that play is as important a part of a child’s education as reading or spelling, we will have less need for Juvenile Courts and reformatories. In the last ten years Philadelphia has awakened to the vital necessity for providing means of legitimate play and has established playgrounds and recreations centres. Fifty-three recreation centres have been established by the city, and also a number of swimming pools. The Board of Education is supporting, at the present time, one hundred forty playgrounds and recreation centres and sixteen free swimming centres. Here the children are given lessons in swimming by teachers in the employ of the Board of Education. In sixteen of the larger schools, recreation centres have been established, the Board of Education furnishing heat, light and janitor service. The greater part of this work is done by grade teachers who have passed the civil service examina-
+
+Digitized by
+261
+
+turn required, and to whom the Board of Recreation pays additional compensation. These centres are kept open during the winter.
+
+In the elementary schools of Kansas City, Kansas,—about forty-two in number—they have regular play periods apart from their actual physical training. Play occupies as prominent a position on the daily program as language or any other study. Teachers are required to play with their own pupils, and it has been observed that at recess, when asked what they want to do, the children will invariably select some game that has been taught them in the play period. This play period is not a gymnastic drill, but a period devoted to the teaching or supervised playing of a game. The Kansas City high schools continue the work of the elementary schools with an extensive athletic and general recreation program.
+
+At Lake Charles, Louisiana, the Board of Education requires all public school teachers to devote at least forty minutes of the noon recess to teaching games and playing with the children. In addition to this, folk dancing is taught—preferably in an open air pavilion attached to the school—from 8:20 until 9:00 in the morning. I question, however, if such a program is not a little too strenuous for teachers as well as children.
+
+Throughout the United States, though, the recess periods are being more and more devoted to supervised play instead of to aimless running and jumping which too often degenerates into fighting. From Joliet, 111., come the word that one school has a playground of 20 acres, another of 8 acres, and another of 2 acres. Tennis courts, running tracks, and baseball and football fields have been installed for the older children who have advanced athletic work, while shallow wading pools and wide unobstructed spaces are provided for the small children. Play under leadership is conducted in all three playgrounds during the entire year.
+
+I know of nothing more conducive to a recognition of the rights of others—and hence to morality—than the proper kind of play. A child who does not conform to the rules of the game is not allowed to play, and through this edict he learns to play not only the school games, but the game of life, and to conform to its rules. He realizes through play that he is only part of a group, and that he must subordinate himself to the good of the whole. He cannot give way to his impulses or obtrude his personality. He must lay aside resentments and personal jealousies, and must “play fair.” He must learn to be generous; to understand that if one member of a group does wrong it involves the whole group; that in order to have individual happiness there must be mutual loyalty. Children do not know these things when they first begin to play, and in the early stages we will find selfishness, disloyalty, and frequently dishonesty. But play, with a group of children under the sympathetic leadership of a trained teacher, will develop desirable qualities more quickly than any number of set lessons on moral subjects. To us, as “grown-ups,” children may seem lawless, but as a matter of fact, they have one deep-seated form of conventionality, that is, the desire to stand well with the other children in their group. An ad-
+262
+
+verse judgment of their peers is a thing to be avoided. And in this connection, let me say that children are much more intolerant, much harder in their judgments, than a teacher would ever be. It is through years of training that a child can be brought to see the difference between a natural consequence which a wrong doer brings upon himself, and a punishment of revenge which is a mean taking advantage of a certain situation, and he learns this more thoroughly from experience and actual practice, than from text books.
+
+Any instinct that is truly social is moral, and play under sympathetic and efficient leadership will inevitably develop as a quality the recognition of community rights, what we may call the social conscience, as opposed to the individualistic tendency. A person trained from childhood to co-operate, will find it harder to do wrong than to do right. He has a wider viewpoint than the man who has been accustomed to regard events solely in their relation to himself.
+
+Properly supervised play gives not only a moral training, but also a mental alertness, an ability to see both sides of a situation and make a quick decision. And a child soon realizes that this decision involves others beside himself, and that when it is made, he must stand by it.
+
+I once heard Dr. Edward Martin, now Commissioner of Health for Pennsylvania, address a body of principals. “The greatest lesson that our public schools can teach a child,” he said, “is to brace. They must teach him that obstacles are to be overcome, and that he must not lie down under them. Teach him what it means to brace.” And in my own work, I have tried to bring this before my teachers; how much more readily a child can be taught to “brace” through properly directing his play, and giving him games which will develop this quality, than we could ever hope to do through years of talking to him.
+
+PREVENTION OF RELAPSES IN CASES OF ARRESTED TUBERCULOSIS AMONG SOLDIERS.
+
+By S. ADOLPHUS KNOPF, M. D., Professor of Phthisiotherapy in New York. Postgraduate Medical School and Hospital.
+
+Abridged by D. M. F. KROGH, M. D.
+
+This essay appeared in The Journal of the American Medical Association, February 22, 1919 and contains much that may prove of interest to physical directors. This eminent specialist in tuberculosis, who, in 1909, was awarded the international prize for an essay on “Tuberculosis As a Disease of the Masses and How to Combat It,” states that “an arrested case is one in which all con-titutional symptoms, expectoration and the bacilli have been absent for a period of six months, and the physical signs are those of a healed lesion.” A case without these symptoms for three months he classifies as an apparently arrested case. He laments the fact that many cases are sent home with flabby muscles after a prolonged rest-cure, susceptible to climatic changes on account of the enfeebled condition of their system and the respiratory function.'
+
+Digitized by LaOOQle
+263
+
+Hydrotherapy, especially external application of cold water as a tonic to render the system immune as far as possible against catching cold, is highly recommended by the author. “In my humble opinion, hydrotherapy is a most important therapeutic agent in the treatment of tuberculosis, particularly during the period of convalescence after the arrest of the disease.” Massage, respiratory exercises and the Swedish movement cure are the other means to be employed. “Physiotherapy, that is to say, a judicious combination and application of massage, cold water, and graded breathing exercises, seems, up to this date, our only means to prevent relapses in arrested cases of pulmonary tuberculosis. It should be applied for a period of from four to six weeks after the case has been pronounced arrested. It is evident that such patients must also be taught that prudence, temperance and a hygienic mode of life must be the rule for their conduct ever after, if they do not wish to undo the good effects of the treatment. In giving general massage, the patient being in the recumbent position, it is best to begin at the feet and work from the toes upward. Stroking (oeffleurage) should always be the last of the movements. The order in which the different manipulations should be applied are: friction or rubbing, kneading, tapping, pinching and stroking. After the legs have been massaged the abdomen is gently manipulated and then the head, neck, hands, arms and lastly the thorax. Each subdivision of massage should be applied four times to each part of the body, anteriorly and posteriorly, so that all takes up no more than forty-five minutes. The massage should be given no sooner than one and one-half to two hours after meals.
+
+In applying the movement-cure, which is not always necessary in these cases, but is generally beneficial, assistive, passive and resistive movements are resorted to.
+
+In the application of hydrotherapy care should be taken not to chill the patient. The cold ablution may be taken in the following manner: The patient stands in a wash tub three feet in diameter with five inches of water (105 degrees F.). A sponge is dipped into a bowl of water (85 degrees F.) which is squeezed over the back of the neck and then in succession over the front of the neck, next over the left shoulder and then over the right. A large, rough towel is used for drying and rubbing to bring about reaction of the skin. The temperature of the water is reduced 5 degrees every fourth or fifth day until a temperature of 40 degrees is obtained. The room should be warm and the bed should be warmed by a hot water bottle, the patient retiring immediately after the ablution. The head should be thoroughly dry when retiring.
+
+“When the system has become accustomed to the water used in this way, the patient can safely resort to the application of a needle or shower bath, or can take a dip into the water as cold as it comes out of the faucet, provided he reacts favorably. I have made extensive use of hydrotherapy with most gratifying results, and became enthusiastic concerning its beneficial effects in Phythisio-therapy in my early career as assistant to Dettweiler in the Fal-kenstein Sanatorium.—
+
+Digitized by tjOOQle
+264
+
+After all symptoms of active disease have disappeared graded respiratory exercises may be resorted to as follows:
+
+1.	Raising and moving shoulders backward and inhale; lower shoulders and move them forward and exhale.
+
+2.	Raise arms sideward and inhale; lower arms and exhale. This may also be done with rising on toes to increase the effect.
+
+3.	Raise elbows sideward, curled hands in front of opposite sides of chest, palms toward chest: pull sideward as if trying to tear chest open and inhale, bringing the hands over from one side to the other; return hands to opposite side of chest where they were and exhale. After inhaling tap the chest four times with both hands, in slow rhythm.
+
+4.	Raise arms sideward and then upward with bent elbows, fingertips and tips of thumbs together so that they form a triangle; then bend trunk backward and now move hands forward and backward and repeat, counting 4 seconds, while inhaling:
+
+5.	“The fifth exercises is for the purpose of bringing the abdominal muscles also into play, or in other words, for combining abdominal and chest breathing.” Place hands, fingertips together, in front of abdomen, raise the diaphragm, drawing the hands upward on the chest to the chin and turn them to raise them over the head; lower the arms sideward and exhale, arms down.
+
+6.	Arms forward, dorsal (back) surfaces together: inhale while moving arms sideward as in swimming and lower arms bringing hands together behind the back.
+
+7.	This is the same as the first exercise but after expiration press the arms tightly against the sides of the chest turning the hands outward. This secures a pressing out of the lungs all the residual air.
+
+Ordinarily we inhale 500cc of “tidal” air. We can inhale with the aid of the first exercise 1500 c.c. “complemental” air. The volume that can be exhaled by this exercise is 1300 c. c. “supplemental” air. By using the extra effort in exhaling by exercise 7, we can expel 500 c. c. more of reserve or residual air.
+
+Rules: Commence with exercise 1 and gradually learn the next ones when the former are learnt. Take from 4 to 6 exercises, one of each, four to six times every half hour or hour, or from four to six times a day, especially on rising and retiring, until deep breathing has become a habit. These exercises should always be taken in an atmosphere as fresh and as free from dust as possible. Inhale deeply, hold the air for four seconds and expel on the fifth second.
+
+Medical Research Committee: Report upon soldiers returned as cases of “disordered action of the heart” (D. A. H.) or “valvular disease of the heart.” (V. D. H.) London, published by his Majesty’s Stationary Office. “The medical officers decided to introduce a system of exercises for the patients, graded in severity and in their last stages including route marches. The primary object of these graduated exercises was the testing of the capacity of the soldiers for their work. Amongst regimental and civilian doctors there had
+265
+
+been much serious divergence of opinion as to the grounds upon which heart cases should be discharged, or classed in the various official “categories” of duty.
+
+At the same time the exercises proved to have important curative value, and all soldiers retained in the hospital are now placed upon them for the purposes both of sorting and of treatment. It has been found advantageous, wherever possible, to convince the patients that the heart is free from disease or to direct attention away from this organ.
+
+In judging unfitness, reliance may be placed upon a history of the onset of symptoms due to rheumatic fever, upon objective distress on test exercises, upon rapid heart actions with slow decline of rate after exercise, and upon hy peralgesia of the chest wall. Nevertheless, while all these give valuable criterions, the soundest method of sorting is unquestionably the use of a system of graded exercises.
+
+It will be seen that the wide adoption of a system of graded exercises and its utilization not only for sorting the soldiers, but also as the chief therapeutic measure, is strongly advocated. The stay of these soldiers in military hospitals after returning sick has been in. the past from five to six months on the average. Reason is given in the Report for the belief that this period can in general be reduced, by means of the system described, to two months.
+
+The efficiency of the system of graded exercises has been tested by an analysis of the after-histories in over 200 patients. Its success has been clearly shown. Under the old “categories” it nominally returned 25 per cent of the men to light duty and 25 per cent to full duty of the original total, a further 9 per cent were eliminated at the end of three months. That is to say, approximately 41 per cent of those treated returned to duty, and were still performing their duties at the end of three months.—
+
+A specially close medical scrutiny of recruits from sedentary classes, including a simple exercise test, would eliminate many who subsequently spend much more time in hospitals than in the field; a more gradual system of introducing this class of recruits to heavy drill and to route marches would safeguard many of them from breaking down.—
+
+In healthy men the heart is smaller after exercise than before it (de la Camp, Moritz, Nicolai and Zuntz). As to change during exercise, few observations have been made, but. Nicolai and Zuntz found a negligible increase in size in four subjects.
+
+Eleven patients were examined before and after exercise, in five of these the exercise was the most strenuous which the “Army Exercise Book” provides; in nine instances the duration of exercise was 30 minutes, and in two instances the exercise lasted 15 minutes. In five of the eleven patients a decrease in the diameter of the heart, averaging 1.0 cm. was found at the end of the exercise; this reaction is in every way normal, and occurred in those patients in whom the exercise produced practically no symptoms. In the remaining six patients the exercises produced symptoms (breathlessness, palpi-
+tation, pain and vertigo), and in these men there was in the average absolutely no change in the diameter; such changes as were found were so small, one way or the other, as to be well within the margin of error. Dilatation of the heart as a result of exercise was not seen in a angle case of the series; but there was, in those men in whom exercise produced distress, an absence of the diminution of the heart’s size, which is the normal event. Two patients were examined before and after four-mile route marches; in one there was a slight decrease in the size of the heart, in the other there was no change.
+
+A large number of observations were made upon the size of the heart in patients during exercise, the work consisting of raising the legs alternately or of dumb-bell raising with the arms while lying supine, the amount of work given being sufficient to raise the pulse-rate to 120 or over. Accurate measurements during the exercise are most difficult to obtain, but so far as they have been obtained no change of the heart’s size has been witnessed.
+
+The lencocyte count showed a marked increase after exercise, especially in the patients most severely afflicted, if, after one hour of rest, there is a marked fall in the lencocyte count, the case may be regarded as relatively severe.
+
+The urine is increased in acidity but the excretion of chlorides is normal, one to one and a half hours after exercise in the controls and in the patients the acidity falls immediately after exercise, while an hour later there is a great rise in acidity; a rise out of all proportion to that found in controls.
+
+Digitized by Google
+NOTES AND COMMENTS.
+
+A National Conference of the chairmen of the different committees appointed by Dr. William Burdick, president of the American Physical Education Association in conjunction with the president, the members of the executive committee and the district presidents was held September 1, 2, 3, at White Mountain Camp, Sebago Lake, Maine, to organize work for the coming year. The delightful location was made possible by the invitation of Dr. Maylen.
+
+The following members were in attendance at the conference: William Burdick, M. D., Joseph E. Raycroft, M. D., George T. Hepbron, Laurence S. Hill, Randall D. Warden, Carl L. Schrader,
+
+W.	S. Small, W. H. Ball, Martin I. Foss, Dudley B. Reed, M. D., J. H. McCurdy, M. D., Mrs. J. H. McCurdy, and George L. Meylan, M. D. Chairman of other committees, who could not attend the conference, had submitted outlines for the work of their committees.
+
+Each committee discussed with the other national chairmen its work for the coming year, receiving suggestions from them. Two major themes discussed were “Health Examinations” and “Physical Efficiency Tests.” For these subjects in elementary, secondary, college, Y. M. C. A., Y. W. C. A., and Club organizations.
+
+The consensus of opinion of those present was that this meeting would do much to advance the standards of physical education in the United States. The Committee on the Unification and Standardization of Normal Courses of Training, as well as the other committees, are now in a position, as never before, to make definite contributions to physical training work.
+
+In the following we reprint News Bulletin No. 248 gotten out by the Southern Department, San Antonio, Texas, of the Y. M. C. A. War Work Council. The game described would fit in well in any contest as a game of skill.
+
+San Antonio, Texas.—Breathes there the man with soul so dead who never to himself hath said how sorry he was that he had ever tied a pin to one end of a little stick and put a feather or piece of paper in the other end of the little stick and then threw the little stick, pin, paper and everything into the side of an innocent pig? Surely not.
+
+Since the memory of man runneth not to the contrary, as it were, the small boy has amused himself with the pin-pointed dart. The mahogany furniture in sister Maud’s room and the beautifully veneered side-board with its big glass window in the dining room have not been spared the gouging and scraping of the instrument of torture, for there never has been a boy who could make a perfect shot every time.
+
+Months and months ago the Army Y. M. C. A. introduced the dart game into the military camps of not only the United States; but wherever American soldiers were to be found. That is, the
+
+Y.	M. C. A. reintroduced the dart game, for it is as old as the hills
+
+Digitized by UaOOQie
+268
+
+and no living man has a right to say he introduced it anywhere. In many big camps as well as in many little camp® the officers had the laugh of their lives. Darts! Darts for soldiers! Wow! Also, and likewise, wow! Kid stuff, it was. What honest-to-goodness he-soldier of these he-United States of ours would condescend to play darts? Besides all that, what he-officer with pants on would allow such a silly game to be introduced in his command? The Y. M. C. A. wanted to make mollycoddles and she-he's of the soldiers, no doubt of it!
+
+“I’ll show you how it works,” the secretary would say, innocently, as he began sticking the target against the wall.
+
+“Now, you stand here, twelve feet from the target, and throw as hard and as straight as you can. The dart will always stick, somewhere.”
+
+He would throw, and miss the target. It was so confoundedly silly and easy to do that the officer snatched up a dart and threw it straight at the target. But he didn’t hit it. He threw again, and missed again. Then, determined to show the “Y” man that he could do it if he really wanted to, the officer got out of his chair, took good aim, and missed again! Over and over he tried it but he could never quite hit the bull’s eye. Other officers came in and tried it. Then somebody bet somebody a “dope” that he could come closer than somebody else. And then it was a tournament.
+
+The secretary didn’t have to ask if he could install his new game. He went back to his building and put up his target. A bunch of soldiers came in, saw the target and the darts, but what real soldier would think of playing darts right there in the presence of a hundred or more other soldiers? Then, the secretary, just for fun, picked up a dart, threw it, and missed. Just to show that he could do better than that, that it was “old stuff” he had learned next day after, he left the cradle for the first time, a soldier would contemptuously take a dart, throw it, and make a mess of it! He would throw again, and again. Other soldiers would get into the game to show what they could do. But they couldn't do anything, much.
+
+And that’s how something less than 3,999,999 of Uncle Sam’s
+
+4,000,000 soldiers began playing the dart game. It’s no longer considered a game for lads. A sharp eye is necessary, very necessary, and the man who becomes proficient in the dart game has a sharp eye. A sharp eye is not a bad piece of property in the army.
+
+And now they’re having “fruit shoots.” Ft. Crockett, at Galveston, Texas, enjoys the distinction of having put on the first “fruit shoot” in the Southern Military Department. An orange is swung directly over the target. The secretary sees to it that the soldier shootists stand back fifteen feet, far enough that the fruit will not disappear too rapidly and yet near enough to convince each man present that he is going to stick an orange the first shot. But five men shot at the Ft. Crockett “fruit shoot” before one man drew a prize, and each man had three chances at it. More oranges were put up, then peaches, then plums, then two oranges together, than an orange, a peach and a plum, the three tied together and all
+
+Digitized by
+
+Google
+269
+
+belonging to the man who hit other one of them. One fellow after' another promised to divide the fruit, came up, took his three shots and then sat down sheepishly. After the “fruit shoot” the secretary asked how many wanted to have another one like it a week from that night. It was unanimous.
+
+The "fruit shoot” idea would be a dandy addition to any party of big folks or little folks. It’s kiddish, of course, and so deucedly silly, and all that, but they all flop sooner or later.
+
+Some of the general facts disclosed by the Year Book of the Playground and Recreation Association of America will be of interest:
+
+During the year ending November 1st, 1918, 396 cities sending reports complete enough for publication, maintained 3871 playgrounds and recreation centers. 8137 play leaders were employed.
+
+129 cities reported 1628 workers employed the year round.
+
+20 cities opened their centers under paid leadership for the first time.
+
+129 cities reported 787 playgrounds and neighborhood recreation centers opened the year round.
+
+101 cities opened 702 school houses as evening recreation centers.
+
+86 cities reported 332 buildings used solely for recreation purposes.
+
+Everywhere community leaders and citizens as they have watched and taken p art in community singing, pageants and any special celebrations and community gatherings, and have seen what the provision of wholesome social and recreation life has meant to the men in uniform, have realized, as never before, the real significance and scope of the recreation movement.
+
+Now that the war is over the renaissance of the recreation movement is upon us. The inquiries which are reaching the office of the Playground and Recreation Association of America each day indicate that as never before people in America are thinking about the value of recreation in community life. New communities which have never realized the need are starting work and are asking for help that they may start in the right way. The new conception of the recreation movement, based on its importance as a means of community expression, is dominating the thought of people who have always believed in it.
+
+THE NEW JERSEY PHYSICAL EDUCATION ASSOCIATION.
+
+The First Annual Convention of the New Jersey Physical Ed u-cation Association will be held Saturday, December 13th, 1919, in Newark, N. J.
+
+At a meeting of the officers and council, held September 26th in Newark, it was voted to invite to active membership all Physical Training teachers in the State and to associate membership all sch ool officials through whose leadership and guidance the Physical Trains ing activities are administered.
+
+Digitized by LjOOQle
+270
+
+The program will include addresses by well-known educators, as well as papers to be readby representative physical training leaders pertaining to the vital problems confronting us in our every-day teaching.
+
+As a unique feature of our Convention, there will be a morning session for the delegates to take part in as pupils. The teachers who will conduct these short exercise periods will present material which is practical, and we urge all teachers to take part and make this part of our program worth while.
+
+The subject of Mass Athletics is now being widely discussed. In the afternoon of our Convention Day, twelve hundred children from the Newark Elementary Schools will demonstrate the methods employed and the results obtained in this very important part of our Physical Training program.
+
+The teachers of the Newark Physical Training Department will demonstrate advanced gymnastics, dancing and other physical training activities.
+
+In the evening, there will be the big demonstration as noted in the enclosed tentative program.
+
+The program committee will strive to make the day both interesting and profitable for all who attend.
+
+We cordially invite School Superintendents, Principals, Head Masters, Directors, Medical Inspectors, Members of Boards of Education and Teachers to attend this varied program.
+
+The work will be essentially practical in nature and will demonstrate the many phases of Physical Training through visual instruction.
+
+F.	W. MARONEY, M. D., Secretary.
+
+THE NEW JERSEY PHYSICAL EDUCATION ASSOCIATION. First Annual Convention.
+
+Newark, N. J., Saturday, December 13th, 1919. Tentative Program.
+
+Newark Normal School.
+
+9:00-9:20
+
+9:20-9:35
+
+9:35-9:50
+
+9:50-10:10
+
+10:10-10:25
+
+10:25-10:40
+
+10:40-11:00
+
+11:00-11:30
+
+Marching Tactics—Mr. Carl Schrader, Harvard University, Cambridge, Mass.
+
+Dumb Bell Exercises—Mr. Herman Seibert, Bayonne, N. J. Indian Club Exercises—Mr. Gustave H. Bojus, Jersey City, N. J. Folk Dancing, Mrs. Charlotte B. Skarstrom, Town of Union, N. J. Free Hand Exercises—Dr. F. W. Maroney, State Department of Education.
+
+Wooden Wand Exercises—Mr. Frederick A. Finkeldey,
+
+N. J.
+
+Games—Mr. Spencer M. Bennett, Atlantic City, N. J.
+
+Conference
+
+It is expected that all teachers will report in gymnasium suits
+
+Digitized by
+
+Google
+271
+
+and take an active part in these classes. They are for the teachers.
+
+12:30-1:30 Luncheon at the Robert Treat Hotel
+
+1:30-3:00	Address of Welcome—Mayor Charles Gillen, Newark, N. J.
+
+Addresses by Dr. Calvin N. Kendall, Dr. David B. Corson, Hon. Arthur F. Pierson, Mr. Carl Schrader of Harvard University, and other speakers to be announced later.
+
+3:30-5:00 Demonstration of Mass Athletics in First Regiment Armory by the children of the Newark Elementary Schools.
+
+5:00-5:30 Demonstration of Physical Training activities by the Newark Physical Training Teachers.
+
+8:00-10:30 Demonstration of Marching Tactics, formal gymnastics, apparatus work, games, dances, boxing and recreational activities by the elementary and high school pupils of Newark and surrounding cities, Normal Schools and Y. M. C. A. classes.
+
+F. W. MARONEY, M. D.,
+
+Secretary.
+
+NATIONAL EDUCATION ASSOCIATION. Milwaukee Meetings.
+
+A year of civic training for all young men and women for a definite period, in the interest of National progress and National defense, was advocated in resolutions adopted by the National Education Association at its annual meeting in Milwaukee, July 4.
+
+“We urge the Government of the United States,” say the resolutions, “to institute and maintain a full 12-month year of instruction, training, and discipline for each young man and young woman between the ages of 17 years and 6 months and 20, such training to be carried on at such place and in such manner as may result to the particular advantage of the individual in the development of civic responsibility and vocational efficiency, and to bear the entire expense of this undertaking, including adequate maintenance allowance for the dependents of such students in training.”
+
+Vocational Education.
+
+Under the vocational education the association recommends: A high standard of intelligence, general vocational efficiency, physical and moral fitness, and civic devotion are not only dependent upon an efficient system of public education of all our youth, but also upon the reaction upon human values of the occupations in which the people of the Nation engage. If we are to be a homogeneous people, generally happy and prosperous, generally living full, rich, contributive lives, the work which we do must continue through our lives, the development begun in the earlier years, devoted to specific and formal schooling. To this end industry in this country must be reorganized. All industry must become educational to those who engage in it. The workers must find in their work an opportunity for self-expression and self-development. Human—not commercial—value must be placed first in our great in-
+
+Digitized by v^.ooQle
+272
+
+dustrial establishments. The rank and file of those who produce wealth must, through their organization, share in the control of the policy of the institutions for whom they work. They must find an educative realization of their life purposes in the output of their daily toil and in the sharing in the direction of the policy guiding its production.
+
+Favor Boy Scouts.
+
+Resolutions were adopted approving the work done by the Boy Scouts and the Girl Scouts, school supervised home gardening as carried on by the United States Bureau of Education, and thrift instruction in all schools.
+
+State Measures.
+
+Under “State measures” the association makes the following recommendations:
+
+An American program in education is dependent to a great degree upon the support of education afforded by the States. We recommend the adoption of a specific program in public education by each of the States, adapted to the special problems of the States respectively but in general conforming to the national program, and seeking finally a common purpose with it and all other public education programs.
+
+The responsibility for such a plan must rest chiefly upon the legislature of each State and upon the educational leadership and organization within the respective states.
+
+We specifically recommend the following steps and measures:
+
+1.	Provision by each State legislative for more adequate financial support of public education in order to—
+
+(а)	Pay salaries sufficient to maintain the teaching profession upon an efficient basis, with the ideals and standards of living in this democracy.
+
+(б)	Establish a plan for systematically recruiting the profession.
+
+(c)	Develop a teacher training system adequate for the general and special planes of education.
+
+(d)	Initiate a plan for “all-year schools.”
+
+2.	Laws clearly defining education as a function of the State rather than the municipality, and making impossible the control of the public system of any community, rural or urban, by the factional politics of the local or municipal government.
+
+3.	Laws definitely establishing an efficiently organized, supervised, and administered system of rural schools upon the basis of a larger unit than the local district.
+
+4.	Legal provision for the development of flexible and adaptable courses of study, methods of instruction, and systems of promotion to meet the needs of all classes of children.
+
+5.	Legal provision for compulsory education to the age of 16 and compulsory continuation schools upon the employers’ time to the age of 18.
+
+Digitized by v^.ooQle
+273
+
+6.	Laws providing for compulsory registration of minors as a basis for effective enforcement of the compulsory education laws.
+
+7.	Effective compulsory education laws in all States.
+
+8.	Legal provision for compulsory classes in Americanization for all illiterates and all who are not able to read and write the English language with a proficiency equivalent to a sixth grade standard which standard shall be necessary for admission to citizenship of the United States.
+
+9.	Legal provision for the use of English as the language of units of the public educational system.
+
+10.	Legal provision for compulsory physical education and instruction in all schools.
+
+Recruiting the Teaching Profession.
+
+Special attention is called to the problem of recruiting the teaching profession. The resolution says:
+
+“There is a growing disinclination of young men and women to enter upon teaching as a profession, evidenced by the lessening number of graduates from normal schools and teachers’ colleges ana also of admission to these institutions and by the steady decrease in the number of college seniors who become teachers. Many of the best teachers are leaving the profession of teaching for more attractive and lucrative employment. The consequent shortage of teachers is depriving many thousand children of adequate instruction, and we affirm that the future of our country depends upon giving the children of today the sort of training that will produce efficient, intelligent, and patriotic citizens, prepared to uphold the ideals of American democracy. It is impossible for teachers of mediocre ability or of insufficient ideals to train properly the citizenship of tomorrow.
+
+“We, therefore, insist that all teachers’ organizations as a part of the campaign to increase salaries of teachers, also conduct a systematic campaign to interest desirable men and women to enter the teaching profession, and that the National Education Association and each State commissioner of education secure the services of men and women best equipped to conduct such a campaign among high schools and colleges.”
+
+NOTICE TO SUBSCRIBERS.
+
+This issue is mailed at the Postoffice in New Ulm, October 25. Please notify Publisher immediately of any delay in delivery.
+
+Digitized by LaOOQle
+PHYSIOLOGY AND HYGIENE
+
+By D. M. F. KROGH, M. D.
+
+CO-OPERATIVE EXTENSION CLASSES FOR COLORADO
+
+TEACHERS.
+
+Western Colorado District, O. B. STAPLES, Grand Junction, Colo. Co-Operating Institutions: University of Colorado. State Teachers’ College.
+
+State Normal School.
+
+Outline of Course for Parent-Teacher Associations and
+
+Women’s Clubs.
+
+These brief outlines are intended to indicate a general yet uniform plan that Parent-Teacher Associations may follow to make their work more definite and yet be flexible enough to fit into any community.
+
+Each outline should be studied from the standpoint of what the local school is doing on this point, how it can best do this work, what assistance the home can render the school, how the school and home may co-operate, how the work of each may be improved, the training and equipment necessary for most effective work. OUTLINE NUMBER I The Physical Needs of the Child I The Rights of Children:
+
+1.	To have parents
+
+2.	To be nourished by its mother’s milk during infancy
+
+3.	To be reared in a normal family
+
+4.	To be protected from childrens diseases
+
+5.	To be fed intelligently
+
+6.	To have all remediable physical defects corrected
+
+promptly
+
+7.	To have ample, wisely supervised, outdoor play
+
+8.	To be free from repressive labor
+
+9.	To have full period of school life, extending at least through high school
+
+10.	To be wisely guided into a useful occupation
+
+II	Dangers to Pre-natal Period:
+
+1.	Under-nourished mothers
+
+2.	Over-worked mothers
+
+3.	Mothers diseased from:
+
+a.	Effects of syphilis
+
+b.	Effects of gonorrhea
+
+c.	Effects of drugs and alcohol
+
+III	Danger to Period of Infancy:
+
+1.	Death rate of children under one year old
+
+a.	In the United States
+
+b.	In Colorado
+
+1.	Diseases of Infancy
+
+a.	Congenital debility
+
+Digitized by CjOOQle
+275
+
+b.	Premature birth
+
+c.	Malformation
+
+d.	Diarrhoea and enteritis
+
+e.	Pneumonia and bronchitis IV Protective Agencies:
+
+1.	Proper food (mother's milk)
+
+2.	Protection from flies, dirt, heat, cold, contagious diseases, etc.
+
+3.	Proper housing conditions
+
+4.	Intelligent parents
+
+V Co-operative activities for the Home and School:
+
+1.	Complete physical examination:
+
+a.	By competent school physician assisted by trained
+
+school nurse.
+
+b.	By dentist and specialist in eye, ear, nose and
+
+throat.
+
+c.	By physical director
+
+2.	Definitely organized, continuous courses in health and hygiene through all grades
+
+3.	Buildings scientifically constructed with reference to light, heat and ventilation, etc.
+
+4.	Hygienic furniture and equipment:
+
+a.	Blackboards
+
+b.	Adjustable seats
+
+c.	Toilets
+
+d.	Water supply
+
+5.	Healthful teachers properly trained in hygiene
+
+6.	Proper play:
+
+a.	Games
+
+b.	Gymnasium
+
+c.	Natatorium
+
+7.	School Lunches:
+
+a.	Cafeteria on cost basis
+
+b.	Social advantages
+
+During the latter days of May a health conference was held at Springfield, Mo., under the auspices of the Missouri Antituber-culosis Society at which Dr. James Stewart, Supervisor of Hygiene of the Schools of St. Louis, Mo., represented the Board of Education of St. Louis, Mo., and Dr. Willard S. Small as the representative of the Bureau of Education, Washington, D. C., read a paper on Universal Physical Training. The Springfield Missouri Republican reported as follows:
+
+In his talk before the Missouri Public Health conference, Dr. Willard S. Small of the bureau of education at Washington, D. C., outlined the health program of the United States army, and cited many interesting statistics gathered in the selective service enactment.
+
+Dr. Small, in his talk said:
+
+The war is over. It is too early to assess fully its contribution
+
+Digitized by v^ooQle
+276
+
+to our knowledge of the greatest of our national resources, national vitality. It is not too early, however, to survey some of the more outstanding features and from these to realize the need of farreach-ing state and federal legislation for physical education.
+
+The United States is justly proud of the two million young men who constituted the American expeditionary force in France. Morally and physically, no finer body of young men ever went forth to do battle for freedom and righteousness. They ware the pick of American young manhood. They were triply selected: First, through the examination of the local medical board; second, through the examination of the army medical examiners in the camps; third, through proved physical fitness in the training camps. Furthermore, their training was such as to develop the highest degree of physical capacity. They had scientific physical training, abundant exercise, wholesome food and the inestimable benefits of dean, regular life. Two million more young men of the same kind were in training in our cantonments when the armistice was declared. This amply demonstrates that we are not a nation of degenerates or mollycoddles. Other millions could have been selected and developed by the same means.
+
+In round numbers 70 per cent of the nearly 6,000,000 men who were physically examined were found vigorous and without any physical defect which might interfere with the full performance of military duties.
+
+But this is only a part of the picture.
+
+In the first place it was found necessary to modify the strict physical standards which obtained under the volunteer system in peace times.
+
+It was soon found that these standards were too severe. In time of peace, when the supply of volunteers ordinarily exceeds the demands, a high physical standard may be exacted. When a necessity exists for great numbers, many minor physical defects must perforce be waived, in order to secure the requisite man-power.
+
+(Second report of the provost marshal general on the operations of the selective service system.)
+
+Further, it was found that even with these selected men, much time was required to develop and condition them into the degree of physical fitness necessary for military service. Most of the men were lacking in one or more of the elements of fitness for the rigorous demands of military life. With some it was strength that was lacking; with some it was endurance; with some it was muscular control; with some it was ignorance of the ordinary laws of health. Most of the men, during the period of training, gained largely in weight. The average gain in some cantonments was as high as 11 pounds. Furthermore, over thirty per cent of the total number of men called were rejected as totally unfit for military sendee, or as lit only for limited service. This condition prevails not only among the less fortunate classes. Between 20 and 25 per cent of the hoys who sought admission to the S. A. T. C. in the colleges and universities were rejected. They were unable to wear the
+
+Digitized by
+277
+
+uniform of the country for which they were ready to die. Of the
+
+1,100,000	young men who each year reach military age, about 16 per cent are totally unfit for military service and 14 per cent are fit for limited service only. Further, the character of the disabilities and defects causing rejection is such that more than one-half of these defects and disabilities could have been prevented or corrected by proper attention to the health and physical education needs of children during school age.
+
+First of all we must get a conception of physical education that is large enough and true enough to justify our promises of augmenting abundance of life. Daily, I am met with doubtful inquiries. Some want the word health added to our name—physical and health education. Some want to throw out the “physical” and call it health education or hygiene. I would not object to adopting “health’ as our name if it is understood as the Scotchman understood it when he said to the fellow that threatened to hit him: “The man who hits me must be in parfick health.”
+
+Legislation, both state and federal, must interpret physical education in a broad and true way, as including not only physical training activities of all kinds, but also the charting of individual physical capacity by examination, resources for remedial and corrective work, hygienic environment, and practical teaching of health habits and health knowledge. It must have equal regard for boys and girls; and also equal regard for all boys and girls under 18 years of age whether in school or at work. The job is so big that there must be no thought of saying that it must be done by exactly the same machinery in every state. Sound administrative principles must be recognized in all cases; but the object is too vital to be subordinated to the method. With respect to military training, it should be clearly understood that the program proposed is neither a substitute for nor is it primarily a preparation for military training. It is a program for producing physically fit men and women by physically educating boys and girls; for “unchanging the powers of man for the sake of life itself—its vigor, its beauty, its expression.”
+
+Federal legislation must have for its purposes the equalization of opportunity and the stimulation of endeavor within the states. To this end it should provide financial aid to the states, limited, however, to preparation of teachers and part payment for skilled service. The autonomy and the initiative of the states must be jealously guarded. The object is greater energy and flexibility. Standards must be vital, not formal.
+
+Democracy declares that every human being has a right to life, liberty and pursuit of happiness. Is a democracy safe for itself that fails to provide in its educational system the physical basis for a successful pursuit of life, liberty and happiness? State and federal legislation which will insure the education of the boys and girls of the nation into strong and capable physical manhood and womanhood will go far towards perfecting our democracy. Let us add to our national purpose an unrealized fourth dimension of the Declaration of Independence—the right to health.
+GYMNASIUM AND PLAYGROUND
+
+By FRED E. FOERTSCH, Pittsburgh, Pa. SOCCER FOOTBALL. (Concluded.)
+
+After the fundamental activities, namely kicking and blocking, -or intercepting a kicked ball as given in the game of "Kick-Bombardment,” in the previous issue, or in any other similar game, have been fairly well mastered, a simplified form of soccer may be given. The game which follows is in many respects like soccer, tho it still -eliminates the more intricate and puzzling rules governing the end plays. With a few exceptions the rules governing the activities in the center area where both teams may play are almost identical with those of the soccer game. The goal, however, takes in the whole end line and gives the offensive team sufficient opportunities to score. The end area serves to give the defenders protection from too frequent scoring and helps to convey the idea of the penalty imposed when a foul is committed within this space. Where a large field is available more than eleven players on a side may be used.
+
+---- ?Ojc(s
+
+it	i
+
+		+•		
+			+	
+I	(/		+	+
+>  *5	<ooV~	+	-i-	•4-
+				
+
+-£
+
+S/cfe L/he
+
+The field is from 60 to 80 yards long and from 30 to 35 yards wide, with a center line dividing the field into two equal parts. Another line at either end of the field running parallel to and 10 yards inside of the end line marks off the end area.
+
+Each team consists of eleven players, five forwards, three half backs and three guards (full backs).
+
+Digitized by
+279
+
+The object of the game is to kick the ball over the end line from the ten yard line, the ball in passing over the goal or end line being not higher than the reach of the guards.
+
+Guards:—It is the guards’ duty to prevent the ball from passing over the end or goal line. They may use any part of the body, including the use of the hands, to block the ball and may return the ball to the center of the field by means of a kick or by throwing the ball, provided they do not take more than one step in doing so. A guard venturing out of the end area may no longer employ the use of the hands. If the ball is touched by the guard ana then passes over the goal line the score shall count.
+
+Half-backs:—The half-backs may never employ the use of the hands. It is their duty to help the guards in preventing a score. They may also advance the ball into the middle field but should rarely ever venture over the center line.
+
+Forwards:—It is the duty of the forwards to advance the ball up to the opponents’ end area and attempt to score by means of a lack. They must, however, not venture into the opponents' end area.
+
+Out of Bounds:—When the ball passes out of bounds (over the side lines of the center area) it is given to a player of the team opposite to the one which touched the ball last before it went out. The player passing the ball in must stand with both feet on the side line and throw with both hands from over the head. The feet must remain on the ground while passing the ball in. The players of both teams must be on-side, no player being closer than 5 yards to the one passing the ball in. The player passing the ball in may not touch the ball again until some other player has played the ball.
+
+When the ball is out of bounds over the end line (having passed over the line above the guards’ reach) or when it passes over the side lines of the end area the defending team gets the ball. The ball is placed on the line at the point where it passed out and the defending player takes a free kick. All players must be at least 10 yards from the ball and on-side until the ball is kicked. The lack must be in the direction of the opponent’s field.
+
+Kick-Off:—The ball is kicked off from the center of the field. All players remaining on-side and at least 10 yards from the ball (outside , of 10 yard circle) until after the kick. The ball must be kicked in the direction of the opponent’s goal line.
+
+Free Kick:—When a foul is committed in the center area the opposing side gets a free kick at the point where the foul occurred. When a player ventures into the opponents’ end area a foul is committed and the defending side gets a free kick from the 10-yard line. Players must be on-side and 10 yards from the ball as in the kick-off.
+
+Penalty Kick:—When any of the defending players other than the guards make use of their hands or when a defending player on a kick-in from the side lines of the end area kicks the ball towards his own goal line a foul is committed and the opposing side gets a free (penalty) kick from the middle of the 10-yard line. The defending players must be at least 10 yards from the ball and on-side when the kick is taken.
+
+Digitized by i^ooQLe
+280
+
+Scoring:—One point shall be awarded to the side kicking the ball over the opponents’ goal or end line, provided the ball is low enough in passing over that a guard might have reached it. A score may be made from a kick while the ball is in play, from a penalty kick or from a free kick. The side against which the score was made shall have the next kick-off.
+
+Fouls:—Pushing, tripping, intentional roughness and deliberate use of the hands or arms are considered fouls and a free kick is given to the unoffending side.
+
+A SPORT CARNIVAL.*
+
+Report by H. R. ANTHONY, Rome, N. Y., Y. M. C. A.
+
+This is an activity suggested by C. C. Robinson, International Boys Industrial Secretary, put on at Rome, N. Y. with the purpose of studying the possibilities of such an event in discovering leaders and as an approach to the young men of industry. The following is an outline as worked out by the Physical Department of the Y. M. C. A.
+
+Organization:
+
+1.	Meeting of the Physical Dept. Committee. Passed on program as suggested. Largest building in town was selected.
+
+2.	Committee meeting of men representing factories (one man from each factory) who were outstanding leaders.
+
+a.	Program was outlined to this committee and suggestions were asked for.
+
+b.	A designated grand ring master was agreed upon.
+
+c.	Two conductors of activities in each of the rings were suggested and agreed upon.
+
+d.	It was voted to be limited to Industry.
+
+e.	Each man agreed to select three men from his mill to be captains of (1) a Basketball team, (2) a Volleyball team, (3) a miscellaneous team.
+
+f.	It was voted to allow two or three of the smaller mills to unite in getting teams together.
+
+g.	Reports were asked for by the Physical Director as to who were selected as captains. (The phys. dir. had to go after the reports, however.)
+
+3.	Head Score Keeper selected and asked to get three others to score—one for each ring.
+
+4.	A meeting of the score keepers. System and duties explained. Head score keeper to collect scores and figure points and report to Grand Ring Master.
+
+5.	A meeting of the captains of the miscellaneous teams.
+
+The events were gone over thoroughly with them.
+
+•NOTE—This report should be a great help to our readers engaged with •ther organizations to plan for a similar event.—Ed.
+
+Digitized by
+249
+
+Details:
+
+1.	A preparation committee chairman selected. The hall was put in shape by this committee on the same day as the event.
+
+2.	Arrangement of hall.
+
+a.	Chairs divided the hall into three sections. Placed back to back a double row where they divided the sections.
+
+b.	Chairs for the band arranged at one end of the hall.
+
+c.	Score sheets made out for the scores and placed in their hands.
+
+d.	All apparatus was ready in a convenient place. Everything arranged with the idea of causing no delay.
+
+3.	1500 Dodgers were gotten out and distributed by the Secretaries, all co-operating in all of the mills.
+
+Activities:
+
+1.	The miscellaneous events were conducted in the center section.
+
+2.	Events in all sections were started at a signal.
+
+3.	The grand ring master received the scores from the head score keeper from time to time and announced same to the audience. He saw that games began on time. He controlled the band, directing when it was to play. All ring official under his control.
+
+4.	Eight Basketball teams, six Volleyball teams and four miscellaneous teams entered.
+
+5.	Two miscellaneous men teams and two miscellaneous boys
+
+teams were picked from the crowd. The miscellaneous events were:	Indian	Club	Relay,	Relay	Broad Jump,
+
+Jump Stick Re1 ay, Over the Top Relay, In and Out Relay, Wrestling, Bull Dog Fight, Twist Stick, Hat Boxing, Shoe Race, Steal the Flag, Line Wrestling, Channel Tag, Swat Tag and Basketball Tag.
+
+Findings and Suggestions:
+
+1.	The miscellaneous events attracted by far the most attention.
+
+2.	Place was not large enough to accommodate the people. Many left early on account of not being able to see. It was estimated that 1,000 attended the carnival.
+
+3.	Cost.—Band, $30. Trucking and carpentry, putting hall in condition, $10; Programs and dodgers, $15; Janitor service, $5; Total cost, $60.
+
+4.	Receipts—Nothing.
+
+5.	It was a success from the standpoint of:
+
+a.	Interesting the athletically inclined.
+
+b.	Discovering leaders.
+
+c.	Promoting mass interest.
+
+d.	Publicity.
+
+e.	Showing possibilities for a larger event of like nature In
+
+the open air.
+
+Digitized by L^ooQle
+260
+
+f.	Suggesting an excellent circus substitute.
+
+6.	A closing grand march was planned with free use of confetti, but it was deemed unwise to try it on account of the lateness of the hour.
+
+7.	Financial dividends could be realized through using a more elaborate program with advertising in it and selling same for a small amount. Names of officials should be on the program.
+
+8.	Success lies in the perfecting of the organization.
+
+WAND DRILL.
+
+Arranged by MAY S. LUKERT and LOUISE S. DEBUS, Phila., Pa. Winding Exercises—Undergrip.
+
+Music:—“Courage & Strength.”
+
+Composer:—Franz von Blon.
+
+Two counts for each movement.
+
+GROUP I
+
+1.	(a)	Stride left forward, raise arms forward-1-2.... 1	M.
+
+(b)	Wind left straightening left arm obliquely fore-downward, wand vertically in front right hand
+
+high,3-4,................................... 1	M.
+
+(c)	Reverse, 5-6................................ 1	M.
+
+(d)	Replace left foot and lower arms, 7-8....... 1	M.
+
+Repeat right, left and right................12	M.
+
+Total.......................................16	M.
+
+2.	(a)	Stride left sideward, raise arms foreupward,
+
+1-2......................................... 1	M.
+
+(b)	Wind left straightening left arm sideward,
+
+(right arm upward), 3-4..................... 1	M.
+
+(c)	Reverse, 5-6................................ 1	M.
+
+(d)	Replace left foot and lower arms, 7-8....... 1	M.
+
+Repeat right, left and right................12	M.
+
+Total.......................................16	M.
+
+3.	(a)	Stride left backward, raise arms foreupward,
+
+1-2......................................... 1	M.
+
+(b)	Wind left straightening left arm upward, 3-4.. 1	M.
+
+(c)	Reverse, 5-6................................ 1	M.
+
+(d)	Replace left foot and lower arms, 7-8....... 1	M.
+
+Repeat right, left and right................12	M.
+
+Total.......................................16	M.
+
+4.	(a)	Face left, stride left forward and raise arms
+
+obliquely foreupward, 1-2................... 1	M.
+
+(b)	Wind left straightening left arm backward and
+
+downward, right hand over right shoulder, 3-4. 1	M.
+
+(c)	Reverse, 5-6................................ 1	M.
+
+Digitized by t^ooQle
+251
+
+(d)	Face right, replace left foot and lower arms,
+
+7-8............................................ 1	M.
+
+Repeat right, left and right...................12	M.
+
+Total......................................16	M.
+
+GROUP II
+
+1.	(a)	Lunge left forward, raise arms forward, 1-2... 1 M.
+
+(b)	Change knee bending, wind left straightening
+
+left arm obliquely foredownward, wand vertically in front,	right	hand	high, 3-4....... 1	M.
+
+(c)	Reverse, 5-6............................... 1	M.
+
+(d)	Replace left foot and lower arms, 7-8.... .	1	M.
+
+Repeat right,	left	and	right..............12	M.
+
+Total........................................16	M.
+
+2.	(a)	Lunge left sideward, raise arms foreupward,
+
+1-2.......................................... 1	M.
+
+(b)	Change knee bending, wind left straightennig
+
+left arm sideward (right arm upward), 3-4.... 1	M.
+
+(c)	Reverse, 5-6................................. 1	M.
+
+(d)	Replace left foot and lower arms,	7-8........ 1	M.
+
+Repeat right, left and right.................12	M.
+
+Total.......................................16 M.
+
+3.	(a)	Lunge left backward, raise arms foreupward,
+
+1-2............................................ 1M.
+
+(b)	Change knee bending, wind left straightening
+
+left arm upward, 3-4........................ 1M.
+
+(c)	Reverse, 5-6................................ 1 M.
+
+(d)	Replace left foot and lower	arms, 7-8....... 1 M.
+
+Repeat right, left and right................12 M.
+
+Total.......................................16	M.
+
+4.	(a)	Face left, lunge left forward, raise arms obliquely foreupward, 1-2................................... 1	M.
+
+(b)	Change knee bending, wind left straightening
+
+left arm backward downward, right hand over right shoulder, 3-4......................... 1	M.
+
+(c)	Reverse, 5-6................................ 1	M.
+
+(d)	Replace left foot and	lower	arms, 7-8....... 1	M.
+
+Repeat right, left and	right................12	M.
+
+Total..........................................16	M.
+
+GROUP III
+
+1.	(a)	Lunge left forward, raise arms forward, 1-2.. 1 M.
+
+(b)	Change knee bending, lower trunk forward, wind left and straighten left arm obliquely fore-downward, wand vertical, right hand high, 3-4. 1 M.
+
+(c)	Reverse, 5-6................................... 1	M.
+
+Digitized by v^ooQLe
+262
+
+■ (d) Replace left foot and lower arms, 7-8..... 1	M.
+
+Repeat right, left and right...............12	M.
+
+Total.........................................16	M.
+
+• 2.	(a)	Lunge left sideward, raise arms foreward, 1-2. 1 M.
+
+(b)	Change knee bending, bend trunk left, wind
+
+left straightening left arm sideward (right arm upward), 3-4.................................. 1	M.
+
+(c)	Reverse, 5-6.................................. 1	M.
+
+(d)	Replace left	foot	and	lower arms, 7-8........ 1	M.
+
+Repeat right, left	and	right..................12	M.
+
+Total........................................16	M.
+
+3.	(a)	Lunge left backward, raise arms foreupward,
+
+1-2.......................................... 1	M.
+
+(b)	Change knee bending, bend trunk backward,
+
+wind left straightening left arm	upward, 3-4.. 1	M.
+
+(c)	Reverse, 5-6................................. 1	M.
+
+(d)	Replace left foot and lower arms,	7-8	1	M.
+
+Repeat right, left and right	12	M.
+
+Total..........................................16	M.
+
+4.	(a)	Face left, lunge left forward, raise arms obliquely foreupward, 1-2..................................... 1	M.
+
+(b)	Change knee bending turn trunk right, wind
+
+left straightening backward downward, right hand over right shoulder, 3-4.................. 1	M.
+
+(c)	Reverse, 5-6................................... 1	M.
+
+(d)	Face right, replace	left foot and lower arms, 7-8 1	M.
+
+Repeat right, left	and right.......12	M.
+
+Total..........................................16	M.
+
+ARCH-STRADDLE-BALL-RELAY.
+
+By H. W. KUMPF, Buffalo, N. Y.
+
+This game is a combination of passing the Medicine (or basket) Ball over head, rolling it between the legs of players while same straddle, the running or relay feature, and ball throwing and catching. RULES:
+
+1.	The teams consist of any number of players.
+
+2.	The players are lined up in back of each other, the first standing on the starting line holding ball.
+
+3.	Parallel to this starting line, another line is drawn on the opposite side: distance between lines, ffteen yards.
+
+4.	At the signal “go” the ball will be passed over head to the last player (arch ball). Every player must receive and pass the ball.
+
+5.	When last player receives the ball, he calls out “turn," all players turn about quickly and straddle while player holding
+
+Digitized by
+258
+
+; |			
+T			TK** tfW ‘  •
+1			•  •
+g			1  1
+1*4* % \  # Zt X &	*		<  &w* ‘
+f i i		nr*	TlNItHLute. »t5
+1 * i i 1 4  OlAdHAW	*  JL  X  *  -r	t  A  JL  u	0/44
+
+ball, immediately starts toj roll ball between players’ legs first thru his own legs (straddle ball).
+
+6.	The starter after receiving the ball again, runs back, on right side and around his own team (last player), then forward, and to opposite side on line opposite his team. During this time all the other team members face about again, and second player moves up to starting line.
+
+7.	The player will then throw ball across the field to the next man on his own team.
+
+8.	The player catching the ball will again start the game as-mentioned above, with the addition that he also runs around player on opposite side and to line before throwing the ball to third player. This second player now is standing in the line. This procedure is-repeated until all players are over on the other side.
+
+9.	The game then starts over again as described above. The last runner now standing first on opposite side and in front of his team starts the game by passing the ball over head, and the-game is then continued as before.
+
+10.	The game finishes after the last runner has completed his run around the team, lines up in front of his team and holds ball enter head.
+
+WAR-BALL
+
+JACOB E. LEUZINGER, Philadelphia.
+
+“War-ball" at this time has more than an ordinary interest to the boys in a gymnasium or playground. The game may be played by any number of players. It also can be played in large or small gymnasiums.
+
+The idea underlying the game is for the players of one side te hit with a ball a player on the other side. Soft indoor baseballs are wed, or balls made of paper; i. e., newspapers wrapped with
+
+Digitized by LaOOQle
+254
+
+twine. According to the number of players from 24 to 48 balls are needed. The game is in charge of a referee and two assistants who are stationed as per diagram. The time of the game is from fifteen to twenty minutes.
+
+The field is an oblong about 40 by 60 feet, with a line through -the center and two three-feet lines. Each side has from four to six movable trenches and one movable tank. The trenches are made of light wooden frames with canvass stretched over them. Gymnasium mats may also be used. The trenches should be from 24 to 30^ inches high and about five feet long. The tanks should be made in the form of a triangle, open at the rear end, large enough to shield one person. Each trench should accomodate from four to six players. Each side has a captain. The trenches and tanks may fly the colors of their teams.
+
+The players kneel, squat or lie behind the trench wall. Without exposing themselves too much they throw their balls at the enemy. A player hit by a thrown ball on any part of the body
+
+Digitized by LjOOQle
+256
+
+is disabled and must retire to the side line. The players may move their trench in any direction up to the three-foot line, but not over to the side lines. By order of the captain one player may go out in the tank to collect ammunition. He may go in the tank to the center line, also over the side lines. If he is hit he also must go to the side lines. The captain then must call to some other player to run from his trench to man the tank.
+
+At the end of the specified time the referee, by blowing a whistle, ends the game. The side having most players left in the trenches wins the game.
+
+Statement of the Ownership, Management, Etc., Required by the Act of Congress of August 24, 1912,
+
+of Mind and Body published monthly at New Ulm, Minn., for October, 1919. State of Minnesota,
+
+County of Brown, ss.
+
+Before me, a Notary Public in and for the State and county aforesaid, per-personally appeared Albert Steinhauser, who, having been duly affirmed to law, deposes and says that he is one of the owners of the Mind and Body, and that the following is, to the best of his knowledge and belief, a true statement of the ownership, management etc., of the aforesaid publication for the date shown in the above caption, required by the Act of August 24, 1912, embodied in section 443, Postal Laws and Regulation:
+
+1.	That the names and addresses of the publisher, editor, and business managers are:
+
+Publisher, Mind and Body Publishing Co., New Ulm, Minn.
+
+Editor, Wm. A. Stecher, 45 W. Johnson St., Phila. Pa.
+
+Managing Editor, Wm. A. Stecher, 45 W. Johnson St., Phila. Pa.
+
+Business Managers, Alb. Steinhauser, H. Payne Steinhauser, New Ulm, Minn.
+
+2.	That the owners are: Wm. A. Stecher, 45 W. Johnson St., Phila. Pa., Albert Steinhauser, New Ulm, Minn., H. Payne Steinhauser, New Ulm, Minn.
+
+3.	That the known bondholders, mortgages, and other security holders owning or holding 1 per cent or more of total amount of bonds, mortgages, or other securities are: None.
+
+4.	That the two paragraphs next above, giving the names of the owners, stockholders, and security holders, if any, contain not only the list of stockholders and security holders as they appear upon the books of the company but also, in cases where the stockholder or security holder appears upon the books of the company as trustee or in any other fiduciary relation, the name of the person or corporation for whom si ch trustee is acting, is given; also that the said two paragraphs contain statements embracing affiant’s full knowledge and belief as to the circu.r stances and conditions under which stockholders and security holders who do not appear upon the books of the company as trustees, hold stock and securities in a capacity other than that of a bona fide owner; and this affiant has no reason to believe that any other person, association, or corporation has any interest direct or indirect in the said stock, bonds, or other securities than as so stated by him.
+
+ALBERT STEINHAUSER,
+
+Affirmed and subscribed before me this 29th day of September, 1919.
+
+(Seal)	L.	B.	KROOK,
+
+(My commission expires March 7, 1923.)
+
+Digitized by kjOOQle
+Gymnasium Apparatus Playground Equipment Steel Lockers
+
+Years of intensive specializing in these particular lines have made MEDART products pre-eminent—the first choice of those who know—and who consider quality and permanence as well as price.
+
+Write For Catalog “L“
+
+It is a recognized guide on Gymnasium, Playground, Swimming Pool and Locker Room planning, equipment and operation. Sent on request to those who are interested. Write for it on your letterhead.
+
+Fred Medart Mfg. Co.
+
+3500 DeKalb St., St, Louis, Mo.
+
+Established
+
+1873
+
+THE CHICA60 NORMAL SCHOOL OF PHYSICAL EDUCATION
+
+FOR WOMEN ONLY	ESTABLISHED	1903
+
+FRANCES MUSSELMAN, Principal TWO YEAR NORMAL COURSE—REGISTRATION SEPTEMBER 25 and FEBRUARY S Accredited by State Department of Public Instruction. Theoretical and practical ttmining in all branches of physical education, preparing young women to become Directors of Physical Education in Public and Private Schools, Colleges and Universities, Young Womens’ Christian Associations and Playgrounds. A strong faculty of teachers with a national reputation. Hundreds of our graduates art holding responsible positions in the best institutions of the country. Exceptionally fine dormitory for non-resident students.
+
+SIX WEEKS SUMMER TERM for 1920 opens JUNE 28 SUMMER CAMP IN MICHIGAN For catalogs address Registrar, 430 S. Wabash Ave., Chicago.
+
+Physical Training Teachers and Supervisors
+
+We Can Place You In Better Positions
+
+The Rock; Mountain Mors Agency
+
+826 Empire Building Denver, Colo.
+
+WM. RUFFER, A. KL, Manager
+
+PACIFIC OFFICE;
+
+1812 Northwestern Bank Bldg. Portland, Oregon
+
+FRANK K. WELLES, Mgr.
