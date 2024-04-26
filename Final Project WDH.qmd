@@ -1,0 +1,586 @@
+---
+title: "Final Project - DRAFT CODES"
+author: "Will Hiott, 4.26.2024"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. 
+
+#Data Visualizations Libraries
+
+```{r message=FALSE, warning=FALSE}
+#library(gapminder) #this is a dataset
+library(ggplot2) 
+library(tidyverse)
+library(DigitalMethodsData)
+```
+#Gapminder not needed.
+```{r}
+#data(gapminder)
+```
+#Devtools not needed
+```{r}
+#devtools::install_github("regan008/DigitalMethodsData")
+```
+#DigitalMethodsData
+```{r}
+library(DigitalMethodsData)
+```
+#Libraries lubridate, dplyr
+```{r}
+library(tidyverse)
+library(lubridate)
+library(dplyr)
+```
+
+#Charleston Manumissions Data
+```{r}
+data("charlestonManumissions")
+```
+#Head CM
+```{r}
+head(charlestonManumissions)
+```
+#Tail CM
+```{r}
+tail(charlestonManumissions)
+```
+#Model code from Hadley Wicham's R for Data Science, 1st edition, p 158.
+
+```{r}
+tidy_charlestonManumissions <-
+charlestonManumissions %>%
+  separate(
+           Date,
+           into = c("Day", "Month", "Year"),
+           convert = TRUE
+           )
+```
+#Tidy Charleston Manumissions
+
+```{r}
+head(tidy_charlestonManumissions)
+```
+
+#Read csv from SCDAM Manumission Database
+  #In case needed is another form.
+```{r}
+read_csv("SCDAH_Manumission_Database.csv")
+```
+
+#Metadata from csv
+```{r}
+metadata <- read.csv("SCDAH_Manumission_Database.csv")
+```
+
+#Meta as data frame
+```{r}
+meta <- as.data.frame(metadata)
+```
+
+#Topic Modeling Libraries loaded
+```{r}
+library(tidytext)
+library(tidyverse)
+library(readtext)
+library(tm)
+library(topicmodels)
+```
+
+#cm_texts does not exist ?
+#ERROR
+```{r}
+#cm_texts <- readtext(paste("SCDAH_Manumission_Database/", "*.txt", sep=""))
+```
+
+#Loop to turn column of Notes...Quotes into individual text files
+```{r}
+for (i in  1:nrow(charlestonManumissions)) {
+  write.table(charlestonManumissions[i,"Notes...Quotes"], file = paste0(charlestonManumissions$Volume[i], ".", charlestonManumissions$Page[i],".txt"), row.names = FALSE, col.names = FALSE)
+}
+```
+
+#Head of Charleston Manumissions Notes & Quotes
+```{r}
+head(charlestonManumissions$"Notes...Quotes")
+```
+#CMDF
+```{r}
+cmdf <-(charlestonManumissions$"Notes...Quotes")
+head(cmdf)
+```
+#Problem Error
+#ERROR in pull(tbl, !!input) :
+```{r}
+tidy_cmdf <- charlestonManumissions %>%
+  unnest_tokens(word, text)
+
+tidy_cmdf
+```
+#Topic Models Library standalone
+```{r}
+library(topicmodels)
+
+data(charlestonManumissions)
+```
+#TM Library
+```{r}
+library(topicmodels)
+
+data(charlestonManumissions)
+```
+#Terms
+#ERROR
+```{r}
+terms <- Terms(charlestonManumissions)
+head(terms)
+```
+#LDA
+#ERROR
+```{r}
+# set a seed so that the output of the model is predictable
+cm_lda <- LDA("charlestonManumissions", k = 2, control = list(seed = 1234))
+cm_lda
+#> A LDA_VEM topic model with 2 topics.
+```
+#Tidy Filter
+```{r}
+#| eval: false
+
+tidy_charlestonManumissions %>% filter(Year == 1790)
+(print)
+```
+
+#List
+```{r}
+list(charlestonManumissions)
+```
+#Str CM
+
+```{r}
+str(charlestonManumissions)
+```
+#Head Motive
+```{r}
+head(charlestonManumissions$Motive)
+```
+
+#CM & Date
+```{r}
+charlestonManumissions$Date[1]
+```
+
+#ERRORS
+```{r}
+cm.motive <- function(motive) {
+  require(DigitalMethodsData)
+  data("charlestonManumissions")
+  for(i in 1:length(charlestonManumissions) +
+    if (charlestonManumissions$Motive[i] == motive) {
+      print(charlestonManumissions$Motive[i])
+    }
+}
+```
+#Text Analysis six libraries
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(tidytext) 
+library(readtext)
+library(widyr)
+library(SnowballC)
+```
+
+#Motive by Date
+```{r}
+#| eval: false
+charlestonManumissions %>% 
+  select(Motive, Date)
+```
+#Mulatto classification in CM
+
+```{r}
+#| eval: false
+charlestonManumissions %>% 
+  filter(Race == "Mulatto")
+```
+#Arrange Date
+```{r}
+#| eval: false
+
+charlestonManumissions %>%
+  arrange(Date)
+
+charlestonManumissions %>%
+  arrange(desc(Date))
+```
+#MyData
+```{r}
+mydata <- charlestonManumissions %>% 
+            select(Name, Race) %>%
+            group_by(Race)
+```
+
+#Summarize by Race
+  #Looks like useful data.
+```{r}
+charlestonManumissions %>% 
+    select(Name, Race) %>%
+    group_by(Race) %>%
+    summarize(count = n())
+```
+
+#Motives
+  #Looks like useful data.
+```{r}
+charlestonManumissions %>% 
+    select(Owner, Motive) %>%
+    group_by(Motive) %>%
+    summarize(count = n())
+```
+#GGplot
+```{r}
+p <- ggplot(data = charlestonManumissions)
+```
+
+#ggplot motive
+```{r}
+p <- ggplot(data = charlestonManumissions, mapping = aes(x = Owner, y=Motive))
+```
+#Print out
+  #Hard to see
+```{r}
+p + geom_point()
+```
+#GGplot
+```{r}
+p <- ggplot(data = charlestonManumissions, mapping = aes(x = Name, y= Owner))
+```
+#ggplot geom
+  #Hard to see.
+```{r}
+p + geom_point()
+```
+#GGplot dates
+  #Not useful
+```{r}
+ggplot(data = charlestonManumissions, mapping = aes(x = Name, y=Race, color=Date)) + geom_point() + labs(x = "Name", y ="Date", title = "Charleston Manumission") 
+```
+#ggplot
+#ERROR
+```{r}
+ggplot(data = charlestonManumissions, mapping = aes(x = Name, y=Race, color=year)) + geom_point() + geom_line() + labs(x="Data", y="Years", title=" Year") 
+```
+#Histogram did not run
+#ERROR
+```{r}
+ggplot(charlestonManumissions, aes(x = Race)) +
+  geom_histogram()
+```
+#Read scv
+```{r}
+CharlestonManumission.data <-read.csv ("https://raw.githubusercontent.com/regan008/DigitalMethodsData/main/raw/SCDAH_Manumission_Database.csv")
+```
+
+#ERRORS
+```{r}
+ggplot(CharlestonManumission.data, aes(x = Motive) +
+  geom_histogram()
+```
+#USA
+
+```{r}
+ggplot() + 
+  geom_map( data = usa, map = usa, aes(long, lat, map_id=region))
+```
+#Sample
+
+```{r}
+ggplot() + 
+  geom_map( data = usa, map = usa, aes(long, lat, map_id=region)) +
+  geom_point(data = gayguides, mapping = aes(x=lon, y=lat,)) +                      ggtitle("Gayguides - Map of the United States")
+```
+#Leaflet
+```{r}
+library(leaflet)
+my.map <- leaflet()
+my.map
+```
+#AddTiles
+```{r}
+my.map %>% addTiles()
+```
+#
+Hardin Sample
+```{r}
+my.map %>% addTiles() %>% addMarkers(lng=-82.836856, lat=34.678286, popup = "Hardin 004")
+```
+#ERROR in Leaflet
+```{r}
+my.map %>% addTiles() %>% addMarkers(lng=-32.782139, lat= -79.941111, popup = "Denmark Vesey")
+```
+#ERRORS
+
+```{r}
+cm_whole <- full_join(cm_meta, cm_text, by = c("filename" = "doc_id")) %.% as tibble()
+```
+
+#Libaries Maping and geocoder
+#ERRORS
+```{r}
+library(ggplot2) 
+library(tidyverse)
+library(DigitalMethodsData)
+library(ggmap)
+library(tidygeocoder)
+```
+
+#ERROR
+```{r}
+tidy_cm <- charlestonManumissions %>%
+  unnest_tokens(word, text) %>% 
+  filter(str_detect(word, "[a-z']$")) %>% 
+  anti_join(stop_words)
+```
+#ERROR
+```{r}
+tidy_cm_words <- charlestonManumissions %>% count(filename, word)
+```
+#ERROR
+```{r}
+cm.dtm <- cmmeta %>% 
+  count(filename, word) %>% 
+  cast_dtm(filename, word, n)
+```
+
+#ERROR lda
+```{r}
+cm_meta.lda <- LDA(cmmeta.dtm, k = 5, control = list(seed = 12345))
+cm.lda
+```
+
+#ERROR Topic
+```{r}
+cm.topics <- tidy(cm.lda, matrix = "beta")
+cm.topics
+```
+
+#ERROR
+```{r warning=FALSE}
+library(wordcloud)
+topic1 <- cmmeta %>% filter(topic == 2)
+wordcloud(topic1$term, topic1$beta, max.words = 100, random.order = FALSE,
+    rot.per = 0.3, colors = brewer.pal(6, "Dark2"))
+
+```
+#STOP words custom template
+```{r}
+stop_words_custom <- stop_words %>% add_row(word="America", lexicon="NA")
+```
+
+
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+#DigitalMethodsData
+```{r}
+library("DigitalMethodsData")
+
+```
+#Descriptions
+```{r}
+?"DigitalMethodsData"
+
+```
+#Help
+```{r}
+help(package="DigitalMethodsData")
+```
+
+```{r}
+data("charlestonManumissions")
+
+```
+
+```{r}
+head("charlestonManumissions")
+```
+
+```{r message=FALSE, warning=FALSE}
+library(ggplot2) 
+library(tidyverse)
+library(DigitalMethodsData)
+library(ggmap)
+library(tidygeocoder)
+```
+
+#Data CM
+```{r}
+data("charlestonManumissions")
+```
+
+#Print
+#Review
+```{r}
+data("charlestonManumissions")
+print()
+```
+
+```{r}
+tail(charlestonManumissions)
+```
+
+#Readtext and Snowball, etc.
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(tidytext) 
+library(readtext)
+library(widyr)
+library(SnowballC)
+```
+
+#Tidyverse
+```{r}
+library(tidyverse)
+library(tidytext) 
+```
+
+#Delete
+```{r}
+charlestonManumissions.tidy <- 
+  charlestonManumissions %>%
+  separate(Date, into = c("day", "month", "year"), sep = "")
+```
+
+#Samples from last week
+#ERRORS
+```{r}
+tidy_cm_metadata <- charlestonManumissions.tidy %>%
+  unnest_tokens(word, text) %>% 
+  filter(str_detect(word, "[a-z']$")) %>% 
+  anti_join(stop_words)
+
+tidy_cm_new_freq<- tidy_cm_new_freq %>% filter(!grepl('[0-9]', word))
+
+```
+#Count
+#ERROR
+```{r}
+CM.dtm <- tidy_cm_new_metadata.freq_words %>% 
+  count(doc_id, word) %>% 
+  cast_dtm(doc_id, word, n)
+```
+#LDA
+#ERROR
+```{r}
+cm.lda <- LDA(CM.dtm, k = 5, control = list(seed = 12345))
+cm.lda
+```
+#Matrix
+#ERROR
+```{r}
+cm.topics <- tidy(CM.lda, matrix = "beta")
+head(CM.topics)
+```
+#ERRORS
+```{r}
+cm.top.terms <- cm.topics %>%
+  arrange(desc(beta)) %>% 
+  group_by(topic) %>% slice(1:5)
+
+cm.top.terms %>%
+  mutate(term = reorder_within(term, beta, topic)) %>%
+  ggplot(aes(beta, term, fill = factor(topic))) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~ topic, scales = "free") +
+  scale_y_reordered()
+```
+#Wordcloud
+#ERRORS
+```{r warning=FALSE}
+library(wordcloud)
+topic1 <- CM.topics %>% filter(topic == 2)
+wordcloud(topic1$term, topic1$beta, max.words = 100, random.order = FALSE,
+    rot.per = 0.3, colors = brewer.pal(6, "Dark2"))
+```
+
+#Libraries tm
+```{r}
+library(tidytext)
+library(tidyverse)
+library(readtext)
+library(tm)
+library(topicmodels)
+
+```
+
+```{r}
+
+```
+#NOTES 
+
+Manumissions Database, Charleston District, South Carolina (1776-1800)
+
+dc.contributor.author	Marks, John	
+dc.coverage.latitude	32.7764749	
+dc.coverage.longitude	-79.93105120000001	
+dc.coverage.spatial	Charleston, South Carolina	
+dc.coverage.temporal	1802-01-01T00:00:00-0752:58	
+dc.coverage.temporal	1777-01-01T00:00:00-0752:58	
+dc.date	2023-05-17T20:17:00.000	
+dc.date.accessioned	2023-05-22T23:45:29Z	
+dc.date.available	2018-06-22T00:00:00Z	
+dc.date.issued	2018-06-01	
+dc.date.submitted	2018-06-22T04:22:02-07:00	
+dc.description.abstract	This database contains all of the manumissions filed in Charleston District from 1776-1800 contained in the Miscellaneous Records section of the South Carolina Department of Archives and History. After 1800, South Carolina changed its manumission laws (requiring court approval for manumission), causing the paperwork associated with them to be filed elsewhere (likely with the no longer extent records of the court of magistrates and freeholders. For more information, see John Garrison Marks, "Race and Freedom in the African Americas: Free People of Color and Social Mobility in Cartagena and Charleston," PhD Dissertation (2016, Rice University).	
+dc.description.comments	This database contains all of the manumissions filed in Charleston District from 1776-1800 contained in the Miscellaneous Records section of the South Carolina Department of Archives and History. After 1800, South Carolina changed its manumission laws (requiring court approval for manumission), causing the paperwork associated with them to be filed elsewhere (likely with the no longer extent records of the court of magistrates and freeholders. For more information, see John Garrison Marks, "Race and Freedom in the African Americas: Free People of Color and Social Mobility in Cartagena and Charleston," PhD Dissertation (2016, Rice University).	
+dc.distributor	Scholarly Commons, University of Pennsylvania Libraries	
+dc.format.mimetype	xslx	
+dc.identifier.uri	https://repository.upenn.edu/handle/20.500.14332/39773	
+dc.legacy.articleid	1032	
+dc.legacy.nativeurl	https://repository.upenn.edu/context/mead/article/1032/type/native/viewcontent	
+dc.relation	John Garrison Marks, "Race and Freedom in the African Americas: Free People of Color and Social Mobility in Cartagena and Charleston," PhD Dissertation (2016, Rice University).	
+dc.rights.uri	http://creativecommons.org/licenses/by/4.0/	
+dc.source	South Carolina Department of Archives and Resources, Miscellaneous Records (Series S213003)	
+dc.source.issue	34	
+dc.source.journal	The Magazine of Early American Datasets (MEAD)	
+dc.source.status	published	
+dc.subject.other	race	
+dc.subject.other	slavery	
+dc.subject.other	freedom	
+dc.subject.other	manumission	
+dc.subject.other	emancipation	
+dc.subject.other	south carolina	
+dc.subject.other	charleston	
+dc.subject.other	haitian revolution	
+dc.subject.other	African American Studies	
+dc.subject.other	American Studies	
+dc.subject.other	Ethnic Studies	
+dc.subject.other	History	
+dc.subject.other	Race, Ethnicity and Post-Colonial Studies	
+dc.title	Manumissions Database, Charleston District, South Carolina (1776-1800)	
+digcom.contributor.author	isAuthorOfPublication|email:johngmarks@gmail.com|institution:American Association for State and Local History|Marks, John	
+digcom.date.embargo	2018-06-22T00:00:00-07:00	
+digcom.identifier	mead/34	
+digcom.identifier.contextkey	12357724	
+digcom.identifier.submissionpath	mead/34	
+digcom.type	dataset	
+dspace.entity.type	Dataset	
+relation.isAuthorOfDataset	9a464e77-e79b-4013-b5ca-95514ab4863a	
+relation.isAuthorOfDataset.latestForDiscovery	9a464e77-e79b-4013-b5ca-95514ab4863a	
+upenn.schoolDepartmentCenter	The Magazine of Early American Datasets (MEAD)
+
